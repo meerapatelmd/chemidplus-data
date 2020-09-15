@@ -2941,3 +2941,24 @@ phrase_datetime,input,phrase,type,url,response_received,no_record,response_recor
 2020-09-15T23:49:05Z,Doxil,Doxil,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Doxil,TRUE,FALSE,TRUE,Doxylamine,469-21-6,https://chem.nlm.nih.gov/chemidplus/rn/469-21-6
 2020-09-15T23:49:05Z,Doxil,Doxil,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Doxil,TRUE,FALSE,TRUE,Doxorubicin,23214-92-8,https://chem.nlm.nih.gov/chemidplus/rn/23214-92-8
 2020-09-15T23:49:05Z,Doxil,Doxil,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Doxil,TRUE,FALSE,TRUE,Piridoxilate,24340-35-0,https://chem.nlm.nih.gov/chemidplus/rn/24340-35-0
+2020-09-15T23:49:11Z,Aloxi,Aloxi,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aloxi,TRUE,FALSE,TRUE,Levallorphan,152-02-3,https://chem.nlm.nih.gov/chemidplus/rn/152-02-3
+2020-09-15T23:49:11Z,Aloxi,Aloxi,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aloxi,TRUE,FALSE,TRUE,Allomethadione,526-35-2,https://chem.nlm.nih.gov/chemidplus/rn/526-35-2
+2020-09-15T23:49:11Z,Aloxi,Aloxi,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aloxi,TRUE,FALSE,TRUE,Salsalate,552-94-3,https://chem.nlm.nih.gov/chemidplus/rn/552-94-3
+2020-09-15T23:49:16Z,Chidamide,Chidamide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Chidamide,TRUE,FALSE,TRUE, Tucidinostat [USAN],1616493-44-7,https://chem.nlm.nih.gov/chemidplus/rn/1616493-44-7
+2020-09-15T23:49:22Z,JAK inhibitor,JAKinhibitor,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/JAKinhibitor,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-15T23:49:28Z,Ortrex,Ortrex,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ortrex,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-15T23:49:34Z,Thymoglobulin,Thymoglobulin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Thymoglobulin,TRUE,FALSE,TRUE, Antilymphocyte Serum,308067-60-9,https://chem.nlm.nih.gov/chemidplus/rn/308067-60-9
+2020-09-15T23:49:40Z,Cyclophosphamide,Cyclophosphamide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cyclophosphamide,TRUE,FALSE,TRUE,Cyclophosphamide,50-18-0,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15T23:49:40Z,Cyclophosphamide,Cyclophosphamide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cyclophosphamide,TRUE,FALSE,TRUE,Cyclophosphamide,6055-19-2,https://chem.nlm.nih.gov/chemidplus/rn/6055-19-2
+2020-09-15T23:49:40Z,Cyclophosphamide,Cyclophosphamide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cyclophosphamide,TRUE,FALSE,TRUE,Enpromate,10087-89-5,https://chem.nlm.nih.gov/chemidplus/rn/10087-89-5
+2020-09-15T23:49:40Z,Cyclophosphamide,Cyclophosphamide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cyclophosphamide,TRUE,FALSE,TRUE,Trofosfamide,22089-22-1,https://chem.nlm.nih.gov/chemidplus/rn/22089-22-1
+2020-09-15T23:49:45Z,Deltasone,Deltasone,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Deltasone,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15T23:49:52Z,Bonomax,Bonomax,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bonomax,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-15T23:49:57Z,Dekisachosei,Dekisachosei,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Dekisachosei,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-15T23:50:03Z,Bisultrim,Bisultrim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bisultrim,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-15T23:50:11Z,Cymerin,Cymerin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cymerin,TRUE,FALSE,TRUE, Ranimustine [INN:JAN],58994-96-0,https://chem.nlm.nih.gov/chemidplus/rn/58994-96-0
+2020-09-15T23:50:17Z,Daburex,Daburex,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Daburex,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-15T23:50:23Z,Coagulopathy medication,Coagulopathymedication,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Coagulopathymedication,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-15T23:50:29Z,Fedratinib,Fedratinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Fedratinib,TRUE,FALSE,TRUE,Fedratinib,936091-26-8,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-15T23:50:34Z,Zoltrim,Zoltrim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Zoltrim,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-15T23:50:41Z,Desason,Desason,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Desason,TRUE,TRUE,FALSE,"NA","NA","NA"

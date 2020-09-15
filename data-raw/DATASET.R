@@ -1,5 +1,5 @@
 library(broca)
-CLASSIFICATION <- broca::simply_read_csv('CLASSIFICATION.csv')
-PHRASE_LOG <- broca::simply_read_csv('PHRASE_LOG.csv')
-SYNONYMS <- broca::simply_read_csv('SYNONYMS.csv')
+CLASSIFICATION <- broca::simply_read_csv('data-row/CLASSIFICATION.csv')
+PHRASE_LOG <- broca::simply_read_csv('data-row/PHRASE_LOG.csv')
+SYNONYMS <- broca::simply_read_csv('data-row/SYNONYMS.csv')
 usethis::use_data(CLASSIFICATION,PHRASE_LOG,SYNONYMS, overwrite = TRUE)
