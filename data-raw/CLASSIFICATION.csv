@@ -1,0 +1,842 @@
+scrape_datetime,concept_classification,rn_url
+2020-09-15 18:26:58,Anticoagulant,https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-15 18:26:58,Anticoagulants,https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-15 18:26:58,Antithrombotic,https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-15 18:26:58,Cardiovascular Agents,https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-15 18:26:58,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-15 18:26:58,Fibrin Modulating Agents,https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-15 18:26:58,Fibrinolytic Agents,https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-15 18:26:58,Hematologic Agents,https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-15 18:26:58,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-15 18:26:58,Treatment of Inflammatory Bowel Disease,https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-15 18:26:58,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-15 18:27:04,Antimetabolites,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,"Antimetabolites, Antineoplastic",https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Immunologic Factors,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Immunosuppressive Agents,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Noxae,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Skin / Eye Irritant,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Overall Carcinogenic Evaluation: Group 3,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:04,Threshold Planning Quantity (TPQ) = 500/10000 lb,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-15 18:27:10,Anti-Bacterial Agents,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-15 18:27:10,Anti-Infective Agents,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-15 18:27:10,"Anti-Infective Agents, Urinary",https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-15 18:27:10,Antimalarials,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-15 18:27:10,Antiparasitic Agents,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-15 18:27:10,Antiprotozoal Agents,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-15 18:27:10,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-15 18:27:10,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-15 18:27:10,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-15 18:27:10,Renal Agents,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-15 18:27:28,Agricultural Chemical,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Alkylating Agents,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,"Antineoplastic Agents, Alkylating",https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Antirheumatic Agents,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Experimental Pesticide,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Immunologic Factors,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Immunosuppressive Agents,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Mutagens,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Myeloablative Agonists,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Noxae,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Unspecified / Unclassified Pesticide,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Known to be a Carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Overall Carcinogenic Evaluation: Group 1,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:28,Reportable Quantity (RQ) = 10 lb,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-15 18:27:34,Anti-Allergic Agents,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Antiemetics,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Autonomic Agents,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Central Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Gastrointestinal Agents,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Histamine Agents,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Histamine Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Histamine H1 Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Neurotransmitter Agents,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Peripheral Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:34,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/569-65-3
+2020-09-15 18:27:40,Adrenal Cortex Hormones,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Anti-Inflammatory Agents,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,"Antineoplastic Agents, Hormonal",https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Glucocorticoid,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Glucocorticoids,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Hormones,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,"Hormones, Hormone Substitutes, and Hormone Antagonists",https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:40,Overall Carcinogenic Evaluation: Group 3,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-15 18:27:46,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:46,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:46,DNA Topoisomerase II Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:46,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:46,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:46,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:46,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:46,Nucleic Acid Synthesis Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:46,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:46,Topoisomerase II Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:46,Topoisomerase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:46,Overall Carcinogenic Evaluation: Group 2A,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-15 18:27:52,Anti-Neoplastic,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5
+2020-09-15 18:27:52,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5
+2020-09-15 18:27:52,"Antineoplastic Agents, Immunological",https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5
+2020-09-15 18:27:52,HER-2-Targeting Antibody,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5
+2020-09-15 18:27:52,Monoclonal Antibody,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5
+2020-09-15 18:27:59,Abortifacient Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,"Abortifacient Agents, Nonsteroidal",https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Agricultural Chemical,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Antimetabolites,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,"Antimetabolites, Antineoplastic",https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Antirheumatic Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Dermatologic Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Folic Acid Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Immunologic Factors,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Immunosuppressive Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Insecticide,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Noxae,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Nucleic Acid Synthesis Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Reproductive Control Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Skin / Eye Irritant,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:27:59,Overall Carcinogenic Evaluation: Group 3,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-15 18:28:19,Antimetabolites,https://chem.nlm.nih.gov/chemidplus/rn/10212-25-6
+2020-09-15 18:28:19,"Antimetabolites, Antineoplastic",https://chem.nlm.nih.gov/chemidplus/rn/10212-25-6
+2020-09-15 18:28:19,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/10212-25-6
+2020-09-15 18:28:19,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/10212-25-6
+2020-09-15 18:28:19,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/10212-25-6
+2020-09-15 18:28:19,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/10212-25-6
+2020-09-15 18:28:19,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/10212-25-6
+2020-09-15 18:28:33,Antineoplastic (Monoclonal Antibody),https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0
+2020-09-15 18:28:33,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0
+2020-09-15 18:28:33,"Antineoplastic Agents, Immunological",https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0
+2020-09-15 18:28:33,Antirheumatic Agents,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0
+2020-09-15 18:28:40,Agricultural Chemical,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Insecticide,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Out-Dated Pesticide,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Rodenticide,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Treatment of Acute Promyelocytic Leukemia,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,"2007 CERCLA Priority List, Rank: 224",https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,"2011 CERCLA Priority List, Rank: 224",https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Known to be a Carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Reportable Quantity (RQ) = 1 lb,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:40,Threshold Planning Quantity (TPQ) = 100/10000 lb,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-15 18:28:46,Anti-Emetic,https://chem.nlm.nih.gov/chemidplus/rn/58-33-3
+2020-09-15 18:28:46,Antihistaminic,https://chem.nlm.nih.gov/chemidplus/rn/58-33-3
+2020-09-15 18:28:46,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/58-33-3
+2020-09-15 18:28:46,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/58-33-3
+2020-09-15 18:28:46,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/58-33-3
+2020-09-15 18:28:46,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/58-33-3
+2020-09-15 18:28:53,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/82-93-9
+2020-09-15 18:28:53,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/82-93-9
+2020-09-15 18:28:53,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/82-93-9
+2020-09-15 18:29:16,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/579-56-6
+2020-09-15 18:29:16,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/579-56-6
+2020-09-15 18:29:16,Vasodilator,https://chem.nlm.nih.gov/chemidplus/rn/579-56-6
+2020-09-15 18:29:33,Anticonvulsant,https://chem.nlm.nih.gov/chemidplus/rn/76584-70-8
+2020-09-15 18:29:39,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
+2020-09-15 18:29:39,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
+2020-09-15 18:29:39,Growth Substances,https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
+2020-09-15 18:29:39,Micronutrients,https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
+2020-09-15 18:29:39,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
+2020-09-15 18:29:39,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
+2020-09-15 18:29:39,Vitamin (Hematopoietic),https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
+2020-09-15 18:29:39,Vitamin B Complex,https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
+2020-09-15 18:29:39,Vitamins,https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
+2020-09-15 18:29:45,Antineoplastic (Src Kinase Inhibitor),https://chem.nlm.nih.gov/chemidplus/rn/380843-75-4
+2020-09-15 18:29:45,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/380843-75-4
+2020-09-15 18:29:51,Analgesic,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Analgesic (Central Nervous System Depressant),https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Analgesics,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,"Analgesics, Non-Narcotic",https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Antipsychotic Agents,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Central Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Central Nervous System Depressants,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Dopamine Agents,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Dopamine Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Neurotransmitter Agents,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Peripheral Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Psychotropic Drugs,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Sensory System Agents,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:51,Tranquilizing Agents,https://chem.nlm.nih.gov/chemidplus/rn/60-99-1
+2020-09-15 18:29:56,Buffers,https://chem.nlm.nih.gov/chemidplus/rn/77-86-1
+2020-09-15 18:29:56,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/77-86-1
+2020-09-15 18:29:56,Excipients,https://chem.nlm.nih.gov/chemidplus/rn/77-86-1
+2020-09-15 18:29:56,Pharmaceutic Aids,https://chem.nlm.nih.gov/chemidplus/rn/77-86-1
+2020-09-15 18:29:56,Pharmaceutical Vehicles,https://chem.nlm.nih.gov/chemidplus/rn/77-86-1
+2020-09-15 18:30:10,Dermatologic Agents,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-15 18:30:10,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-15 18:30:10,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-15 18:30:10,Keratolytic,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-15 18:30:10,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-15 18:30:10,Noxae,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-15 18:30:10,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-15 18:30:10,Teratogens,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-15 18:30:28,Antiemetics,https://chem.nlm.nih.gov/chemidplus/rn/172673-20-0
+2020-09-15 18:30:28,Autonomic Agents,https://chem.nlm.nih.gov/chemidplus/rn/172673-20-0
+2020-09-15 18:30:28,Central Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/172673-20-0
+2020-09-15 18:30:28,Gastrointestinal Agents,https://chem.nlm.nih.gov/chemidplus/rn/172673-20-0
+2020-09-15 18:30:28,Neurokinin-1 Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/172673-20-0
+2020-09-15 18:30:28,Neurokinin-1 Receptor Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/172673-20-0
+2020-09-15 18:30:28,Neurotransmitter Agents,https://chem.nlm.nih.gov/chemidplus/rn/172673-20-0
+2020-09-15 18:30:28,Peripheral Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/172673-20-0
+2020-09-15 18:30:40,Alkylating Agents,https://chem.nlm.nih.gov/chemidplus/rn/299-75-2
+2020-09-15 18:30:40,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/299-75-2
+2020-09-15 18:30:40,"Antineoplastic Agents, Alkylating",https://chem.nlm.nih.gov/chemidplus/rn/299-75-2
+2020-09-15 18:30:40,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/299-75-2
+2020-09-15 18:30:40,Noxae,https://chem.nlm.nih.gov/chemidplus/rn/299-75-2
+2020-09-15 18:30:40,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/299-75-2
+2020-09-15 18:30:40,Overall Carcinogenic Evaluation: Group 1,https://chem.nlm.nih.gov/chemidplus/rn/299-75-2
+2020-09-15 18:30:46,Anti-Bacterial Agents,https://chem.nlm.nih.gov/chemidplus/rn/1404-88-2
+2020-09-15 18:30:46,Anti-Infective Agents,https://chem.nlm.nih.gov/chemidplus/rn/1404-88-2
+2020-09-15 18:30:46,"Anti-Infective Agents, Local",https://chem.nlm.nih.gov/chemidplus/rn/1404-88-2
+2020-09-15 18:30:46,Antibacterial,https://chem.nlm.nih.gov/chemidplus/rn/1404-88-2
+2020-09-15 18:30:46,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/1404-88-2
+2020-09-15 18:30:46,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/1404-88-2
+2020-09-15 18:30:54,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/1207456-01-6
+2020-09-15 18:30:54,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/1207456-01-6
+2020-09-15 18:30:54,Poly(ADP-ribose) Polymerase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/1207456-01-6
+2020-09-15 18:31:07,Antimetabolites,https://chem.nlm.nih.gov/chemidplus/rn/137281-23-3
+2020-09-15 18:31:07,"Antimetabolites, Antineoplastic",https://chem.nlm.nih.gov/chemidplus/rn/137281-23-3
+2020-09-15 18:31:07,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/137281-23-3
+2020-09-15 18:31:07,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/137281-23-3
+2020-09-15 18:31:07,Folic Acid Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/137281-23-3
+2020-09-15 18:31:07,Noxae,https://chem.nlm.nih.gov/chemidplus/rn/137281-23-3
+2020-09-15 18:31:07,Nucleic Acid Synthesis Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/137281-23-3
+2020-09-15 18:31:20,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:20,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:20,Antisickling Agents,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:20,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:20,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:20,Hematologic Agents,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:20,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:20,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:20,Nucleic Acid Synthesis Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:20,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:20,Skin / Eye Irritant,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:20,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-15 18:31:27,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/857036-77-2
+2020-09-15 18:31:27,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/857036-77-2
+2020-09-15 18:31:27,Protein Kinase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/857036-77-2
+2020-09-15 18:31:27,Treatment of Cancer,https://chem.nlm.nih.gov/chemidplus/rn/857036-77-2
+2020-09-15 18:31:33,Anti-Asthmatic Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Autonomic Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Bronchodilator Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Cardiovascular Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Neurotransmitter Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Peripheral Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Phosphodiesterase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Purinergic Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Purinergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Purinergic P1 Receptor Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Respiratory System Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Vasodilator Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:33,Overall Carcinogenic Evaluation: Group 3,https://chem.nlm.nih.gov/chemidplus/rn/58-55-9
+2020-09-15 18:31:40,14-alpha Demethylase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Anti-Infective Agents,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Antifungal,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Antifungal Agents,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Cytochrome P-450 CYP3A Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Cytochrome P-450 Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Hormone Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,"Hormones, Hormone Substitutes, and Hormone Antagonists",https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Metabolic Side Effects of Drugs and Substances,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:40,Steroid Synthesis Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
+2020-09-15 18:31:47,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/906805-06-9
+2020-09-15 18:31:47,"Antineoplastic Agents, Immunological",https://chem.nlm.nih.gov/chemidplus/rn/906805-06-9
+2020-09-15 18:31:47,Treatment of Cancer,https://chem.nlm.nih.gov/chemidplus/rn/906805-06-9
+2020-09-15 18:31:53,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,"Antineoplastic Agents, Phytogenic",https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,DNA Topoisomerase II Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,Topoisomerase II Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,Topoisomerase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:31:53,Overall Carcinogenic Evaluation: 2A,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-15 18:32:00,Antihypertensive Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:00,Cardiovascular Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:00,Diuretic,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:00,Diuretics,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:00,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:00,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:00,Membrane Transport Modulators,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:00,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:00,Natriuretic Agents,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:00,Sodium Chloride Symporter Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:00,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:00,Overall Carcinogenic Evaluation: Group 3,https://chem.nlm.nih.gov/chemidplus/rn/58-93-5
+2020-09-15 18:32:06,Anticonvulsants,https://chem.nlm.nih.gov/chemidplus/rn/59-66-5
+2020-09-15 18:32:06,Carbonic Anhydrase Inhibitor,https://chem.nlm.nih.gov/chemidplus/rn/59-66-5
+2020-09-15 18:32:06,Carbonic Anhydrase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/59-66-5
+2020-09-15 18:32:06,Central Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-66-5
+2020-09-15 18:32:06,Diuretics,https://chem.nlm.nih.gov/chemidplus/rn/59-66-5
+2020-09-15 18:32:06,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/59-66-5
+2020-09-15 18:32:06,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/59-66-5
+2020-09-15 18:32:06,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/59-66-5
+2020-09-15 18:32:06,Natriuretic Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-66-5
+2020-09-15 18:32:06,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/59-66-5
+2020-09-15 18:32:12,Antihypertensive,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
+2020-09-15 18:32:12,Antihypertensive Agents,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
+2020-09-15 18:32:12,Cardiovascular Agents,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
+2020-09-15 18:32:12,Diuretic,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
+2020-09-15 18:32:12,Diuretics,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
+2020-09-15 18:32:12,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
+2020-09-15 18:32:12,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
+2020-09-15 18:32:12,Membrane Transport Modulators,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
+2020-09-15 18:32:12,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
+2020-09-15 18:32:12,Natriuretic Agents,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
+2020-09-15 18:32:12,Sodium Chloride Symporter Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
+2020-09-15 18:32:18,Replenisher (Electrolyte),https://chem.nlm.nih.gov/chemidplus/rn/127-08-2
+2020-09-15 18:32:23,Carbonic Anhydrase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/452-35-7
+2020-09-15 18:32:23,Diuretics,https://chem.nlm.nih.gov/chemidplus/rn/452-35-7
+2020-09-15 18:32:23,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/452-35-7
+2020-09-15 18:32:23,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/452-35-7
+2020-09-15 18:32:23,Natriuretic Agents,https://chem.nlm.nih.gov/chemidplus/rn/452-35-7
+2020-09-15 18:32:23,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/452-35-7
+2020-09-15 18:32:37,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/56-85-9
+2020-09-15 18:32:37,Dietary Supplement,https://chem.nlm.nih.gov/chemidplus/rn/56-85-9
+2020-09-15 18:32:37,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/56-85-9
+2020-09-15 18:32:37,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/56-85-9
+2020-09-15 18:32:37,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/56-85-9
+2020-09-15 18:32:44,Anticarcinogenic Agents,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
+2020-09-15 18:32:44,Antidiabetic,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
+2020-09-15 18:32:44,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
+2020-09-15 18:32:44,Antineoplastic used in the Treatment of Cutaneous T-Cell Lymphoma,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
+2020-09-15 18:32:44,Protective Agents,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
+2020-09-15 18:32:51,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0
+2020-09-15 18:32:51,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0
+2020-09-15 18:32:51,Histone Deacetylase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0
+2020-09-15 18:32:51,Treatment of Cancer,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0
+2020-09-15 18:33:14,Antihistaminic,https://chem.nlm.nih.gov/chemidplus/rn/113-92-8
+2020-09-15 18:33:14,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/113-92-8
+2020-09-15 18:33:14,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/113-92-8
+2020-09-15 18:33:14,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/113-92-8
+2020-09-15 18:33:14,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/113-92-8
+2020-09-15 18:33:22,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/1092939-17-7
+2020-09-15 18:33:22,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/1092939-17-7
+2020-09-15 18:33:22,Treatment of Cancer,https://chem.nlm.nih.gov/chemidplus/rn/1092939-17-7
+2020-09-15 18:33:35,Agricultural Chemical,https://chem.nlm.nih.gov/chemidplus/rn/10004-44-1
+2020-09-15 18:33:35,"Fungicide, Bactericide, Wood Preservative",https://chem.nlm.nih.gov/chemidplus/rn/10004-44-1
+2020-09-15 18:33:35,Growth Regulator / Fertilizer,https://chem.nlm.nih.gov/chemidplus/rn/10004-44-1
+2020-09-15 18:33:35,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/10004-44-1
+2020-09-15 18:33:49,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/1187560-31-1
+2020-09-15 18:33:49,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/1187560-31-1
+2020-09-15 18:33:56,Antipsychotic,https://chem.nlm.nih.gov/chemidplus/rn/27833-64-3
+2020-09-15 18:33:56,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/27833-64-3
+2020-09-15 18:33:56,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/27833-64-3
+2020-09-15 18:34:03,Antisecretory (Gastric),https://chem.nlm.nih.gov/chemidplus/rn/79517-01-4
+2020-09-15 18:34:03,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/79517-01-4
+2020-09-15 18:34:03,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/79517-01-4
+2020-09-15 18:34:09,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/83150-76-9
+2020-09-15 18:34:09,"Antineoplastic Agents, Hormonal",https://chem.nlm.nih.gov/chemidplus/rn/83150-76-9
+2020-09-15 18:34:09,Antisecretory (Gastric),https://chem.nlm.nih.gov/chemidplus/rn/83150-76-9
+2020-09-15 18:34:09,Gastrointestinal Agents,https://chem.nlm.nih.gov/chemidplus/rn/83150-76-9
+2020-09-15 18:34:27,Anti-Allergic Agents,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:27,Antipruritics,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:27,Dermatologic Agents,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:27,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:27,Histamine Agents,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:27,Histamine Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:27,Histamine H1 Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:27,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:27,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:27,Neurotransmitter Agents,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:27,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:27,Skin / Eye Irritant,https://chem.nlm.nih.gov/chemidplus/rn/60-87-7
+2020-09-15 18:34:39,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/19774-82-4
+2020-09-15 18:34:39,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/19774-82-4
+2020-09-15 18:34:39,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/19774-82-4
+2020-09-15 18:34:47,Anti-Adrenergic (alpha-Receptor),https://chem.nlm.nih.gov/chemidplus/rn/32780-64-6
+2020-09-15 18:34:47,Anti-Adrenergic (beta-Receptor),https://chem.nlm.nih.gov/chemidplus/rn/32780-64-6
+2020-09-15 18:34:47,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/32780-64-6
+2020-09-15 18:34:47,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/32780-64-6
+2020-09-15 18:34:47,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/32780-64-6
+2020-09-15 18:34:53,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-15 18:34:53,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-15 18:34:53,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-15 18:34:53,Protein Kinase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/1195765-45-7
+2020-09-15 18:35:07,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,Diuretic,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,Diuretics,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,"Diuretics, Potassium Sparing",https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,Hormone Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,"Hormones, Hormone Substitutes, and Hormone Antagonists",https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,Laxative,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,Mineralocorticoid Receptor Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,Natriuretic Agents,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:07,Overall Carcinogenic Evaluation: Group 3,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-15 18:35:14,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/70476-82-3
+2020-09-15 18:35:14,DNA Topoisomerase II Inhibitor,https://chem.nlm.nih.gov/chemidplus/rn/70476-82-3
+2020-09-15 18:35:14,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/70476-82-3
+2020-09-15 18:35:14,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/70476-82-3
+2020-09-15 18:35:14,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/70476-82-3
+2020-09-15 18:35:20,Adrenal Cortex Hormones,https://chem.nlm.nih.gov/chemidplus/rn/1524-88-5
+2020-09-15 18:35:20,Anti-Inflammatory Agents,https://chem.nlm.nih.gov/chemidplus/rn/1524-88-5
+2020-09-15 18:35:20,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/1524-88-5
+2020-09-15 18:35:20,Glucocorticoid,https://chem.nlm.nih.gov/chemidplus/rn/1524-88-5
+2020-09-15 18:35:20,Glucocorticoids,https://chem.nlm.nih.gov/chemidplus/rn/1524-88-5
+2020-09-15 18:35:20,Hormone,https://chem.nlm.nih.gov/chemidplus/rn/1524-88-5
+2020-09-15 18:35:20,Hormones,https://chem.nlm.nih.gov/chemidplus/rn/1524-88-5
+2020-09-15 18:35:20,"Hormones, Hormone Substitutes, and Hormone Antagonists",https://chem.nlm.nih.gov/chemidplus/rn/1524-88-5
+2020-09-15 18:35:20,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/1524-88-5
+2020-09-15 18:35:26,Adrenergic Agents,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8
+2020-09-15 18:35:26,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8
+2020-09-15 18:35:26,Adrenergic beta-Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8
+2020-09-15 18:35:26,Anti-Arrhythmia Agents,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8
+2020-09-15 18:35:26,Antihypertensive Agents,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8
+2020-09-15 18:35:26,Cardiovascular Agents,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8
+2020-09-15 18:35:26,Neurotransmitter Agents,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8
+2020-09-15 18:35:33,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6
+2020-09-15 18:35:33,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6
+2020-09-15 18:35:33,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6
+2020-09-15 18:35:33,Protein Kinase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6
+2020-09-15 18:35:33,Radiation-Sensitizing Agents,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6
+2020-09-15 18:35:38,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7
+2020-09-15 18:35:38,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7
+2020-09-15 18:35:46,Antagonist,https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:46,Antagonist (to Histamine H2 Receptors),https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:46,Anti-Ulcer Agents,https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:46,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:46,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:46,Gastrointestinal Agents,https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:46,Histamine Agents,https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:46,Histamine Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:46,Histamine H2 Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:46,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:46,Neurotransmitter Agents,https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:46,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/76824-35-6
+2020-09-15 18:35:54,Androgen Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/2098-66-0
+2020-09-15 18:35:54,Hormone,https://chem.nlm.nih.gov/chemidplus/rn/2098-66-0
+2020-09-15 18:35:54,Hormone Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/2098-66-0
+2020-09-15 18:35:54,"Hormones, Hormone Substitutes, and Hormone Antagonists",https://chem.nlm.nih.gov/chemidplus/rn/2098-66-0
+2020-09-15 18:35:54,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/2098-66-0
+2020-09-15 18:36:06,Central Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0
+2020-09-15 18:36:06,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0
+2020-09-15 18:36:06,GABA Agents,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0
+2020-09-15 18:36:06,GABA Agonists,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0
+2020-09-15 18:36:06,GABA-B Receptor Agonists,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0
+2020-09-15 18:36:06,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0
+2020-09-15 18:36:06,"Muscle Relaxants, Central",https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0
+2020-09-15 18:36:06,Neuromuscular Agents,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0
+2020-09-15 18:36:06,Neurotransmitter Agents,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0
+2020-09-15 18:36:06,Peripheral Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0
+2020-09-15 18:36:06,Relaxant (Muscle),https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0
+2020-09-15 18:36:19,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/214766-78-6
+2020-09-15 18:36:19,GnRH Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/214766-78-6
+2020-09-15 18:36:19,Gonadotropin-Releasing Hormone Antagonist,https://chem.nlm.nih.gov/chemidplus/rn/214766-78-6
+2020-09-15 18:36:19,Peptides,https://chem.nlm.nih.gov/chemidplus/rn/214766-78-6
+2020-09-15 18:36:19,Treatment of Prostate Cancer,https://chem.nlm.nih.gov/chemidplus/rn/214766-78-6
+2020-09-15 18:36:27,Anticoagulants,https://chem.nlm.nih.gov/chemidplus/rn/143653-53-6
+2020-09-15 18:36:27,Hematologic Agents,https://chem.nlm.nih.gov/chemidplus/rn/143653-53-6
+2020-09-15 18:36:27,Monoclonal Antibody (Antithrombotic),https://chem.nlm.nih.gov/chemidplus/rn/143653-53-6
+2020-09-15 18:36:27,Platelet Aggregation Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/143653-53-6
+2020-09-15 18:36:40,Contraceptive Agents,https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:40,"Contraceptive Agents, Female",https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:40,"Contraceptives, Oral",https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:40,"Contraceptives, Oral, Synthetic",https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:40,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:40,Hormone,https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:40,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:40,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:40,Progestin,https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:40,Reproductive Control Agents,https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:40,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:40,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
+2020-09-15 18:36:52,Androgen Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,Contraceptive Agents,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,"Contraceptive Agents, Female",https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,"Contraceptives, Oral",https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,"Contraceptives, Oral, Synthetic",https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,Hormone,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,Hormone Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,"Hormones, Hormone Substitutes, and Hormone Antagonists",https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,Progestin,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,Reproductive Control Agents,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:52,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
+2020-09-15 18:36:58,Hormone,https://chem.nlm.nih.gov/chemidplus/rn/434-03-7
+2020-09-15 18:36:58,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/434-03-7
+2020-09-15 18:36:58,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/434-03-7
+2020-09-15 18:37:04,Adrenocortical Steroid (Salt-Regulating),https://chem.nlm.nih.gov/chemidplus/rn/56-47-3
+2020-09-15 18:37:04,Hormones,https://chem.nlm.nih.gov/chemidplus/rn/56-47-3
+2020-09-15 18:37:04,"Hormones, Hormone Substitutes, and Hormone Antagonists",https://chem.nlm.nih.gov/chemidplus/rn/56-47-3
+2020-09-15 18:37:04,Mineralocorticoids,https://chem.nlm.nih.gov/chemidplus/rn/56-47-3
+2020-09-15 18:37:04,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/56-47-3
+2020-09-15 18:37:04,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/56-47-3
+2020-09-15 18:37:16,Anti-Bacterial Agents,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3
+2020-09-15 18:37:16,Anti-Infective Agents,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3
+2020-09-15 18:37:16,Antibacterial,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3
+2020-09-15 18:37:16,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3
+2020-09-15 18:37:16,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3
+2020-09-15 18:37:16,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3
+2020-09-15 18:37:16,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3
+2020-09-15 18:37:22,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/154-41-6
+2020-09-15 18:37:22,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/154-41-6
+2020-09-15 18:37:22,Pharmaceutic Aid (Tablet and Capsule Diluent),https://chem.nlm.nih.gov/chemidplus/rn/154-41-6
+2020-09-15 18:37:22,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/154-41-6
+2020-09-15 18:37:27,Bronchodilator,https://chem.nlm.nih.gov/chemidplus/rn/7460-12-0
+2020-09-15 18:37:27,Bronchodilator Agents,https://chem.nlm.nih.gov/chemidplus/rn/7460-12-0
+2020-09-15 18:37:27,Decongestant,https://chem.nlm.nih.gov/chemidplus/rn/7460-12-0
+2020-09-15 18:37:27,Nasal Decongestants,https://chem.nlm.nih.gov/chemidplus/rn/7460-12-0
+2020-09-15 18:37:35,Alkylating Agents,https://chem.nlm.nih.gov/chemidplus/rn/31645-39-3
+2020-09-15 18:37:35,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/31645-39-3
+2020-09-15 18:37:35,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/31645-39-3
+2020-09-15 18:37:35,"Antineoplastic Agents, Alkylating",https://chem.nlm.nih.gov/chemidplus/rn/31645-39-3
+2020-09-15 18:37:35,Noxae,https://chem.nlm.nih.gov/chemidplus/rn/31645-39-3
+2020-09-15 18:37:43,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/65807-02-5
+2020-09-15 18:37:43,"Antineoplastic Agents, Hormonal",https://chem.nlm.nih.gov/chemidplus/rn/65807-02-5
+2020-09-15 18:37:43,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/65807-02-5
+2020-09-15 18:37:43,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/65807-02-5
+2020-09-15 18:37:43,LHRH Agonist,https://chem.nlm.nih.gov/chemidplus/rn/65807-02-5
+2020-09-15 18:37:43,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/65807-02-5
+2020-09-15 18:37:58,Antimitotic Agents,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
+2020-09-15 18:37:58,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
+2020-09-15 18:37:58,"Antineoplastic Agents, Phytogenic",https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
+2020-09-15 18:37:58,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
+2020-09-15 18:37:58,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
+2020-09-15 18:37:58,Mitosis Modulators,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
+2020-09-15 18:37:58,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
+2020-09-15 18:37:58,Natural Product,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
+2020-09-15 18:37:58,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
+2020-09-15 18:37:58,Tubulin Modulators,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
+2020-09-15 18:37:58,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
+2020-09-15 18:38:40,Acaricide,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Acetaldehyde Dehydrogenase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Agricultural Chemical,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Alcohol Deterrent,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Alcohol Deterrents,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Central Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,"Fungicide, Bactericide, Wood Preservative",https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Immunomodulator,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Skin / Eye Irritant,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,Overall Carcinogenic Evaluation: Group 3,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:40,TWA 2 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-15 18:38:53,Anticholinergic,https://chem.nlm.nih.gov/chemidplus/rn/67-92-5
+2020-09-15 18:38:53,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/67-92-5
+2020-09-15 18:38:53,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/67-92-5
+2020-09-15 18:39:00,Immunomodulator (Monoclonal Antibody),https://chem.nlm.nih.gov/chemidplus/rn/196078-29-2
+2020-09-15 18:39:19,Androgen Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/90357-06-5
+2020-09-15 18:39:19,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/90357-06-5
+2020-09-15 18:39:19,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/90357-06-5
+2020-09-15 18:39:19,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/90357-06-5
+2020-09-15 18:39:19,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/90357-06-5
+2020-09-15 18:39:19,Hormone Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/90357-06-5
+2020-09-15 18:39:19,"Hormones, Hormone Substitutes, and Hormone Antagonists",https://chem.nlm.nih.gov/chemidplus/rn/90357-06-5
+2020-09-15 18:39:19,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/90357-06-5
+2020-09-15 18:39:25,Anti-Infective,https://chem.nlm.nih.gov/chemidplus/rn/55870-64-9
+2020-09-15 18:39:25,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/55870-64-9
+2020-09-15 18:39:38,"Adjuvants, Anesthesia",https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,Analgesic,https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,Analgesics,https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,"Analgesics, Opioid",https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,Anesthetics,https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,"Anesthetics, General",https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,"Anesthetics, Intravenous",https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,Central Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,Central Nervous System Depressants,https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,Narcotics,https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,Peripheral Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,Sensory System Agents,https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:38,DEA Schedule II,https://chem.nlm.nih.gov/chemidplus/rn/437-38-7
+2020-09-15 18:39:44,Contraceptive Agents,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7
+2020-09-15 18:39:44,"Contraceptive Agents, Female",https://chem.nlm.nih.gov/chemidplus/rn/797-63-7
+2020-09-15 18:39:44,"Contraceptives, Oral",https://chem.nlm.nih.gov/chemidplus/rn/797-63-7
+2020-09-15 18:39:44,"Contraceptives, Oral, Synthetic",https://chem.nlm.nih.gov/chemidplus/rn/797-63-7
+2020-09-15 18:39:44,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7
+2020-09-15 18:39:44,Hormone,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7
+2020-09-15 18:39:44,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7
+2020-09-15 18:39:44,Progestin,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7
+2020-09-15 18:39:44,Reproductive Control Agents,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7
+2020-09-15 18:39:44,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7
+2020-09-15 18:39:44,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7
+2020-09-15 18:39:50,Acaricide,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-15 18:39:50,Agricultural Chemical,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-15 18:39:50,Avicide,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-15 18:39:50,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-15 18:39:50,Insecticide,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-15 18:39:50,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-15 18:39:50,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-15 18:39:50,Threshold Planning Quantity (TPQ) = 500 lb,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-15 18:39:50,"TWA (0.05 mg/m, vapor and aerosol, inhalable fraction); skin; BEI",https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-15 18:39:50,TWA 0.1 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-15 18:40:02,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/71247-25-1
+2020-09-15 18:40:02,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/71247-25-1
+2020-09-15 18:40:02,Stimulant (Gastric Secretory),https://chem.nlm.nih.gov/chemidplus/rn/71247-25-1
+2020-09-15 18:40:20,Alkylating Agents,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,"Antineoplastic Agents, Alkylating",https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Immunologic Factors,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Immunosuppressive Agents,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Myeloablative Agonists,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Noxae,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Skin / Eye Irritant,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Known to be a Carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Overall Carcinogenic Evaluation: Group 1,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:20,Reportable Quantity (RQ) = 1 lb,https://chem.nlm.nih.gov/chemidplus/rn/148-82-3
+2020-09-15 18:40:25,Antifibrinolytic Agents,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-15 18:40:25,Coagulants,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-15 18:40:25,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-15 18:40:25,Fibrin Modulating Agents,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-15 18:40:25,Growth Substances,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-15 18:40:25,Hematologic Agents,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-15 18:40:25,Hemostatics,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-15 18:40:25,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-15 18:40:25,Micronutrients,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-15 18:40:25,Vitamin (Prothrombogenic),https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-15 18:40:25,Vitamins,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-15 18:40:31,Autonomic Agents,https://chem.nlm.nih.gov/chemidplus/rn/149-64-4
+2020-09-15 18:40:31,Cholinergic Agents,https://chem.nlm.nih.gov/chemidplus/rn/149-64-4
+2020-09-15 18:40:31,Cholinergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/149-64-4
+2020-09-15 18:40:31,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/149-64-4
+2020-09-15 18:40:31,Muscarinic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/149-64-4
+2020-09-15 18:40:31,Neurotransmitter Agents,https://chem.nlm.nih.gov/chemidplus/rn/149-64-4
+2020-09-15 18:40:31,Parasympatholytics,https://chem.nlm.nih.gov/chemidplus/rn/149-64-4
+2020-09-15 18:40:31,Peripheral Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/149-64-4
+2020-09-15 18:40:37,Antimalarial,https://chem.nlm.nih.gov/chemidplus/rn/6119-70-6
+2020-09-15 18:40:42,Antibiotics,https://chem.nlm.nih.gov/chemidplus/rn/75443-99-1
+2020-09-15 18:40:42,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/75443-99-1
+2020-09-15 18:40:42,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/75443-99-1
+2020-09-15 18:40:48,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/302962-49-8
+2020-09-15 18:40:48,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/302962-49-8
+2020-09-15 18:40:48,Protein Kinase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/302962-49-8
+2020-09-15 18:40:54,Anti-Cancer,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-15 18:40:54,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-15 18:40:54,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-15 18:40:54,Protein Kinase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-15 18:41:05,Antihyperlipidemic,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Antimetabolites,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Cardiovascular Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Growth Substances,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Hypolipidemic Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Lipid Regulating Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Micronutrients,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Vasodilator Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Vitamin (Enzyme Co-Factor),https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Vitamin B Complex,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:05,Vitamins,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
+2020-09-15 18:41:13,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-15 18:41:13,"Antineoplastic Agents, Immunological",https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-15 18:41:13,Monoclonal Antibody,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-15 18:41:13,Treatment of EGF Receptor-Expressing Cancers (Monoclonal Antibody),https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-15 18:41:24,Agricultural Chemical,https://chem.nlm.nih.gov/chemidplus/rn/51-18-3
+2020-09-15 18:41:24,Alkylating Agents,https://chem.nlm.nih.gov/chemidplus/rn/51-18-3
+2020-09-15 18:41:24,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/51-18-3
+2020-09-15 18:41:24,"Antineoplastic Agents, Alkylating",https://chem.nlm.nih.gov/chemidplus/rn/51-18-3
+2020-09-15 18:41:24,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/51-18-3
+2020-09-15 18:41:24,Insecticide,https://chem.nlm.nih.gov/chemidplus/rn/51-18-3
+2020-09-15 18:41:24,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/51-18-3
+2020-09-15 18:41:24,Noxae,https://chem.nlm.nih.gov/chemidplus/rn/51-18-3
+2020-09-15 18:41:24,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/51-18-3
+2020-09-15 18:41:24,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/51-18-3
+2020-09-15 18:41:24,Overall Carcinogenic Evaluation: Group 3,https://chem.nlm.nih.gov/chemidplus/rn/51-18-3
+2020-09-15 18:41:48,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4
+2020-09-15 18:41:48,"Antineoplastic Agents, Immunological",https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4
+2020-09-15 18:41:48,"Antineoplastic, Immunomodulatory, Immunotherapy",https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4
+2020-09-15 18:41:54,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/1201438-56-3
+2020-09-15 18:41:54,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/1201438-56-3
+2020-09-15 18:41:59,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/173146-27-5
+2020-09-15 18:41:59,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/173146-27-5
+2020-09-15 18:41:59,Biological Response Modifier,https://chem.nlm.nih.gov/chemidplus/rn/173146-27-5
+2020-09-15 18:42:05,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/698387-09-6
+2020-09-15 18:42:05,Treatment of Cancer,https://chem.nlm.nih.gov/chemidplus/rn/698387-09-6
+2020-09-15 18:42:16,Abortifacient Agents,https://chem.nlm.nih.gov/chemidplus/rn/64318-79-2
+2020-09-15 18:42:16,"Abortifacient Agents, Nonsteroidal",https://chem.nlm.nih.gov/chemidplus/rn/64318-79-2
+2020-09-15 18:42:16,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/64318-79-2
+2020-09-15 18:42:16,Prostaglandin,https://chem.nlm.nih.gov/chemidplus/rn/64318-79-2
+2020-09-15 18:42:16,Reproductive Control Agents,https://chem.nlm.nih.gov/chemidplus/rn/64318-79-2
+2020-09-15 18:42:16,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/64318-79-2
+2020-09-15 18:42:22,Agricultural Chemical,https://chem.nlm.nih.gov/chemidplus/rn/94-74-6
+2020-09-15 18:42:22,Herbicide,https://chem.nlm.nih.gov/chemidplus/rn/94-74-6
+2020-09-15 18:42:22,Herbicides,https://chem.nlm.nih.gov/chemidplus/rn/94-74-6
+2020-09-15 18:42:22,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/94-74-6
+2020-09-15 18:42:22,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/94-74-6
+2020-09-15 18:42:22,Pesticides,https://chem.nlm.nih.gov/chemidplus/rn/94-74-6
+2020-09-15 18:42:22,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/94-74-6
+2020-09-15 18:42:22,Skin / Eye Irritant,https://chem.nlm.nih.gov/chemidplus/rn/94-74-6
+2020-09-15 18:42:22,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/94-74-6
+2020-09-15 18:42:27,Agricultural Chemical,https://chem.nlm.nih.gov/chemidplus/rn/3653-48-3
+2020-09-15 18:42:27,Herbicide,https://chem.nlm.nih.gov/chemidplus/rn/3653-48-3
+2020-09-15 18:42:27,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/3653-48-3
+2020-09-15 18:42:27,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/3653-48-3
+2020-09-15 18:44:13,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/23541-50-6
+2020-09-15 18:44:13,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/23541-50-6
+2020-09-15 18:44:13,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/23541-50-6
+2020-09-15 18:44:19,Anti-Arrhythmia Agents,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9
+2020-09-15 18:44:19,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/52-53-9
+2020-09-15 18:44:19,Calcium Channel Blockers,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9
+2020-09-15 18:44:19,Calcium-Regulating Hormones and Agents,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9
+2020-09-15 18:44:19,Cardiovascular Agents,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9
+2020-09-15 18:44:19,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9
+2020-09-15 18:44:19,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9
+2020-09-15 18:44:19,Membrane Transport Modulators,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9
+2020-09-15 18:44:19,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9
+2020-09-15 18:44:19,Vasodilator (Coronary),https://chem.nlm.nih.gov/chemidplus/rn/52-53-9
+2020-09-15 18:44:19,Vasodilator Agents,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9
+2020-09-15 18:44:25,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,"Antineoplastic Agents, Hormonal",https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,Contraceptive Agents,https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,"Contraceptive Agents, Female",https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,"Contraceptive Agents, Male",https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,Hormone,https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,Progestin,https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,Reproductive Control Agents,https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:25,Overall Carcinogenic Evaluation: Group 2B,https://chem.nlm.nih.gov/chemidplus/rn/71-58-9
+2020-09-15 18:44:31,Anti-Anginal,https://chem.nlm.nih.gov/chemidplus/rn/152-11-4
+2020-09-15 18:44:31,Cardiac Depressant (Anti-Arrhythmic),https://chem.nlm.nih.gov/chemidplus/rn/152-11-4
+2020-09-15 18:44:31,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/152-11-4
+2020-09-15 18:44:31,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/152-11-4
+2020-09-15 18:44:31,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/152-11-4
+2020-09-15 18:44:31,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/152-11-4
+2020-09-15 18:44:37,Antibacterial,https://chem.nlm.nih.gov/chemidplus/rn/1405-10-3
+2020-09-15 18:44:37,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/1405-10-3
+2020-09-15 18:44:37,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/1405-10-3
+2020-09-15 18:44:37,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/1405-10-3
+2020-09-15 18:44:37,Skin / Eye Irritant,https://chem.nlm.nih.gov/chemidplus/rn/1405-10-3
+2020-09-15 18:44:53,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-15 18:44:53,Enzyme Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-15 18:44:53,Protein Kinase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-15 18:44:59,Adrenal Cortex Hormones,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Anti-Inflammatory Agents,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Antiemetics,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,"Antineoplastic Agents, Hormonal",https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Autonomic Agents,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Central Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Gastrointestinal Agents,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Glucocorticoid,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Glucocorticoids,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Hormone,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Hormones,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,"Hormones, Hormone Substitutes, and Hormone Antagonists",https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Immunomodulator,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Peripheral Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:44:59,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-15 18:45:05,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/51-63-8
+2020-09-15 18:45:05,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/51-63-8
+2020-09-15 18:45:05,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/51-63-8
+2020-09-15 18:45:05,Stimulant (Central),https://chem.nlm.nih.gov/chemidplus/rn/51-63-8
+2020-09-15 18:45:11,Central Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:11,Central Nervous System Stimulants,https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:11,Dopamine Agents,https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:11,Dopamine Uptake Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:11,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:11,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:11,Membrane Transport Modulators,https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:11,Neurotransmitter Agents,https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:11,Neurotransmitter Uptake Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:11,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:11,Stimulant (Central),https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:11,DEA Schedule II,https://chem.nlm.nih.gov/chemidplus/rn/51-64-9
+2020-09-15 18:45:17,Central Nervous System Agents,https://chem.nlm.nih.gov/chemidplus/rn/57-43-2
+2020-09-15 18:45:17,Central Nervous System Depressants,https://chem.nlm.nih.gov/chemidplus/rn/57-43-2
+2020-09-15 18:45:17,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/57-43-2
+2020-09-15 18:45:17,GABA Agents,https://chem.nlm.nih.gov/chemidplus/rn/57-43-2
+2020-09-15 18:45:17,GABA Modulators,https://chem.nlm.nih.gov/chemidplus/rn/57-43-2
+2020-09-15 18:45:17,Hypnotics and Sedatives,https://chem.nlm.nih.gov/chemidplus/rn/57-43-2
+2020-09-15 18:45:17,Neurotransmitter Agents,https://chem.nlm.nih.gov/chemidplus/rn/57-43-2
+2020-09-15 18:45:17,DEA Schedule II,https://chem.nlm.nih.gov/chemidplus/rn/57-43-2
+2020-09-15 18:45:17,DEA Schedule III,https://chem.nlm.nih.gov/chemidplus/rn/57-43-2
+2020-09-15 18:45:22,"Diagnostic Aid, Magnetic Resonance Imaging (MRI)",https://chem.nlm.nih.gov/chemidplus/rn/1309-38-2
+2020-09-15 18:45:22,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/1309-38-2
+2020-09-15 18:45:22,Treatment of Iron Deficiency,https://chem.nlm.nih.gov/chemidplus/rn/1309-38-2
+2020-09-15 18:45:34,Agricultural Chemical,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 18:45:34,Alkylating Agents,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 18:45:34,Antineoplastic,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 18:45:34,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 18:45:34,"Antineoplastic Agents, Alkylating",https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 18:45:34,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 18:45:34,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 18:45:34,"Insect Attractant, Repellent and Chemosterilant",https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 18:45:34,Mutation Data,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 18:45:34,Noxae,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 18:45:34,Reproductive Effect,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 18:45:34,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-15 19:09:13,Antidote (to Iron Poisoning),https://chem.nlm.nih.gov/chemidplus/rn/138-14-7
+2020-09-15 19:09:13,Antiviral (COVID-19),https://chem.nlm.nih.gov/chemidplus/rn/138-14-7
+2020-09-15 19:09:13,Chelating Agent,https://chem.nlm.nih.gov/chemidplus/rn/138-14-7
+2020-09-15 19:09:13,Drug / Therapeutic Agent,https://chem.nlm.nih.gov/chemidplus/rn/138-14-7
+2020-09-15 19:09:13,Human Data,https://chem.nlm.nih.gov/chemidplus/rn/138-14-7
