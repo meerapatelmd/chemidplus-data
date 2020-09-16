@@ -5302,3 +5302,7 @@ phrase_datetime,input,phrase,type,url,response_received,no_record,response_recor
 2020-09-16T21:57:40Z,CC-5013,CC-5013,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CC-5013,TRUE,FALSE,TRUE, Lenalidomide [USAN:INN:BAN],191732-72-6,https://chem.nlm.nih.gov/chemidplus/rn/191732-72-6
 2020-09-16T21:57:47Z,CC4047,CC4047,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CC4047,TRUE,TRUE,FALSE,"NA","NA","NA"
 2020-09-16T21:57:53Z,CH5424802,CH5424802,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CH5424802,TRUE,FALSE,TRUE, Alectinib [USAN:INN],1256580-46-7,https://chem.nlm.nih.gov/chemidplus/rn/1256580-46-7
+2020-09-16T22:40:14Z,Bevacizumab-bvzr,Bevacizumab-bvzr,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bevacizumab-bvzr,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T22:40:20Z,Bexarotene,Bexarotene,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bexarotene,TRUE,FALSE,TRUE, Bexarotene [USAN:INN:BAN],153559-49-0,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
+2020-09-16T23:05:19Z,vinblastine sulfate,vinblastinesulfate,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/vinblastinesulfate,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T23:05:19Z,vinblastine sulfate,vinblastinesulfate,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/vinblastinesulfate,TRUE,TRUE,FALSE,"NA","NA","NA"
