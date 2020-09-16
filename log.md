@@ -8,3 +8,6 @@ Timestamp	Activity Type	Function	File	Details
 2020-09-15 20:52:15	read	simply_read_csv	data-raw/CLASSIFICATION.csv	
 2020-09-15 20:52:15	read	simply_read_csv	data-raw/PHRASE_LOG.csv	
 2020-09-15 20:52:15	read	simply_read_csv	data-raw/SYNONYMS.csv	
+2020-09-15 21:17:32	read	simply_read_csv	data-raw/CLASSIFICATION.csv	
+2020-09-15 21:17:32	read	simply_read_csv	data-raw/PHRASE_LOG.csv	
+2020-09-15 21:17:32	read	simply_read_csv	data-raw/SYNONYMS.csv	
