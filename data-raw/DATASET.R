@@ -1,5 +1,7 @@
 library(broca)
 CLASSIFICATION <- broca::simply_read_csv('data-raw/CLASSIFICATION.csv')
+CONCEPT <- broca::simply_read_csv('data-raw/CONCEPT.csv')
+CONCEPT_SYNONYM <- broca::simply_read_csv('data-raw/CONCEPT_SYNONYM.csv')
 PHRASE_LOG <- broca::simply_read_csv('data-raw/PHRASE_LOG.csv')
 SYNONYMS <- broca::simply_read_csv('data-raw/SYNONYMS.csv')
-usethis::use_data(CLASSIFICATION,PHRASE_LOG,SYNONYMS, overwrite = TRUE)
+usethis::use_data(CLASSIFICATION,CONCEPT,CONCEPT_SYNONYM,PHRASE_LOG,SYNONYMS, overwrite = TRUE)
