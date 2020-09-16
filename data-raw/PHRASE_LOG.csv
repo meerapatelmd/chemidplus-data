@@ -4734,6 +4734,7 @@ phrase_datetime,input,phrase,type,url,response_received,no_record,response_recor
 2020-09-16T05:11:56Z,Cortef,Cortef,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cortef,TRUE,FALSE,TRUE,Hydrocortisone sodium succinate,125-04-2,https://chem.nlm.nih.gov/chemidplus/rn/125-04-2
 2020-09-16T05:12:16Z,Arumel,Arumel,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Arumel,TRUE,FALSE,TRUE, Fluorouracil [USAN:USP:INN:BAN:JAN],51-21-8,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
 2020-09-16T05:12:22Z,Actrim,Actrim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Actrim,TRUE,FALSE,TRUE,Sulfamethoxazole,723-46-6,https://chem.nlm.nih.gov/chemidplus/rn/723-46-6
+2020-09-16T21:09:01Z,Acetysal,Acetysal,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acetysal,TRUE,TRUE,FALSE,"NA","NA","NA"
 2020-09-16T05:12:22Z,Actrim,Actrim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Actrim,TRUE,FALSE,TRUE,Trimethoprim,738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
 2020-09-16T05:12:28Z,Filgen,Filgen,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Filgen,TRUE,TRUE,FALSE,"NA","NA","NA"
 2020-09-16T05:12:33Z,Anti-vWF medication,Anti-vWFmedication,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-vWFmedication,TRUE,TRUE,FALSE,"NA","NA","NA"
@@ -4873,3 +4874,355 @@ phrase_datetime,input,phrase,type,url,response_received,no_record,response_recor
 2020-09-16T21:06:40Z,AZD2171,AZD2171,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD2171,TRUE,FALSE,TRUE,Cediranib,288383-20-0,https://chem.nlm.nih.gov/chemidplus/rn/288383-20-0
 2020-09-16T21:06:40Z,AZD2171,AZD2171,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD2171,TRUE,FALSE,TRUE,Cediranib maleate,857036-77-2,https://chem.nlm.nih.gov/chemidplus/rn/857036-77-2
 2020-09-16T21:06:46Z,AZD2281,AZD2281,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD2281,TRUE,FALSE,TRUE, Olaparib [USAN:INN],763113-22-0,https://chem.nlm.nih.gov/chemidplus/rn/763113-22-0
+2020-09-16T21:06:52Z,AZD5363,AZD5363,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD5363,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:06:58Z,AZD6474,AZD6474,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD6474,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:07:04Z,AZD9291,AZD9291,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD9291,TRUE,FALSE,TRUE,Osimertinib,1421373-65-0,https://chem.nlm.nih.gov/chemidplus/rn/1421373-65-0
+2020-09-16T21:07:04Z,AZD9291,AZD9291,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZD9291,TRUE,FALSE,TRUE,Osimertinib mesylate,1421373-66-1,https://chem.nlm.nih.gov/chemidplus/rn/1421373-66-1
+2020-09-16T21:07:10Z,AZT,AZT,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AZT,TRUE,FALSE,TRUE,Benzoyl peroxide,94-36-0,https://chem.nlm.nih.gov/chemidplus/rn/94-36-0
+2020-09-16T21:07:22Z,Abactrim,Abactrim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Abactrim,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-16T21:07:29Z,Abemaciclib,Abemaciclib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Abemaciclib,TRUE,FALSE,TRUE,Abemaciclib,1231929-97-7,https://chem.nlm.nih.gov/chemidplus/rn/1231929-97-7
+2020-09-16T21:07:35Z,Abetrim,Abetrim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Abetrim,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:07:42Z,Abiplatin,Abiplatin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Abiplatin,TRUE,FALSE,TRUE, Cisplatin [USAN:USP:INN:BAN:JAN],15663-27-1,https://chem.nlm.nih.gov/chemidplus/rn/15663-27-1
+2020-09-16T21:07:49Z,Accutane,Accutane,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Accutane,TRUE,FALSE,TRUE, Isotretinoin [USAN:USP:INN:BAN],4759-48-2,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-16T21:07:55Z,Acesal,Acesal,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acesal,TRUE,FALSE,TRUE,Aspirin,50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-16T21:07:55Z,Acesal,Acesal,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acesal,TRUE,FALSE,TRUE,Salsalate,552-94-3,https://chem.nlm.nih.gov/chemidplus/rn/552-94-3
+2020-09-16T21:08:01Z,Acetylsalicylate Calcium,AcetylsalicylateCalcium,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcetylsalicylateCalcium,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:08:07Z,Acetylsalicylate Copper,AcetylsalicylateCopper,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcetylsalicylateCopper,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:08:13Z,Acetylsalicylate Lysine,AcetylsalicylateLysine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcetylsalicylateLysine,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:08:19Z,Acetylsalicylate Sodium,AcetylsalicylateSodium,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcetylsalicylateSodium,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:08:25Z,Acetylsalicylic Acid Aluminium,AcetylsalicylicAcidAluminium,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcetylsalicylicAcidAluminium,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:08:31Z,Acetylsalicylic Acid Effervescent,AcetylsalicylicAcidEffervescent,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcetylsalicylicAcidEffervescent,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:08:37Z,Acetylsalicylic Acid Enteric Coated,AcetylsalicylicAcidEntericCoated,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcetylsalicylicAcidEntericCoated,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:08:42Z,Acetylsalicylsyra,Acetylsalicylsyra,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acetylsalicylsyra,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:08:48Z,Acetylsalicylzuur,Acetylsalicylzuur,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acetylsalicylzuur,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:08:54Z,Acetylsalisylsyre,Acetylsalisylsyre,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acetylsalisylsyre,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:08:55Z,Acetylsalisylsyre,Acetylsalisylsyre,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acetylsalisylsyre,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:00Z,Acetysal,Acetysal,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acetysal,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:06Z,Acid Acetylsalicylic,AcidAcetylsalicylic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidAcetylsalicylic,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:12Z,Acido Acetilsalicilico,AcidoAcetilsalicilico,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidoAcetilsalicilico,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:18Z,Acidum Acethylsalicylicum,AcidumAcethylsalicylicum,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidumAcethylsalicylicum,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:24Z,Acidum Acetylsalicum,AcidumAcetylsalicum,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidumAcetylsalicum,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:31Z,Acidum Acetylsalicylic,AcidumAcetylsalicylic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidumAcetylsalicylic,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:37Z,Acidum Acetylsalicylicum,AcidumAcetylsalicylicum,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidumAcetylsalicylicum,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:43Z,Acidum Ascorbinicum,AcidumAscorbinicum,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidumAscorbinicum,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:49Z,Aciphex,Aciphex,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aciphex,TRUE,FALSE,TRUE, Rabeprazole sodium [USAN],117976-90-6,https://chem.nlm.nih.gov/chemidplus/rn/117976-90-6
+2020-09-16T21:10:07Z,Acova,Acova,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acova,TRUE,FALSE,TRUE,Argatroban,74863-84-6,https://chem.nlm.nih.gov/chemidplus/rn/74863-84-6
+2020-09-16T21:10:07Z,Acova,Acova,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acova,TRUE,FALSE,TRUE,Argatroban,141396-28-3,https://chem.nlm.nih.gov/chemidplus/rn/141396-28-3
+2020-09-16T21:10:13Z,Actazolam,Actazolam,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Actazolam,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:10:19Z,Actinium Ac 225 lintuzumab,ActiniumAc225lintuzumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ActiniumAc225lintuzumab,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:10:26Z,Actonel,Actonel,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Actonel,TRUE,FALSE,TRUE, Risedronate sodium [USAN:USP],115436-72-1,https://chem.nlm.nih.gov/chemidplus/rn/115436-72-1
+2020-09-16T21:10:32Z,Acuvert,Acuvert,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acuvert,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:10:38Z,Aczone,Aczone,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aczone,TRUE,FALSE,TRUE, Dapsone [USAN:USP:INN:BAN],80-08-0,https://chem.nlm.nih.gov/chemidplus/rn/80-08-0
+2020-09-16T21:10:45Z,Adcetris,Adcetris,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adcetris,TRUE,FALSE,TRUE, Brentuximab vedotin [USAN:INN],914088-09-8,https://chem.nlm.nih.gov/chemidplus/rn/914088-09-8
+2020-09-16T21:10:51Z,Adrekon,Adrekon,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adrekon,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:10:57Z,Adrenergic receptor agonist,Adrenergicreceptoragonist,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adrenergicreceptoragonist,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:03Z,Adriamycine,Adriamycine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adriamycine,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:09Z,Adrosal,Adrosal,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adrosal,TRUE,FALSE,TRUE, Doxorubicin hydrochloride [USP:JAN],25316-40-9,https://chem.nlm.nih.gov/chemidplus/rn/25316-40-9
+2020-09-16T21:11:16Z,Adtrim,Adtrim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adtrim,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:23Z,Aeroseb-DEX,Aeroseb-DEX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aeroseb-DEX,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-16T21:11:29Z,Afanix,Afanix,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Afanix,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:35Z,Afinitor Disperz,AfinitorDisperz,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AfinitorDisperz,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:41Z,Afpred Forte-Dexa,AfpredForte-Dexa,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AfpredForte-Dexa,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:47Z,Aidbone,Aidbone,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aidbone,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:12:00Z,Albyl-Selters,Albyl-Selters,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Albyl-Selters,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:12:05Z,Alcrist,Alcrist,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alcrist,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:12:11Z,Aldesleukin,Aldesleukin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aldesleukin,TRUE,FALSE,TRUE,Aldesleukin,110942-02-4,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4
+2020-09-16T21:12:11Z,Aldesleukin,Aldesleukin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aldesleukin,TRUE,FALSE,TRUE,Bempegaldesleukin,1939126-74-5,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-16T21:12:18Z,Aldocumar,Aldocumar,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aldocumar,TRUE,FALSE,TRUE, Warfarin sodium [USP],129-06-6,https://chem.nlm.nih.gov/chemidplus/rn/129-06-6
+2020-09-16T21:12:24Z,Alectinib,Alectinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alectinib,TRUE,FALSE,TRUE,Alectinib,1256580-46-7,https://chem.nlm.nih.gov/chemidplus/rn/1256580-46-7
+2020-09-16T21:12:30Z,Alenato,Alenato,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alenato,TRUE,FALSE,TRUE,Sodium Gualenate,6223-35-4,https://chem.nlm.nih.gov/chemidplus/rn/6223-35-4
+2020-09-16T21:12:36Z,Alenbon,Alenbon,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alenbon,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:12:54Z,Alendil,Alendil,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendil,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:00Z,Alendronat,Alendronat,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendronat,TRUE,FALSE,TRUE,Alendronic acid,66376-36-1,https://chem.nlm.nih.gov/chemidplus/rn/66376-36-1
+2020-09-16T21:13:00Z,Alendronat,Alendronat,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendronat,TRUE,FALSE,TRUE,Alendronate sodium,121268-17-5,https://chem.nlm.nih.gov/chemidplus/rn/121268-17-5
+2020-09-16T21:13:06Z,Alendronato,Alendronato,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendronato,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:12Z,Alendronhexal,Alendronhexal,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendronhexal,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:18Z,Alendronsaeure,Alendronsaeure,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendronsaeure,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:24Z,Alenmax,Alenmax,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alenmax,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:30Z,Alentop,Alentop,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alentop,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:36Z,Alergolon,Alergolon,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alergolon,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:07Z,Acid Acetylsalicylic,AcidAcetylsalicylic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidAcetylsalicylic,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:13Z,Acido Acetilsalicilico,AcidoAcetilsalicilico,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidoAcetilsalicilico,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:19Z,Acidum Acethylsalicylicum,AcidumAcethylsalicylicum,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidumAcethylsalicylicum,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:25Z,Acidum Acetylsalicum,AcidumAcetylsalicum,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidumAcetylsalicum,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:31Z,Acidum Acetylsalicylic,AcidumAcetylsalicylic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidumAcetylsalicylic,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:37Z,Acidum Acetylsalicylicum,AcidumAcetylsalicylicum,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidumAcetylsalicylicum,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:43Z,Acidum Ascorbinicum,AcidumAscorbinicum,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AcidumAscorbinicum,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:09:49Z,Aciphex,Aciphex,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aciphex,TRUE,FALSE,TRUE, Rabeprazole sodium [USAN],117976-90-6,https://chem.nlm.nih.gov/chemidplus/rn/117976-90-6
+2020-09-16T21:10:07Z,Acova,Acova,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acova,TRUE,FALSE,TRUE,Argatroban,74863-84-6,https://chem.nlm.nih.gov/chemidplus/rn/74863-84-6
+2020-09-16T21:10:07Z,Acova,Acova,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acova,TRUE,FALSE,TRUE,Argatroban,141396-28-3,https://chem.nlm.nih.gov/chemidplus/rn/141396-28-3
+2020-09-16T21:10:13Z,Actazolam,Actazolam,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Actazolam,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:10:19Z,Actinium Ac 225 lintuzumab,ActiniumAc225lintuzumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ActiniumAc225lintuzumab,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:10:26Z,Actonel,Actonel,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Actonel,TRUE,FALSE,TRUE, Risedronate sodium [USAN:USP],115436-72-1,https://chem.nlm.nih.gov/chemidplus/rn/115436-72-1
+2020-09-16T21:10:32Z,Acuvert,Acuvert,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Acuvert,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:10:38Z,Aczone,Aczone,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aczone,TRUE,FALSE,TRUE, Dapsone [USAN:USP:INN:BAN],80-08-0,https://chem.nlm.nih.gov/chemidplus/rn/80-08-0
+2020-09-16T21:10:45Z,Adcetris,Adcetris,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adcetris,TRUE,FALSE,TRUE, Brentuximab vedotin [USAN:INN],914088-09-8,https://chem.nlm.nih.gov/chemidplus/rn/914088-09-8
+2020-09-16T21:10:51Z,Adrekon,Adrekon,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adrekon,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:10:57Z,Adrenergic receptor agonist,Adrenergicreceptoragonist,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adrenergicreceptoragonist,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:03Z,Adriamycine,Adriamycine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adriamycine,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:09Z,Adrosal,Adrosal,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adrosal,TRUE,FALSE,TRUE, Doxorubicin hydrochloride [USP:JAN],25316-40-9,https://chem.nlm.nih.gov/chemidplus/rn/25316-40-9
+2020-09-16T21:11:16Z,Adtrim,Adtrim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Adtrim,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:23Z,Aeroseb-DEX,Aeroseb-DEX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aeroseb-DEX,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-16T21:11:30Z,Afanix,Afanix,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Afanix,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:36Z,Afinitor Disperz,AfinitorDisperz,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AfinitorDisperz,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:42Z,Afpred Forte-Dexa,AfpredForte-Dexa,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AfpredForte-Dexa,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:11:48Z,Aidbone,Aidbone,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aidbone,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:12:00Z,Albyl-Selters,Albyl-Selters,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Albyl-Selters,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:12:06Z,Alcrist,Alcrist,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alcrist,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:12:12Z,Aldesleukin,Aldesleukin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aldesleukin,TRUE,FALSE,TRUE,Aldesleukin,110942-02-4,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4
+2020-09-16T21:12:12Z,Aldesleukin,Aldesleukin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aldesleukin,TRUE,FALSE,TRUE,Bempegaldesleukin,1939126-74-5,https://chem.nlm.nih.gov/chemidplus/rn/1939126-74-5
+2020-09-16T21:12:18Z,Aldocumar,Aldocumar,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aldocumar,TRUE,FALSE,TRUE, Warfarin sodium [USP],129-06-6,https://chem.nlm.nih.gov/chemidplus/rn/129-06-6
+2020-09-16T21:12:24Z,Alectinib,Alectinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alectinib,TRUE,FALSE,TRUE,Alectinib,1256580-46-7,https://chem.nlm.nih.gov/chemidplus/rn/1256580-46-7
+2020-09-16T21:12:30Z,Alenato,Alenato,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alenato,TRUE,FALSE,TRUE,Sodium Gualenate,6223-35-4,https://chem.nlm.nih.gov/chemidplus/rn/6223-35-4
+2020-09-16T21:12:36Z,Alenbon,Alenbon,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alenbon,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:12:54Z,Alendil,Alendil,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendil,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:00Z,Alendronat,Alendronat,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendronat,TRUE,FALSE,TRUE,Alendronic acid,66376-36-1,https://chem.nlm.nih.gov/chemidplus/rn/66376-36-1
+2020-09-16T21:13:00Z,Alendronat,Alendronat,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendronat,TRUE,FALSE,TRUE,Alendronate sodium,121268-17-5,https://chem.nlm.nih.gov/chemidplus/rn/121268-17-5
+2020-09-16T21:13:06Z,Alendronato,Alendronato,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendronato,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:12Z,Alendronhexal,Alendronhexal,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendronhexal,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:18Z,Alendronsaeure,Alendronsaeure,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alendronsaeure,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:24Z,Alenmax,Alenmax,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alenmax,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:30Z,Alentop,Alentop,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alentop,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:36Z,Alergolon,Alergolon,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alergolon,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:48Z,Alisertib,Alisertib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alisertib,TRUE,FALSE,TRUE,Alisertib,1028486-01-2,https://chem.nlm.nih.gov/chemidplus/rn/1028486-01-2
+2020-09-16T21:13:48Z,Alisertib,Alisertib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alisertib,TRUE,FALSE,TRUE,Alisertib sodium,1208255-63-3,https://chem.nlm.nih.gov/chemidplus/rn/1208255-63-3
+2020-09-16T21:14:06Z,Alquimid,Alquimid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alquimid,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:14:12Z,Alvocidib,Alvocidib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alvocidib,TRUE,FALSE,TRUE,Alvocidib hydrochloride,131740-09-5,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-16T21:14:12Z,Alvocidib,Alvocidib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alvocidib,TRUE,FALSE,TRUE,Alvocidib,146426-40-6,https://chem.nlm.nih.gov/chemidplus/rn/146426-40-6
+2020-09-16T21:14:18Z,Amethapred,Amethapred,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Amethapred,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:14:24Z,Ammoidin,Ammoidin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ammoidin,TRUE,FALSE,TRUE, Methoxsalen [USP:BAN:JAN],298-81-7,https://chem.nlm.nih.gov/chemidplus/rn/298-81-7
+2020-09-16T21:14:30Z,Amnesteem,Amnesteem,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Amnesteem,TRUE,FALSE,TRUE, Isotretinoin [USAN:USP:INN:BAN],4759-48-2,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-16T21:14:48Z,Amsa P-D,AmsaP-D,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AmsaP-D,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:14:54Z,Anbol,Anbol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anbol,TRUE,FALSE,TRUE, Sulfamethazine [USP],57-68-1,https://chem.nlm.nih.gov/chemidplus/rn/57-68-1
+2020-09-16T21:15:02Z,Anprim,Anprim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anprim,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:26Z,Anti-CD22 antibody,Anti-CD22antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-CD22antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:32Z,Anti-CD47 antibody,Anti-CD47antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-CD47antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:38Z,Anti-CTLA-4 antibody,Anti-CTLA-4antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-CTLA-4antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:44Z,Anti-Factor Xa antibody,Anti-FactorXaantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-FactorXaantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:50Z,Anti-GPIIb-IIIa antibody,Anti-GPIIb-IIIaantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-GPIIb-IIIaantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:56Z,Anti-IGF-1R antibody,Anti-IGF-1Rantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-IGF-1Rantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:03Z,Anti-KIR antibody,Anti-KIRantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-KIRantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:09Z,Anti-PDGFR antibody,Anti-PDGFRantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-PDGFRantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:14Z,Anti-RANKL antibody,Anti-RANKLantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-RANKLantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:20Z,Anti-TACSTD2 antibody,Anti-TACSTD2antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-TACSTD2antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:26Z,Anti-TRAIL-R1 antibody,Anti-TRAIL-R1antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-TRAIL-R1antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:32Z,Anti-TRAIL-R2 antibody,Anti-TRAIL-R2antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-TRAIL-R2antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:39Z,Anti-VEGFR antibody,Anti-VEGFRantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-VEGFRantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:45Z,Anti-c-Met antibody,Anti-c-Metantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-c-Metantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:51Z,Antibiotic,Antibiotic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antibiotic,TRUE,FALSE,TRUE,Dactinomycin,50-76-0,https://chem.nlm.nih.gov/chemidplus/rn/50-76-0
+2020-09-16T21:16:51Z,Antibiotic,Antibiotic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antibiotic,TRUE,FALSE,TRUE,Kanamycin,59-01-8,https://chem.nlm.nih.gov/chemidplus/rn/59-01-8
+2020-09-16T21:16:51Z,Antibiotic,Antibiotic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antibiotic,TRUE,FALSE,TRUE,Tetracycline,60-54-8,https://chem.nlm.nih.gov/chemidplus/rn/60-54-8
+2020-09-16T21:16:51Z,Antibiotic,Antibiotic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antibiotic,TRUE,FALSE,TRUE,Phenylalanine,63-91-2,https://chem.nlm.nih.gov/chemidplus/rn/63-91-2
+2020-09-16T21:16:57Z,Antibody-drug conjugate,Antibody-drugconjugate,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antibody-drugconjugate,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:17:22Z,Antifungals,Antifungals,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antifungals,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:17:33Z,Asparaginasa,Asparaginasa,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Asparaginasa,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:17:39Z,Asperan,Asperan,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Asperan,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:17:45Z,Aspilets,Aspilets,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aspilets,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:17:51Z,Aspirine,Aspirine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aspirine,TRUE,FALSE,TRUE,Aspirin,50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-16T21:17:57Z,Aspirisucre,Aspirisucre,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aspirisucre,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:18:04Z,Atossa,Atossa,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Atossa,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:18:10Z,Avatrombopag,Avatrombopag,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Avatrombopag,TRUE,FALSE,TRUE,Avatrombopag,570406-98-3,https://chem.nlm.nih.gov/chemidplus/rn/570406-98-3
+2020-09-16T21:18:10Z,Avatrombopag,Avatrombopag,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Avatrombopag,TRUE,FALSE,TRUE,Avatrombopag maleate,677007-74-8,https://chem.nlm.nih.gov/chemidplus/rn/677007-74-8
+2020-09-16T21:18:38Z,Blastolem,Blastolem,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Blastolem,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:18:44Z,Bokey EMC,BokeyEMC,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BokeyEMC,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:18:50Z,Bosulif,Bosulif,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bosulif,TRUE,FALSE,TRUE,Bosutinib,380843-75-4,https://chem.nlm.nih.gov/chemidplus/rn/380843-75-4
+2020-09-16T21:18:57Z,Buateron,Buateron,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Buateron,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:13:48Z,Alisertib,Alisertib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alisertib,TRUE,FALSE,TRUE,Alisertib,1028486-01-2,https://chem.nlm.nih.gov/chemidplus/rn/1028486-01-2
+2020-09-16T21:13:48Z,Alisertib,Alisertib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alisertib,TRUE,FALSE,TRUE,Alisertib sodium,1208255-63-3,https://chem.nlm.nih.gov/chemidplus/rn/1208255-63-3
+2020-09-16T21:14:06Z,Alquimid,Alquimid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alquimid,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:14:12Z,Alvocidib,Alvocidib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alvocidib,TRUE,FALSE,TRUE,Alvocidib hydrochloride,131740-09-5,https://chem.nlm.nih.gov/chemidplus/rn/131740-09-5
+2020-09-16T21:14:12Z,Alvocidib,Alvocidib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Alvocidib,TRUE,FALSE,TRUE,Alvocidib,146426-40-6,https://chem.nlm.nih.gov/chemidplus/rn/146426-40-6
+2020-09-16T21:14:18Z,Amethapred,Amethapred,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Amethapred,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:14:24Z,Ammoidin,Ammoidin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ammoidin,TRUE,FALSE,TRUE, Methoxsalen [USP:BAN:JAN],298-81-7,https://chem.nlm.nih.gov/chemidplus/rn/298-81-7
+2020-09-16T21:14:30Z,Amnesteem,Amnesteem,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Amnesteem,TRUE,FALSE,TRUE, Isotretinoin [USAN:USP:INN:BAN],4759-48-2,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-16T21:14:48Z,Amsa P-D,AmsaP-D,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AmsaP-D,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:14:54Z,Anbol,Anbol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anbol,TRUE,FALSE,TRUE, Sulfamethazine [USP],57-68-1,https://chem.nlm.nih.gov/chemidplus/rn/57-68-1
+2020-09-16T21:15:02Z,Anprim,Anprim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anprim,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:26Z,Anti-CD22 antibody,Anti-CD22antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-CD22antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:32Z,Anti-CD47 antibody,Anti-CD47antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-CD47antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:38Z,Anti-CTLA-4 antibody,Anti-CTLA-4antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-CTLA-4antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:44Z,Anti-Factor Xa antibody,Anti-FactorXaantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-FactorXaantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:50Z,Anti-GPIIb-IIIa antibody,Anti-GPIIb-IIIaantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-GPIIb-IIIaantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:15:56Z,Anti-IGF-1R antibody,Anti-IGF-1Rantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-IGF-1Rantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:03Z,Anti-KIR antibody,Anti-KIRantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-KIRantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:09Z,Anti-PDGFR antibody,Anti-PDGFRantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-PDGFRantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:14Z,Anti-RANKL antibody,Anti-RANKLantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-RANKLantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:20Z,Anti-TACSTD2 antibody,Anti-TACSTD2antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-TACSTD2antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:27Z,Anti-TRAIL-R1 antibody,Anti-TRAIL-R1antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-TRAIL-R1antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:32Z,Anti-TRAIL-R2 antibody,Anti-TRAIL-R2antibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-TRAIL-R2antibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:39Z,Anti-VEGFR antibody,Anti-VEGFRantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-VEGFRantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:45Z,Anti-c-Met antibody,Anti-c-Metantibody,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anti-c-Metantibody,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:16:51Z,Antibiotic,Antibiotic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antibiotic,TRUE,FALSE,TRUE,Dactinomycin,50-76-0,https://chem.nlm.nih.gov/chemidplus/rn/50-76-0
+2020-09-16T21:16:51Z,Antibiotic,Antibiotic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antibiotic,TRUE,FALSE,TRUE,Kanamycin,59-01-8,https://chem.nlm.nih.gov/chemidplus/rn/59-01-8
+2020-09-16T21:16:51Z,Antibiotic,Antibiotic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antibiotic,TRUE,FALSE,TRUE,Tetracycline,60-54-8,https://chem.nlm.nih.gov/chemidplus/rn/60-54-8
+2020-09-16T21:16:51Z,Antibiotic,Antibiotic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antibiotic,TRUE,FALSE,TRUE,Phenylalanine,63-91-2,https://chem.nlm.nih.gov/chemidplus/rn/63-91-2
+2020-09-16T21:16:57Z,Antibody-drug conjugate,Antibody-drugconjugate,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antibody-drugconjugate,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:17:22Z,Antifungals,Antifungals,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antifungals,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:17:30Z,Apalutamide,Apalutamide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Apalutamide,TRUE,FALSE,TRUE,Apalutamide,956104-40-8,https://chem.nlm.nih.gov/chemidplus/rn/956104-40-8
+2020-09-16T21:17:36Z,Apixaban,Apixaban,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Apixaban,TRUE,FALSE,TRUE,Apixaban,503612-47-3,https://chem.nlm.nih.gov/chemidplus/rn/503612-47-3
+2020-09-16T21:17:42Z,Apodrolen,Apodrolen,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Apodrolen,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:17:48Z,Appetite stimulant,Appetitestimulant,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Appetitestimulant,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:17:54Z,Ara-C,Ara-C,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ara-C,TRUE,FALSE,TRUE,Cytarabine hydrochloride,69-74-9,https://chem.nlm.nih.gov/chemidplus/rn/69-74-9
+2020-09-16T21:17:54Z,Ara-C,Ara-C,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ara-C,TRUE,FALSE,TRUE,Fenson,80-38-6,https://chem.nlm.nih.gov/chemidplus/rn/80-38-6
+2020-09-16T21:18:01Z,Aromatase inhibitors,Aromataseinhibitors,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aromataseinhibitors,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:18:07Z,Artinizona,Artinizona,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Artinizona,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:18:16Z,BAY 43-9006,BAY43-9006,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BAY43-9006,TRUE,FALSE,TRUE,Sorafenib,284461-73-0,https://chem.nlm.nih.gov/chemidplus/rn/284461-73-0
+2020-09-16T21:18:16Z,BAY 43-9006,BAY43-9006,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BAY43-9006,TRUE,FALSE,TRUE,Sorafenib tosylate,475207-59-1,https://chem.nlm.nih.gov/chemidplus/rn/475207-59-1
+2020-09-16T21:18:22Z,BAY 54-9085,BAY54-9085,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BAY54-9085,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:18:28Z,BAY 73-4506,BAY73-4506,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BAY73-4506,TRUE,FALSE,TRUE, Regorafenib [USAN:INN],755037-03-7,https://chem.nlm.nih.gov/chemidplus/rn/755037-03-7
+2020-09-16T21:18:35Z,BAY 80-6946,BAY80-6946,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BAY80-6946,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:18:41Z,BCNU,BCNU,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BCNU,TRUE,FALSE,TRUE, Carmustine [USAN:USP:INN:BAN],154-93-8,https://chem.nlm.nih.gov/chemidplus/rn/154-93-8
+2020-09-16T21:18:47Z,BCX-1777,BCX-1777,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BCX-1777,TRUE,FALSE,TRUE,Forodesine,209799-67-7,https://chem.nlm.nih.gov/chemidplus/rn/209799-67-7
+2020-09-16T21:18:47Z,BCX-1777,BCX-1777,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BCX-1777,TRUE,FALSE,TRUE,Forodesine hydrochloride,284490-13-7,https://chem.nlm.nih.gov/chemidplus/rn/284490-13-7
+2020-09-16T21:18:53Z,BI 695500,BI695500,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BI695500,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:19:00Z,BIBW 2992,BIBW2992,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BIBW2992,TRUE,FALSE,TRUE,Afatinib,850140-72-6,https://chem.nlm.nih.gov/chemidplus/rn/850140-72-6
+2020-09-16T21:19:00Z,BIBW 2992,BIBW2992,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BIBW2992,TRUE,FALSE,TRUE,Afatinib dimaleate,850140-73-7,https://chem.nlm.nih.gov/chemidplus/rn/850140-73-7
+2020-09-16T21:19:06Z,BKM120,BKM120,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BKM120,TRUE,FALSE,TRUE,Buparlisib,944396-07-0,https://chem.nlm.nih.gov/chemidplus/rn/944396-07-0
+2020-09-16T21:19:06Z,BKM120,BKM120,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BKM120,TRUE,FALSE,TRUE,Buparlisib hydrochloride,1312445-63-8,https://chem.nlm.nih.gov/chemidplus/rn/1312445-63-8
+2020-09-16T21:19:12Z,BMN-673,BMN-673,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMN-673,TRUE,FALSE,TRUE,Talazoparib,1207456-01-6,https://chem.nlm.nih.gov/chemidplus/rn/1207456-01-6
+2020-09-16T21:19:12Z,BMN-673,BMN-673,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMN-673,TRUE,FALSE,TRUE,Talazoparib tosylate,1373431-65-2,https://chem.nlm.nih.gov/chemidplus/rn/1373431-65-2
+2020-09-16T21:19:18Z,BMS-354825,BMS-354825,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-354825,TRUE,FALSE,TRUE,Dasatinib,302962-49-8,https://chem.nlm.nih.gov/chemidplus/rn/302962-49-8
+2020-09-16T21:19:18Z,BMS-354825,BMS-354825,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-354825,TRUE,FALSE,TRUE,Dasatinib,863127-77-9,https://chem.nlm.nih.gov/chemidplus/rn/863127-77-9
+2020-09-16T21:19:24Z,BMS-901608,BMS-901608,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-901608,TRUE,FALSE,TRUE, Elotuzumab [USAN:INN],915296-00-3,https://chem.nlm.nih.gov/chemidplus/rn/915296-00-3
+2020-09-16T21:19:37Z,Bevarest,Bevarest,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bevarest,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:19:43Z,BiCNU,BiCNU,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BiCNU,TRUE,FALSE,TRUE, Carmustine [USAN:USP:INN:BAN],154-93-8,https://chem.nlm.nih.gov/chemidplus/rn/154-93-8
+2020-09-16T21:19:52Z,Blincyto,Blincyto,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Blincyto,TRUE,FALSE,TRUE, Blinatumomab [USAN:INN],853426-35-4,https://chem.nlm.nih.gov/chemidplus/rn/853426-35-4
+2020-09-16T21:19:03Z,Bufferin,Bufferin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bufferin,TRUE,FALSE,TRUE,Aspirin,50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-16T21:19:03Z,Bufferin,Bufferin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bufferin,TRUE,FALSE,TRUE,Tromethamine,77-86-1,https://chem.nlm.nih.gov/chemidplus/rn/77-86-1
+2020-09-16T21:19:09Z,C225,C225,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/C225,TRUE,FALSE,TRUE,Cetuximab,205923-56-4,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
+2020-09-16T21:19:21Z,CAT-3888,CAT-3888,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CAT-3888,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:19:30Z,CEP-18083,CEP-18083,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CEP-18083,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:19:46Z,Carplanil,Carplanil,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Carplanil,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:19:58Z,Cloridrato DE,CloridratoDE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CloridratoDE,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:20:01Z,CC-90007,CC-90007,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CC-90007,TRUE,FALSE,TRUE,Enasidenib,1446502-11-9,https://chem.nlm.nih.gov/chemidplus/rn/1446502-11-9
+2020-09-16T21:20:01Z,CC-90007,CC-90007,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CC-90007,TRUE,FALSE,TRUE,Enasidenib mesylate,1650550-25-6,https://chem.nlm.nih.gov/chemidplus/rn/1650550-25-6
+2020-09-16T21:20:04Z,Clotrizol,Clotrizol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Clotrizol,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:20:07Z,CCI-779,CCI-779,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CCI-779,TRUE,FALSE,TRUE, Temsirolimus [USAN:INN:BAN:JAN],162635-04-3,https://chem.nlm.nih.gov/chemidplus/rn/162635-04-3
+2020-09-16T21:20:14Z,CCNU,CCNU,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CCNU,TRUE,FALSE,TRUE,Lomustine,13010-47-4,https://chem.nlm.nih.gov/chemidplus/rn/13010-47-4
+2020-09-16T21:20:14Z,CCNU,CCNU,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CCNU,TRUE,FALSE,TRUE,Semustine,13909-09-6,https://chem.nlm.nih.gov/chemidplus/rn/13909-09-6
+2020-09-16T21:20:17Z,Colsprin,Colsprin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Colsprin,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:20:20Z,CFZ,CFZ,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CFZ,TRUE,FALSE,TRUE,Iscalimab,2031153-61-2,https://chem.nlm.nih.gov/chemidplus/rn/2031153-61-2
+2020-09-16T21:20:28Z,CO-Trimoxazol,CO-Trimoxazol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CO-Trimoxazol,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-16T21:20:34Z,COR-30,COR-30,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/COR-30,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:20:40Z,CP monohydrate,CPmonohydrate,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CPmonohydrate,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:20:46Z,CP-358,CP-358,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CP-358,TRUE,FALSE,TRUE, Erlotinib hydrochloride [USAN:INN],183319-69-9,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9
+2020-09-16T21:20:52Z,"CP-675,206","CP-675,206",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/CP-675,206",TRUE,FALSE,TRUE, Tremelimumab [USAN:INN],745013-59-6,https://chem.nlm.nih.gov/chemidplus/rn/745013-59-6
+2020-09-16T21:21:00Z,CP-690550,CP-690550,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CP-690550,TRUE,FALSE,TRUE,Tofacitinib,477600-75-2,https://chem.nlm.nih.gov/chemidplus/rn/477600-75-2
+2020-09-16T21:21:00Z,CP-690550,CP-690550,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CP-690550,TRUE,FALSE,TRUE,Tofacitinib citrate,540737-29-9,https://chem.nlm.nih.gov/chemidplus/rn/540737-29-9
+2020-09-16T21:21:06Z,CP-774,CP-774,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CP-774,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:21:12Z,CPM,CPM,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CPM,TRUE,FALSE,TRUE,Levothyroxine Sodium,55-03-8,https://chem.nlm.nih.gov/chemidplus/rn/55-03-8
+2020-09-16T21:21:12Z,CPM,CPM,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CPM,TRUE,FALSE,TRUE,Chloramben,133-90-4,https://chem.nlm.nih.gov/chemidplus/rn/133-90-4
+2020-09-16T21:21:18Z,CPT-11,CPT-11,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CPT-11,TRUE,FALSE,TRUE, Irinotecan hydrochloride [USAN:JAN],100286-90-6,https://chem.nlm.nih.gov/chemidplus/rn/100286-90-6
+2020-09-16T21:21:25Z,CPX-351,CPX-351,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CPX-351,TRUE,FALSE,TRUE, Cytarabine mixture with daunonubicin,1256639-86-7,https://chem.nlm.nih.gov/chemidplus/rn/1256639-86-7
+2020-09-16T21:21:31Z,CRA-032765,CRA-032765,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CRA-032765,TRUE,FALSE,TRUE, Ibrutinib [USAN:INN],936563-96-1,https://chem.nlm.nih.gov/chemidplus/rn/936563-96-1
+2020-09-16T21:21:38Z,CS055,CS055,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/CS055,TRUE,FALSE,TRUE, Tucidinostat [USAN],1616493-44-7,https://chem.nlm.nih.gov/chemidplus/rn/1616493-44-7
+2020-09-16T21:21:47Z,Cangib,Cangib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cangib,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:21:53Z,Capnat,Capnat,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Capnat,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:21:59Z,Caposib,Caposib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Caposib,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:22:05Z,Capsasal,Capsasal,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Capsasal,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:22:11Z,Carbidu,Carbidu,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Carbidu,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:22:17Z,Carbo,Carbo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Carbo,TRUE,FALSE,TRUE,Mitomycin,50-07-7,https://chem.nlm.nih.gov/chemidplus/rn/50-07-7
+2020-09-16T21:22:17Z,Carbo,Carbo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Carbo,TRUE,FALSE,TRUE,Meperidine hydrochloride,50-13-5,https://chem.nlm.nih.gov/chemidplus/rn/50-13-5
+2020-09-16T21:22:17Z,Carbo,Carbo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Carbo,TRUE,FALSE,TRUE,Lactic acid,50-21-5,https://chem.nlm.nih.gov/chemidplus/rn/50-21-5
+2020-09-16T21:22:17Z,Carbo,Carbo,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Carbo,TRUE,FALSE,TRUE,Propantheline bromide,50-34-0,https://chem.nlm.nih.gov/chemidplus/rn/50-34-0
+2020-09-16T21:22:26Z,Carboplatin,Carboplatin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Carboplatin,TRUE,FALSE,TRUE,Carboplatin,41575-94-4,https://chem.nlm.nih.gov/chemidplus/rn/41575-94-4
+2020-09-16T21:22:32Z,Cardinex,Cardinex,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cardinex,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:22:38Z,Cardioaspirine,Cardioaspirine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cardioaspirine,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:22:43Z,Careptin,Careptin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Careptin,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:22:50Z,Carzonal,Carzonal,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Carzonal,TRUE,FALSE,TRUE, Fluorouracil [USAN:USP:INN:BAN:JAN],51-21-8,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-16T21:22:56Z,Catalgine,Catalgine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Catalgine,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:23:02Z,Caxeta,Caxeta,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Caxeta,TRUE,FALSE,TRUE, Capecitabine [USAN:USP:INN:BAN],154361-50-9,https://chem.nlm.nih.gov/chemidplus/rn/154361-50-9
+2020-09-16T21:23:08Z,Cebedex,Cebedex,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cebedex,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:23:14Z,Cellacort,Cellacort,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cellacort,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:23:20Z,Cellular therapy,Cellulartherapy,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cellulartherapy,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:23:26Z,Ceritinib,Ceritinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ceritinib,TRUE,FALSE,TRUE,Ceritinib,1032900-25-6,https://chem.nlm.nih.gov/chemidplus/rn/1032900-25-6
+2020-09-16T21:23:32Z,Ceriton,Ceriton,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ceriton,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:23:38Z,Chephacardin,Chephacardin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Chephacardin,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:23:44Z,Chimeric antigen receptor T-cell,ChimericantigenreceptorT-cell,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ChimericantigenreceptorT-cell,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:23:50Z,Chlorambusil,Chlorambusil,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Chlorambusil,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:23:56Z,Christmas Factor,ChristmasFactor,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ChristmasFactor,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:24:02Z,Cicoxil,Cicoxil,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cicoxil,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:24:08Z,Cinco-FU,Cinco-FU,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cinco-FU,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:24:14Z,Ciplatan,Ciplatan,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ciplatan,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:24:20Z,Ciplin,Ciplin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ciplin,TRUE,FALSE,TRUE,Bifenthrin,82657-04-3,https://chem.nlm.nih.gov/chemidplus/rn/82657-04-3
+2020-09-16T21:24:26Z,Cisplatex,Cisplatex,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cisplatex,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:24:32Z,Cisplatino,Cisplatino,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cisplatino,TRUE,FALSE,TRUE, Cisplatin [USAN:USP:INN:BAN:JAN],15663-27-1,https://chem.nlm.nih.gov/chemidplus/rn/15663-27-1
+2020-09-16T21:24:39Z,Citabin,Citabin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Citabin,TRUE,FALSE,TRUE,Ibacitabine,611-53-0,https://chem.nlm.nih.gov/chemidplus/rn/611-53-0
+2020-09-16T21:24:39Z,Citabin,Citabin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Citabin,TRUE,FALSE,TRUE,Decitabine,2353-33-5,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
+2020-09-16T21:24:39Z,Citabin,Citabin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Citabin,TRUE,FALSE,TRUE,Zalcitabine,7481-89-2,https://chem.nlm.nih.gov/chemidplus/rn/7481-89-2
+2020-09-16T21:24:39Z,Citabin,Citabin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Citabin,TRUE,FALSE,TRUE,Ancitabine hydrochloride,10212-25-6,https://chem.nlm.nih.gov/chemidplus/rn/10212-25-6
+2020-09-16T21:24:39Z,Citabin,Citabin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Citabin,TRUE,FALSE,TRUE,Ancitabine,31698-14-3,https://chem.nlm.nih.gov/chemidplus/rn/31698-14-3
+2020-09-16T21:24:45Z,Citarabina,Citarabina,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Citarabina,TRUE,FALSE,TRUE, Cytarabine [USAN:USP:INN:BAN:JAN],147-94-4,https://chem.nlm.nih.gov/chemidplus/rn/147-94-4
+2020-09-16T21:24:52Z,Citodox,Citodox,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Citodox,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:24:58Z,Citomid,Citomid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Citomid,TRUE,FALSE,TRUE, Vincristine [INN:BAN],57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-16T21:25:10Z,Cixutumumab,Cixutumumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cixutumumab,TRUE,FALSE,TRUE, Cixutumumab [USAN:INN],947687-12-9,https://chem.nlm.nih.gov/chemidplus/rn/947687-12-9
+2020-09-16T21:25:16Z,Cladon,Cladon,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cladon,TRUE,FALSE,TRUE," Cladonia rangiferina, ext.",92346-91-3,https://chem.nlm.nih.gov/chemidplus/rn/92346-91-3
+2020-09-16T21:25:22Z,Claro,Claro,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Claro,TRUE,FALSE,TRUE,Edetate Sodium,64-02-8,https://chem.nlm.nih.gov/chemidplus/rn/64-02-8
+2020-09-16T21:25:22Z,Claro,Claro,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Claro,TRUE,FALSE,TRUE,Terbutryn,886-50-0,https://chem.nlm.nih.gov/chemidplus/rn/886-50-0
+2020-09-16T21:25:22Z,Claro,Claro,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Claro,TRUE,FALSE,TRUE,Starch,9005-25-8,https://chem.nlm.nih.gov/chemidplus/rn/9005-25-8
+2020-09-16T21:25:28Z,Classical hematology medication,Classicalhematologymedication,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Classicalhematologymedication,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:25:34Z,Clitaxel,Clitaxel,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Clitaxel,TRUE,FALSE,TRUE,Paclitaxel,33069-62-4,https://chem.nlm.nih.gov/chemidplus/rn/33069-62-4
+2020-09-16T21:25:40Z,Clodran,Clodran,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Clodran,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:25:46Z,Clodronate,Clodronate,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Clodronate,TRUE,FALSE,TRUE,Clodronic acid,10596-23-3,https://chem.nlm.nih.gov/chemidplus/rn/10596-23-3
+2020-09-16T21:25:46Z,Clodronate,Clodronate,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Clodronate,TRUE,FALSE,TRUE,Clodronate disodium,88416-50-6,https://chem.nlm.nih.gov/chemidplus/rn/88416-50-6
+2020-09-16T21:25:52Z,Clopidro,Clopidro,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Clopidro,TRUE,FALSE,TRUE, Clopidrogrel active metabolite,1148015-30-8,https://chem.nlm.nih.gov/chemidplus/rn/1148015-30-8
+2020-09-16T21:25:59Z,Clotinex,Clotinex,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Clotinex,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:26:11Z,Cocydal,Cocydal,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cocydal,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:26:17Z,Cofatrim,Cofatrim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cofatrim,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:33:14Z,Antihistamines,Antihistamines,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antihistamines,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:33:20Z,Antileukotriene,Antileukotriene,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antileukotriene,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:33:26Z,Antimetabolite,Antimetabolite,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antimetabolite,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:33:40Z,Antipyretic,Antipyretic,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antipyretic,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:33:46Z,Antithrombin III,AntithrombinIII,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AntithrombinIII,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:33:51Z,Antithymocyte globulin rabbit ATG,AntithymocyteglobulinrabbitATG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AntithymocyteglobulinrabbitATG,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:34:04Z,Antraciclin,Antraciclin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antraciclin,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:34:10Z,Antrex,Antrex,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antrex,TRUE,FALSE,TRUE,Kanamycin,59-01-8,https://chem.nlm.nih.gov/chemidplus/rn/59-01-8
+2020-09-16T21:34:10Z,Antrex,Antrex,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Antrex,TRUE,FALSE,TRUE,Kanamycin sulfate,25389-94-0,https://chem.nlm.nih.gov/chemidplus/rn/25389-94-0
+2020-09-16T21:34:16Z,Apatinib,Apatinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Apatinib,TRUE,FALSE,TRUE,Lapatinib,231277-92-2,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
+2020-09-16T21:34:16Z,Apatinib,Apatinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Apatinib,TRUE,FALSE,TRUE,Lapatinib Ditosylate,388082-78-8,https://chem.nlm.nih.gov/chemidplus/rn/388082-78-8
+2020-09-16T21:34:22Z,Apo-acyclovir,Apo-acyclovir,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Apo-acyclovir,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:34:28Z,Apotrinelax,Apotrinelax,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Apotrinelax,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:34:34Z,Approved drug,Approveddrug,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Approveddrug,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:34:40Z,Arefarin,Arefarin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Arefarin,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:34:46Z,Armol,Armol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Armol,TRUE,FALSE,TRUE,Hydrocortisone acetate,50-03-3,https://chem.nlm.nih.gov/chemidplus/rn/50-03-3
+2020-09-16T21:34:46Z,Armol,Armol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Armol,TRUE,FALSE,TRUE,Dipyrone,68-89-3,https://chem.nlm.nih.gov/chemidplus/rn/68-89-3
+2020-09-16T21:34:46Z,Armol,Armol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Armol,TRUE,FALSE,TRUE,Acetaminophen,103-90-2,https://chem.nlm.nih.gov/chemidplus/rn/103-90-2
+2020-09-16T21:34:52Z,Arsenox,Arsenox,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Arsenox,TRUE,FALSE,TRUE,Oxophenarsine hydrochloride,538-03-4,https://chem.nlm.nih.gov/chemidplus/rn/538-03-4
+2020-09-16T21:34:52Z,Arsenox,Arsenox,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Arsenox,TRUE,FALSE,TRUE,Arsenic trioxide,1327-53-3,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-16T21:34:58Z,Artria-SR,Artria-SR,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Artria-SR,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:35:05Z,Aside,Aside,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aside,TRUE,FALSE,TRUE,Adenosine phosphate,61-19-8,https://chem.nlm.nih.gov/chemidplus/rn/61-19-8
+2020-09-16T21:35:05Z,Aside,Aside,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aside,TRUE,FALSE,TRUE,Meproscillarin,33396-37-1,https://chem.nlm.nih.gov/chemidplus/rn/33396-37-1
+2020-09-16T21:35:11Z,Aspent,Aspent,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aspent,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:35:17Z,Aspergum,Aspergum,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aspergum,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-16T21:35:23Z,Aspirin and dipyridamole,Aspirinanddipyridamole,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aspirinanddipyridamole,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:35:29Z,Aspirinetta,Aspirinetta,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aspirinetta,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:35:35Z,Asta B 518,AstaB518,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/AstaB518,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:35:41Z,Atezolizumab,Atezolizumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Atezolizumab,TRUE,FALSE,TRUE, Atezolizumab [USAN:INN],1380723-44-3,https://chem.nlm.nih.gov/chemidplus/rn/1380723-44-3
+2020-09-16T21:35:47Z,Atropen,Atropen,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Atropen,TRUE,FALSE,TRUE,Atropine,51-55-8,https://chem.nlm.nih.gov/chemidplus/rn/51-55-8
+2020-09-16T21:35:53Z,Avlotrin,Avlotrin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Avlotrin,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:35:59Z,Axiplat,Axiplat,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Axiplat,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:36:05Z,B-518,B-518,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/B-518,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:36:11Z,B.S.,B.S.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/B.S.,TRUE,FALSE,TRUE,Bufenadrine,604-74-0,https://chem.nlm.nih.gov/chemidplus/rn/604-74-0
+2020-09-16T21:36:11Z,B.S.,B.S.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/B.S.,TRUE,FALSE,TRUE,Tixadil,2949-95-3,https://chem.nlm.nih.gov/chemidplus/rn/2949-95-3
+2020-09-16T21:36:11Z,B.S.,B.S.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/B.S.,TRUE,FALSE,TRUE,Fluindarol,6723-40-6,https://chem.nlm.nih.gov/chemidplus/rn/6723-40-6
+2020-09-16T21:36:11Z,B.S.,B.S.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/B.S.,TRUE,FALSE,TRUE,Xylocoumarol,15301-97-0,https://chem.nlm.nih.gov/chemidplus/rn/15301-97-0
+2020-09-16T21:36:11Z,B.S.,B.S.,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/B.S.,TRUE,FALSE,TRUE,Acridorex,47487-22-9,https://chem.nlm.nih.gov/chemidplus/rn/47487-22-9
+2020-09-16T21:36:17Z,BAY 59-7939,BAY59-7939,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BAY59-7939,TRUE,FALSE,TRUE, Rivaroxaban [USAN:INN:BAN:JAN],366789-02-8,https://chem.nlm.nih.gov/chemidplus/rn/366789-02-8
+2020-09-16T21:36:23Z,BAY-1841788,BAY-1841788,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BAY-1841788,TRUE,FALSE,TRUE, Darolutamide [USAN],1297538-32-9,https://chem.nlm.nih.gov/chemidplus/rn/1297538-32-9
+2020-09-16T21:36:30Z,BBR 2778,BBR2778,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BBR2778,TRUE,FALSE,TRUE, BBR 2778,144510-97-4,https://chem.nlm.nih.gov/chemidplus/rn/144510-97-4
+2020-09-16T21:36:36Z,BGB-3111,BGB-3111,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BGB-3111,TRUE,FALSE,TRUE, Zanubrutinib [USAN:INN],1691249-45-2,https://chem.nlm.nih.gov/chemidplus/rn/1691249-45-2
+2020-09-16T21:36:43Z,BI 655075,BI655075,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BI655075,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:36:48Z,BIBF 1120,BIBF1120,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BIBF1120,TRUE,FALSE,TRUE, Nintedanib [USAN:INN],656247-17-5,https://chem.nlm.nih.gov/chemidplus/rn/656247-17-5
+2020-09-16T21:36:55Z,BIBW-2992,BIBW-2992,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BIBW-2992,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:37:01Z,BLU-285,BLU-285,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BLU-285,TRUE,FALSE,TRUE, Avapritinib [INN],1703793-34-3,https://chem.nlm.nih.gov/chemidplus/rn/1703793-34-3
+2020-09-16T21:37:07Z,BMS-247550,BMS-247550,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-247550,TRUE,FALSE,TRUE, Estramustine [USAN:INN:BAN],2998-57-4,https://chem.nlm.nih.gov/chemidplus/rn/2998-57-4
+2020-09-16T21:37:13Z,BMS-734016,BMS-734016,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-734016,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:37:19Z,BMS-936558,BMS-936558,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BMS-936558,TRUE,FALSE,TRUE, Nivolumab [USAN:INN],946414-94-4,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-16T21:37:26Z,BPI-2009H,BPI-2009H,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BPI-2009H,TRUE,FALSE,TRUE, Icotinib hydrochloride,1204313-51-8,https://chem.nlm.nih.gov/chemidplus/rn/1204313-51-8
+2020-09-16T21:37:32Z,BW-256U,BW-256U,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BW-256U,TRUE,FALSE,TRUE, Valacyclovir hydrochloride [USAN:USP],124832-27-5,https://chem.nlm.nih.gov/chemidplus/rn/124832-27-5
+2020-09-16T21:37:38Z,BYL719,BYL719,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BYL719,TRUE,FALSE,TRUE, Alpelisib [USAN:INN],1217486-61-7,https://chem.nlm.nih.gov/chemidplus/rn/1217486-61-7
+2020-09-16T21:37:44Z,Babyprin,Babyprin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Babyprin,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:37:50Z,Bacille Calmette-Guerin,BacilleCalmette-Guerin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BacilleCalmette-Guerin,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:37:56Z,Bacillus Calmette-Guerin,BacillusCalmette-Guerin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/BacillusCalmette-Guerin,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:38:02Z,Bacotrin,Bacotrin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bacotrin,TRUE,TRUE,FALSE,"NA","NA","NA"
+2020-09-16T21:38:09Z,Bacsultrim,Bacsultrim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Bacsultrim,TRUE,TRUE,FALSE,"NA","NA","NA"
