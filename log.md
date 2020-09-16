@@ -65,3 +65,10 @@ Timestamp	Activity Type	Function	File	Details
 2020-09-16 18:25:16	read	simply_read_csv	data-raw/CONCEPT_SYNONYM.csv	
 2020-09-16 18:25:16	read	simply_read_csv	data-raw/PHRASE_LOG.csv	
 2020-09-16 18:25:16	read	simply_read_csv	data-raw/SYNONYMS.csv	
+2020-09-16 18:37:36	read	simply_read_csv	data-raw/CLASSIFICATION.csv	
+2020-09-16 18:37:36	read	simply_read_csv	data-raw/CONCEPT.csv	
+2020-09-16 18:37:36	read	simply_read_csv	data-raw/CONCEPT_ANCESTOR.csv	
+2020-09-16 18:37:36	read	simply_read_csv	data-raw/CONCEPT_RELATIONSHIP.csv	
+2020-09-16 18:37:36	read	simply_read_csv	data-raw/CONCEPT_SYNONYM.csv	
+2020-09-16 18:37:36	read	simply_read_csv	data-raw/PHRASE_LOG.csv	
+2020-09-16 18:37:36	read	simply_read_csv	data-raw/SYNONYMS.csv	
