@@ -1,0 +1,10 @@
+rn_log_datetime,raw_concept,processed_concept,type,url,response_received,no_record,response_recorded,compound_match,rn,rn_url
+2020-09-17T19:14:51Z,trastuzumab,trastuzumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/trastuzumab,TRUE,FALSE,TRUE,Trastuzumab,180288-69-1,https://chem.nlm.nih.gov/chemidplus/rn/180288-69-1
+2020-09-17T19:14:51Z,trastuzumab,trastuzumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/trastuzumab,TRUE,FALSE,TRUE,Trastuzumab emtansine,1018448-65-1,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-17T19:14:51Z,trastuzumab,trastuzumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/trastuzumab,TRUE,FALSE,TRUE,Trastuzumab duocarmazine,1642152-40-6,https://chem.nlm.nih.gov/chemidplus/rn/1642152-40-6
+2020-09-17T19:14:51Z,trastuzumab,trastuzumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/trastuzumab,TRUE,FALSE,TRUE,Trastuzumab deruxtecan,1826843-81-5,https://chem.nlm.nih.gov/chemidplus/rn/1826843-81-5
+2020-09-17T19:14:51Z,trastuzumab,trastuzumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/trastuzumab,TRUE,FALSE,TRUE,Trastuzumab [USAN:INN:BAN],180288-69-1,https://chem.nlm.nih.gov/chemidplus/rn/180288-69-1
+2020-09-17T19:14:51Z,trastuzumab,trastuzumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/trastuzumab,TRUE,FALSE,TRUE,Trastuzumab emtansine [USAN:INN],1018448-65-1,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
+2020-09-17T19:14:51Z,trastuzumab,trastuzumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/trastuzumab,TRUE,FALSE,TRUE,Trastuzumab duocarmazine [USAN:INN],1642152-40-6,https://chem.nlm.nih.gov/chemidplus/rn/1642152-40-6
+2020-09-17T19:14:51Z,trastuzumab,trastuzumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/trastuzumab,TRUE,FALSE,TRUE,Trastuzumab deruxtecan [USAN:INN],1826843-81-5,https://chem.nlm.nih.gov/chemidplus/rn/1826843-81-5
+2020-09-17T19:16:02Z,meeraypatel,meeraypatel,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/meeraypatel,TRUE,TRUE,FALSE,"NA","NA","NA"
