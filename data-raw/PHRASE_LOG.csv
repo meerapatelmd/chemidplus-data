@@ -5368,3 +5368,11 @@ phrase_datetime,input,phrase,type,url,response_received,no_record,response_recor
 2020-09-16T23:35:05Z,Cobact,Cobact,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cobact,TRUE,FALSE,TRUE,Glyconiazide,3691-74-5,https://chem.nlm.nih.gov/chemidplus/rn/3691-74-5
 2020-09-16T23:35:05Z,Cobact,Cobact,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cobact,TRUE,FALSE,TRUE,Phosphoserine phosphatase,9025-73-4,https://chem.nlm.nih.gov/chemidplus/rn/9025-73-4
 2020-09-16T23:35:05Z,Cobact,Cobact,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cobact,TRUE,FALSE,TRUE,Shikimate dehydrogenase,9026-87-3,https://chem.nlm.nih.gov/chemidplus/rn/9026-87-3
+2020-09-17T06:40:52Z,Aliot,Aliot,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aliot,TRUE,FALSE,TRUE,C.I. Pigment Green ,816143-80-9,https://chem.nlm.nih.gov/chemidplus/rn/816143-80-9
+2020-09-17T06:40:52Z,Aliot,Aliot,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aliot,TRUE,FALSE,TRUE,Pigment Red ,25174336-60-0,https://chem.nlm.nih.gov/chemidplus/rn/25174336-60-0
+2020-09-17T06:40:52Z,Aliot,Aliot,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aliot,TRUE,FALSE,TRUE,Kaliotoxin,145199-73-1,https://chem.nlm.nih.gov/chemidplus/rn/145199-73-1
+2020-09-17T06:40:58Z,Aloprim,Aloprim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aloprim,TRUE,FALSE,TRUE,Allopurinol sodium,17795-21-0,https://chem.nlm.nih.gov/chemidplus/rn/17795-21-0
+2020-09-17T06:40:58Z,Aloprim,Aloprim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aloprim,TRUE,FALSE,TRUE,Dapsone mixture with pyrimethamine,37357-69-0,https://chem.nlm.nih.gov/chemidplus/rn/37357-69-0
+2020-09-17T06:41:07Z,Anticoag,Anticoag,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anticoag,TRUE,FALSE,TRUE,Cyclocumarol,518-20-7,https://chem.nlm.nih.gov/chemidplus/rn/518-20-7
+2020-09-17T06:41:07Z,Anticoag,Anticoag,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anticoag,TRUE,FALSE,TRUE,Annexin A,5117216-75-8,https://chem.nlm.nih.gov/chemidplus/rn/5117216-75-8
+2020-09-17T06:41:07Z,Anticoag,Anticoag,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anticoag,TRUE,FALSE,TRUE,"Anticoagulant protein, Streptomyces cinnamoneus",155775-04-5,https://chem.nlm.nih.gov/chemidplus/rn/155775-04-5
