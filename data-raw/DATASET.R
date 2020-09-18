@@ -1,4 +1,5 @@
 library(broca)
+
 CLASSIFICATION <- broca::simply_read_csv('/Users/meerapatel/GitHub/chemidplusData/data-raw/CLASSIFICATION.csv')
 CONCEPT <- broca::simply_read_csv('/Users/meerapatel/GitHub/chemidplusData/data-raw/CONCEPT.csv')
 CONCEPT_ANCESTOR <- broca::simply_read_csv('/Users/meerapatel/GitHub/chemidplusData/data-raw/CONCEPT_ANCESTOR.csv')
@@ -9,5 +10,7 @@ NAMES_AND_SYNONYMS <- broca::simply_read_csv('/Users/meerapatel/GitHub/chemidplu
 REGISTRY_NUMBER_LOG <- broca::simply_read_csv('/Users/meerapatel/GitHub/chemidplusData/data-raw/REGISTRY_NUMBER_LOG.csv')
 REGISTRY_NUMBERS <- broca::simply_read_csv('/Users/meerapatel/GitHub/chemidplusData/data-raw/REGISTRY_NUMBERS.csv')
 RN_URL_VALIDITY <- broca::simply_read_csv('/Users/meerapatel/GitHub/chemidplusData/data-raw/RN_URL_VALIDITY.csv')
+
+setwd('/Users/meerapatel/GitHub/chemidplusData')
 
 usethis::use_data(CLASSIFICATION,CONCEPT,CONCEPT_ANCESTOR,CONCEPT_RELATIONSHIP,CONCEPT_SYNONYM,LINKS_TO_RESOURCES,NAMES_AND_SYNONYMS,REGISTRY_NUMBER_LOG,REGISTRY_NUMBERS,RN_URL_VALIDITY, overwrite = TRUE)
