@@ -741,3 +741,1819 @@ scrape_datetime,rn_url,concept_registry_number_type,concept_registry_number
 2020-09-17T23:06:33Z,https://chem.nlm.nih.gov/chemidplus/rn/1404-88-2,CAS Registry Number,1404-88-2
 2020-09-17T23:06:33Z,https://chem.nlm.nih.gov/chemidplus/rn/1404-88-2,FDA UNII,877376V2XW
 2020-09-17T23:06:33Z,https://chem.nlm.nih.gov/chemidplus/rn/1404-88-2,System Generated Number,0001404882
+2020-09-18T18:48:42Z,https://chem.nlm.nih.gov/chemidplus/rn/68723-23-9,CAS Registry Number,68723-23-9
+2020-09-18T18:48:42Z,https://chem.nlm.nih.gov/chemidplus/rn/68723-23-9,System Generated Number,0068723239
+2020-09-18T18:48:50Z,https://chem.nlm.nih.gov/chemidplus/rn/6808-72-6,CAS Registry Number,6808-72-6
+2020-09-18T18:48:50Z,https://chem.nlm.nih.gov/chemidplus/rn/6808-72-6,System Generated Number,0006808726
+2020-09-18T18:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/5697-56-3,CAS Registry Number,5697-56-3
+2020-09-18T18:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/5697-56-3,FDA UNII,MM6384NG73
+2020-09-18T18:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/5697-56-3,Other Registry Numbers,108064-10-4
+2020-09-18T18:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/5697-56-3,Other Registry Numbers,13020-80-9
+2020-09-18T18:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/5697-56-3,Other Registry Numbers,60093-85-8
+2020-09-18T18:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/5697-56-3,Other Registry Numbers,885512-34-5
+2020-09-18T18:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/5697-56-3,Other Registry Numbers,906421-35-0
+2020-09-18T18:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/5697-56-3,Related Registry Number,7421-40-1 (di-hydrochloride salt)
+2020-09-18T18:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/5697-56-3,System Generated Number,0005697563
+2020-09-18T18:49:39Z,https://chem.nlm.nih.gov/chemidplus/rn/151-73-5,CAS Registry Number,151-73-5
+2020-09-18T18:49:39Z,https://chem.nlm.nih.gov/chemidplus/rn/151-73-5,FDA UNII,7BK02SCL3W
+2020-09-18T18:49:39Z,https://chem.nlm.nih.gov/chemidplus/rn/151-73-5,Related Registry Number,360-63-4 (parent)
+2020-09-18T18:49:39Z,https://chem.nlm.nih.gov/chemidplus/rn/151-73-5,System Generated Number,0000151735
+2020-09-18T18:49:51Z,https://chem.nlm.nih.gov/chemidplus/rn/606143-52-6,CAS Registry Number,606143-52-6
+2020-09-18T18:49:51Z,https://chem.nlm.nih.gov/chemidplus/rn/606143-52-6,FDA UNII,6UH91I579U
+2020-09-18T18:49:51Z,https://chem.nlm.nih.gov/chemidplus/rn/606143-52-6,Other Registry Number,865610-79-3
+2020-09-18T18:49:51Z,https://chem.nlm.nih.gov/chemidplus/rn/606143-52-6,System Generated Number,0606143526
+2020-09-18T18:49:59Z,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3,CAS Registry Number,127-33-3
+2020-09-18T18:49:59Z,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3,FDA UNII,5R5W9ICI6O
+2020-09-18T18:49:59Z,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3,Other Registry Numbers,16204-02-7
+2020-09-18T18:49:59Z,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3,Other Registry Numbers,8059-70-9
+2020-09-18T18:49:59Z,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3,Related Registry Number,64-73-3 (mono-hydrochloride)
+2020-09-18T18:49:59Z,https://chem.nlm.nih.gov/chemidplus/rn/127-33-3,System Generated Number,0000127333
+2020-09-18T18:50:14Z,https://chem.nlm.nih.gov/chemidplus/rn/500307-87-9,CAS Registry Number,500307-87-9
+2020-09-18T18:50:14Z,https://chem.nlm.nih.gov/chemidplus/rn/500307-87-9,System Generated Number,0500307879
+2020-09-18T18:50:21Z,https://chem.nlm.nih.gov/chemidplus/rn/4891-15-0,CAS Registry Number,4891-15-0
+2020-09-18T18:50:21Z,https://chem.nlm.nih.gov/chemidplus/rn/4891-15-0,FDA UNII,MUZ9585Y7B
+2020-09-18T18:50:21Z,https://chem.nlm.nih.gov/chemidplus/rn/4891-15-0,System Generated Number,0004891150
+2020-09-18T18:50:29Z,https://chem.nlm.nih.gov/chemidplus/rn/950769-58-1,CAS Registry Number,950769-58-1
+2020-09-18T18:50:29Z,https://chem.nlm.nih.gov/chemidplus/rn/950769-58-1,FDA UNII,7LA4O6Q0D3
+2020-09-18T18:50:29Z,https://chem.nlm.nih.gov/chemidplus/rn/950769-58-1,System Generated Number,0950769581
+2020-09-18T18:50:36Z,https://chem.nlm.nih.gov/chemidplus/rn/300-62-9,CAS Registry Number,300-62-9
+2020-09-18T18:50:36Z,https://chem.nlm.nih.gov/chemidplus/rn/300-62-9,FDA UNII,CK833KGX7E
+2020-09-18T18:50:36Z,https://chem.nlm.nih.gov/chemidplus/rn/300-62-9,Other Registry Numbers,17108-96-2
+2020-09-18T18:50:36Z,https://chem.nlm.nih.gov/chemidplus/rn/300-62-9,Other Registry Numbers,60-15-1
+2020-09-18T18:50:36Z,https://chem.nlm.nih.gov/chemidplus/rn/300-62-9,Other Registry Numbers,96332-84-2
+2020-09-18T18:50:36Z,https://chem.nlm.nih.gov/chemidplus/rn/300-62-9,Related Registry Number,60-13-9 (sulfate (2:1))
+2020-09-18T18:50:36Z,https://chem.nlm.nih.gov/chemidplus/rn/300-62-9,System Generated Number,0000300629
+2020-09-18T18:50:43Z,https://chem.nlm.nih.gov/chemidplus/rn/33237-74-0,CAS Registry Number,33237-74-0
+2020-09-18T18:50:43Z,https://chem.nlm.nih.gov/chemidplus/rn/33237-74-0,FDA UNII,PB5EKT7Q2V
+2020-09-18T18:50:43Z,https://chem.nlm.nih.gov/chemidplus/rn/33237-74-0,System Generated Number,0033237740
+2020-09-18T18:50:52Z,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5,CAS Registry Number,944347-41-5
+2020-09-18T18:50:52Z,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5,FDA UNII,8E3C3C493W
+2020-09-18T18:50:52Z,https://chem.nlm.nih.gov/chemidplus/rn/944347-41-5,System Generated Number,0944347415
+2020-09-18T18:51:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1208255-63-3,CAS Registry Number,1208255-63-3
+2020-09-18T18:51:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1208255-63-3,FDA UNII,T76P158V9D
+2020-09-18T18:51:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1208255-63-3,System Generated Number,1208255633
+2020-09-18T18:51:14Z,https://chem.nlm.nih.gov/chemidplus/rn/915296-00-3,CAS Registry Number,915296-00-3
+2020-09-18T18:51:14Z,https://chem.nlm.nih.gov/chemidplus/rn/915296-00-3,FDA UNII,1351PE5UGS
+2020-09-18T18:51:14Z,https://chem.nlm.nih.gov/chemidplus/rn/915296-00-3,System Generated Number,0915296003
+2020-09-18T18:51:21Z,https://chem.nlm.nih.gov/chemidplus/rn/118549-32-9,CAS Registry Number,118549-32-9
+2020-09-18T18:51:21Z,https://chem.nlm.nih.gov/chemidplus/rn/118549-32-9,System Generated Number,0118549329
+2020-09-18T18:51:28Z,https://chem.nlm.nih.gov/chemidplus/rn/108-62-3,CAS Registry Number,108-62-3
+2020-09-18T18:51:28Z,https://chem.nlm.nih.gov/chemidplus/rn/108-62-3,FDA UNII,4CI033VJYG
+2020-09-18T18:51:28Z,https://chem.nlm.nih.gov/chemidplus/rn/108-62-3,System Generated Number,0000108623
+2020-09-18T18:51:36Z,https://chem.nlm.nih.gov/chemidplus/rn/5469-26-1,CAS Registry Number,5469-26-1
+2020-09-18T18:51:36Z,https://chem.nlm.nih.gov/chemidplus/rn/5469-26-1,System Generated Number,0005469261
+2020-09-18T18:51:43Z,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9,CAS Registry Number,52-53-9
+2020-09-18T18:51:43Z,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9,FDA UNII,CJ0O37KU29
+2020-09-18T18:51:43Z,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9,Other Registry Numbers,1007128-78-0
+2020-09-18T18:51:43Z,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9,Other Registry Numbers,56949-77-0
+2020-09-18T18:51:43Z,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9,Other Registry Numbers,7482-85-1
+2020-09-18T18:51:43Z,https://chem.nlm.nih.gov/chemidplus/rn/52-53-9,System Generated Number,0000052539
+2020-09-18T18:51:51Z,https://chem.nlm.nih.gov/chemidplus/rn/82911-61-3,CAS Registry Number,82911-61-3
+2020-09-18T18:51:51Z,https://chem.nlm.nih.gov/chemidplus/rn/82911-61-3,FDA UNII,728STZ5T0Z
+2020-09-18T18:51:51Z,https://chem.nlm.nih.gov/chemidplus/rn/82911-61-3,System Generated Number,0082911613
+2020-09-18T18:51:58Z,https://chem.nlm.nih.gov/chemidplus/rn/80-32-0,CAS Registry Number,80-32-0
+2020-09-18T18:51:58Z,https://chem.nlm.nih.gov/chemidplus/rn/80-32-0,FDA UNII,P78D9P90C0
+2020-09-18T18:51:58Z,https://chem.nlm.nih.gov/chemidplus/rn/80-32-0,System Generated Number,0000080320
+2020-09-18T18:52:09Z,https://chem.nlm.nih.gov/chemidplus/rn/610798-31-7,CAS Registry Number,610798-31-7
+2020-09-18T18:52:09Z,https://chem.nlm.nih.gov/chemidplus/rn/610798-31-7,FDA UNII,9G6U5L461Q
+2020-09-18T18:52:09Z,https://chem.nlm.nih.gov/chemidplus/rn/610798-31-7,System Generated Number,0610798317
+2020-09-18T18:52:17Z,https://chem.nlm.nih.gov/chemidplus/rn/306-94-5,CAS Registry Number,306-94-5
+2020-09-18T18:52:17Z,https://chem.nlm.nih.gov/chemidplus/rn/306-94-5,FDA UNII,54A06VV62N
+2020-09-18T18:52:17Z,https://chem.nlm.nih.gov/chemidplus/rn/306-94-5,Other Registry Numbers,1201928-37-1
+2020-09-18T18:52:17Z,https://chem.nlm.nih.gov/chemidplus/rn/306-94-5,Other Registry Numbers,127964-38-9
+2020-09-18T18:52:17Z,https://chem.nlm.nih.gov/chemidplus/rn/306-94-5,Other Registry Numbers,159813-90-8
+2020-09-18T18:52:17Z,https://chem.nlm.nih.gov/chemidplus/rn/306-94-5,Other Registry Numbers,70323-33-0
+2020-09-18T18:52:17Z,https://chem.nlm.nih.gov/chemidplus/rn/306-94-5,Other Registry Numbers,77115-10-7
+2020-09-18T18:52:17Z,https://chem.nlm.nih.gov/chemidplus/rn/306-94-5,System Generated Number,0000306945
+2020-09-18T18:52:24Z,https://chem.nlm.nih.gov/chemidplus/rn/40507-78-6,CAS Registry Number,40507-78-6
+2020-09-18T18:52:24Z,https://chem.nlm.nih.gov/chemidplus/rn/40507-78-6,FDA UNII,L0U38EHD86
+2020-09-18T18:52:24Z,https://chem.nlm.nih.gov/chemidplus/rn/40507-78-6,Related Registry Numbers,40507-80-0 (mono-hydrochloride)
+2020-09-18T18:52:24Z,https://chem.nlm.nih.gov/chemidplus/rn/40507-78-6,Related Registry Numbers,40507-86-6 (mononitrate)
+2020-09-18T18:52:24Z,https://chem.nlm.nih.gov/chemidplus/rn/40507-78-6,Related Registry Numbers,56601-85-5 (hydrochloride)
+2020-09-18T18:52:24Z,https://chem.nlm.nih.gov/chemidplus/rn/40507-78-6,System Generated Number,0040507786
+2020-09-18T18:52:31Z,https://chem.nlm.nih.gov/chemidplus/rn/58166-23-7,CAS Registry Number,58166-23-7
+2020-09-18T18:52:31Z,https://chem.nlm.nih.gov/chemidplus/rn/58166-23-7,FDA UNII,6PIP1VSZ7W
+2020-09-18T18:52:31Z,https://chem.nlm.nih.gov/chemidplus/rn/58166-23-7,System Generated Number,0058166237
+2020-09-18T18:52:39Z,https://chem.nlm.nih.gov/chemidplus/rn/866-73-9,CAS Registry Number,866-73-9
+2020-09-18T18:52:39Z,https://chem.nlm.nih.gov/chemidplus/rn/866-73-9,System Generated Number,0000866739
+2020-09-18T18:52:50Z,https://chem.nlm.nih.gov/chemidplus/rn/175865-61-9,CAS Registry Number,175865-61-9
+2020-09-18T18:52:50Z,https://chem.nlm.nih.gov/chemidplus/rn/175865-61-9,FDA UNII,J0IEW0BSHV
+2020-09-18T18:52:50Z,https://chem.nlm.nih.gov/chemidplus/rn/175865-61-9,System Generated Number,0175865619
+2020-09-18T18:52:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1984-15-2,CAS Registry Number,1984-15-2
+2020-09-18T18:52:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1984-15-2,FDA UNII,73OS0QIN3O
+2020-09-18T18:52:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1984-15-2,Other Registry Number,63347-66-0
+2020-09-18T18:52:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1984-15-2,Related Registry Numbers,25681-89-4 (di-hydrochloride salt)
+2020-09-18T18:52:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1984-15-2,Related Registry Numbers,6145-29-5 (tetra-hydrochloride salt)
+2020-09-18T18:52:57Z,https://chem.nlm.nih.gov/chemidplus/rn/1984-15-2,System Generated Number,0001984152
+2020-09-18T18:53:04Z,https://chem.nlm.nih.gov/chemidplus/rn/2557-49-5,CAS Registry Number,2557-49-5
+2020-09-18T18:53:04Z,https://chem.nlm.nih.gov/chemidplus/rn/2557-49-5,FDA UNII,T2DHJ9645W
+2020-09-18T18:53:04Z,https://chem.nlm.nih.gov/chemidplus/rn/2557-49-5,System Generated Number,0002557495
+2020-09-18T18:53:19Z,https://chem.nlm.nih.gov/chemidplus/rn/156090-18-5,CAS Registry Number,156090-18-5
+2020-09-18T18:53:19Z,https://chem.nlm.nih.gov/chemidplus/rn/156090-18-5,FDA UNII,R40RXC296C
+2020-09-18T18:53:19Z,https://chem.nlm.nih.gov/chemidplus/rn/156090-18-5,System Generated Number,0156090185
+2020-09-18T18:53:26Z,https://chem.nlm.nih.gov/chemidplus/rn/3572-60-9,CAS Registry Number,3572-60-9
+2020-09-18T18:53:26Z,https://chem.nlm.nih.gov/chemidplus/rn/3572-60-9,FDA UNII,A5A4FLA205
+2020-09-18T18:53:26Z,https://chem.nlm.nih.gov/chemidplus/rn/3572-60-9,System Generated Number,0003572609
+2020-09-18T18:53:33Z,https://chem.nlm.nih.gov/chemidplus/rn/105826-92-4,CAS Registry Number,105826-92-4
+2020-09-18T18:53:33Z,https://chem.nlm.nih.gov/chemidplus/rn/105826-92-4,FDA UNII,A19338Q2YO
+2020-09-18T18:53:33Z,https://chem.nlm.nih.gov/chemidplus/rn/105826-92-4,System Generated Number,0105826924
+2020-09-18T18:53:41Z,https://chem.nlm.nih.gov/chemidplus/rn/64-95-9,CAS Registry Number,64-95-9
+2020-09-18T18:53:41Z,https://chem.nlm.nih.gov/chemidplus/rn/64-95-9,FDA UNII,YKG6OR043Q
+2020-09-18T18:53:41Z,https://chem.nlm.nih.gov/chemidplus/rn/64-95-9,System Generated Number,0000064959
+2020-09-18T18:53:49Z,https://chem.nlm.nih.gov/chemidplus/rn/525-76-8,CAS Registry Number,525-76-8
+2020-09-18T18:53:49Z,https://chem.nlm.nih.gov/chemidplus/rn/525-76-8,FDA UNII,Y938TMX1D8
+2020-09-18T18:53:49Z,https://chem.nlm.nih.gov/chemidplus/rn/525-76-8,Other Registry Numbers,1610054-15-3
+2020-09-18T18:53:49Z,https://chem.nlm.nih.gov/chemidplus/rn/525-76-8,Other Registry Numbers,1703770-17-5
+2020-09-18T18:53:49Z,https://chem.nlm.nih.gov/chemidplus/rn/525-76-8,Other Registry Numbers,54637-60-4
+2020-09-18T18:53:49Z,https://chem.nlm.nih.gov/chemidplus/rn/525-76-8,System Generated Number,0000525768
+2020-09-18T18:54:00Z,https://chem.nlm.nih.gov/chemidplus/rn/479-18-5,CAS Registry Number,479-18-5
+2020-09-18T18:54:00Z,https://chem.nlm.nih.gov/chemidplus/rn/479-18-5,FDA UNII,263T0E9RR9
+2020-09-18T18:54:00Z,https://chem.nlm.nih.gov/chemidplus/rn/479-18-5,Other Registry Numbers,52756-53-3
+2020-09-18T18:54:00Z,https://chem.nlm.nih.gov/chemidplus/rn/479-18-5,Other Registry Numbers,68350-70-9
+2020-09-18T18:54:00Z,https://chem.nlm.nih.gov/chemidplus/rn/479-18-5,System Generated Number,0000479185
+2020-09-18T18:54:07Z,https://chem.nlm.nih.gov/chemidplus/rn/97-63-2,CAS Registry Number,97-63-2
+2020-09-18T18:54:07Z,https://chem.nlm.nih.gov/chemidplus/rn/97-63-2,FDA UNII,80F70CLT4O
+2020-09-18T18:54:07Z,https://chem.nlm.nih.gov/chemidplus/rn/97-63-2,System Generated Number,0000097632
+2020-09-18T18:54:32Z,https://chem.nlm.nih.gov/chemidplus/rn/13782-33-7,CAS Registry Number,13782-33-7
+2020-09-18T18:54:32Z,https://chem.nlm.nih.gov/chemidplus/rn/13782-33-7,System Generated Number,0013782337
+2020-09-18T18:54:39Z,https://chem.nlm.nih.gov/chemidplus/rn/1211441-98-3,CAS Registry Number,1211441-98-3
+2020-09-18T18:54:39Z,https://chem.nlm.nih.gov/chemidplus/rn/1211441-98-3,FDA UNII,TK8ERE8P56
+2020-09-18T18:54:39Z,https://chem.nlm.nih.gov/chemidplus/rn/1211441-98-3,System Generated Number,1211441983
+2020-09-18T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-80-8,CAS Registry Number,1088-80-8
+2020-09-18T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-80-8,FDA UNII,3B30XBE7S2
+2020-09-18T18:54:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1088-80-8,System Generated Number,0001088808
+2020-09-18T18:54:58Z,https://chem.nlm.nih.gov/chemidplus/rn/5002-47-1,CAS Registry Number,5002-47-1
+2020-09-18T18:54:58Z,https://chem.nlm.nih.gov/chemidplus/rn/5002-47-1,FDA UNII,FMU62K1L3C
+2020-09-18T18:54:58Z,https://chem.nlm.nih.gov/chemidplus/rn/5002-47-1,System Generated Number,0005002471
+2020-09-18T18:55:06Z,https://chem.nlm.nih.gov/chemidplus/rn/5134-38-3,CAS Registry Number,5134-38-3
+2020-09-18T18:55:06Z,https://chem.nlm.nih.gov/chemidplus/rn/5134-38-3,System Generated Number,0005134383
+2020-09-18T18:55:13Z,https://chem.nlm.nih.gov/chemidplus/rn/7287-19-6,CAS Registry Number,7287-19-6
+2020-09-18T18:55:13Z,https://chem.nlm.nih.gov/chemidplus/rn/7287-19-6,FDA UNII,1K20TB75IL
+2020-09-18T18:55:13Z,https://chem.nlm.nih.gov/chemidplus/rn/7287-19-6,Other Registry Number,83653-07-0
+2020-09-18T18:55:13Z,https://chem.nlm.nih.gov/chemidplus/rn/7287-19-6,System Generated Number,0007287196
+2020-09-18T18:55:20Z,https://chem.nlm.nih.gov/chemidplus/rn/545-49-3,CAS Registry Number,545-49-3
+2020-09-18T18:55:20Z,https://chem.nlm.nih.gov/chemidplus/rn/545-49-3,System Generated Number,0000545493
+2020-09-18T18:55:31Z,https://chem.nlm.nih.gov/chemidplus/rn/11115-83-6,CAS Registry Number,11115-83-6
+2020-09-18T18:55:31Z,https://chem.nlm.nih.gov/chemidplus/rn/11115-83-6,System Generated Number,0011115836
+2020-09-18T18:55:39Z,https://chem.nlm.nih.gov/chemidplus/rn/90350-40-6,CAS Registry Number,90350-40-6
+2020-09-18T18:55:39Z,https://chem.nlm.nih.gov/chemidplus/rn/90350-40-6,FDA UNII,G6CS53NCVS
+2020-09-18T18:55:39Z,https://chem.nlm.nih.gov/chemidplus/rn/90350-40-6,System Generated Number,0090350406
+2020-09-18T18:55:46Z,https://chem.nlm.nih.gov/chemidplus/rn/115436-72-1,CAS Registry Number,115436-72-1
+2020-09-18T18:55:46Z,https://chem.nlm.nih.gov/chemidplus/rn/115436-72-1,FDA UNII,OFG5EXG60L
+2020-09-18T18:55:46Z,https://chem.nlm.nih.gov/chemidplus/rn/115436-72-1,Related Registry Number,105462-24-6 (Parent)
+2020-09-18T18:55:46Z,https://chem.nlm.nih.gov/chemidplus/rn/115436-72-1,System Generated Number,0115436721
+2020-09-18T18:55:53Z,https://chem.nlm.nih.gov/chemidplus/rn/59917-39-4,CAS Registry Number,59917-39-4
+2020-09-18T18:55:53Z,https://chem.nlm.nih.gov/chemidplus/rn/59917-39-4,FDA UNII,CPH2U7DNDY
+2020-09-18T18:55:53Z,https://chem.nlm.nih.gov/chemidplus/rn/59917-39-4,System Generated Number,0059917394
+2020-09-18T18:56:00Z,https://chem.nlm.nih.gov/chemidplus/rn/176669-18-4,CAS Registry Number,176669-18-4
+2020-09-18T18:56:00Z,https://chem.nlm.nih.gov/chemidplus/rn/176669-18-4,FDA UNII,7389YR3OOV
+2020-09-18T18:56:00Z,https://chem.nlm.nih.gov/chemidplus/rn/176669-18-4,Other Registry Number,160369-78-8
+2020-09-18T18:56:00Z,https://chem.nlm.nih.gov/chemidplus/rn/176669-18-4,System Generated Number,0176669184
+2020-09-18T18:56:08Z,https://chem.nlm.nih.gov/chemidplus/rn/142469-14-5,CAS Registry Number,142469-14-5
+2020-09-18T18:56:08Z,https://chem.nlm.nih.gov/chemidplus/rn/142469-14-5,FDA UNII,U9927AJG71
+2020-09-18T18:56:08Z,https://chem.nlm.nih.gov/chemidplus/rn/142469-14-5,System Generated Number,0142469145
+2020-09-18T18:56:15Z,https://chem.nlm.nih.gov/chemidplus/rn/65-86-1,CAS Registry Number,65-86-1
+2020-09-18T18:56:15Z,https://chem.nlm.nih.gov/chemidplus/rn/65-86-1,FDA UNII,61H4T033E5
+2020-09-18T18:56:15Z,https://chem.nlm.nih.gov/chemidplus/rn/65-86-1,Other Registry Numbers,58915-47-2
+2020-09-18T18:56:15Z,https://chem.nlm.nih.gov/chemidplus/rn/65-86-1,Other Registry Numbers,6784-70-9
+2020-09-18T18:56:15Z,https://chem.nlm.nih.gov/chemidplus/rn/65-86-1,System Generated Number,0000065861
+2020-09-18T18:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1385020-40-5,CAS Registry Number,1385020-40-5
+2020-09-18T18:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1385020-40-5,FDA UNII,N98S79PF2I
+2020-09-18T18:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1385020-40-5,Other Registry Number,1197403-33-0
+2020-09-18T18:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/1385020-40-5,System Generated Number,1385020405
+2020-09-18T18:56:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9014-67-9,CAS Registry Number,9014-67-9
+2020-09-18T18:56:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9014-67-9,FDA UNII,6QT214X4XU
+2020-09-18T18:56:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9014-67-9,System Generated Number,0009014679
+2020-09-18T18:56:37Z,https://chem.nlm.nih.gov/chemidplus/rn/79-01-6,CAS Registry Number,79-01-6
+2020-09-18T18:56:37Z,https://chem.nlm.nih.gov/chemidplus/rn/79-01-6,FDA UNII,290YE8AR51
+2020-09-18T18:56:37Z,https://chem.nlm.nih.gov/chemidplus/rn/79-01-6,Other Registry Number,52037-46-4
+2020-09-18T18:56:37Z,https://chem.nlm.nih.gov/chemidplus/rn/79-01-6,System Generated Number,0000079016
+2020-09-18T18:56:45Z,https://chem.nlm.nih.gov/chemidplus/rn/63748-54-9,CAS Registry Number,63748-54-9
+2020-09-18T18:56:45Z,https://chem.nlm.nih.gov/chemidplus/rn/63748-54-9,System Generated Number,0063748549
+2020-09-18T18:56:52Z,https://chem.nlm.nih.gov/chemidplus/rn/25122-46-7,CAS Registry Number,25122-46-7
+2020-09-18T18:56:52Z,https://chem.nlm.nih.gov/chemidplus/rn/25122-46-7,FDA UNII,779619577M
+2020-09-18T18:56:52Z,https://chem.nlm.nih.gov/chemidplus/rn/25122-46-7,System Generated Number,0025122467
+2020-09-18T18:57:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1195768-06-9,CAS Registry Number,1195768-06-9
+2020-09-18T18:57:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1195768-06-9,FDA UNII,B6DC89I63E
+2020-09-18T18:57:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1195768-06-9,System Generated Number,1195768069
+2020-09-18T18:57:07Z,https://chem.nlm.nih.gov/chemidplus/rn/37203-49-9,CAS Registry Number,37203-49-9
+2020-09-18T18:57:07Z,https://chem.nlm.nih.gov/chemidplus/rn/37203-49-9,System Generated Number,0037203499
+2020-09-18T18:57:21Z,https://chem.nlm.nih.gov/chemidplus/rn/135669-44-2,CAS Registry Number,135669-44-2
+2020-09-18T18:57:21Z,https://chem.nlm.nih.gov/chemidplus/rn/135669-44-2,System Generated Number,0135669442
+2020-09-18T18:57:29Z,https://chem.nlm.nih.gov/chemidplus/rn/7240-38-2,CAS Registry Number,7240-38-2
+2020-09-18T18:57:29Z,https://chem.nlm.nih.gov/chemidplus/rn/7240-38-2,FDA UNII,G0V6C994Q5
+2020-09-18T18:57:29Z,https://chem.nlm.nih.gov/chemidplus/rn/7240-38-2,Related Registry Number,66-79-5 (Parent)
+2020-09-18T18:57:29Z,https://chem.nlm.nih.gov/chemidplus/rn/7240-38-2,System Generated Number,0007240382
+2020-09-18T18:57:36Z,https://chem.nlm.nih.gov/chemidplus/rn/68002-60-8,CAS Registry Number,68002-60-8
+2020-09-18T18:57:36Z,https://chem.nlm.nih.gov/chemidplus/rn/68002-60-8,FDA UNII,2L35144H4P
+2020-09-18T18:57:36Z,https://chem.nlm.nih.gov/chemidplus/rn/68002-60-8,Other Registry Numbers,1373879-48-1
+2020-09-18T18:57:36Z,https://chem.nlm.nih.gov/chemidplus/rn/68002-60-8,Other Registry Numbers,68918-71-8
+2020-09-18T18:57:36Z,https://chem.nlm.nih.gov/chemidplus/rn/68002-60-8,System Generated Number,0068002608
+2020-09-18T18:57:43Z,https://chem.nlm.nih.gov/chemidplus/rn/58-20-8,CAS Registry Number,58-20-8
+2020-09-18T18:57:43Z,https://chem.nlm.nih.gov/chemidplus/rn/58-20-8,FDA UNII,M0XW1UBI14
+2020-09-18T18:57:43Z,https://chem.nlm.nih.gov/chemidplus/rn/58-20-8,System Generated Number,0000058208
+2020-09-18T18:57:51Z,https://chem.nlm.nih.gov/chemidplus/rn/143653-53-6,CAS Registry Number,143653-53-6
+2020-09-18T18:57:51Z,https://chem.nlm.nih.gov/chemidplus/rn/143653-53-6,FDA UNII,X85G7936GV
+2020-09-18T18:57:51Z,https://chem.nlm.nih.gov/chemidplus/rn/143653-53-6,System Generated Number,0143653536
+2020-09-18T18:57:58Z,https://chem.nlm.nih.gov/chemidplus/rn/16208-51-8,CAS Registry Number,16208-51-8
+2020-09-18T18:57:58Z,https://chem.nlm.nih.gov/chemidplus/rn/16208-51-8,FDA UNII,230R951Y4D
+2020-09-18T18:57:58Z,https://chem.nlm.nih.gov/chemidplus/rn/16208-51-8,Related Registry Number,45127-11-5 (Parent)
+2020-09-18T18:57:58Z,https://chem.nlm.nih.gov/chemidplus/rn/16208-51-8,System Generated Number,0016208518
+2020-09-18T18:58:05Z,https://chem.nlm.nih.gov/chemidplus/rn/89778-26-7,CAS Registry Number,89778-26-7
+2020-09-18T18:58:05Z,https://chem.nlm.nih.gov/chemidplus/rn/89778-26-7,FDA UNII,7NFE54O27T
+2020-09-18T18:58:05Z,https://chem.nlm.nih.gov/chemidplus/rn/89778-26-7,Other Registry Number,98644-21-4
+2020-09-18T18:58:05Z,https://chem.nlm.nih.gov/chemidplus/rn/89778-26-7,Related Registry Number,89778-27-8 (citrate (1:1))
+2020-09-18T18:58:05Z,https://chem.nlm.nih.gov/chemidplus/rn/89778-26-7,System Generated Number,0089778267
+2020-09-18T18:58:13Z,https://chem.nlm.nih.gov/chemidplus/rn/70711-41-0,CAS Registry Number,70711-41-0
+2020-09-18T18:58:13Z,https://chem.nlm.nih.gov/chemidplus/rn/70711-41-0,Related Registry Number,65271-80-9 (Parent)
+2020-09-18T18:58:13Z,https://chem.nlm.nih.gov/chemidplus/rn/70711-41-0,System Generated Number,0070711410
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,CAS Registry Number,137-26-8
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,FDA UNII,0D771IS0FH
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,Other Registry Numbers,1135443-08-1
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,Other Registry Numbers,12680-07-8
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,Other Registry Numbers,12680-62-5
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,Other Registry Numbers,200889-05-0
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,Other Registry Numbers,2213445-87-3
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,Other Registry Numbers,39456-80-9
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,Other Registry Numbers,56645-31-9
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,Other Registry Numbers,66173-72-6
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,Other Registry Numbers,92481-09-9
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,Other Registry Numbers,93196-73-7
+2020-09-18T18:58:20Z,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8,System Generated Number,0000137268
+2020-09-18T18:58:28Z,https://chem.nlm.nih.gov/chemidplus/rn/438-41-5,CAS Registry Number,438-41-5
+2020-09-18T18:58:28Z,https://chem.nlm.nih.gov/chemidplus/rn/438-41-5,FDA UNII,MFM6K1XWDK
+2020-09-18T18:58:28Z,https://chem.nlm.nih.gov/chemidplus/rn/438-41-5,Related Registry Number,58-25-3
+2020-09-18T18:58:28Z,https://chem.nlm.nih.gov/chemidplus/rn/438-41-5,System Generated Number,0000438415
+2020-09-18T18:58:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1400-61-9,CAS Registry Number,1400-61-9
+2020-09-18T18:58:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1400-61-9,FDA UNII,BDF1O1C72E
+2020-09-18T18:58:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1400-61-9,System Generated Number,0001400619
+2020-09-18T18:58:43Z,https://chem.nlm.nih.gov/chemidplus/rn/68-23-5,CAS Registry Number,68-23-5
+2020-09-18T18:58:43Z,https://chem.nlm.nih.gov/chemidplus/rn/68-23-5,FDA UNII,88181ACA0M
+2020-09-18T18:58:43Z,https://chem.nlm.nih.gov/chemidplus/rn/68-23-5,System Generated Number,0000068235
+2020-09-18T18:58:50Z,https://chem.nlm.nih.gov/chemidplus/rn/34642-77-8,CAS Registry Number,34642-77-8
+2020-09-18T18:58:50Z,https://chem.nlm.nih.gov/chemidplus/rn/34642-77-8,FDA UNII,544Y3D6MYH
+2020-09-18T18:58:50Z,https://chem.nlm.nih.gov/chemidplus/rn/34642-77-8,Related Registry Number,26787-78-0 (Parent)
+2020-09-18T18:58:50Z,https://chem.nlm.nih.gov/chemidplus/rn/34642-77-8,System Generated Number,0034642778
+2020-09-18T18:58:57Z,https://chem.nlm.nih.gov/chemidplus/rn/86116-44-1,CAS Registry Number,86116-44-1
+2020-09-18T18:58:57Z,https://chem.nlm.nih.gov/chemidplus/rn/86116-44-1,System Generated Number,0086116441
+2020-09-18T18:59:04Z,https://chem.nlm.nih.gov/chemidplus/rn/152946-68-4,CAS Registry Number,152946-68-4
+2020-09-18T18:59:04Z,https://chem.nlm.nih.gov/chemidplus/rn/152946-68-4,FDA UNII,1XA69O733O
+2020-09-18T18:59:04Z,https://chem.nlm.nih.gov/chemidplus/rn/152946-68-4,System Generated Number,0152946684
+2020-09-18T18:59:12Z,https://chem.nlm.nih.gov/chemidplus/rn/18503-71-4,CAS Registry Number,18503-71-4
+2020-09-18T18:59:12Z,https://chem.nlm.nih.gov/chemidplus/rn/18503-71-4,System Generated Number,0018503714
+2020-09-18T18:59:15Z,https://chem.nlm.nih.gov/chemidplus/rn/61299-42-1,CAS Registry Number,61299-42-1
+2020-09-18T18:59:15Z,https://chem.nlm.nih.gov/chemidplus/rn/61299-42-1,FDA UNII,5B9HO1M7AY
+2020-09-18T18:59:15Z,https://chem.nlm.nih.gov/chemidplus/rn/61299-42-1,System Generated Number,0061299421
+2020-09-18T18:59:23Z,https://chem.nlm.nih.gov/chemidplus/rn/55870-64-9,CAS Registry Number,55870-64-9
+2020-09-18T18:59:23Z,https://chem.nlm.nih.gov/chemidplus/rn/55870-64-9,FDA UNII,L5BS6WSR0E
+2020-09-18T18:59:23Z,https://chem.nlm.nih.gov/chemidplus/rn/55870-64-9,System Generated Number,0055870649
+2020-09-18T18:59:30Z,https://chem.nlm.nih.gov/chemidplus/rn/66682-48-2,CAS Registry Number,66682-48-2
+2020-09-18T18:59:30Z,https://chem.nlm.nih.gov/chemidplus/rn/66682-48-2,System Generated Number,0066682482
+2020-09-18T18:59:55Z,https://chem.nlm.nih.gov/chemidplus/rn/479198-61-3,CAS Registry Number,479198-61-3
+2020-09-18T18:59:55Z,https://chem.nlm.nih.gov/chemidplus/rn/479198-61-3,FDA UNII,X08H9UZ7TO
+2020-09-18T18:59:55Z,https://chem.nlm.nih.gov/chemidplus/rn/479198-61-3,System Generated Number,0479198613
+2020-09-18T19:00:03Z,https://chem.nlm.nih.gov/chemidplus/rn/149647-78-9,CAS Registry Number,149647-78-9
+2020-09-18T19:00:03Z,https://chem.nlm.nih.gov/chemidplus/rn/149647-78-9,FDA UNII,58IFB293JI
+2020-09-18T19:00:03Z,https://chem.nlm.nih.gov/chemidplus/rn/149647-78-9,System Generated Number,0149647789
+2020-09-18T19:00:10Z,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5,CAS Registry Number,121-75-5
+2020-09-18T19:00:10Z,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5,FDA UNII,U5N7SU872W
+2020-09-18T19:00:10Z,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5,Other Registry Numbers,11096-67-6
+2020-09-18T19:00:10Z,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5,Other Registry Numbers,11130-60-2
+2020-09-18T19:00:10Z,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5,Other Registry Numbers,12737-19-8
+2020-09-18T19:00:10Z,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5,Other Registry Numbers,12767-62-3
+2020-09-18T19:00:10Z,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5,Other Registry Numbers,141263-96-9
+2020-09-18T19:00:10Z,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5,Other Registry Numbers,75513-83-6
+2020-09-18T19:00:10Z,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5,System Generated Number,0000121755
+2020-09-18T19:00:17Z,https://chem.nlm.nih.gov/chemidplus/rn/19685-09-7,CAS Registry Number,19685-09-7
+2020-09-18T19:00:17Z,https://chem.nlm.nih.gov/chemidplus/rn/19685-09-7,FDA UNII,9Z01632KRV
+2020-09-18T19:00:17Z,https://chem.nlm.nih.gov/chemidplus/rn/19685-09-7,Other Registry Numbers,104155-90-0
+2020-09-18T19:00:17Z,https://chem.nlm.nih.gov/chemidplus/rn/19685-09-7,Other Registry Numbers,157405-42-0
+2020-09-18T19:00:17Z,https://chem.nlm.nih.gov/chemidplus/rn/19685-09-7,System Generated Number,0019685097
+2020-09-18T19:00:24Z,https://chem.nlm.nih.gov/chemidplus/rn/40796-97-2,CAS Registry Number,40796-97-2
+2020-09-18T19:00:24Z,https://chem.nlm.nih.gov/chemidplus/rn/40796-97-2,FDA UNII,O98T3677PA
+2020-09-18T19:00:24Z,https://chem.nlm.nih.gov/chemidplus/rn/40796-97-2,System Generated Number,0040796972
+2020-09-18T19:00:32Z,https://chem.nlm.nih.gov/chemidplus/rn/320-67-2,CAS Registry Number,320-67-2
+2020-09-18T19:00:32Z,https://chem.nlm.nih.gov/chemidplus/rn/320-67-2,FDA UNII,M801H13NRU
+2020-09-18T19:00:32Z,https://chem.nlm.nih.gov/chemidplus/rn/320-67-2,System Generated Number,0000320672
+2020-09-18T19:00:39Z,https://chem.nlm.nih.gov/chemidplus/rn/119618-22-3,CAS Registry Number,119618-22-3
+2020-09-18T19:00:39Z,https://chem.nlm.nih.gov/chemidplus/rn/119618-22-3,FDA UNII,39EY4NVB8T
+2020-09-18T19:00:39Z,https://chem.nlm.nih.gov/chemidplus/rn/119618-22-3,System Generated Number,0119618223
+2020-09-18T19:00:46Z,https://chem.nlm.nih.gov/chemidplus/rn/117857-45-1,CAS Registry Number,117857-45-1
+2020-09-18T19:00:46Z,https://chem.nlm.nih.gov/chemidplus/rn/117857-45-1,FDA UNII,6DJ32STZ5W
+2020-09-18T19:00:46Z,https://chem.nlm.nih.gov/chemidplus/rn/117857-45-1,System Generated Number,0117857451
+2020-09-18T19:00:55Z,https://chem.nlm.nih.gov/chemidplus/rn/12226-08-3,CAS Registry Number,12226-08-3
+2020-09-18T19:00:55Z,https://chem.nlm.nih.gov/chemidplus/rn/12226-08-3,FDA UNII,S99859O21N
+2020-09-18T19:00:55Z,https://chem.nlm.nih.gov/chemidplus/rn/12226-08-3,System Generated Number,0012226083
+2020-09-18T19:00:58Z,https://chem.nlm.nih.gov/chemidplus/rn/186028-80-8,CAS Registry Number,186028-80-8
+2020-09-18T19:00:58Z,https://chem.nlm.nih.gov/chemidplus/rn/186028-80-8,FDA UNII,D930G9LZ75
+2020-09-18T19:00:58Z,https://chem.nlm.nih.gov/chemidplus/rn/186028-80-8,System Generated Number,0186028808
+2020-09-18T19:01:06Z,https://chem.nlm.nih.gov/chemidplus/rn/1660-94-2,CAS Registry Number,1660-94-2
+2020-09-18T19:01:06Z,https://chem.nlm.nih.gov/chemidplus/rn/1660-94-2,System Generated Number,0001660942
+2020-09-18T19:01:13Z,https://chem.nlm.nih.gov/chemidplus/rn/917381-47-6,CAS Registry Number,917381-47-6
+2020-09-18T19:01:13Z,https://chem.nlm.nih.gov/chemidplus/rn/917381-47-6,FDA UNII,8Q622VDR18
+2020-09-18T19:01:13Z,https://chem.nlm.nih.gov/chemidplus/rn/917381-47-6,System Generated Number,0917381476
+2020-09-18T19:01:21Z,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3,CAS Registry Number,443913-73-3
+2020-09-18T19:01:21Z,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3,FDA UNII,YO460OQ37K
+2020-09-18T19:01:21Z,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3,Other Registry Number,338992-00-0
+2020-09-18T19:01:21Z,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3,System Generated Number,0443913733
+2020-09-18T19:01:29Z,https://chem.nlm.nih.gov/chemidplus/rn/488-41-5,CAS Registry Number,488-41-5
+2020-09-18T19:01:29Z,https://chem.nlm.nih.gov/chemidplus/rn/488-41-5,FDA UNII,5UP30YED7N
+2020-09-18T19:01:29Z,https://chem.nlm.nih.gov/chemidplus/rn/488-41-5,System Generated Number,0000488415
+2020-09-18T19:01:32Z,https://chem.nlm.nih.gov/chemidplus/rn/946161-17-7,CAS Registry Number,946161-17-7
+2020-09-18T19:01:32Z,https://chem.nlm.nih.gov/chemidplus/rn/946161-17-7,FDA UNII,O72812O5MN
+2020-09-18T19:01:32Z,https://chem.nlm.nih.gov/chemidplus/rn/946161-17-7,System Generated Number,0946161177
+2020-09-18T19:01:39Z,https://chem.nlm.nih.gov/chemidplus/rn/847871-99-2,CAS Registry Number,847871-99-2
+2020-09-18T19:01:39Z,https://chem.nlm.nih.gov/chemidplus/rn/847871-99-2,FDA UNII,XQT0NAW8WD
+2020-09-18T19:01:39Z,https://chem.nlm.nih.gov/chemidplus/rn/847871-99-2,System Generated Number,0847871992
+2020-09-18T19:01:47Z,https://chem.nlm.nih.gov/chemidplus/rn/2097-16-7,CAS Registry Number,2097-16-7
+2020-09-18T19:01:47Z,https://chem.nlm.nih.gov/chemidplus/rn/2097-16-7,System Generated Number,0002097167
+2020-09-18T19:01:54Z,https://chem.nlm.nih.gov/chemidplus/rn/126532-33-0,CAS Registry Number,126532-33-0
+2020-09-18T19:01:54Z,https://chem.nlm.nih.gov/chemidplus/rn/126532-33-0,System Generated Number,0126532330
+2020-09-18T19:02:02Z,https://chem.nlm.nih.gov/chemidplus/rn/135567-49-6,CAS Registry Number,135567-49-6
+2020-09-18T19:02:02Z,https://chem.nlm.nih.gov/chemidplus/rn/135567-49-6,FDA UNII,R5D4HY8O0O
+2020-09-18T19:02:02Z,https://chem.nlm.nih.gov/chemidplus/rn/135567-49-6,System Generated Number,0135567496
+2020-09-18T19:02:09Z,https://chem.nlm.nih.gov/chemidplus/rn/851983-85-2,CAS Registry Number,851983-85-2
+2020-09-18T19:02:09Z,https://chem.nlm.nih.gov/chemidplus/rn/851983-85-2,FDA UNII,WA33E149SW
+2020-09-18T19:02:09Z,https://chem.nlm.nih.gov/chemidplus/rn/851983-85-2,System Generated Number,0851983852
+2020-09-18T19:02:16Z,https://chem.nlm.nih.gov/chemidplus/rn/1058624-46-6,CAS Registry Number,1058624-46-6
+2020-09-18T19:02:16Z,https://chem.nlm.nih.gov/chemidplus/rn/1058624-46-6,FDA UNII,K82DG47I0G
+2020-09-18T19:02:16Z,https://chem.nlm.nih.gov/chemidplus/rn/1058624-46-6,Other Registry Number,1138339-63-5
+2020-09-18T19:02:16Z,https://chem.nlm.nih.gov/chemidplus/rn/1058624-46-6,System Generated Number,1058624466
+2020-09-18T19:02:41Z,https://chem.nlm.nih.gov/chemidplus/rn/13601-08-6,CAS Registry Number,13601-08-6
+2020-09-18T19:02:41Z,https://chem.nlm.nih.gov/chemidplus/rn/13601-08-6,Related Registry Number,15974-14-8 (Parent)
+2020-09-18T19:02:41Z,https://chem.nlm.nih.gov/chemidplus/rn/13601-08-6,System Generated Number,0013601086
+2020-09-18T19:02:50Z,https://chem.nlm.nih.gov/chemidplus/rn/64234-48-6,CAS Registry Number,64234-48-6
+2020-09-18T19:02:50Z,https://chem.nlm.nih.gov/chemidplus/rn/64234-48-6,System Generated Number,0064234486
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,CAS Registry Number,471-34-1
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,FDA UNII,H0G9379FGK
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,114453-69-9
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,1312764-88-7
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,1352815-51-0
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,137803-94-2
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,1437084-75-7
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,146358-95-4
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,148092-93-7
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,1641572-50-0
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,166516-01-4
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,172307-27-6
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,180616-31-3
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,197809-38-4
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,198352-33-9
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,2222732-78-5
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,251358-28-8
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,39454-55-2
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,459411-10-0
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,60083-79-6
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,63660-97-9
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,71060-88-3
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,72608-12-9
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,Other Registry Numbers,878759-26-3
+2020-09-18T19:02:52Z,https://chem.nlm.nih.gov/chemidplus/rn/471-34-1,System Generated Number,0000471341
+2020-09-18T19:02:59Z,https://chem.nlm.nih.gov/chemidplus/rn/119221-49-7,CAS Registry Number,119221-49-7
+2020-09-18T19:02:59Z,https://chem.nlm.nih.gov/chemidplus/rn/119221-49-7,FDA UNII,X9GSL37ED0
+2020-09-18T19:02:59Z,https://chem.nlm.nih.gov/chemidplus/rn/119221-49-7,System Generated Number,0119221497
+2020-09-18T19:03:07Z,https://chem.nlm.nih.gov/chemidplus/rn/517-43-1,CAS Registry Number,517-43-1
+2020-09-18T19:03:07Z,https://chem.nlm.nih.gov/chemidplus/rn/517-43-1,FDA UNII,9VK7V8762D
+2020-09-18T19:03:07Z,https://chem.nlm.nih.gov/chemidplus/rn/517-43-1,System Generated Number,0000517431
+2020-09-18T19:03:15Z,https://chem.nlm.nih.gov/chemidplus/rn/53-18-9,CAS Registry Number,53-18-9
+2020-09-18T19:03:15Z,https://chem.nlm.nih.gov/chemidplus/rn/53-18-9,FDA UNII,0P5B94FVD5
+2020-09-18T19:03:15Z,https://chem.nlm.nih.gov/chemidplus/rn/53-18-9,System Generated Number,0000053189
+2020-09-18T19:03:22Z,https://chem.nlm.nih.gov/chemidplus/rn/4987-75-1,CAS Registry Number,4987-75-1
+2020-09-18T19:03:22Z,https://chem.nlm.nih.gov/chemidplus/rn/4987-75-1,System Generated Number,0004987751
+2020-09-18T19:03:29Z,https://chem.nlm.nih.gov/chemidplus/rn/6742-08-1,CAS Registry Number,6742-08-1
+2020-09-18T19:03:29Z,https://chem.nlm.nih.gov/chemidplus/rn/6742-08-1,System Generated Number,0006742081
+2020-09-18T19:03:37Z,https://chem.nlm.nih.gov/chemidplus/rn/24584-09-6,CAS Registry Number,24584-09-6
+2020-09-18T19:03:37Z,https://chem.nlm.nih.gov/chemidplus/rn/24584-09-6,FDA UNII,048L81261F
+2020-09-18T19:03:37Z,https://chem.nlm.nih.gov/chemidplus/rn/24584-09-6,System Generated Number,0024584096
+2020-09-18T19:03:44Z,https://chem.nlm.nih.gov/chemidplus/rn/100007-55-4,CAS Registry Number,100007-55-4
+2020-09-18T19:03:44Z,https://chem.nlm.nih.gov/chemidplus/rn/100007-55-4,FDA UNII,F65IJO84A1
+2020-09-18T19:03:44Z,https://chem.nlm.nih.gov/chemidplus/rn/100007-55-4,System Generated Number,0100007554
+2020-09-18T19:03:51Z,https://chem.nlm.nih.gov/chemidplus/rn/2295-58-1,CAS Registry Number,2295-58-1
+2020-09-18T19:03:51Z,https://chem.nlm.nih.gov/chemidplus/rn/2295-58-1,FDA UNII,05V5NVB5Y1
+2020-09-18T19:03:51Z,https://chem.nlm.nih.gov/chemidplus/rn/2295-58-1,System Generated Number,0002295581
+2020-09-18T19:03:58Z,https://chem.nlm.nih.gov/chemidplus/rn/490-23-3,CAS Registry Number,490-23-3
+2020-09-18T19:03:58Z,https://chem.nlm.nih.gov/chemidplus/rn/490-23-3,FDA UNII,CHH810ZM8C
+2020-09-18T19:03:58Z,https://chem.nlm.nih.gov/chemidplus/rn/490-23-3,Other Registry Numbers,134931-97-8
+2020-09-18T19:03:58Z,https://chem.nlm.nih.gov/chemidplus/rn/490-23-3,Other Registry Numbers,14101-69-0
+2020-09-18T19:03:58Z,https://chem.nlm.nih.gov/chemidplus/rn/490-23-3,System Generated Number,0000490233
+2020-09-18T19:04:06Z,https://chem.nlm.nih.gov/chemidplus/rn/145843-38-5,CAS Registry Number,145843-38-5
+2020-09-18T19:04:06Z,https://chem.nlm.nih.gov/chemidplus/rn/145843-38-5,System Generated Number,0145843385
+2020-09-18T19:04:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1264-66-0,CAS Registry Number,1264-66-0
+2020-09-18T19:04:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1264-66-0,System Generated Number,0001264660
+2020-09-18T19:04:21Z,https://chem.nlm.nih.gov/chemidplus/rn/121929-20-2,CAS Registry Number,121929-20-2
+2020-09-18T19:04:21Z,https://chem.nlm.nih.gov/chemidplus/rn/121929-20-2,FDA UNII,H1C5F0K79E
+2020-09-18T19:04:21Z,https://chem.nlm.nih.gov/chemidplus/rn/121929-20-2,System Generated Number,0121929202
+2020-09-18T19:04:24Z,https://chem.nlm.nih.gov/chemidplus/rn/152443-03-3,CAS Registry Number,152443-03-3
+2020-09-18T19:04:24Z,https://chem.nlm.nih.gov/chemidplus/rn/152443-03-3,System Generated Number,0152443033
+2020-09-18T19:04:32Z,https://chem.nlm.nih.gov/chemidplus/rn/132-92-3,CAS Registry Number,132-92-3
+2020-09-18T19:04:32Z,https://chem.nlm.nih.gov/chemidplus/rn/132-92-3,FDA UNII,NBQ410S76Y
+2020-09-18T19:04:32Z,https://chem.nlm.nih.gov/chemidplus/rn/132-92-3,Related Registry Number,61-32-5 (Parent)
+2020-09-18T19:04:32Z,https://chem.nlm.nih.gov/chemidplus/rn/132-92-3,System Generated Number,0000132923
+2020-09-18T19:04:39Z,https://chem.nlm.nih.gov/chemidplus/rn/58166-25-9,CAS Registry Number,58166-25-9
+2020-09-18T19:04:39Z,https://chem.nlm.nih.gov/chemidplus/rn/58166-25-9,FDA UNII,9XH2P2N8EP
+2020-09-18T19:04:39Z,https://chem.nlm.nih.gov/chemidplus/rn/58166-25-9,System Generated Number,0058166259
+2020-09-18T19:05:06Z,https://chem.nlm.nih.gov/chemidplus/rn/1316214-52-4,CAS Registry Number,1316214-52-4
+2020-09-18T19:05:06Z,https://chem.nlm.nih.gov/chemidplus/rn/1316214-52-4,FDA UNII,WKT909C62B
+2020-09-18T19:05:06Z,https://chem.nlm.nih.gov/chemidplus/rn/1316214-52-4,System Generated Number,1316214524
+2020-09-18T19:05:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1044511-01-4,CAS Registry Number,1044511-01-4
+2020-09-18T19:05:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1044511-01-4,FDA UNII,71492GE1FX
+2020-09-18T19:05:13Z,https://chem.nlm.nih.gov/chemidplus/rn/1044511-01-4,System Generated Number,1044511014
+2020-09-18T19:05:21Z,https://chem.nlm.nih.gov/chemidplus/rn/145464-27-3,CAS Registry Number,145464-27-3
+2020-09-18T19:05:21Z,https://chem.nlm.nih.gov/chemidplus/rn/145464-27-3,System Generated Number,0145464273
+2020-09-18T19:05:28Z,https://chem.nlm.nih.gov/chemidplus/rn/97067-70-4,CAS Registry Number,97067-70-4
+2020-09-18T19:05:28Z,https://chem.nlm.nih.gov/chemidplus/rn/97067-70-4,FDA UNII,625J2HS54G
+2020-09-18T19:05:28Z,https://chem.nlm.nih.gov/chemidplus/rn/97067-70-4,System Generated Number,0097067704
+2020-09-18T19:05:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1492-18-8,CAS Registry Number,1492-18-8
+2020-09-18T19:05:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1492-18-8,FDA UNII,RPR1R4C0P4
+2020-09-18T19:05:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1492-18-8,Other Registry Numbers,1236362-90-5
+2020-09-18T19:05:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1492-18-8,Other Registry Numbers,30771-29-0
+2020-09-18T19:05:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1492-18-8,Other Registry Numbers,6035-86-5
+2020-09-18T19:05:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1492-18-8,Other Registry Numbers,6209-45-6
+2020-09-18T19:05:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1492-18-8,Related Registry Number,58-05-9 (Parent)
+2020-09-18T19:05:37Z,https://chem.nlm.nih.gov/chemidplus/rn/1492-18-8,System Generated Number,0001492188
+2020-09-18T19:05:52Z,https://chem.nlm.nih.gov/chemidplus/rn/10070-48-1,CAS Registry Number,10070-48-1
+2020-09-18T19:05:52Z,https://chem.nlm.nih.gov/chemidplus/rn/10070-48-1,FDA UNII,5F669S8218
+2020-09-18T19:05:52Z,https://chem.nlm.nih.gov/chemidplus/rn/10070-48-1,System Generated Number,0010070481
+2020-09-18T19:06:00Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,CAS Registry Number,595-33-5
+2020-09-18T19:06:00Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,FDA UNII,TJ2M0FR8ES
+2020-09-18T19:06:00Z,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5,System Generated Number,0000595335
+2020-09-18T19:06:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1801342-60-8,CAS Registry Number,1801342-60-8
+2020-09-18T19:06:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1801342-60-8,FDA UNII,6QVL057INT
+2020-09-18T19:06:07Z,https://chem.nlm.nih.gov/chemidplus/rn/1801342-60-8,System Generated Number,1801342608
+2020-09-18T19:06:15Z,https://chem.nlm.nih.gov/chemidplus/rn/107103-81-1,CAS Registry Number,107103-81-1
+2020-09-18T19:06:15Z,https://chem.nlm.nih.gov/chemidplus/rn/107103-81-1,System Generated Number,0107103811
+2020-09-18T19:06:23Z,https://chem.nlm.nih.gov/chemidplus/rn/61-76-7,CAS Registry Number,61-76-7
+2020-09-18T19:06:23Z,https://chem.nlm.nih.gov/chemidplus/rn/61-76-7,FDA UNII,04JA59TNSJ
+2020-09-18T19:06:23Z,https://chem.nlm.nih.gov/chemidplus/rn/61-76-7,Other Registry Numbers,50741-76-9
+2020-09-18T19:06:23Z,https://chem.nlm.nih.gov/chemidplus/rn/61-76-7,Other Registry Numbers,644-22-4
+2020-09-18T19:06:23Z,https://chem.nlm.nih.gov/chemidplus/rn/61-76-7,Other Registry Numbers,827-62-3
+2020-09-18T19:06:23Z,https://chem.nlm.nih.gov/chemidplus/rn/61-76-7,Related Registry Number,59-42-7 (Parent)
+2020-09-18T19:06:23Z,https://chem.nlm.nih.gov/chemidplus/rn/61-76-7,System Generated Number,0000061767
+2020-09-18T19:06:30Z,https://chem.nlm.nih.gov/chemidplus/rn/528-74-5,CAS Registry Number,528-74-5
+2020-09-18T19:06:30Z,https://chem.nlm.nih.gov/chemidplus/rn/528-74-5,FDA UNII,29NS58S465
+2020-09-18T19:06:30Z,https://chem.nlm.nih.gov/chemidplus/rn/528-74-5,Other Registry Number,88442-77-7
+2020-09-18T19:06:30Z,https://chem.nlm.nih.gov/chemidplus/rn/528-74-5,System Generated Number,0000528745
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,CAS Registry Number,518-47-8
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,FDA UNII,93X55PE38X
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Other Registry Numbers,121511-05-5
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Other Registry Numbers,1279055-25-2
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Other Registry Numbers,135354-40-4
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Other Registry Numbers,208117-76-4
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Other Registry Numbers,2196172-50-4
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Other Registry Numbers,31949-37-8
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Other Registry Numbers,3266-99-7
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Other Registry Numbers,34517-88-9
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Other Registry Numbers,41935-48-2
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Other Registry Numbers,574737-69-2
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Other Registry Numbers,893427-14-0
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,Related Registry Number,2321-07-5 (Parent)
+2020-09-18T19:06:37Z,https://chem.nlm.nih.gov/chemidplus/rn/518-47-8,System Generated Number,0000518478
+2020-09-18T19:06:46Z,https://chem.nlm.nih.gov/chemidplus/rn/8006-42-6,CAS Registry Number,8006-42-6
+2020-09-18T19:06:46Z,https://chem.nlm.nih.gov/chemidplus/rn/8006-42-6,System Generated Number,0008006426
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,CAS Registry Number,15686-71-2
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,FDA UNII,5SFF1W6677
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,Other Registry Numbers,14101-75-8
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,Other Registry Numbers,17692-47-6
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,Other Registry Numbers,65454-17-3
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,Other Registry Numbers,82853-18-7
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,Related Registry Numbers,"105879-42-3 (mono-hydrochloride, mono-hydrate)"
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,Related Registry Numbers,"105879-42-3 (mono-hydrochloride,mono-hydrate)"
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,Related Registry Numbers,23325-78-2 (mono-hydrate)
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,Related Registry Numbers,38932-40-0 (mono-hydrochloride salt)
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,Related Registry Numbers,66905-57-5 (di-hydrate)
+2020-09-18T19:06:53Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-71-2,System Generated Number,0015686712
+2020-09-18T19:07:00Z,https://chem.nlm.nih.gov/chemidplus/rn/69522-59-4,CAS Registry Number,69522-59-4
+2020-09-18T19:07:00Z,https://chem.nlm.nih.gov/chemidplus/rn/69522-59-4,System Generated Number,0069522594
+2020-09-18T19:07:08Z,https://chem.nlm.nih.gov/chemidplus/rn/52-85-7,CAS Registry Number,52-85-7
+2020-09-18T19:07:08Z,https://chem.nlm.nih.gov/chemidplus/rn/52-85-7,FDA UNII,02UOP4Z0O0
+2020-09-18T19:07:08Z,https://chem.nlm.nih.gov/chemidplus/rn/52-85-7,System Generated Number,0000052857
+2020-09-18T19:07:24Z,https://chem.nlm.nih.gov/chemidplus/rn/85721-33-1,CAS Registry Number,85721-33-1
+2020-09-18T19:07:24Z,https://chem.nlm.nih.gov/chemidplus/rn/85721-33-1,FDA UNII,5E8K9I0O4U
+2020-09-18T19:07:24Z,https://chem.nlm.nih.gov/chemidplus/rn/85721-33-1,System Generated Number,0085721331
+2020-09-18T19:07:32Z,https://chem.nlm.nih.gov/chemidplus/rn/30652-11-0,CAS Registry Number,30652-11-0
+2020-09-18T19:07:32Z,https://chem.nlm.nih.gov/chemidplus/rn/30652-11-0,FDA UNII,2BTY8KH53L
+2020-09-18T19:07:32Z,https://chem.nlm.nih.gov/chemidplus/rn/30652-11-0,System Generated Number,0030652110
+2020-09-18T19:07:39Z,https://chem.nlm.nih.gov/chemidplus/rn/150-13-0,CAS Registry Number,150-13-0
+2020-09-18T19:07:39Z,https://chem.nlm.nih.gov/chemidplus/rn/150-13-0,FDA UNII,TL2TJE8QTX
+2020-09-18T19:07:39Z,https://chem.nlm.nih.gov/chemidplus/rn/150-13-0,Other Registry Number,8014-65-1
+2020-09-18T19:07:39Z,https://chem.nlm.nih.gov/chemidplus/rn/150-13-0,System Generated Number,0000150130
+2020-09-18T19:07:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1446502-11-9,CAS Registry Number,1446502-11-9
+2020-09-18T19:07:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1446502-11-9,FDA UNII,3T1SS4E7AG
+2020-09-18T19:07:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1446502-11-9,System Generated Number,1446502119
+2020-09-18T19:07:54Z,https://chem.nlm.nih.gov/chemidplus/rn/68956-68-3,CAS Registry Number,68956-68-3
+2020-09-18T19:07:54Z,https://chem.nlm.nih.gov/chemidplus/rn/68956-68-3,Other Registry Numbers,2097560-52-4
+2020-09-18T19:07:54Z,https://chem.nlm.nih.gov/chemidplus/rn/68956-68-3,Other Registry Numbers,8008-89-7
+2020-09-18T19:07:54Z,https://chem.nlm.nih.gov/chemidplus/rn/68956-68-3,System Generated Number,0068956683
+2020-09-18T19:08:02Z,https://chem.nlm.nih.gov/chemidplus/rn/158966-92-8,CAS Registry Number,158966-92-8
+2020-09-18T19:08:02Z,https://chem.nlm.nih.gov/chemidplus/rn/158966-92-8,FDA UNII,MHM278SD3E
+2020-09-18T19:08:02Z,https://chem.nlm.nih.gov/chemidplus/rn/158966-92-8,Related Registry Number,151767-02-1 (sodium)
+2020-09-18T19:08:02Z,https://chem.nlm.nih.gov/chemidplus/rn/158966-92-8,System Generated Number,0158966928
+2020-09-18T19:08:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-19-1,CAS Registry Number,50-19-1
+2020-09-18T19:08:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-19-1,FDA UNII,MD0414799X
+2020-09-18T19:08:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-19-1,System Generated Number,0000050191
+2020-09-18T19:08:09Z,https://chem.nlm.nih.gov/chemidplus/rn/82839-23-4,CAS Registry Number,82839-23-4
+2020-09-18T19:08:09Z,https://chem.nlm.nih.gov/chemidplus/rn/82839-23-4,System Generated Number,0082839234
+2020-09-18T19:08:12Z,https://chem.nlm.nih.gov/chemidplus/rn/972-02-1,CAS Registry Number,972-02-1
+2020-09-18T19:08:12Z,https://chem.nlm.nih.gov/chemidplus/rn/972-02-1,FDA UNII,NQO8R319LY
+2020-09-18T19:08:12Z,https://chem.nlm.nih.gov/chemidplus/rn/972-02-1,Related Registry Number,3254-89-5 (hydrochloride)
+2020-09-18T19:08:12Z,https://chem.nlm.nih.gov/chemidplus/rn/972-02-1,System Generated Number,0000972021
+2020-09-18T19:08:20Z,https://chem.nlm.nih.gov/chemidplus/rn/526-35-2,CAS Registry Number,526-35-2
+2020-09-18T19:08:20Z,https://chem.nlm.nih.gov/chemidplus/rn/526-35-2,FDA UNII,BFT641Z2YT
+2020-09-18T19:08:20Z,https://chem.nlm.nih.gov/chemidplus/rn/526-35-2,System Generated Number,0000526352
+2020-09-18T19:08:38Z,https://chem.nlm.nih.gov/chemidplus/rn/57852-57-0,CAS Registry Number,57852-57-0
+2020-09-18T19:08:38Z,https://chem.nlm.nih.gov/chemidplus/rn/57852-57-0,FDA UNII,5VV3MDU5IE
+2020-09-18T19:08:38Z,https://chem.nlm.nih.gov/chemidplus/rn/57852-57-0,Related Registry Number,58957-92-9 (Parent)
+2020-09-18T19:08:38Z,https://chem.nlm.nih.gov/chemidplus/rn/57852-57-0,System Generated Number,0057852570
+2020-09-18T19:08:46Z,https://chem.nlm.nih.gov/chemidplus/rn/298-81-7,CAS Registry Number,298-81-7
+2020-09-18T19:08:46Z,https://chem.nlm.nih.gov/chemidplus/rn/298-81-7,FDA UNII,U4VJ29L7BQ
+2020-09-18T19:08:46Z,https://chem.nlm.nih.gov/chemidplus/rn/298-81-7,Other Registry Number,12692-94-3
+2020-09-18T19:08:46Z,https://chem.nlm.nih.gov/chemidplus/rn/298-81-7,System Generated Number,0000298817
+2020-09-18T19:08:50Z,https://chem.nlm.nih.gov/chemidplus/rn/521-61-9,CAS Registry Number,521-61-9
+2020-09-18T19:08:50Z,https://chem.nlm.nih.gov/chemidplus/rn/521-61-9,FDA UNII,H6PT94IV61
+2020-09-18T19:08:50Z,https://chem.nlm.nih.gov/chemidplus/rn/521-61-9,System Generated Number,0000521619
+2020-09-18T19:08:52Z,https://chem.nlm.nih.gov/chemidplus/rn/123948-87-8,CAS Registry Number,123948-87-8
+2020-09-18T19:08:52Z,https://chem.nlm.nih.gov/chemidplus/rn/123948-87-8,FDA UNII,7M7YKX2N15
+2020-09-18T19:08:52Z,https://chem.nlm.nih.gov/chemidplus/rn/123948-87-8,Other Registry Numbers,133242-28-1
+2020-09-18T19:08:52Z,https://chem.nlm.nih.gov/chemidplus/rn/123948-87-8,Other Registry Numbers,138121-88-7
+2020-09-18T19:08:52Z,https://chem.nlm.nih.gov/chemidplus/rn/123948-87-8,System Generated Number,0123948878
+2020-09-18T19:09:08Z,https://chem.nlm.nih.gov/chemidplus/rn/4499-01-8,CAS Registry Number,4499-01-8
+2020-09-18T19:09:08Z,https://chem.nlm.nih.gov/chemidplus/rn/4499-01-8,FDA UNII,872P30Z43F
+2020-09-18T19:09:08Z,https://chem.nlm.nih.gov/chemidplus/rn/4499-01-8,Other Registry Numbers,106395-95-3
+2020-09-18T19:09:08Z,https://chem.nlm.nih.gov/chemidplus/rn/4499-01-8,Other Registry Numbers,12627-07-5
+2020-09-18T19:09:08Z,https://chem.nlm.nih.gov/chemidplus/rn/4499-01-8,Other Registry Numbers,12640-43-6
+2020-09-18T19:09:08Z,https://chem.nlm.nih.gov/chemidplus/rn/4499-01-8,Other Registry Numbers,1345690-39-2
+2020-09-18T19:09:08Z,https://chem.nlm.nih.gov/chemidplus/rn/4499-01-8,Other Registry Numbers,53126-07-1
+2020-09-18T19:09:08Z,https://chem.nlm.nih.gov/chemidplus/rn/4499-01-8,Related Registry Number,13324-20-4 (Parent)
+2020-09-18T19:09:08Z,https://chem.nlm.nih.gov/chemidplus/rn/4499-01-8,System Generated Number,0004499018
+2020-09-18T19:09:15Z,https://chem.nlm.nih.gov/chemidplus/rn/303-16-2,CAS Registry Number,303-16-2
+2020-09-18T19:09:15Z,https://chem.nlm.nih.gov/chemidplus/rn/303-16-2,System Generated Number,0000303162
+2020-09-18T19:09:26Z,https://chem.nlm.nih.gov/chemidplus/rn/156090-17-4,CAS Registry Number,156090-17-4
+2020-09-18T19:09:26Z,https://chem.nlm.nih.gov/chemidplus/rn/156090-17-4,FDA UNII,PH2639TAB4
+2020-09-18T19:09:26Z,https://chem.nlm.nih.gov/chemidplus/rn/156090-17-4,System Generated Number,0156090174
+2020-09-18T19:09:34Z,https://chem.nlm.nih.gov/chemidplus/rn/1160170-00-2,CAS Registry Number,1160170-00-2
+2020-09-18T19:09:34Z,https://chem.nlm.nih.gov/chemidplus/rn/1160170-00-2,FDA UNII,5KS80AIP17
+2020-09-18T19:09:34Z,https://chem.nlm.nih.gov/chemidplus/rn/1160170-00-2,System Generated Number,1160170002
+2020-09-18T19:09:42Z,https://chem.nlm.nih.gov/chemidplus/rn/121756-85-2,CAS Registry Number,121756-85-2
+2020-09-18T19:09:42Z,https://chem.nlm.nih.gov/chemidplus/rn/121756-85-2,System Generated Number,0121756852
+2020-09-18T19:09:45Z,https://chem.nlm.nih.gov/chemidplus/rn/106854-46-0,CAS Registry Number,106854-46-0
+2020-09-18T19:09:45Z,https://chem.nlm.nih.gov/chemidplus/rn/106854-46-0,FDA UNII,62V6QH821R
+2020-09-18T19:09:45Z,https://chem.nlm.nih.gov/chemidplus/rn/106854-46-0,System Generated Number,0106854460
+2020-09-18T19:09:48Z,https://chem.nlm.nih.gov/chemidplus/rn/6223-35-4,CAS Registry Number,6223-35-4
+2020-09-18T19:09:48Z,https://chem.nlm.nih.gov/chemidplus/rn/6223-35-4,FDA UNII,19WSH095WP
+2020-09-18T19:09:48Z,https://chem.nlm.nih.gov/chemidplus/rn/6223-35-4,Other Registry Number,133414-61-6
+2020-09-18T19:09:48Z,https://chem.nlm.nih.gov/chemidplus/rn/6223-35-4,System Generated Number,0006223354
+2020-09-18T19:09:55Z,https://chem.nlm.nih.gov/chemidplus/rn/745013-59-6,CAS Registry Number,745013-59-6
+2020-09-18T19:09:55Z,https://chem.nlm.nih.gov/chemidplus/rn/745013-59-6,FDA UNII,QEN1X95CIX
+2020-09-18T19:09:55Z,https://chem.nlm.nih.gov/chemidplus/rn/745013-59-6,System Generated Number,0745013596
+2020-09-18T19:10:13Z,https://chem.nlm.nih.gov/chemidplus/rn/50-31-7,CAS Registry Number,50-31-7
+2020-09-18T19:10:13Z,https://chem.nlm.nih.gov/chemidplus/rn/50-31-7,FDA UNII,VI4ST7ZIQG
+2020-09-18T19:10:13Z,https://chem.nlm.nih.gov/chemidplus/rn/50-31-7,System Generated Number,0000050317
+2020-09-18T19:10:21Z,https://chem.nlm.nih.gov/chemidplus/rn/35457-80-8,CAS Registry Number,35457-80-8
+2020-09-18T19:10:21Z,https://chem.nlm.nih.gov/chemidplus/rn/35457-80-8,FDA UNII,N34Z0Y5UH7
+2020-09-18T19:10:21Z,https://chem.nlm.nih.gov/chemidplus/rn/35457-80-8,Other Registry Numbers,11076-75-8
+2020-09-18T19:10:21Z,https://chem.nlm.nih.gov/chemidplus/rn/35457-80-8,Other Registry Numbers,11091-49-9
+2020-09-18T19:10:21Z,https://chem.nlm.nih.gov/chemidplus/rn/35457-80-8,Other Registry Numbers,39464-24-9
+2020-09-18T19:10:21Z,https://chem.nlm.nih.gov/chemidplus/rn/35457-80-8,System Generated Number,0035457808
+2020-09-18T19:10:38Z,https://chem.nlm.nih.gov/chemidplus/rn/1137608-69-5,CAS Registry Number,1137608-69-5
+2020-09-18T19:10:38Z,https://chem.nlm.nih.gov/chemidplus/rn/1137608-69-5,FDA UNII,3T25U84H4U
+2020-09-18T19:10:38Z,https://chem.nlm.nih.gov/chemidplus/rn/1137608-69-5,System Generated Number,1137608695
+2020-09-18T19:10:41Z,https://chem.nlm.nih.gov/chemidplus/rn/872200-47-0,CAS Registry Number,872200-47-0
+2020-09-18T19:10:41Z,https://chem.nlm.nih.gov/chemidplus/rn/872200-47-0,System Generated Number,0872200470
+2020-09-18T19:10:44Z,https://chem.nlm.nih.gov/chemidplus/rn/104987-11-3,CAS Registry Number,104987-11-3
+2020-09-18T19:10:44Z,https://chem.nlm.nih.gov/chemidplus/rn/104987-11-3,FDA UNII,Y5L2157C4J
+2020-09-18T19:10:44Z,https://chem.nlm.nih.gov/chemidplus/rn/104987-11-3,Related Registry Number,109581-93-3 (Hydrate)
+2020-09-18T19:10:44Z,https://chem.nlm.nih.gov/chemidplus/rn/104987-11-3,System Generated Number,0104987113
+2020-09-18T19:10:51Z,https://chem.nlm.nih.gov/chemidplus/rn/101409-94-3,CAS Registry Number,101409-94-3
+2020-09-18T19:10:51Z,https://chem.nlm.nih.gov/chemidplus/rn/101409-94-3,System Generated Number,0101409943
+2020-09-18T19:11:03Z,https://chem.nlm.nih.gov/chemidplus/rn/68318-20-7,CAS Registry Number,68318-20-7
+2020-09-18T19:11:03Z,https://chem.nlm.nih.gov/chemidplus/rn/68318-20-7,FDA UNII,4SLM03HMLU
+2020-09-18T19:11:03Z,https://chem.nlm.nih.gov/chemidplus/rn/68318-20-7,System Generated Number,0068318207
+2020-09-18T19:11:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1197-18-8,CAS Registry Number,1197-18-8
+2020-09-18T19:11:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1197-18-8,FDA UNII,6T84R30KC1
+2020-09-18T19:11:14Z,https://chem.nlm.nih.gov/chemidplus/rn/1197-18-8,System Generated Number,0001197188
+2020-09-18T19:11:22Z,https://chem.nlm.nih.gov/chemidplus/rn/76712-82-8,CAS Registry Number,76712-82-8
+2020-09-18T19:11:22Z,https://chem.nlm.nih.gov/chemidplus/rn/76712-82-8,FDA UNII,H50H3S3W74
+2020-09-18T19:11:22Z,https://chem.nlm.nih.gov/chemidplus/rn/76712-82-8,System Generated Number,0076712828
+2020-09-18T19:11:29Z,https://chem.nlm.nih.gov/chemidplus/rn/298-57-7,CAS Registry Number,298-57-7
+2020-09-18T19:11:29Z,https://chem.nlm.nih.gov/chemidplus/rn/298-57-7,FDA UNII,3DI2E1X18L
+2020-09-18T19:11:29Z,https://chem.nlm.nih.gov/chemidplus/rn/298-57-7,Related Registry Number,7002-58-6 (di-hydrochloride)
+2020-09-18T19:11:29Z,https://chem.nlm.nih.gov/chemidplus/rn/298-57-7,System Generated Number,0000298577
+2020-09-18T19:11:37Z,https://chem.nlm.nih.gov/chemidplus/rn/4350-09-8,CAS Registry Number,4350-09-8
+2020-09-18T19:11:37Z,https://chem.nlm.nih.gov/chemidplus/rn/4350-09-8,FDA UNII,C1LJO185Q9
+2020-09-18T19:11:37Z,https://chem.nlm.nih.gov/chemidplus/rn/4350-09-8,Other Registry Numbers,1228817-95-5
+2020-09-18T19:11:37Z,https://chem.nlm.nih.gov/chemidplus/rn/4350-09-8,Other Registry Numbers,34953-84-9
+2020-09-18T19:11:37Z,https://chem.nlm.nih.gov/chemidplus/rn/4350-09-8,System Generated Number,0004350098
+2020-09-18T19:11:45Z,https://chem.nlm.nih.gov/chemidplus/rn/59322-44-0,CAS Registry Number,59322-44-0
+2020-09-18T19:11:45Z,https://chem.nlm.nih.gov/chemidplus/rn/59322-44-0,System Generated Number,0059322440
+2020-09-18T19:11:52Z,https://chem.nlm.nih.gov/chemidplus/rn/360-97-4,CAS Registry Number,360-97-4
+2020-09-18T19:11:52Z,https://chem.nlm.nih.gov/chemidplus/rn/360-97-4,FDA UNII,3V0Y2PDE6K
+2020-09-18T19:11:52Z,https://chem.nlm.nih.gov/chemidplus/rn/360-97-4,Other Registry Number,932-15-0
+2020-09-18T19:11:52Z,https://chem.nlm.nih.gov/chemidplus/rn/360-97-4,System Generated Number,0000360974
+2020-09-18T19:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/5307-51-7,CAS Registry Number,5307-51-7
+2020-09-18T19:12:00Z,https://chem.nlm.nih.gov/chemidplus/rn/5307-51-7,System Generated Number,0005307517
+2020-09-18T19:12:07Z,https://chem.nlm.nih.gov/chemidplus/rn/63-29-6,CAS Registry Number,63-29-6
+2020-09-18T19:12:07Z,https://chem.nlm.nih.gov/chemidplus/rn/63-29-6,Other Registry Number,3428-13-5
+2020-09-18T19:12:07Z,https://chem.nlm.nih.gov/chemidplus/rn/63-29-6,System Generated Number,0000063296
+2020-09-18T19:12:15Z,https://chem.nlm.nih.gov/chemidplus/rn/8057-37-2,CAS Registry Number,8057-37-2
+2020-09-18T19:12:15Z,https://chem.nlm.nih.gov/chemidplus/rn/8057-37-2,System Generated Number,0008057372
+2020-09-18T19:12:22Z,https://chem.nlm.nih.gov/chemidplus/rn/554-18-7,CAS Registry Number,554-18-7
+2020-09-18T19:12:22Z,https://chem.nlm.nih.gov/chemidplus/rn/554-18-7,FDA UNII,I6RLN7D44F
+2020-09-18T19:12:22Z,https://chem.nlm.nih.gov/chemidplus/rn/554-18-7,Related Registry Number,551-89-3 (Parent)
+2020-09-18T19:12:22Z,https://chem.nlm.nih.gov/chemidplus/rn/554-18-7,System Generated Number,0000554187
+2020-09-18T19:12:30Z,https://chem.nlm.nih.gov/chemidplus/rn/148-07-2,CAS Registry Number,148-07-2
+2020-09-18T19:12:30Z,https://chem.nlm.nih.gov/chemidplus/rn/148-07-2,FDA UNII,6ET4K804XA
+2020-09-18T19:12:30Z,https://chem.nlm.nih.gov/chemidplus/rn/148-07-2,System Generated Number,0000148072
+2020-09-18T19:12:37Z,https://chem.nlm.nih.gov/chemidplus/rn/319460-85-0,CAS Registry Number,319460-85-0
+2020-09-18T19:12:37Z,https://chem.nlm.nih.gov/chemidplus/rn/319460-85-0,FDA UNII,C9LVQ0YUXG
+2020-09-18T19:12:37Z,https://chem.nlm.nih.gov/chemidplus/rn/319460-85-0,Other Registry Number,790713-39-2
+2020-09-18T19:12:37Z,https://chem.nlm.nih.gov/chemidplus/rn/319460-85-0,System Generated Number,0319460850
+2020-09-18T19:12:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1229208-44-9,CAS Registry Number,1229208-44-9
+2020-09-18T19:12:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1229208-44-9,FDA UNII,6I3O3W6O3B
+2020-09-18T19:12:44Z,https://chem.nlm.nih.gov/chemidplus/rn/1229208-44-9,System Generated Number,1229208449
+2020-09-18T19:12:52Z,https://chem.nlm.nih.gov/chemidplus/rn/54-80-8,CAS Registry Number,54-80-8
+2020-09-18T19:12:52Z,https://chem.nlm.nih.gov/chemidplus/rn/54-80-8,FDA UNII,XBP4RT1IMQ
+2020-09-18T19:12:52Z,https://chem.nlm.nih.gov/chemidplus/rn/54-80-8,System Generated Number,0000054808
+2020-09-18T19:12:59Z,https://chem.nlm.nih.gov/chemidplus/rn/58-22-0,CAS Registry Number,58-22-0
+2020-09-18T19:12:59Z,https://chem.nlm.nih.gov/chemidplus/rn/58-22-0,FDA UNII,3XMK78S47O
+2020-09-18T19:12:59Z,https://chem.nlm.nih.gov/chemidplus/rn/58-22-0,Other Registry Number,1050678-68-6
+2020-09-18T19:12:59Z,https://chem.nlm.nih.gov/chemidplus/rn/58-22-0,System Generated Number,0000058220
+2020-09-18T19:13:06Z,https://chem.nlm.nih.gov/chemidplus/rn/3211-76-5,CAS Registry Number,3211-76-5
+2020-09-18T19:13:06Z,https://chem.nlm.nih.gov/chemidplus/rn/3211-76-5,FDA UNII,964MRK2PEL
+2020-09-18T19:13:06Z,https://chem.nlm.nih.gov/chemidplus/rn/3211-76-5,System Generated Number,0003211765
+2020-09-18T19:13:14Z,https://chem.nlm.nih.gov/chemidplus/rn/144-75-2,CAS Registry Number,144-75-2
+2020-09-18T19:13:14Z,https://chem.nlm.nih.gov/chemidplus/rn/144-75-2,FDA UNII,57OWB0Q221
+2020-09-18T19:13:14Z,https://chem.nlm.nih.gov/chemidplus/rn/144-75-2,System Generated Number,0000144752
+2020-09-18T19:13:21Z,https://chem.nlm.nih.gov/chemidplus/rn/59-33-6,CAS Registry Number,59-33-6
+2020-09-18T19:13:21Z,https://chem.nlm.nih.gov/chemidplus/rn/59-33-6,FDA UNII,R35D29L3ZA
+2020-09-18T19:13:21Z,https://chem.nlm.nih.gov/chemidplus/rn/59-33-6,Other Registry Number,5572-06-5
+2020-09-18T19:13:21Z,https://chem.nlm.nih.gov/chemidplus/rn/59-33-6,System Generated Number,0000059336
+2020-09-18T19:13:28Z,https://chem.nlm.nih.gov/chemidplus/rn/457-60-3,CAS Registry Number,457-60-3
+2020-09-18T19:13:28Z,https://chem.nlm.nih.gov/chemidplus/rn/457-60-3,FDA UNII,O7K7R0O4BG
+2020-09-18T19:13:28Z,https://chem.nlm.nih.gov/chemidplus/rn/457-60-3,System Generated Number,0000457603
+2020-09-18T19:13:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4,CAS Registry Number,1309-64-4
+2020-09-18T19:13:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4,FDA UNII,P217481X5E
+2020-09-18T19:13:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4,Other Registry Numbers,10042-99-6
+2020-09-18T19:13:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4,Other Registry Numbers,12423-58-4
+2020-09-18T19:13:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4,Other Registry Numbers,154396-41-5
+2020-09-18T19:13:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4,Other Registry Numbers,178989-93-0
+2020-09-18T19:13:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4,Other Registry Numbers,212793-41-4
+2020-09-18T19:13:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4,Other Registry Numbers,2144402-92-4
+2020-09-18T19:13:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4,Other Registry Numbers,97048-22-1
+2020-09-18T19:13:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4,Other Registry Numbers,97048-23-2
+2020-09-18T19:13:35Z,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4,System Generated Number,0001309644
+2020-09-18T19:13:47Z,https://chem.nlm.nih.gov/chemidplus/rn/121181-53-1,CAS Registry Number,121181-53-1
+2020-09-18T19:13:47Z,https://chem.nlm.nih.gov/chemidplus/rn/121181-53-1,FDA UNII,PVI5M0M1GW
+2020-09-18T19:13:47Z,https://chem.nlm.nih.gov/chemidplus/rn/121181-53-1,System Generated Number,0121181531
+2020-09-18T19:14:02Z,https://chem.nlm.nih.gov/chemidplus/rn/155775-04-5,CAS Registry Number,155775-04-5
+2020-09-18T19:14:02Z,https://chem.nlm.nih.gov/chemidplus/rn/155775-04-5,System Generated Number,0155775045
+2020-09-18T19:14:13Z,https://chem.nlm.nih.gov/chemidplus/rn/11028-14-1,CAS Registry Number,11028-14-1
+2020-09-18T19:14:13Z,https://chem.nlm.nih.gov/chemidplus/rn/11028-14-1,System Generated Number,0011028141
+2020-09-18T19:14:21Z,https://chem.nlm.nih.gov/chemidplus/rn/526-18-1,CAS Registry Number,526-18-1
+2020-09-18T19:14:21Z,https://chem.nlm.nih.gov/chemidplus/rn/526-18-1,FDA UNII,89741L759Z
+2020-09-18T19:14:21Z,https://chem.nlm.nih.gov/chemidplus/rn/526-18-1,System Generated Number,0000526181
+2020-09-18T19:14:29Z,https://chem.nlm.nih.gov/chemidplus/rn/181054-95-5,CAS Registry Number,181054-95-5
+2020-09-18T19:14:29Z,https://chem.nlm.nih.gov/chemidplus/rn/181054-95-5,FDA UNIIs,382L14738L
+2020-09-18T19:14:29Z,https://chem.nlm.nih.gov/chemidplus/rn/181054-95-5,FDA UNIIs,6U90Y1795T
+2020-09-18T19:14:29Z,https://chem.nlm.nih.gov/chemidplus/rn/181054-95-5,System Generated Number,0181054955
+2020-09-18T19:14:36Z,https://chem.nlm.nih.gov/chemidplus/rn/125-04-2,CAS Registry Number,125-04-2
+2020-09-18T19:14:36Z,https://chem.nlm.nih.gov/chemidplus/rn/125-04-2,FDA UNII,50LQB69S1Z
+2020-09-18T19:14:36Z,https://chem.nlm.nih.gov/chemidplus/rn/125-04-2,Related Registry Number,2203-97-6 (Parent)
+2020-09-18T19:14:36Z,https://chem.nlm.nih.gov/chemidplus/rn/125-04-2,System Generated Number,0000125042
+2020-09-18T19:14:44Z,https://chem.nlm.nih.gov/chemidplus/rn/138846-62-5,CAS Registry Number,138846-62-5
+2020-09-18T19:14:44Z,https://chem.nlm.nih.gov/chemidplus/rn/138846-62-5,System Generated Number,0138846625
+2020-09-18T19:14:51Z,https://chem.nlm.nih.gov/chemidplus/rn/2098-66-0,CAS Registry Number,2098-66-0
+2020-09-18T19:14:51Z,https://chem.nlm.nih.gov/chemidplus/rn/2098-66-0,FDA UNII,E61Q31EK2F
+2020-09-18T19:14:51Z,https://chem.nlm.nih.gov/chemidplus/rn/2098-66-0,System Generated Number,0002098660
+2020-09-18T19:14:58Z,https://chem.nlm.nih.gov/chemidplus/rn/55-86-7,CAS Registry Number,55-86-7
+2020-09-18T19:14:58Z,https://chem.nlm.nih.gov/chemidplus/rn/55-86-7,FDA UNII,L0MR697HHI
+2020-09-18T19:14:58Z,https://chem.nlm.nih.gov/chemidplus/rn/55-86-7,Other Registry Numbers,159923-90-7
+2020-09-18T19:14:58Z,https://chem.nlm.nih.gov/chemidplus/rn/55-86-7,Other Registry Numbers,37244-63-6
+2020-09-18T19:14:58Z,https://chem.nlm.nih.gov/chemidplus/rn/55-86-7,Related Registry Number,51-75-2 (Parent)
+2020-09-18T19:14:58Z,https://chem.nlm.nih.gov/chemidplus/rn/55-86-7,System Generated Number,0000055867
+2020-09-18T19:15:06Z,https://chem.nlm.nih.gov/chemidplus/rn/641571-10-0,CAS Registry Number,641571-10-0
+2020-09-18T19:15:06Z,https://chem.nlm.nih.gov/chemidplus/rn/641571-10-0,FDA UNII,F41401512X
+2020-09-18T19:15:06Z,https://chem.nlm.nih.gov/chemidplus/rn/641571-10-0,System Generated Number,0641571100
+2020-09-18T19:15:13Z,https://chem.nlm.nih.gov/chemidplus/rn/959-24-0,CAS Registry Number,959-24-0
+2020-09-18T19:15:13Z,https://chem.nlm.nih.gov/chemidplus/rn/959-24-0,FDA UNII,HEC37C70XX
+2020-09-18T19:15:13Z,https://chem.nlm.nih.gov/chemidplus/rn/959-24-0,Related Registry Number,3930-20-9 (Parent)
+2020-09-18T19:15:13Z,https://chem.nlm.nih.gov/chemidplus/rn/959-24-0,System Generated Number,0000959240
+2020-09-18T19:15:27Z,https://chem.nlm.nih.gov/chemidplus/rn/12225-74-0,CAS Registry Number,12225-74-0
+2020-09-18T19:15:27Z,https://chem.nlm.nih.gov/chemidplus/rn/12225-74-0,System Generated Number,0012225740
+2020-09-18T19:15:35Z,https://chem.nlm.nih.gov/chemidplus/rn/96-21-9,CAS Registry Number,96-21-9
+2020-09-18T19:15:35Z,https://chem.nlm.nih.gov/chemidplus/rn/96-21-9,FDA UNII,4L2X3X1FPT
+2020-09-18T19:15:35Z,https://chem.nlm.nih.gov/chemidplus/rn/96-21-9,Other Registry Number,41638-27-1
+2020-09-18T19:15:35Z,https://chem.nlm.nih.gov/chemidplus/rn/96-21-9,System Generated Number,0000096219
+2020-09-18T19:15:42Z,https://chem.nlm.nih.gov/chemidplus/rn/79-34-5,CAS Registry Number,79-34-5
+2020-09-18T19:15:42Z,https://chem.nlm.nih.gov/chemidplus/rn/79-34-5,FDA UNII,1L6BI049XV
+2020-09-18T19:15:42Z,https://chem.nlm.nih.gov/chemidplus/rn/79-34-5,System Generated Number,0000079345
+2020-09-18T19:15:54Z,https://chem.nlm.nih.gov/chemidplus/rn/929904-85-8,CAS Registry Number,929904-85-8
+2020-09-18T19:15:54Z,https://chem.nlm.nih.gov/chemidplus/rn/929904-85-8,FDA UNII,0RB89YH367
+2020-09-18T19:15:54Z,https://chem.nlm.nih.gov/chemidplus/rn/929904-85-8,System Generated Number,0929904858
+2020-09-18T19:16:02Z,https://chem.nlm.nih.gov/chemidplus/rn/67-56-1,CAS Registry Number,67-56-1
+2020-09-18T19:16:02Z,https://chem.nlm.nih.gov/chemidplus/rn/67-56-1,FDA UNII,Y4S76JWI15
+2020-09-18T19:16:02Z,https://chem.nlm.nih.gov/chemidplus/rn/67-56-1,Other Registry Numbers,1173023-83-0
+2020-09-18T19:16:02Z,https://chem.nlm.nih.gov/chemidplus/rn/67-56-1,Other Registry Numbers,54841-71-3
+2020-09-18T19:16:02Z,https://chem.nlm.nih.gov/chemidplus/rn/67-56-1,System Generated Number,0000067561
+2020-09-18T19:16:13Z,https://chem.nlm.nih.gov/chemidplus/rn/135558-11-1,CAS Registry Number,135558-11-1
+2020-09-18T19:16:13Z,https://chem.nlm.nih.gov/chemidplus/rn/135558-11-1,FDA UNII,OX5XK1JD8C
+2020-09-18T19:16:13Z,https://chem.nlm.nih.gov/chemidplus/rn/135558-11-1,System Generated Number,0135558111
+2020-09-18T19:16:21Z,https://chem.nlm.nih.gov/chemidplus/rn/534-07-6,CAS Registry Number,534-07-6
+2020-09-18T19:16:21Z,https://chem.nlm.nih.gov/chemidplus/rn/534-07-6,FDA UNII,UFH8559WS5
+2020-09-18T19:16:21Z,https://chem.nlm.nih.gov/chemidplus/rn/534-07-6,System Generated Number,0000534076
+2020-09-18T19:16:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-20-3,CAS Registry Number,2809-20-3
+2020-09-18T19:16:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-20-3,System Generated Number,0002809203
+2020-09-18T19:16:39Z,https://chem.nlm.nih.gov/chemidplus/rn/2398-96-1,CAS Registry Number,2398-96-1
+2020-09-18T19:16:39Z,https://chem.nlm.nih.gov/chemidplus/rn/2398-96-1,FDA UNII,06KB629TKV
+2020-09-18T19:16:39Z,https://chem.nlm.nih.gov/chemidplus/rn/2398-96-1,Other Registry Number,94256-64-1
+2020-09-18T19:16:39Z,https://chem.nlm.nih.gov/chemidplus/rn/2398-96-1,System Generated Number,0002398961
+2020-09-18T19:16:50Z,https://chem.nlm.nih.gov/chemidplus/rn/72526-13-7,CAS Registry Number,72526-13-7
+2020-09-18T19:16:50Z,https://chem.nlm.nih.gov/chemidplus/rn/72526-13-7,FDA UNII,43G92WY1JC
+2020-09-18T19:16:50Z,https://chem.nlm.nih.gov/chemidplus/rn/72526-13-7,System Generated Number,0072526137
+2020-09-18T19:16:57Z,https://chem.nlm.nih.gov/chemidplus/rn/135729-62-3,CAS Registry Number,135729-62-3
+2020-09-18T19:16:57Z,https://chem.nlm.nih.gov/chemidplus/rn/135729-62-3,FDA UNII,23310D4I19
+2020-09-18T19:16:57Z,https://chem.nlm.nih.gov/chemidplus/rn/135729-62-3,Other Registry Number,1021481-16-2
+2020-09-18T19:16:57Z,https://chem.nlm.nih.gov/chemidplus/rn/135729-62-3,System Generated Number,0135729623
+2020-09-18T19:17:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1369665-02-0,CAS Registry Number,1369665-02-0
+2020-09-18T19:17:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1369665-02-0,FDA UNII,6EXI96H8SV
+2020-09-18T19:17:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1369665-02-0,System Generated Number,1369665020
+2020-09-18T19:17:11Z,https://chem.nlm.nih.gov/chemidplus/rn/121032-29-9,CAS Registry Number,121032-29-9
+2020-09-18T19:17:11Z,https://chem.nlm.nih.gov/chemidplus/rn/121032-29-9,FDA UNII,60158CV180
+2020-09-18T19:17:11Z,https://chem.nlm.nih.gov/chemidplus/rn/121032-29-9,System Generated Number,0121032299
+2020-09-18T19:17:14Z,https://chem.nlm.nih.gov/chemidplus/rn/934660-93-2,CAS Registry Number,934660-93-2
+2020-09-18T19:17:14Z,https://chem.nlm.nih.gov/chemidplus/rn/934660-93-2,FDA UNII,ER29L26N1X
+2020-09-18T19:17:14Z,https://chem.nlm.nih.gov/chemidplus/rn/934660-93-2,Other Registry Number,1029872-29-4
+2020-09-18T19:17:14Z,https://chem.nlm.nih.gov/chemidplus/rn/934660-93-2,System Generated Number,0934660932
+2020-09-18T19:17:21Z,https://chem.nlm.nih.gov/chemidplus/rn/3604-90-8,CAS Registry Number,3604-90-8
+2020-09-18T19:17:21Z,https://chem.nlm.nih.gov/chemidplus/rn/3604-90-8,FDA UNII,4QIX1TA44L
+2020-09-18T19:17:21Z,https://chem.nlm.nih.gov/chemidplus/rn/3604-90-8,System Generated Number,0003604908
+2020-09-18T19:17:33Z,https://chem.nlm.nih.gov/chemidplus/rn/75-97-8,CAS Registry Number,75-97-8
+2020-09-18T19:17:33Z,https://chem.nlm.nih.gov/chemidplus/rn/75-97-8,FDA UNII,3U1AAG3528
+2020-09-18T19:17:33Z,https://chem.nlm.nih.gov/chemidplus/rn/75-97-8,System Generated Number,0000075978
+2020-09-18T19:17:40Z,https://chem.nlm.nih.gov/chemidplus/rn/191732-72-6,CAS Registry Number,191732-72-6
+2020-09-18T19:17:40Z,https://chem.nlm.nih.gov/chemidplus/rn/191732-72-6,FDA UNII,F0P408N6V4
+2020-09-18T19:17:40Z,https://chem.nlm.nih.gov/chemidplus/rn/191732-72-6,Other Registry Numbers,346670-73-3
+2020-09-18T19:17:40Z,https://chem.nlm.nih.gov/chemidplus/rn/191732-72-6,Other Registry Numbers,443912-14-9
+2020-09-18T19:17:40Z,https://chem.nlm.nih.gov/chemidplus/rn/191732-72-6,System Generated Number,0191732726
+2020-09-18T19:17:53Z,https://chem.nlm.nih.gov/chemidplus/rn/366-70-1,CAS Registry Number,366-70-1
+2020-09-18T19:17:53Z,https://chem.nlm.nih.gov/chemidplus/rn/366-70-1,FDA UNII,XH0NPH5ZX8
+2020-09-18T19:17:53Z,https://chem.nlm.nih.gov/chemidplus/rn/366-70-1,Related Registry Number,671-16-9 (Parent)
+2020-09-18T19:17:53Z,https://chem.nlm.nih.gov/chemidplus/rn/366-70-1,System Generated Number,0000366701
+2020-09-18T19:18:01Z,https://chem.nlm.nih.gov/chemidplus/rn/63-91-2,CAS Registry Number,63-91-2
+2020-09-18T19:18:01Z,https://chem.nlm.nih.gov/chemidplus/rn/63-91-2,FDA UNII,47E5O17Y3R
+2020-09-18T19:18:01Z,https://chem.nlm.nih.gov/chemidplus/rn/63-91-2,Other Registry Numbers,10549-09-4
+2020-09-18T19:18:01Z,https://chem.nlm.nih.gov/chemidplus/rn/63-91-2,Other Registry Numbers,3617-44-5
+2020-09-18T19:18:01Z,https://chem.nlm.nih.gov/chemidplus/rn/63-91-2,Other Registry Numbers,5297-02-9
+2020-09-18T19:18:01Z,https://chem.nlm.nih.gov/chemidplus/rn/63-91-2,Other Registry Numbers,67675-33-6
+2020-09-18T19:18:01Z,https://chem.nlm.nih.gov/chemidplus/rn/63-91-2,Other Registry Numbers,801204-11-5
+2020-09-18T19:18:01Z,https://chem.nlm.nih.gov/chemidplus/rn/63-91-2,System Generated Number,0000063912
+2020-09-18T19:18:08Z,https://chem.nlm.nih.gov/chemidplus/rn/82-66-6,CAS Registry Number,82-66-6
+2020-09-18T19:18:08Z,https://chem.nlm.nih.gov/chemidplus/rn/82-66-6,FDA UNII,54CA01C6JX
+2020-09-18T19:18:08Z,https://chem.nlm.nih.gov/chemidplus/rn/82-66-6,Related Registry Number,82271-36-1 (cpd with unspecified hydrochloride-salt)
+2020-09-18T19:18:08Z,https://chem.nlm.nih.gov/chemidplus/rn/82-66-6,System Generated Number,0000082666
+2020-09-18T19:18:17Z,https://chem.nlm.nih.gov/chemidplus/rn/136572-09-3,CAS Registry Number,136572-09-3
+2020-09-18T19:18:17Z,https://chem.nlm.nih.gov/chemidplus/rn/136572-09-3,FDA UNII,042LAQ1IIS
+2020-09-18T19:18:17Z,https://chem.nlm.nih.gov/chemidplus/rn/136572-09-3,System Generated Number,0136572093
+2020-09-18T19:18:19Z,https://chem.nlm.nih.gov/chemidplus/rn/1047644-62-1,CAS Registry Number,1047644-62-1
+2020-09-18T19:18:19Z,https://chem.nlm.nih.gov/chemidplus/rn/1047644-62-1,FDA UNII,8739X25QI3
+2020-09-18T19:18:19Z,https://chem.nlm.nih.gov/chemidplus/rn/1047644-62-1,Other Registry Number,1343402-83-4
+2020-09-18T19:18:19Z,https://chem.nlm.nih.gov/chemidplus/rn/1047644-62-1,System Generated Number,1047644621
+2020-09-18T19:18:31Z,https://chem.nlm.nih.gov/chemidplus/rn/1393477-72-9,CAS Registry Number,1393477-72-9
+2020-09-18T19:18:31Z,https://chem.nlm.nih.gov/chemidplus/rn/1393477-72-9,FDA UNII,31TZ62FO8F
+2020-09-18T19:18:31Z,https://chem.nlm.nih.gov/chemidplus/rn/1393477-72-9,System Generated Number,1393477729
+2020-09-18T19:18:42Z,https://chem.nlm.nih.gov/chemidplus/rn/714272-27-2,CAS Registry Number,714272-27-2
+2020-09-18T19:18:42Z,https://chem.nlm.nih.gov/chemidplus/rn/714272-27-2,FDA UNII,986FY7F8XR
+2020-09-18T19:18:42Z,https://chem.nlm.nih.gov/chemidplus/rn/714272-27-2,System Generated Number,0714272272
+2020-09-18T19:18:50Z,https://chem.nlm.nih.gov/chemidplus/rn/54-36-4,CAS Registry Number,54-36-4
+2020-09-18T19:18:50Z,https://chem.nlm.nih.gov/chemidplus/rn/54-36-4,FDA UNII,ZS9KD92H6V
+2020-09-18T19:18:50Z,https://chem.nlm.nih.gov/chemidplus/rn/54-36-4,Other Registry Number,37245-80-0
+2020-09-18T19:18:50Z,https://chem.nlm.nih.gov/chemidplus/rn/54-36-4,System Generated Number,0000054364
+2020-09-18T19:18:57Z,https://chem.nlm.nih.gov/chemidplus/rn/30529-16-9,CAS Registry Number,30529-16-9
+2020-09-18T19:18:57Z,https://chem.nlm.nih.gov/chemidplus/rn/30529-16-9,FDA UNII,AX8T791ON0
+2020-09-18T19:18:57Z,https://chem.nlm.nih.gov/chemidplus/rn/30529-16-9,System Generated Number,0030529169
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,CAS Registry Number,62952-06-1
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,FDA UNII,2JJ274J145
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,Other Registry Numbers,107032-89-3
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,Other Registry Numbers,123445-32-9
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,Other Registry Numbers,145607-63-2
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,Other Registry Numbers,34220-70-7
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,Other Registry Numbers,50641-50-4
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,Other Registry Numbers,51024-94-3
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,Other Registry Numbers,77337-52-1
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,Other Registry Numbers,92520-58-6
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,Other Registry Numbers,97598-63-5
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,Other Registry Numbers,98806-35-0
+2020-09-18T19:19:05Z,https://chem.nlm.nih.gov/chemidplus/rn/62952-06-1,System Generated Number,0062952061
+2020-09-18T19:19:12Z,https://chem.nlm.nih.gov/chemidplus/rn/1843-82-9,CAS Registry Number,1843-82-9
+2020-09-18T19:19:12Z,https://chem.nlm.nih.gov/chemidplus/rn/1843-82-9,System Generated Number,0001843829
+2020-09-18T19:19:19Z,https://chem.nlm.nih.gov/chemidplus/rn/1346242-81-6,CAS Registry Number,1346242-81-6
+2020-09-18T19:19:19Z,https://chem.nlm.nih.gov/chemidplus/rn/1346242-81-6,FDA UNII,890E37NHMV
+2020-09-18T19:19:19Z,https://chem.nlm.nih.gov/chemidplus/rn/1346242-81-6,System Generated Number,1346242816
+2020-09-18T19:19:27Z,https://chem.nlm.nih.gov/chemidplus/rn/999-81-5,CAS Registry Number,999-81-5
+2020-09-18T19:19:27Z,https://chem.nlm.nih.gov/chemidplus/rn/999-81-5,FDA UNII,PPL2215L82
+2020-09-18T19:19:27Z,https://chem.nlm.nih.gov/chemidplus/rn/999-81-5,Other Registry Numbers,360577-25-9
+2020-09-18T19:19:27Z,https://chem.nlm.nih.gov/chemidplus/rn/999-81-5,Other Registry Numbers,39394-21-3
+2020-09-18T19:19:27Z,https://chem.nlm.nih.gov/chemidplus/rn/999-81-5,Other Registry Numbers,8073-20-9
+2020-09-18T19:19:27Z,https://chem.nlm.nih.gov/chemidplus/rn/999-81-5,System Generated Number,0000999815
+2020-09-18T19:19:35Z,https://chem.nlm.nih.gov/chemidplus/rn/131654-46-1,CAS Registry Number,131654-46-1
+2020-09-18T19:19:35Z,https://chem.nlm.nih.gov/chemidplus/rn/131654-46-1,FDA UNII,5CSV5K1879
+2020-09-18T19:19:35Z,https://chem.nlm.nih.gov/chemidplus/rn/131654-46-1,Other Registry Number,158859-43-9
+2020-09-18T19:19:35Z,https://chem.nlm.nih.gov/chemidplus/rn/131654-46-1,System Generated Number,0131654461
+2020-09-18T19:19:42Z,https://chem.nlm.nih.gov/chemidplus/rn/6742-07-0,CAS Registry Number,6742-07-0
+2020-09-18T19:19:42Z,https://chem.nlm.nih.gov/chemidplus/rn/6742-07-0,System Generated Number,0006742070
+2020-09-18T19:19:50Z,https://chem.nlm.nih.gov/chemidplus/rn/848-75-9,CAS Registry Number,848-75-9
+2020-09-18T19:19:50Z,https://chem.nlm.nih.gov/chemidplus/rn/848-75-9,FDA UNII,GU56C842ZA
+2020-09-18T19:19:50Z,https://chem.nlm.nih.gov/chemidplus/rn/848-75-9,System Generated Number,0000848759
+2020-09-18T19:19:57Z,https://chem.nlm.nih.gov/chemidplus/rn/90-33-5,CAS Registry Number,90-33-5
+2020-09-18T19:19:57Z,https://chem.nlm.nih.gov/chemidplus/rn/90-33-5,FDA UNII,3T5NG4Q468
+2020-09-18T19:19:57Z,https://chem.nlm.nih.gov/chemidplus/rn/90-33-5,Other Registry Number,56275-29-7
+2020-09-18T19:19:57Z,https://chem.nlm.nih.gov/chemidplus/rn/90-33-5,System Generated Number,0000090335
+2020-09-18T19:20:05Z,https://chem.nlm.nih.gov/chemidplus/rn/55-38-9,CAS Registry Number,55-38-9
+2020-09-18T19:20:05Z,https://chem.nlm.nih.gov/chemidplus/rn/55-38-9,FDA UNII,BL0L45OVKT
+2020-09-18T19:20:05Z,https://chem.nlm.nih.gov/chemidplus/rn/55-38-9,System Generated Number,0000055389
+2020-09-18T19:20:12Z,https://chem.nlm.nih.gov/chemidplus/rn/53885-35-1,CAS Registry Number,53885-35-1
+2020-09-18T19:20:12Z,https://chem.nlm.nih.gov/chemidplus/rn/53885-35-1,FDA UNII,A1L4914FMF
+2020-09-18T19:20:12Z,https://chem.nlm.nih.gov/chemidplus/rn/53885-35-1,System Generated Number,0053885351
+2020-09-18T19:20:20Z,https://chem.nlm.nih.gov/chemidplus/rn/83150-76-9,CAS Registry Number,83150-76-9
+2020-09-18T19:20:20Z,https://chem.nlm.nih.gov/chemidplus/rn/83150-76-9,FDA UNII,RWM8CCW8GP
+2020-09-18T19:20:20Z,https://chem.nlm.nih.gov/chemidplus/rn/83150-76-9,Related Registry Number,79517-01-4 (acetate salt)
+2020-09-18T19:20:20Z,https://chem.nlm.nih.gov/chemidplus/rn/83150-76-9,System Generated Number,0083150769
+2020-09-18T19:20:28Z,https://chem.nlm.nih.gov/chemidplus/rn/50-86-2,CAS Registry Number,50-86-2
+2020-09-18T19:20:28Z,https://chem.nlm.nih.gov/chemidplus/rn/50-86-2,FDA UNII,I7C1010RKE
+2020-09-18T19:20:28Z,https://chem.nlm.nih.gov/chemidplus/rn/50-86-2,System Generated Number,0000050862
+2020-09-18T19:20:35Z,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8,CAS Registry Number,15148-80-8
+2020-09-18T19:20:35Z,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8,FDA UNII,DTC2G3GDPL
+2020-09-18T19:20:35Z,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8,Other Registry Number,23284-25-5
+2020-09-18T19:20:35Z,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8,System Generated Number,0015148808
+2020-09-18T19:20:44Z,https://chem.nlm.nih.gov/chemidplus/rn/751-75-7,CAS Registry Number,751-75-7
+2020-09-18T19:20:44Z,https://chem.nlm.nih.gov/chemidplus/rn/751-75-7,System Generated Number,0000751757
+2020-09-18T19:20:53Z,https://chem.nlm.nih.gov/chemidplus/rn/63-98-9,CAS Registry Number,63-98-9
+2020-09-18T19:20:53Z,https://chem.nlm.nih.gov/chemidplus/rn/63-98-9,FDA UNII,PAI7J52V09
+2020-09-18T19:20:53Z,https://chem.nlm.nih.gov/chemidplus/rn/63-98-9,System Generated Number,0000063989
+2020-09-18T19:20:55Z,https://chem.nlm.nih.gov/chemidplus/rn/50-91-9,CAS Registry Number,50-91-9
+2020-09-18T19:20:55Z,https://chem.nlm.nih.gov/chemidplus/rn/50-91-9,FDA UNII,039LU44I5M
+2020-09-18T19:20:55Z,https://chem.nlm.nih.gov/chemidplus/rn/50-91-9,System Generated Number,0000050919
+2020-09-18T19:21:07Z,https://chem.nlm.nih.gov/chemidplus/rn/13422-53-2,CAS Registry Number,13422-53-2
+2020-09-18T19:21:07Z,https://chem.nlm.nih.gov/chemidplus/rn/13422-53-2,FDA UNII,562RS6MC22
+2020-09-18T19:21:07Z,https://chem.nlm.nih.gov/chemidplus/rn/13422-53-2,System Generated Number,0013422532
+2020-09-18T19:21:15Z,https://chem.nlm.nih.gov/chemidplus/rn/10143-22-3,CAS Registry Number,10143-22-3
+2020-09-18T19:21:15Z,https://chem.nlm.nih.gov/chemidplus/rn/10143-22-3,FDA UNII,O27AM26HI0
+2020-09-18T19:21:15Z,https://chem.nlm.nih.gov/chemidplus/rn/10143-22-3,System Generated Number,0010143223
+2020-09-18T19:21:23Z,https://chem.nlm.nih.gov/chemidplus/rn/77-09-8,CAS Registry Number,77-09-8
+2020-09-18T19:21:23Z,https://chem.nlm.nih.gov/chemidplus/rn/77-09-8,FDA UNII,6QK969R2IF
+2020-09-18T19:21:23Z,https://chem.nlm.nih.gov/chemidplus/rn/77-09-8,Other Registry Numbers,1541170-18-6
+2020-09-18T19:21:23Z,https://chem.nlm.nih.gov/chemidplus/rn/77-09-8,Other Registry Numbers,390417-24-0
+2020-09-18T19:21:23Z,https://chem.nlm.nih.gov/chemidplus/rn/77-09-8,Other Registry Numbers,467-29-8
+2020-09-18T19:21:23Z,https://chem.nlm.nih.gov/chemidplus/rn/77-09-8,Other Registry Numbers,546094-13-7
+2020-09-18T19:21:23Z,https://chem.nlm.nih.gov/chemidplus/rn/77-09-8,Other Registry Numbers,57214-20-7
+2020-09-18T19:21:23Z,https://chem.nlm.nih.gov/chemidplus/rn/77-09-8,System Generated Number,0000077098
+2020-09-18T19:21:31Z,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8,CAS Registry Number,4291-63-8
+2020-09-18T19:21:31Z,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8,FDA UNII,47M74X9YT5
+2020-09-18T19:21:31Z,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8,Other Registry Number,24757-90-2
+2020-09-18T19:21:31Z,https://chem.nlm.nih.gov/chemidplus/rn/4291-63-8,System Generated Number,0004291638
+2020-09-18T19:21:39Z,https://chem.nlm.nih.gov/chemidplus/rn/618-82-6,CAS Registry Number,618-82-6
+2020-09-18T19:21:39Z,https://chem.nlm.nih.gov/chemidplus/rn/618-82-6,FDA UNII,B1GGH4ZUZL
+2020-09-18T19:21:39Z,https://chem.nlm.nih.gov/chemidplus/rn/618-82-6,System Generated Number,0000618826
+2020-09-18T19:21:43Z,https://chem.nlm.nih.gov/chemidplus/rn/81093-37-0,CAS Registry Number,81093-37-0
+2020-09-18T19:21:43Z,https://chem.nlm.nih.gov/chemidplus/rn/81093-37-0,FDA UNII,KXO2KT9N0G
+2020-09-18T19:21:43Z,https://chem.nlm.nih.gov/chemidplus/rn/81093-37-0,Related Registry Number,81131-70-6 (hydrochloride salt)
+2020-09-18T19:21:43Z,https://chem.nlm.nih.gov/chemidplus/rn/81093-37-0,System Generated Number,0081093370
+2020-09-18T19:21:46Z,https://chem.nlm.nih.gov/chemidplus/rn/1246816-57-8,CAS Registry Number,1246816-57-8
+2020-09-18T19:21:46Z,https://chem.nlm.nih.gov/chemidplus/rn/1246816-57-8,FDA UNII,0ZD111VO20
+2020-09-18T19:21:46Z,https://chem.nlm.nih.gov/chemidplus/rn/1246816-57-8,System Generated Number,1246816578
+2020-09-18T19:21:53Z,https://chem.nlm.nih.gov/chemidplus/rn/4394-00-7,CAS Registry Number,4394-00-7
+2020-09-18T19:21:53Z,https://chem.nlm.nih.gov/chemidplus/rn/4394-00-7,FDA UNII,4U5MP5IUD8
+2020-09-18T19:21:53Z,https://chem.nlm.nih.gov/chemidplus/rn/4394-00-7,System Generated Number,0004394007
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,CAS Registry Number,482-35-9
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,FDA UNII,6HN2PC637T
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,Other Registry Numbers,1012316-11-8
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,Other Registry Numbers,107438-55-1
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,Other Registry Numbers,1246962-26-4
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,Other Registry Numbers,27215-07-2
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,Other Registry Numbers,28454-82-2
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,Other Registry Numbers,355806-24-5
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,Other Registry Numbers,478367-76-9
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,Other Registry Numbers,61277-38-1
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,Other Registry Numbers,888937-01-7
+2020-09-18T19:22:01Z,https://chem.nlm.nih.gov/chemidplus/rn/482-35-9,System Generated Number,0000482359
+2020-09-18T19:22:08Z,https://chem.nlm.nih.gov/chemidplus/rn/93-14-1,CAS Registry Number,93-14-1
+2020-09-18T19:22:08Z,https://chem.nlm.nih.gov/chemidplus/rn/93-14-1,FDA UNII,495W7451VQ
+2020-09-18T19:22:08Z,https://chem.nlm.nih.gov/chemidplus/rn/93-14-1,Other Registry Numbers,12041-73-5
+2020-09-18T19:22:08Z,https://chem.nlm.nih.gov/chemidplus/rn/93-14-1,Other Registry Numbers,128707-44-8
+2020-09-18T19:22:08Z,https://chem.nlm.nih.gov/chemidplus/rn/93-14-1,Other Registry Numbers,1336-67-0
+2020-09-18T19:22:08Z,https://chem.nlm.nih.gov/chemidplus/rn/93-14-1,System Generated Number,0000093141
+2020-09-18T19:22:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2778-42-9,CAS Registry Number,2778-42-9
+2020-09-18T19:22:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2778-42-9,FDA UNII,YMD74QL0TC
+2020-09-18T19:22:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2778-42-9,Other Registry Numbers,116723-39-8
+2020-09-18T19:22:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2778-42-9,Other Registry Numbers,1809802-53-6
+2020-09-18T19:22:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2778-42-9,Other Registry Numbers,1998085-41-8
+2020-09-18T19:22:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2778-42-9,Other Registry Numbers,85902-02-9
+2020-09-18T19:22:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2778-42-9,Other Registry Numbers,945843-99-2
+2020-09-18T19:22:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2778-42-9,System Generated Number,0002778429
+2020-09-18T19:22:23Z,https://chem.nlm.nih.gov/chemidplus/rn/1194506-26-7,CAS Registry Number,1194506-26-7
+2020-09-18T19:22:23Z,https://chem.nlm.nih.gov/chemidplus/rn/1194506-26-7,FDA UNII,49DXG3M5ZW
+2020-09-18T19:22:23Z,https://chem.nlm.nih.gov/chemidplus/rn/1194506-26-7,System Generated Number,1194506267
+2020-09-18T19:22:31Z,https://chem.nlm.nih.gov/chemidplus/rn/689-13-4,CAS Registry Number,689-13-4
+2020-09-18T19:22:31Z,https://chem.nlm.nih.gov/chemidplus/rn/689-13-4,FDA UNII,BFO5P1010A
+2020-09-18T19:22:31Z,https://chem.nlm.nih.gov/chemidplus/rn/689-13-4,Related Registry Number,2618-22-6 (mono-hydrochloride salt)
+2020-09-18T19:22:31Z,https://chem.nlm.nih.gov/chemidplus/rn/689-13-4,System Generated Number,0000689134
+2020-09-18T19:22:39Z,https://chem.nlm.nih.gov/chemidplus/rn/109581-93-3,CAS Registry Number,109581-93-3
+2020-09-18T19:22:39Z,https://chem.nlm.nih.gov/chemidplus/rn/109581-93-3,FDA UNII,WM0HAQ4WNM
+2020-09-18T19:22:39Z,https://chem.nlm.nih.gov/chemidplus/rn/109581-93-3,Related Registry Number,104987-11-3 (Parent)
+2020-09-18T19:22:39Z,https://chem.nlm.nih.gov/chemidplus/rn/109581-93-3,System Generated Number,0109581933
+2020-09-18T19:22:46Z,https://chem.nlm.nih.gov/chemidplus/rn/68844-77-9,CAS Registry Number,68844-77-9
+2020-09-18T19:22:46Z,https://chem.nlm.nih.gov/chemidplus/rn/68844-77-9,FDA UNII,7HU6337315
+2020-09-18T19:22:46Z,https://chem.nlm.nih.gov/chemidplus/rn/68844-77-9,System Generated Number,0068844779
+2020-09-18T19:22:54Z,https://chem.nlm.nih.gov/chemidplus/rn/100-33-4,CAS Registry Number,100-33-4
+2020-09-18T19:22:54Z,https://chem.nlm.nih.gov/chemidplus/rn/100-33-4,FDA UNII,673LC5J4LQ
+2020-09-18T19:22:54Z,https://chem.nlm.nih.gov/chemidplus/rn/100-33-4,System Generated Number,0000100334
+2020-09-18T19:23:01Z,https://chem.nlm.nih.gov/chemidplus/rn/134-50-9,CAS Registry Number,134-50-9
+2020-09-18T19:23:01Z,https://chem.nlm.nih.gov/chemidplus/rn/134-50-9,FDA UNII,OR5RM3Q5QL
+2020-09-18T19:23:01Z,https://chem.nlm.nih.gov/chemidplus/rn/134-50-9,System Generated Number,0000134509
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,CAS Registry Number,68603-42-9
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,1132712-02-7
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,118104-13-5
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,12751-06-3
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,1430328-98-5
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,153189-69-6
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,1591830-58-8
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,186615-78-1
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,53028-62-9
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,56448-72-7
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,56832-66-7
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,63091-31-6
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,66984-58-5
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,67785-10-8
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,67785-14-2
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,71343-51-6
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,71343-71-0
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,8036-48-4
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,8040-31-1
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,8040-33-3
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,83652-14-6
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,87714-18-9
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,Other Registry Numbers,90651-47-1
+2020-09-18T19:23:15Z,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9,System Generated Number,0068603429
+2020-09-18T19:23:22Z,https://chem.nlm.nih.gov/chemidplus/rn/56239-24-8,CAS Registry Number,56239-24-8
+2020-09-18T19:23:22Z,https://chem.nlm.nih.gov/chemidplus/rn/56239-24-8,System Generated Number,0056239248
+2020-09-18T19:23:30Z,https://chem.nlm.nih.gov/chemidplus/rn/274693-27-5,CAS Registry Number,274693-27-5
+2020-09-18T19:23:30Z,https://chem.nlm.nih.gov/chemidplus/rn/274693-27-5,FDA UNII,GLH0314RVC
+2020-09-18T19:23:30Z,https://chem.nlm.nih.gov/chemidplus/rn/274693-27-5,System Generated Number,0274693275
+2020-09-18T19:23:37Z,https://chem.nlm.nih.gov/chemidplus/rn/524746-13-2,CAS Registry Number,524746-13-2
+2020-09-18T19:23:37Z,https://chem.nlm.nih.gov/chemidplus/rn/524746-13-2,FDA UNII,3SQ2C73QCB
+2020-09-18T19:23:37Z,https://chem.nlm.nih.gov/chemidplus/rn/524746-13-2,System Generated Number,0524746132
+2020-09-18T19:23:45Z,https://chem.nlm.nih.gov/chemidplus/rn/15676-23-0,CAS Registry Number,15676-23-0
+2020-09-18T19:23:45Z,https://chem.nlm.nih.gov/chemidplus/rn/15676-23-0,FDA UNII,AG3VB17119
+2020-09-18T19:23:45Z,https://chem.nlm.nih.gov/chemidplus/rn/15676-23-0,System Generated Number,0015676230
+2020-09-18T19:23:53Z,https://chem.nlm.nih.gov/chemidplus/rn/118-03-6,CAS Registry Number,118-03-6
+2020-09-18T19:23:53Z,https://chem.nlm.nih.gov/chemidplus/rn/118-03-6,System Generated Number,0000118036
+2020-09-18T19:24:01Z,https://chem.nlm.nih.gov/chemidplus/rn/52-41-5,CAS Registry Number,52-41-5
+2020-09-18T19:24:01Z,https://chem.nlm.nih.gov/chemidplus/rn/52-41-5,FDA UNII,LL3YKD114A
+2020-09-18T19:24:01Z,https://chem.nlm.nih.gov/chemidplus/rn/52-41-5,System Generated Number,0000052415
+2020-09-18T19:24:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1033805-28-5,CAS Registry Number,1033805-28-5
+2020-09-18T19:24:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1033805-28-5,FDA UNII,381V4FCV2Z
+2020-09-18T19:24:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1033805-28-5,System Generated Number,1033805285
+2020-09-18T19:24:16Z,https://chem.nlm.nih.gov/chemidplus/rn/947687-13-0,CAS Registry Number,947687-13-0
+2020-09-18T19:24:16Z,https://chem.nlm.nih.gov/chemidplus/rn/947687-13-0,FDA UNII,D99YVK4L0X
+2020-09-18T19:24:16Z,https://chem.nlm.nih.gov/chemidplus/rn/947687-13-0,System Generated Number,0947687130
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,CAS Registry Number,2809-21-4
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,FDA UNII,M2F465ROXU
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,100511-44-2
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,103736-66-9
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,106908-76-3
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,129130-42-3
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,138360-84-6
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,192526-55-9
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,303177-33-5
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,51888-66-5
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,66216-98-6
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,83047-25-0
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,85188-80-3
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,853028-38-3
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,85985-26-8
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Other Registry Numbers,86159-18-4
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,Related Registry Number,14860-53-8 (tetra-potassium salt)
+2020-09-18T19:24:24Z,https://chem.nlm.nih.gov/chemidplus/rn/2809-21-4,System Generated Number,0002809214
+2020-09-18T19:24:32Z,https://chem.nlm.nih.gov/chemidplus/rn/1577-03-3,CAS Registry Number,1577-03-3
+2020-09-18T19:24:32Z,https://chem.nlm.nih.gov/chemidplus/rn/1577-03-3,FDA UNII,57DJP999E2
+2020-09-18T19:24:32Z,https://chem.nlm.nih.gov/chemidplus/rn/1577-03-3,System Generated Number,0001577033
+2020-09-18T19:24:39Z,https://chem.nlm.nih.gov/chemidplus/rn/143011-72-7,CAS Registry Number,143011-72-7
+2020-09-18T19:24:39Z,https://chem.nlm.nih.gov/chemidplus/rn/143011-72-7,System Generated Number,0143011727
+2020-09-18T19:24:50Z,https://chem.nlm.nih.gov/chemidplus/rn/64318-79-2,CAS Registry Number,64318-79-2
+2020-09-18T19:24:50Z,https://chem.nlm.nih.gov/chemidplus/rn/64318-79-2,FDA UNII,45KZB1FOLS
+2020-09-18T19:24:50Z,https://chem.nlm.nih.gov/chemidplus/rn/64318-79-2,Other Registry Number,65135-28-6
+2020-09-18T19:24:50Z,https://chem.nlm.nih.gov/chemidplus/rn/64318-79-2,System Generated Number,0064318792
+2020-09-18T19:24:58Z,https://chem.nlm.nih.gov/chemidplus/rn/1086-02-8,CAS Registry Number,1086-02-8
+2020-09-18T19:24:58Z,https://chem.nlm.nih.gov/chemidplus/rn/1086-02-8,FDA UNII,09I841O866
+2020-09-18T19:24:58Z,https://chem.nlm.nih.gov/chemidplus/rn/1086-02-8,System Generated Number,0001086028
+2020-09-18T19:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2265-64-7,CAS Registry Number,2265-64-7
+2020-09-18T19:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2265-64-7,FDA UNII,8LGC0BOA71
+2020-09-18T19:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2265-64-7,Other Registry Number,68402-70-0
+2020-09-18T19:25:05Z,https://chem.nlm.nih.gov/chemidplus/rn/2265-64-7,System Generated Number,0002265647
+2020-09-18T19:25:13Z,https://chem.nlm.nih.gov/chemidplus/rn/154-41-6,CAS Registry Number,154-41-6
+2020-09-18T19:25:13Z,https://chem.nlm.nih.gov/chemidplus/rn/154-41-6,FDA UNII,8D5I63UE1Q
+2020-09-18T19:25:13Z,https://chem.nlm.nih.gov/chemidplus/rn/154-41-6,Other Registry Numbers,4345-16-8
+2020-09-18T19:25:13Z,https://chem.nlm.nih.gov/chemidplus/rn/154-41-6,Other Registry Numbers,7587-43-1
+2020-09-18T19:25:13Z,https://chem.nlm.nih.gov/chemidplus/rn/154-41-6,System Generated Number,0000154416
+2020-09-18T19:25:21Z,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4,CAS Registry Number,865-21-4
+2020-09-18T19:25:21Z,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4,FDA UNII,5V9KLZ54CY
+2020-09-18T19:25:21Z,https://chem.nlm.nih.gov/chemidplus/rn/865-21-4,System Generated Number,0000865214
+2020-09-18T19:25:28Z,https://chem.nlm.nih.gov/chemidplus/rn/183133-96-2,CAS Registry Number,183133-96-2
+2020-09-18T19:25:28Z,https://chem.nlm.nih.gov/chemidplus/rn/183133-96-2,FDA UNII,51F690397J
+2020-09-18T19:25:28Z,https://chem.nlm.nih.gov/chemidplus/rn/183133-96-2,Other Registry Number,890654-44-1
+2020-09-18T19:25:28Z,https://chem.nlm.nih.gov/chemidplus/rn/183133-96-2,System Generated Number,0183133962
+2020-09-18T19:25:35Z,https://chem.nlm.nih.gov/chemidplus/rn/956104-40-8,CAS Registry Number,956104-40-8
+2020-09-18T19:25:35Z,https://chem.nlm.nih.gov/chemidplus/rn/956104-40-8,FDA UNII,4T36H88UA7
+2020-09-18T19:25:35Z,https://chem.nlm.nih.gov/chemidplus/rn/956104-40-8,Other Registry Number,1361232-32-7
+2020-09-18T19:25:35Z,https://chem.nlm.nih.gov/chemidplus/rn/956104-40-8,System Generated Number,0956104408
+2020-09-18T19:25:43Z,https://chem.nlm.nih.gov/chemidplus/rn/849217-68-1,CAS Registry Number,849217-68-1
+2020-09-18T19:25:43Z,https://chem.nlm.nih.gov/chemidplus/rn/849217-68-1,FDA UNII,1C39JW444G
+2020-09-18T19:25:43Z,https://chem.nlm.nih.gov/chemidplus/rn/849217-68-1,System Generated Number,0849217681
+2020-09-18T19:26:00Z,https://chem.nlm.nih.gov/chemidplus/rn/50-29-3,CAS Registry Number,50-29-3
+2020-09-18T19:26:00Z,https://chem.nlm.nih.gov/chemidplus/rn/50-29-3,FDA UNII,CIW5S16655
+2020-09-18T19:26:00Z,https://chem.nlm.nih.gov/chemidplus/rn/50-29-3,Other Registry Number,1081843-15-3
+2020-09-18T19:26:00Z,https://chem.nlm.nih.gov/chemidplus/rn/50-29-3,System Generated Number,0000050293
+2020-09-18T19:26:11Z,https://chem.nlm.nih.gov/chemidplus/rn/84499-64-9,CAS Registry Number,84499-64-9
+2020-09-18T19:26:11Z,https://chem.nlm.nih.gov/chemidplus/rn/84499-64-9,FDA UNII,9OD2KT7DBK
+2020-09-18T19:26:11Z,https://chem.nlm.nih.gov/chemidplus/rn/84499-64-9,System Generated Number,0084499649
+2020-09-18T19:26:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-93-5,CAS Registry Number,60-93-5
+2020-09-18T19:26:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-93-5,FDA UNII,8C3EMH7D9X
+2020-09-18T19:26:19Z,https://chem.nlm.nih.gov/chemidplus/rn/60-93-5,System Generated Number,0000060935
+2020-09-18T19:26:27Z,https://chem.nlm.nih.gov/chemidplus/rn/56-94-0,CAS Registry Number,56-94-0
+2020-09-18T19:26:27Z,https://chem.nlm.nih.gov/chemidplus/rn/56-94-0,FDA UNII,61D5V4OKTP
+2020-09-18T19:26:27Z,https://chem.nlm.nih.gov/chemidplus/rn/56-94-0,System Generated Number,0000056940
+2020-09-18T19:26:34Z,https://chem.nlm.nih.gov/chemidplus/rn/7761-45-7,CAS Registry Number,7761-45-7
+2020-09-18T19:26:34Z,https://chem.nlm.nih.gov/chemidplus/rn/7761-45-7,FDA UNII,2L9RKX796Q
+2020-09-18T19:26:34Z,https://chem.nlm.nih.gov/chemidplus/rn/7761-45-7,System Generated Number,0007761457
+2020-09-18T19:26:41Z,https://chem.nlm.nih.gov/chemidplus/rn/804-30-8,CAS Registry Number,804-30-8
+2020-09-18T19:26:41Z,https://chem.nlm.nih.gov/chemidplus/rn/804-30-8,FDA UNII,05J61265PX
+2020-09-18T19:26:41Z,https://chem.nlm.nih.gov/chemidplus/rn/804-30-8,Related Registry Numbers,10238-39-8 (hydrochloride)
+2020-09-18T19:26:41Z,https://chem.nlm.nih.gov/chemidplus/rn/804-30-8,Related Registry Numbers,2105-43-3 (mono-hydrochloride)
+2020-09-18T19:26:41Z,https://chem.nlm.nih.gov/chemidplus/rn/804-30-8,System Generated Number,0000804308
+2020-09-18T19:26:49Z,https://chem.nlm.nih.gov/chemidplus/rn/52-42-6,CAS Registry Number,52-42-6
+2020-09-18T19:26:49Z,https://chem.nlm.nih.gov/chemidplus/rn/52-42-6,FDA UNII,HM77CQW5J3
+2020-09-18T19:26:49Z,https://chem.nlm.nih.gov/chemidplus/rn/52-42-6,System Generated Number,0000052426
+2020-09-18T19:26:56Z,https://chem.nlm.nih.gov/chemidplus/rn/3219-99-6,CAS Registry Number,3219-99-6
+2020-09-18T19:26:56Z,https://chem.nlm.nih.gov/chemidplus/rn/3219-99-6,FDA UNII,YK3J80P304
+2020-09-18T19:26:56Z,https://chem.nlm.nih.gov/chemidplus/rn/3219-99-6,System Generated Number,0003219996
+2020-09-18T19:27:03Z,https://chem.nlm.nih.gov/chemidplus/rn/77-75-8,CAS Registry Number,77-75-8
+2020-09-18T19:27:03Z,https://chem.nlm.nih.gov/chemidplus/rn/77-75-8,FDA UNII,B017BC5B1N
+2020-09-18T19:27:03Z,https://chem.nlm.nih.gov/chemidplus/rn/77-75-8,Other Registry Numbers,104758-85-2
+2020-09-18T19:27:03Z,https://chem.nlm.nih.gov/chemidplus/rn/77-75-8,Other Registry Numbers,25663-45-0
+2020-09-18T19:27:03Z,https://chem.nlm.nih.gov/chemidplus/rn/77-75-8,System Generated Number,0000077758
+2020-09-18T19:27:18Z,https://chem.nlm.nih.gov/chemidplus/rn/54063-24-0,CAS Registry Number,54063-24-0
+2020-09-18T19:27:18Z,https://chem.nlm.nih.gov/chemidplus/rn/54063-24-0,FDA UNII,X154DLC3EY
+2020-09-18T19:27:18Z,https://chem.nlm.nih.gov/chemidplus/rn/54063-24-0,System Generated Number,0054063240
+2020-09-18T19:27:25Z,https://chem.nlm.nih.gov/chemidplus/rn/117091-64-2,CAS Registry Number,117091-64-2
+2020-09-18T19:27:25Z,https://chem.nlm.nih.gov/chemidplus/rn/117091-64-2,FDA UNII,528XYJ8L1N
+2020-09-18T19:27:25Z,https://chem.nlm.nih.gov/chemidplus/rn/117091-64-2,System Generated Number,0117091642
+2020-09-18T19:27:33Z,https://chem.nlm.nih.gov/chemidplus/rn/671-16-9,CAS Registry Number,671-16-9
+2020-09-18T19:27:33Z,https://chem.nlm.nih.gov/chemidplus/rn/671-16-9,FDA UNII,35S93Y190K
+2020-09-18T19:27:33Z,https://chem.nlm.nih.gov/chemidplus/rn/671-16-9,Related Registry Number,366-70-1 (mono-hydrochloride)
+2020-09-18T19:27:33Z,https://chem.nlm.nih.gov/chemidplus/rn/671-16-9,System Generated Number,0000671169
+2020-09-18T19:27:51Z,https://chem.nlm.nih.gov/chemidplus/rn/78-48-8,CAS Registry Number,78-48-8
+2020-09-18T19:27:51Z,https://chem.nlm.nih.gov/chemidplus/rn/78-48-8,FDA UNII,53075G8GRF
+2020-09-18T19:27:51Z,https://chem.nlm.nih.gov/chemidplus/rn/78-48-8,System Generated Number,0000078488
+2020-09-18T19:28:10Z,https://chem.nlm.nih.gov/chemidplus/rn/89808-79-7,CAS Registry Number,89808-79-7
+2020-09-18T19:28:10Z,https://chem.nlm.nih.gov/chemidplus/rn/89808-79-7,System Generated Number,0089808797
+2020-09-18T19:28:22Z,https://chem.nlm.nih.gov/chemidplus/rn/62-38-4,CAS Registry Number,62-38-4
+2020-09-18T19:28:22Z,https://chem.nlm.nih.gov/chemidplus/rn/62-38-4,FDA UNII,OSX88361UX
+2020-09-18T19:28:22Z,https://chem.nlm.nih.gov/chemidplus/rn/62-38-4,Other Registry Numbers,112415-59-5
+2020-09-18T19:28:22Z,https://chem.nlm.nih.gov/chemidplus/rn/62-38-4,Other Registry Numbers,1337-06-0
+2020-09-18T19:28:22Z,https://chem.nlm.nih.gov/chemidplus/rn/62-38-4,Other Registry Numbers,61840-45-7
+2020-09-18T19:28:22Z,https://chem.nlm.nih.gov/chemidplus/rn/62-38-4,Other Registry Numbers,64684-45-3
+2020-09-18T19:28:22Z,https://chem.nlm.nih.gov/chemidplus/rn/62-38-4,Other Registry Numbers,8013-47-6
+2020-09-18T19:28:22Z,https://chem.nlm.nih.gov/chemidplus/rn/62-38-4,System Generated Number,0000062384
+2020-09-18T19:28:29Z,https://chem.nlm.nih.gov/chemidplus/rn/26787-78-0,CAS Registry Number,26787-78-0
+2020-09-18T19:28:29Z,https://chem.nlm.nih.gov/chemidplus/rn/26787-78-0,FDA UNII,9EM05410Q9
+2020-09-18T19:28:29Z,https://chem.nlm.nih.gov/chemidplus/rn/26787-78-0,Other Registry Numbers,1236363-38-4
+2020-09-18T19:28:29Z,https://chem.nlm.nih.gov/chemidplus/rn/26787-78-0,Other Registry Numbers,33911-69-2
+2020-09-18T19:28:29Z,https://chem.nlm.nih.gov/chemidplus/rn/26787-78-0,Other Registry Numbers,71447-36-4
+2020-09-18T19:28:29Z,https://chem.nlm.nih.gov/chemidplus/rn/26787-78-0,Other Registry Numbers,81030-75-3
+2020-09-18T19:28:29Z,https://chem.nlm.nih.gov/chemidplus/rn/26787-78-0,Related Registry Numbers,34642-77-8 (mono-hydrochloride salt)
+2020-09-18T19:28:29Z,https://chem.nlm.nih.gov/chemidplus/rn/26787-78-0,Related Registry Numbers,61336-70-7 (trihydrate)
+2020-09-18T19:28:29Z,https://chem.nlm.nih.gov/chemidplus/rn/26787-78-0,System Generated Number,0026787780
+2020-09-18T19:28:37Z,https://chem.nlm.nih.gov/chemidplus/rn/929901-49-5,CAS Registry Number,929901-49-5
+2020-09-18T19:28:37Z,https://chem.nlm.nih.gov/chemidplus/rn/929901-49-5,FDA UNII,2KT4YN1DP7
+2020-09-18T19:28:37Z,https://chem.nlm.nih.gov/chemidplus/rn/929901-49-5,System Generated Number,0929901495
+2020-09-18T19:28:44Z,https://chem.nlm.nih.gov/chemidplus/rn/92340-57-3,CAS Registry Number,92340-57-3
+2020-09-18T19:28:44Z,https://chem.nlm.nih.gov/chemidplus/rn/92340-57-3,System Generated Number,0092340573
+2020-09-18T19:28:53Z,https://chem.nlm.nih.gov/chemidplus/rn/61789-18-2,CAS Registry Number,61789-18-2
+2020-09-18T19:28:53Z,https://chem.nlm.nih.gov/chemidplus/rn/61789-18-2,FDA UNII,KB94658IHQ
+2020-09-18T19:28:53Z,https://chem.nlm.nih.gov/chemidplus/rn/61789-18-2,Other Registry Numbers,37334-78-4
+2020-09-18T19:28:53Z,https://chem.nlm.nih.gov/chemidplus/rn/61789-18-2,Other Registry Numbers,500876-31-3
+2020-09-18T19:28:53Z,https://chem.nlm.nih.gov/chemidplus/rn/61789-18-2,Other Registry Numbers,8028-19-1
+2020-09-18T19:28:53Z,https://chem.nlm.nih.gov/chemidplus/rn/61789-18-2,Other Registry Numbers,8029-24-1
+2020-09-18T19:28:53Z,https://chem.nlm.nih.gov/chemidplus/rn/61789-18-2,System Generated Number,0061789182
+2020-09-18T19:28:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-43-4,CAS Registry Number,51-43-4
+2020-09-18T19:28:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-43-4,FDA UNII,YKH834O4BH
+2020-09-18T19:28:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-43-4,Other Registry Number,51028-73-0
+2020-09-18T19:28:56Z,https://chem.nlm.nih.gov/chemidplus/rn/51-43-4,System Generated Number,0000051434
+2020-09-18T19:29:04Z,https://chem.nlm.nih.gov/chemidplus/rn/89778-27-8,CAS Registry Number,89778-27-8
+2020-09-18T19:29:04Z,https://chem.nlm.nih.gov/chemidplus/rn/89778-27-8,FDA UNII,2498Y783QT
+2020-09-18T19:29:04Z,https://chem.nlm.nih.gov/chemidplus/rn/89778-27-8,Related Registry Number,89778-26-7 (Parent)
+2020-09-18T19:29:04Z,https://chem.nlm.nih.gov/chemidplus/rn/89778-27-8,System Generated Number,0089778278
+2020-09-18T19:29:11Z,https://chem.nlm.nih.gov/chemidplus/rn/459868-92-9,CAS Registry Number,459868-92-9
+2020-09-18T19:29:11Z,https://chem.nlm.nih.gov/chemidplus/rn/459868-92-9,FDA UNII,H3M9955244
+2020-09-18T19:29:11Z,https://chem.nlm.nih.gov/chemidplus/rn/459868-92-9,System Generated Number,0459868929
+2020-09-18T19:29:18Z,https://chem.nlm.nih.gov/chemidplus/rn/4972-65-0,CAS Registry Number,4972-65-0
+2020-09-18T19:29:18Z,https://chem.nlm.nih.gov/chemidplus/rn/4972-65-0,FDA UNII,4VOT84VUZG
+2020-09-18T19:29:18Z,https://chem.nlm.nih.gov/chemidplus/rn/4972-65-0,System Generated Number,0004972650
+2020-09-18T19:29:22Z,https://chem.nlm.nih.gov/chemidplus/rn/698387-09-6,CAS Registry Number,698387-09-6
+2020-09-18T19:29:22Z,https://chem.nlm.nih.gov/chemidplus/rn/698387-09-6,FDA UNII,JJH94R3PWB
+2020-09-18T19:29:22Z,https://chem.nlm.nih.gov/chemidplus/rn/698387-09-6,Other Registry Number,736156-77-7
+2020-09-18T19:29:22Z,https://chem.nlm.nih.gov/chemidplus/rn/698387-09-6,System Generated Number,0698387096
+2020-09-18T19:29:30Z,https://chem.nlm.nih.gov/chemidplus/rn/75-00-3,CAS Registry Number,75-00-3
+2020-09-18T19:29:30Z,https://chem.nlm.nih.gov/chemidplus/rn/75-00-3,FDA UNII,46U771ERWK
+2020-09-18T19:29:30Z,https://chem.nlm.nih.gov/chemidplus/rn/75-00-3,System Generated Number,0000075003
+2020-09-18T19:29:33Z,https://chem.nlm.nih.gov/chemidplus/rn/566-48-3,CAS Registry Number,566-48-3
+2020-09-18T19:29:33Z,https://chem.nlm.nih.gov/chemidplus/rn/566-48-3,FDA UNII,PUB9T8T355
+2020-09-18T19:29:33Z,https://chem.nlm.nih.gov/chemidplus/rn/566-48-3,Other Registry Number,127128-20-5
+2020-09-18T19:29:33Z,https://chem.nlm.nih.gov/chemidplus/rn/566-48-3,System Generated Number,0000566483
+2020-09-18T19:29:45Z,https://chem.nlm.nih.gov/chemidplus/rn/134774-45-1,CAS Registry Number,134774-45-1
+2020-09-18T19:29:45Z,https://chem.nlm.nih.gov/chemidplus/rn/134774-45-1,FDA UNII,08GY9K1EUO
+2020-09-18T19:29:45Z,https://chem.nlm.nih.gov/chemidplus/rn/134774-45-1,Other Registry Number,352311-12-7
+2020-09-18T19:29:45Z,https://chem.nlm.nih.gov/chemidplus/rn/134774-45-1,System Generated Number,0134774451
+2020-09-18T19:29:57Z,https://chem.nlm.nih.gov/chemidplus/rn/138261-41-3,CAS Registry Number,138261-41-3
+2020-09-18T19:29:57Z,https://chem.nlm.nih.gov/chemidplus/rn/138261-41-3,FDA UNII,3BN7M937V8
+2020-09-18T19:29:57Z,https://chem.nlm.nih.gov/chemidplus/rn/138261-41-3,Other Registry Numbers,105827-78-9
+2020-09-18T19:29:57Z,https://chem.nlm.nih.gov/chemidplus/rn/138261-41-3,Other Registry Numbers,1223531-53-0
+2020-09-18T19:29:57Z,https://chem.nlm.nih.gov/chemidplus/rn/138261-41-3,Other Registry Numbers,1248963-04-3
+2020-09-18T19:29:57Z,https://chem.nlm.nih.gov/chemidplus/rn/138261-41-3,Other Registry Numbers,936094-08-5
+2020-09-18T19:29:57Z,https://chem.nlm.nih.gov/chemidplus/rn/138261-41-3,Other Registry Numbers,937701-26-3
+2020-09-18T19:29:57Z,https://chem.nlm.nih.gov/chemidplus/rn/138261-41-3,System Generated Number,0138261413
+2020-09-18T19:29:59Z,https://chem.nlm.nih.gov/chemidplus/rn/55216-11-0,CAS Registry Number,55216-11-0
+2020-09-18T19:29:59Z,https://chem.nlm.nih.gov/chemidplus/rn/55216-11-0,FDA UNII,317745Y683
+2020-09-18T19:29:59Z,https://chem.nlm.nih.gov/chemidplus/rn/55216-11-0,System Generated Number,0055216110
+2020-09-18T19:30:07Z,https://chem.nlm.nih.gov/chemidplus/rn/27046-19-1,CAS Registry Number,27046-19-1
+2020-09-18T19:30:07Z,https://chem.nlm.nih.gov/chemidplus/rn/27046-19-1,FDA UNII,N9DU5QVF19
+2020-09-18T19:30:07Z,https://chem.nlm.nih.gov/chemidplus/rn/27046-19-1,System Generated Number,0027046191
+2020-09-18T19:30:14Z,https://chem.nlm.nih.gov/chemidplus/rn/50-50-0,CAS Registry Number,50-50-0
+2020-09-18T19:30:14Z,https://chem.nlm.nih.gov/chemidplus/rn/50-50-0,FDA UNII,1S4CJB5ZGN
+2020-09-18T19:30:14Z,https://chem.nlm.nih.gov/chemidplus/rn/50-50-0,System Generated Number,0000050500
+2020-09-18T19:30:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-89-5,CAS Registry Number,50-89-5
+2020-09-18T19:30:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-89-5,FDA UNII,VC2W18DGKR
+2020-09-18T19:30:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-89-5,Other Registry Number,35902-13-7
+2020-09-18T19:30:22Z,https://chem.nlm.nih.gov/chemidplus/rn/50-89-5,System Generated Number,0000050895
+2020-09-18T19:30:29Z,https://chem.nlm.nih.gov/chemidplus/rn/35502-75-1,CAS Registry Number,35502-75-1
+2020-09-18T19:30:29Z,https://chem.nlm.nih.gov/chemidplus/rn/35502-75-1,System Generated Number,0035502751
+2020-09-18T19:30:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1403-17-4,CAS Registry Number,1403-17-4
+2020-09-18T19:30:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1403-17-4,FDA UNII,48N2IYJ202
+2020-09-18T19:30:47Z,https://chem.nlm.nih.gov/chemidplus/rn/1403-17-4,System Generated Number,0001403174
+2020-09-18T19:30:54Z,https://chem.nlm.nih.gov/chemidplus/rn/2128-61-2,CAS Registry Number,2128-61-2
+2020-09-18T19:30:54Z,https://chem.nlm.nih.gov/chemidplus/rn/2128-61-2,FDA UNII,53EWB5GJ52
+2020-09-18T19:30:54Z,https://chem.nlm.nih.gov/chemidplus/rn/2128-61-2,System Generated Number,0002128612
+2020-09-18T19:31:05Z,https://chem.nlm.nih.gov/chemidplus/rn/152-02-3,CAS Registry Number,152-02-3
+2020-09-18T19:31:05Z,https://chem.nlm.nih.gov/chemidplus/rn/152-02-3,FDA UNII,353613BU4U
+2020-09-18T19:31:05Z,https://chem.nlm.nih.gov/chemidplus/rn/152-02-3,System Generated Number,0000152023
+2020-09-18T19:31:13Z,https://chem.nlm.nih.gov/chemidplus/rn/2438-32-6,CAS Registry Number,2438-32-6
+2020-09-18T19:31:13Z,https://chem.nlm.nih.gov/chemidplus/rn/2438-32-6,FDA UNII,B10YD955QW
+2020-09-18T19:31:13Z,https://chem.nlm.nih.gov/chemidplus/rn/2438-32-6,Other Registry Number,19141-42-5
+2020-09-18T19:31:13Z,https://chem.nlm.nih.gov/chemidplus/rn/2438-32-6,System Generated Number,0002438326
+2020-09-18T19:31:16Z,https://chem.nlm.nih.gov/chemidplus/rn/124832-27-5,CAS Registry Number,124832-27-5
+2020-09-18T19:31:16Z,https://chem.nlm.nih.gov/chemidplus/rn/124832-27-5,FDA UNII,G447S0T1VC
+2020-09-18T19:31:16Z,https://chem.nlm.nih.gov/chemidplus/rn/124832-27-5,Other Registry Number,136489-37-7
+2020-09-18T19:31:16Z,https://chem.nlm.nih.gov/chemidplus/rn/124832-27-5,System Generated Number,0124832275
+2020-09-18T19:31:27Z,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4,CAS Registry Number,101-14-4
+2020-09-18T19:31:27Z,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4,FDA UNII,3L2W5VTT2A
+2020-09-18T19:31:27Z,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4,Other Registry Numbers,126699-69-2
+2020-09-18T19:31:27Z,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4,Other Registry Numbers,142661-36-7
+2020-09-18T19:31:27Z,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4,Other Registry Numbers,1899048-27-1
+2020-09-18T19:31:27Z,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4,Other Registry Numbers,1951406-44-2
+2020-09-18T19:31:27Z,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4,Other Registry Numbers,29371-14-0
+2020-09-18T19:31:27Z,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4,Other Registry Numbers,51065-07-7
+2020-09-18T19:31:27Z,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4,Other Registry Numbers,78642-65-6
+2020-09-18T19:31:27Z,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4,Other Registry Numbers,913092-91-8
+2020-09-18T19:31:27Z,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4,System Generated Number,0000101144
+2020-09-18T19:31:35Z,https://chem.nlm.nih.gov/chemidplus/rn/221373-18-8,CAS Registry Number,221373-18-8
+2020-09-18T19:31:35Z,https://chem.nlm.nih.gov/chemidplus/rn/221373-18-8,FDA UNII,X7S6Q4MHCB
+2020-09-18T19:31:35Z,https://chem.nlm.nih.gov/chemidplus/rn/221373-18-8,System Generated Number,0221373188
+2020-09-18T19:31:48Z,https://chem.nlm.nih.gov/chemidplus/rn/75281-25-3,CAS Registry Number,75281-25-3
+2020-09-18T19:31:48Z,https://chem.nlm.nih.gov/chemidplus/rn/75281-25-3,FDA UNII,B68UKK8PG0
+2020-09-18T19:31:48Z,https://chem.nlm.nih.gov/chemidplus/rn/75281-25-3,System Generated Number,0075281253
+2020-09-18T19:31:59Z,https://chem.nlm.nih.gov/chemidplus/rn/161262-45-9,CAS Registry Number,161262-45-9
+2020-09-18T19:31:59Z,https://chem.nlm.nih.gov/chemidplus/rn/161262-45-9,FDA UNII,67B255SI5F
+2020-09-18T19:31:59Z,https://chem.nlm.nih.gov/chemidplus/rn/161262-45-9,System Generated Number,0161262459
+2020-09-18T19:32:11Z,https://chem.nlm.nih.gov/chemidplus/rn/136958-00-4,CAS Registry Number,136958-00-4
+2020-09-18T19:32:11Z,https://chem.nlm.nih.gov/chemidplus/rn/136958-00-4,System Generated Number,0136958004
+2020-09-18T19:32:23Z,https://chem.nlm.nih.gov/chemidplus/rn/62-37-3,CAS Registry Number,62-37-3
+2020-09-18T19:32:23Z,https://chem.nlm.nih.gov/chemidplus/rn/62-37-3,FDA UNII,99T5TWO621
+2020-09-18T19:32:23Z,https://chem.nlm.nih.gov/chemidplus/rn/62-37-3,System Generated Number,0000062373
+2020-09-18T19:32:30Z,https://chem.nlm.nih.gov/chemidplus/rn/606-45-1,CAS Registry Number,606-45-1
+2020-09-18T19:32:30Z,https://chem.nlm.nih.gov/chemidplus/rn/606-45-1,FDA UNII,SB18J2MCQL
+2020-09-18T19:32:30Z,https://chem.nlm.nih.gov/chemidplus/rn/606-45-1,System Generated Number,0000606451
+2020-09-18T19:32:37Z,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5,CAS Registry Number,877399-52-5
+2020-09-18T19:32:37Z,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5,FDA UNII,53AH36668S
+2020-09-18T19:32:37Z,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5,Other Registry Number,912279-98-2
+2020-09-18T19:32:37Z,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5,System Generated Number,0877399525
+2020-09-18T19:32:44Z,https://chem.nlm.nih.gov/chemidplus/rn/22423-39-8,CAS Registry Number,22423-39-8
+2020-09-18T19:32:44Z,https://chem.nlm.nih.gov/chemidplus/rn/22423-39-8,System Generated Number,0022423398
+2020-09-18T19:32:52Z,https://chem.nlm.nih.gov/chemidplus/rn/345-78-8,CAS Registry Number,345-78-8
+2020-09-18T19:32:52Z,https://chem.nlm.nih.gov/chemidplus/rn/345-78-8,FDA UNII,6V9V2RYJ8N
+2020-09-18T19:32:52Z,https://chem.nlm.nih.gov/chemidplus/rn/345-78-8,Other Registry Number,6272-89-5
+2020-09-18T19:32:52Z,https://chem.nlm.nih.gov/chemidplus/rn/345-78-8,System Generated Number,0000345788
+2020-09-18T19:32:59Z,https://chem.nlm.nih.gov/chemidplus/rn/288383-20-0,CAS Registry Number,288383-20-0
+2020-09-18T19:32:59Z,https://chem.nlm.nih.gov/chemidplus/rn/288383-20-0,FDA UNII,NQU9IPY4K9
+2020-09-18T19:32:59Z,https://chem.nlm.nih.gov/chemidplus/rn/288383-20-0,Other Registry Numbers,557795-03-6
+2020-09-18T19:32:59Z,https://chem.nlm.nih.gov/chemidplus/rn/288383-20-0,Other Registry Numbers,790713-41-6
+2020-09-18T19:32:59Z,https://chem.nlm.nih.gov/chemidplus/rn/288383-20-0,System Generated Number,0288383200
+2020-09-18T19:33:18Z,https://chem.nlm.nih.gov/chemidplus/rn/146697-04-3,CAS Registry Number,146697-04-3
+2020-09-18T19:33:18Z,https://chem.nlm.nih.gov/chemidplus/rn/146697-04-3,System Generated Number,0146697043
+2020-09-18T19:33:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9001-26-7,CAS Registry Number,9001-26-7
+2020-09-18T19:33:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9001-26-7,FDA UNII,8FB1K07F16
+2020-09-18T19:33:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9001-26-7,Other Registry Numbers,9023-22-7
+2020-09-18T19:33:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9001-26-7,Other Registry Numbers,9035-57-8
+2020-09-18T19:33:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9001-26-7,System Generated Number,0009001267
+2020-09-18T19:33:38Z,https://chem.nlm.nih.gov/chemidplus/rn/482-27-9,CAS Registry Number,482-27-9
+2020-09-18T19:33:38Z,https://chem.nlm.nih.gov/chemidplus/rn/482-27-9,FDA UNII,20GCF755G6
+2020-09-18T19:33:38Z,https://chem.nlm.nih.gov/chemidplus/rn/482-27-9,System Generated Number,0000482279
+2020-09-18T19:33:50Z,https://chem.nlm.nih.gov/chemidplus/rn/7782-63-0,CAS Registry Number,7782-63-0
+2020-09-18T19:33:50Z,https://chem.nlm.nih.gov/chemidplus/rn/7782-63-0,FDA UNII,39R4TAN1VT
+2020-09-18T19:33:50Z,https://chem.nlm.nih.gov/chemidplus/rn/7782-63-0,Related Registry Number,7720-78-7 (Parent)
+2020-09-18T19:33:50Z,https://chem.nlm.nih.gov/chemidplus/rn/7782-63-0,System Generated Number,0007782630
+2020-09-18T19:33:53Z,https://chem.nlm.nih.gov/chemidplus/rn/63659-18-7,CAS Registry Number,63659-18-7
+2020-09-18T19:33:53Z,https://chem.nlm.nih.gov/chemidplus/rn/63659-18-7,FDA UNII,O0ZR1R6RZ2
+2020-09-18T19:33:53Z,https://chem.nlm.nih.gov/chemidplus/rn/63659-18-7,Related Registry Number,63659-19-8 (hydrochloride)
+2020-09-18T19:33:53Z,https://chem.nlm.nih.gov/chemidplus/rn/63659-18-7,System Generated Number,0063659187
+2020-09-18T19:34:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1380723-44-3,CAS Registry Number,1380723-44-3
+2020-09-18T19:34:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1380723-44-3,FDA UNII,52CMI0WC3Y
+2020-09-18T19:34:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1380723-44-3,Other Registry Number,1422185-06-5
+2020-09-18T19:34:00Z,https://chem.nlm.nih.gov/chemidplus/rn/1380723-44-3,System Generated Number,1380723443
+2020-09-18T19:34:08Z,https://chem.nlm.nih.gov/chemidplus/rn/123774-72-1,CAS Registry Number,123774-72-1
+2020-09-18T19:34:08Z,https://chem.nlm.nih.gov/chemidplus/rn/123774-72-1,FDA UNII,5TAA004E22
+2020-09-18T19:34:08Z,https://chem.nlm.nih.gov/chemidplus/rn/123774-72-1,System Generated Number,0123774721
+2020-09-18T19:34:11Z,https://chem.nlm.nih.gov/chemidplus/rn/165800-08-8,CAS Registry Number,165800-08-8
+2020-09-18T19:34:11Z,https://chem.nlm.nih.gov/chemidplus/rn/165800-08-8,FDA UNII,ARL915IH66
+2020-09-18T19:34:11Z,https://chem.nlm.nih.gov/chemidplus/rn/165800-08-8,System Generated Number,0165800088
+2020-09-18T19:34:19Z,https://chem.nlm.nih.gov/chemidplus/rn/388082-78-8,CAS Registry Number,388082-78-8
+2020-09-18T19:34:19Z,https://chem.nlm.nih.gov/chemidplus/rn/388082-78-8,FDA UNII,G873GX646R
+2020-09-18T19:34:19Z,https://chem.nlm.nih.gov/chemidplus/rn/388082-78-8,System Generated Number,0388082788
+2020-09-18T19:34:26Z,https://chem.nlm.nih.gov/chemidplus/rn/545-55-1,CAS Registry Number,545-55-1
+2020-09-18T19:34:26Z,https://chem.nlm.nih.gov/chemidplus/rn/545-55-1,FDA UNII,GL19M2KE52
+2020-09-18T19:34:26Z,https://chem.nlm.nih.gov/chemidplus/rn/545-55-1,System Generated Number,0000545551
+2020-09-18T19:34:34Z,https://chem.nlm.nih.gov/chemidplus/rn/52128-36-6,CAS Registry Number,52128-36-6
+2020-09-18T19:34:34Z,https://chem.nlm.nih.gov/chemidplus/rn/52128-36-6,FDA UNII,C9OWX5QCIR
+2020-09-18T19:34:34Z,https://chem.nlm.nih.gov/chemidplus/rn/52128-36-6,System Generated Number,0052128366
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,CAS Registry Number,1332-58-7
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,FDA UNII,24H4NWX5CO
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,1026990-70-4
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,12198-85-5
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,12199-11-0
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,1227491-10-2
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,190086-05-6
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,290817-34-4
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,384842-32-4
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,39406-22-9
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,52624-41-6
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,849104-81-0
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,862272-04-6
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,903527-69-5
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,90803-81-9
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,944250-63-9
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,Other Registry Numbers,95077-05-7
+2020-09-18T19:34:41Z,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7,System Generated Number,0001332587
+2020-09-18T19:34:48Z,https://chem.nlm.nih.gov/chemidplus/rn/1256639-86-7,CAS Registry Number,1256639-86-7
+2020-09-18T19:34:48Z,https://chem.nlm.nih.gov/chemidplus/rn/1256639-86-7,System Generated Number,1256639867
+2020-09-18T19:34:56Z,https://chem.nlm.nih.gov/chemidplus/rn/521-78-8,CAS Registry Number,521-78-8
+2020-09-18T19:34:56Z,https://chem.nlm.nih.gov/chemidplus/rn/521-78-8,FDA UNII,269K6498LD
+2020-09-18T19:34:56Z,https://chem.nlm.nih.gov/chemidplus/rn/521-78-8,Related Registry Number,739-71-9 (Parent)
+2020-09-18T19:34:56Z,https://chem.nlm.nih.gov/chemidplus/rn/521-78-8,System Generated Number,0000521788
+2020-09-18T19:35:03Z,https://chem.nlm.nih.gov/chemidplus/rn/937272-79-2,CAS Registry Number,937272-79-2
+2020-09-18T19:35:03Z,https://chem.nlm.nih.gov/chemidplus/rn/937272-79-2,FDA UNII,G22N65IL3O
+2020-09-18T19:35:03Z,https://chem.nlm.nih.gov/chemidplus/rn/937272-79-2,Other Registry Number,1138325-13-9
+2020-09-18T19:35:03Z,https://chem.nlm.nih.gov/chemidplus/rn/937272-79-2,System Generated Number,0937272792
+2020-09-18T19:35:12Z,https://chem.nlm.nih.gov/chemidplus/rn/114-26-1,CAS Registry Number,114-26-1
+2020-09-18T19:35:12Z,https://chem.nlm.nih.gov/chemidplus/rn/114-26-1,FDA UNII,BFH029TL73
+2020-09-18T19:35:12Z,https://chem.nlm.nih.gov/chemidplus/rn/114-26-1,System Generated Number,0000114261
+2020-09-18T19:35:15Z,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0,CAS Registry Number,1134-47-0
+2020-09-18T19:35:15Z,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0,FDA UNII,H789N3FKE8
+2020-09-18T19:35:15Z,https://chem.nlm.nih.gov/chemidplus/rn/1134-47-0,System Generated Number,0001134470
+2020-09-18T19:35:18Z,https://chem.nlm.nih.gov/chemidplus/rn/52760-99-3,CAS Registry Number,52760-99-3
+2020-09-18T19:35:18Z,https://chem.nlm.nih.gov/chemidplus/rn/52760-99-3,System Generated Number,0052760993
+2020-09-18T19:35:25Z,https://chem.nlm.nih.gov/chemidplus/rn/55142-85-3,CAS Registry Number,55142-85-3
+2020-09-18T19:35:25Z,https://chem.nlm.nih.gov/chemidplus/rn/55142-85-3,FDA UNII,OM90ZUW7M1
+2020-09-18T19:35:25Z,https://chem.nlm.nih.gov/chemidplus/rn/55142-85-3,System Generated Number,0055142853
+2020-09-18T19:35:33Z,https://chem.nlm.nih.gov/chemidplus/rn/935888-69-0,CAS Registry Number,935888-69-0
+2020-09-18T19:35:33Z,https://chem.nlm.nih.gov/chemidplus/rn/935888-69-0,FDA UNII,MZ37792Y8J
+2020-09-18T19:35:33Z,https://chem.nlm.nih.gov/chemidplus/rn/935888-69-0,Other Registry Number,1227167-05-6
+2020-09-18T19:35:33Z,https://chem.nlm.nih.gov/chemidplus/rn/935888-69-0,System Generated Number,0935888690
+2020-09-18T19:35:40Z,https://chem.nlm.nih.gov/chemidplus/rn/85-34-7,CAS Registry Number,85-34-7
+2020-09-18T19:35:40Z,https://chem.nlm.nih.gov/chemidplus/rn/85-34-7,FDA UNII,8SOV3EP1QG
+2020-09-18T19:35:40Z,https://chem.nlm.nih.gov/chemidplus/rn/85-34-7,Related Registry Number,2439-00-1 (hydrochloride salt)
+2020-09-18T19:35:40Z,https://chem.nlm.nih.gov/chemidplus/rn/85-34-7,System Generated Number,0000085347
+2020-09-18T19:35:47Z,https://chem.nlm.nih.gov/chemidplus/rn/164656-23-9,CAS Registry Number,164656-23-9
+2020-09-18T19:35:47Z,https://chem.nlm.nih.gov/chemidplus/rn/164656-23-9,FDA UNII,O0J6XJN02I
+2020-09-18T19:35:47Z,https://chem.nlm.nih.gov/chemidplus/rn/164656-23-9,System Generated Number,0164656239
+2020-09-18T19:35:54Z,https://chem.nlm.nih.gov/chemidplus/rn/552-80-7,CAS Registry Number,552-80-7
+2020-09-18T19:35:54Z,https://chem.nlm.nih.gov/chemidplus/rn/552-80-7,FDA UNII,30L22Q8N9M
+2020-09-18T19:35:54Z,https://chem.nlm.nih.gov/chemidplus/rn/552-80-7,System Generated Number,0000552807
+2020-09-18T19:36:02Z,https://chem.nlm.nih.gov/chemidplus/rn/11027-57-9,CAS Registry Number,11027-57-9
+2020-09-18T19:36:02Z,https://chem.nlm.nih.gov/chemidplus/rn/11027-57-9,System Generated Number,0011027579
+2020-09-18T19:36:09Z,https://chem.nlm.nih.gov/chemidplus/rn/434-07-1,CAS Registry Number,434-07-1
+2020-09-18T19:36:09Z,https://chem.nlm.nih.gov/chemidplus/rn/434-07-1,FDA UNII,L76T0ZCA8K
+2020-09-18T19:36:09Z,https://chem.nlm.nih.gov/chemidplus/rn/434-07-1,System Generated Number,0000434071
+2020-09-18T19:36:17Z,https://chem.nlm.nih.gov/chemidplus/rn/1192706-53-8,CAS Registry Number,1192706-53-8
+2020-09-18T19:36:17Z,https://chem.nlm.nih.gov/chemidplus/rn/1192706-53-8,FDA UNII,F0B69ZZ07A
+2020-09-18T19:36:17Z,https://chem.nlm.nih.gov/chemidplus/rn/1192706-53-8,System Generated Number,1192706538
+2020-09-18T19:36:25Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,CAS Registry Number,915087-33-1
+2020-09-18T19:36:25Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,FDA UNII,93T0T9GKNU
+2020-09-18T19:36:25Z,https://chem.nlm.nih.gov/chemidplus/rn/915087-33-1,System Generated Number,0915087331
+2020-09-18T19:36:38Z,https://chem.nlm.nih.gov/chemidplus/rn/635702-64-6,CAS Registry Number,635702-64-6
+2020-09-18T19:36:38Z,https://chem.nlm.nih.gov/chemidplus/rn/635702-64-6,FDA UNII,33Y9ANM545
+2020-09-18T19:36:38Z,https://chem.nlm.nih.gov/chemidplus/rn/635702-64-6,System Generated Number,0635702646
+2020-09-18T19:36:41Z,https://chem.nlm.nih.gov/chemidplus/rn/57-68-1,CAS Registry Number,57-68-1
+2020-09-18T19:36:41Z,https://chem.nlm.nih.gov/chemidplus/rn/57-68-1,FDA UNII,48U51W007F
+2020-09-18T19:36:41Z,https://chem.nlm.nih.gov/chemidplus/rn/57-68-1,System Generated Number,0000057681
+2020-09-18T19:36:48Z,https://chem.nlm.nih.gov/chemidplus/rn/58-68-4,CAS Registry Number,58-68-4
+2020-09-18T19:36:48Z,https://chem.nlm.nih.gov/chemidplus/rn/58-68-4,FDA UNII,4J24DQ0916
+2020-09-18T19:36:48Z,https://chem.nlm.nih.gov/chemidplus/rn/58-68-4,Other Registry Number,443892-10-2
+2020-09-18T19:36:48Z,https://chem.nlm.nih.gov/chemidplus/rn/58-68-4,System Generated Number,0000058684
+2020-09-18T19:37:03Z,https://chem.nlm.nih.gov/chemidplus/rn/117772-70-0,CAS Registry Number,117772-70-0
+2020-09-18T19:37:03Z,https://chem.nlm.nih.gov/chemidplus/rn/117772-70-0,FDA UNII,5FD1131I7S
+2020-09-18T19:37:03Z,https://chem.nlm.nih.gov/chemidplus/rn/117772-70-0,System Generated Number,0117772700
+2020-09-18T19:37:10Z,https://chem.nlm.nih.gov/chemidplus/rn/4671-03-8,CAS Registry Number,4671-03-8
+2020-09-18T19:37:10Z,https://chem.nlm.nih.gov/chemidplus/rn/4671-03-8,FDA UNII,9LVF34296S
+2020-09-18T19:37:10Z,https://chem.nlm.nih.gov/chemidplus/rn/4671-03-8,System Generated Number,0004671038
+2020-09-18T19:37:18Z,https://chem.nlm.nih.gov/chemidplus/rn/857402-23-4,CAS Registry Number,857402-23-4
+2020-09-18T19:37:18Z,https://chem.nlm.nih.gov/chemidplus/rn/857402-23-4,FDA UNII,BZF2ZM0I5Z
+2020-09-18T19:37:18Z,https://chem.nlm.nih.gov/chemidplus/rn/857402-23-4,System Generated Number,0857402234
+2020-09-18T19:37:26Z,https://chem.nlm.nih.gov/chemidplus/rn/1233196-91-2,CAS Registry Number,1233196-91-2
+2020-09-18T19:37:26Z,https://chem.nlm.nih.gov/chemidplus/rn/1233196-91-2,FDA UNII,904IZ54WYX
+2020-09-18T19:37:26Z,https://chem.nlm.nih.gov/chemidplus/rn/1233196-91-2,System Generated Number,1233196912
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,CAS Registry Number,56-81-5
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,FDA UNII,PDC6A3C0OX
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,Other Registry Numbers,1400594-62-8
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,Other Registry Numbers,1422250-43-8
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,Other Registry Numbers,1629856-20-7
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,Other Registry Numbers,29796-42-7
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,Other Registry Numbers,30049-52-6
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,Other Registry Numbers,37228-54-9
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,Other Registry Numbers,75398-78-6
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,Other Registry Numbers,78630-16-7
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,Other Registry Numbers,8013-25-0
+2020-09-18T19:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5,System Generated Number,0000056815
+2020-09-18T19:37:48Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,CAS Registry Number,888216-25-9
+2020-09-18T19:37:48Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,FDA UNII,2E8412Y946
+2020-09-18T19:37:48Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,Other Registry Number,1143571-94-1
+2020-09-18T19:37:48Z,https://chem.nlm.nih.gov/chemidplus/rn/888216-25-9,System Generated Number,0888216259
+2020-09-18T19:37:57Z,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7,CAS Registry Number,797-63-7
+2020-09-18T19:37:57Z,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7,FDA UNII,5W7SIA7YZW
+2020-09-18T19:37:57Z,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7,Other Registry Numbers,121714-72-5
+2020-09-18T19:37:57Z,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7,Other Registry Numbers,4222-79-1
+2020-09-18T19:37:57Z,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7,Other Registry Numbers,797-62-6
+2020-09-18T19:37:57Z,https://chem.nlm.nih.gov/chemidplus/rn/797-63-7,System Generated Number,0000797637
+2020-09-18T19:38:00Z,https://chem.nlm.nih.gov/chemidplus/rn/66341-18-2,CAS Registry Number,66341-18-2
+2020-09-18T19:38:00Z,https://chem.nlm.nih.gov/chemidplus/rn/66341-18-2,Other Registry Number,72235-82-6
+2020-09-18T19:38:00Z,https://chem.nlm.nih.gov/chemidplus/rn/66341-18-2,System Generated Number,0066341182
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,CAS Registry Number,1303-00-0
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,FDA UNII,27FC46GA44
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,1018852-64-6
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,106495-92-5
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,1099648-86-8
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,116443-03-9
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,12254-95-4
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,1434046-67-9
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,1825302-06-4
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,1979138-53-8
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,2009382-57-2
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,2242959-68-6
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,385800-12-4
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,817163-73-8
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,888030-71-5
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,Other Registry Numbers,959925-10-1
+2020-09-18T19:38:09Z,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0,System Generated Number,0001303000
+2020-09-18T19:38:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2101829-58-5,CAS Registry Number,2101829-58-5
+2020-09-18T19:38:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2101829-58-5,FDA UNII,58D9BCH9O0
+2020-09-18T19:38:16Z,https://chem.nlm.nih.gov/chemidplus/rn/2101829-58-5,System Generated Number,2101829585
+2020-09-18T19:38:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9047-07-8,CAS Registry Number,9047-07-8
+2020-09-18T19:38:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9047-07-8,System Generated Number,0009047078
+2020-09-18T19:38:38Z,https://chem.nlm.nih.gov/chemidplus/rn/10592-13-9,CAS Registry Number,10592-13-9
+2020-09-18T19:38:38Z,https://chem.nlm.nih.gov/chemidplus/rn/10592-13-9,FDA UNII,4182Z6T2ET
+2020-09-18T19:38:38Z,https://chem.nlm.nih.gov/chemidplus/rn/10592-13-9,Other Registry Numbers,100929-47-3
+2020-09-18T19:38:38Z,https://chem.nlm.nih.gov/chemidplus/rn/10592-13-9,Other Registry Numbers,53108-42-2
+2020-09-18T19:38:38Z,https://chem.nlm.nih.gov/chemidplus/rn/10592-13-9,Other Registry Numbers,61281-03-6
+2020-09-18T19:38:38Z,https://chem.nlm.nih.gov/chemidplus/rn/10592-13-9,System Generated Number,0010592139
+2020-09-18T19:38:45Z,https://chem.nlm.nih.gov/chemidplus/rn/50-42-0,CAS Registry Number,50-42-0
+2020-09-18T19:38:45Z,https://chem.nlm.nih.gov/chemidplus/rn/50-42-0,FDA UNII,42B4PDY0AV
+2020-09-18T19:38:45Z,https://chem.nlm.nih.gov/chemidplus/rn/50-42-0,System Generated Number,0000050420
+2020-09-18T19:38:53Z,https://chem.nlm.nih.gov/chemidplus/rn/81176-41-2,CAS Registry Number,81176-41-2
+2020-09-18T19:38:53Z,https://chem.nlm.nih.gov/chemidplus/rn/81176-41-2,FDA UNII,K4A67XJY6V
+2020-09-18T19:38:53Z,https://chem.nlm.nih.gov/chemidplus/rn/81176-41-2,System Generated Number,0081176412
+2020-09-18T19:39:01Z,https://chem.nlm.nih.gov/chemidplus/rn/14929-11-4,CAS Registry Number,14929-11-4
+2020-09-18T19:39:01Z,https://chem.nlm.nih.gov/chemidplus/rn/14929-11-4,FDA UNII,L2R75RQX26
+2020-09-18T19:39:01Z,https://chem.nlm.nih.gov/chemidplus/rn/14929-11-4,System Generated Number,0014929114
+2020-09-18T19:39:09Z,https://chem.nlm.nih.gov/chemidplus/rn/106-02-5,CAS Registry Number,106-02-5
+2020-09-18T19:39:09Z,https://chem.nlm.nih.gov/chemidplus/rn/106-02-5,FDA UNII,OK17S3S98K
+2020-09-18T19:39:09Z,https://chem.nlm.nih.gov/chemidplus/rn/106-02-5,Other Registry Number,81031-90-5
+2020-09-18T19:39:09Z,https://chem.nlm.nih.gov/chemidplus/rn/106-02-5,System Generated Number,0000106025
+2020-09-18T19:39:12Z,https://chem.nlm.nih.gov/chemidplus/rn/78355-48-3,CAS Registry Number,78355-48-3
+2020-09-18T19:39:12Z,https://chem.nlm.nih.gov/chemidplus/rn/78355-48-3,System Generated Number,0078355483
+2020-09-18T19:39:20Z,https://chem.nlm.nih.gov/chemidplus/rn/117-42-0,CAS Registry Number,117-42-0
+2020-09-18T19:39:20Z,https://chem.nlm.nih.gov/chemidplus/rn/117-42-0,FDA UNII,D33V8NB7KB
+2020-09-18T19:39:20Z,https://chem.nlm.nih.gov/chemidplus/rn/117-42-0,Related Registry Numbers,79873-38-4 (unspecified hydrochloride salt)
+2020-09-18T19:39:20Z,https://chem.nlm.nih.gov/chemidplus/rn/117-42-0,Related Registry Numbers,901-79-1 (tri-hydrochloride salt)
+2020-09-18T19:39:20Z,https://chem.nlm.nih.gov/chemidplus/rn/117-42-0,System Generated Number,0000117420
+2020-09-18T19:39:27Z,https://chem.nlm.nih.gov/chemidplus/rn/100981-43-9,CAS Registry Number,100981-43-9
+2020-09-18T19:39:27Z,https://chem.nlm.nih.gov/chemidplus/rn/100981-43-9,FDA UNII,TMZ3IBW2OW
+2020-09-18T19:39:27Z,https://chem.nlm.nih.gov/chemidplus/rn/100981-43-9,System Generated Number,0100981439
+2020-09-18T19:39:35Z,https://chem.nlm.nih.gov/chemidplus/rn/70-51-9,CAS Registry Number,70-51-9
+2020-09-18T19:39:35Z,https://chem.nlm.nih.gov/chemidplus/rn/70-51-9,FDA UNII,J06Y7MXW4D
+2020-09-18T19:39:35Z,https://chem.nlm.nih.gov/chemidplus/rn/70-51-9,Other Registry Number,7278-84-4
+2020-09-18T19:39:35Z,https://chem.nlm.nih.gov/chemidplus/rn/70-51-9,System Generated Number,0000070519
+2020-09-18T19:39:42Z,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5,CAS Registry Number,380610-27-5
+2020-09-18T19:39:42Z,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5,FDA UNII,K16AIQ8CTM
+2020-09-18T19:39:42Z,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5,System Generated Number,0380610275
+2020-09-18T19:39:50Z,https://chem.nlm.nih.gov/chemidplus/rn/57576-44-0,CAS Registry Number,57576-44-0
+2020-09-18T19:39:50Z,https://chem.nlm.nih.gov/chemidplus/rn/57576-44-0,FDA UNII,74KXF8I502
+2020-09-18T19:39:50Z,https://chem.nlm.nih.gov/chemidplus/rn/57576-44-0,Other Registry Number,72711-48-9
+2020-09-18T19:39:50Z,https://chem.nlm.nih.gov/chemidplus/rn/57576-44-0,System Generated Number,0057576440
+2020-09-18T19:40:04Z,https://chem.nlm.nih.gov/chemidplus/rn/33433-82-8,CAS Registry Number,33433-82-8
+2020-09-18T19:40:04Z,https://chem.nlm.nih.gov/chemidplus/rn/33433-82-8,FDA UNII,56CCK4F86G
+2020-09-18T19:40:04Z,https://chem.nlm.nih.gov/chemidplus/rn/33433-82-8,System Generated Number,0033433828
+2020-09-18T19:40:12Z,https://chem.nlm.nih.gov/chemidplus/rn/1405-52-3,CAS Registry Number,1405-52-3
+2020-09-18T19:40:12Z,https://chem.nlm.nih.gov/chemidplus/rn/1405-52-3,FDA UNII,094M0E38I6
+2020-09-18T19:40:12Z,https://chem.nlm.nih.gov/chemidplus/rn/1405-52-3,System Generated Number,0001405523
+2020-09-18T19:40:23Z,https://chem.nlm.nih.gov/chemidplus/rn/341505-73-5,CAS Registry Number,341505-73-5
+2020-09-18T19:40:23Z,https://chem.nlm.nih.gov/chemidplus/rn/341505-73-5,System Generated Number,0341505735
+2020-09-18T19:40:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1140909-48-3,CAS Registry Number,1140909-48-3
+2020-09-18T19:40:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1140909-48-3,FDA UNII,DR7ST46X58
+2020-09-18T19:40:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1140909-48-3,Other Registry Number,942407-59-2
+2020-09-18T19:40:30Z,https://chem.nlm.nih.gov/chemidplus/rn/1140909-48-3,System Generated Number,1140909483
+2020-09-18T19:40:37Z,https://chem.nlm.nih.gov/chemidplus/rn/74899-72-2,CAS Registry Number,74899-72-2
+2020-09-18T19:40:37Z,https://chem.nlm.nih.gov/chemidplus/rn/74899-72-2,System Generated Number,0074899722
+2020-09-18T19:40:54Z,https://chem.nlm.nih.gov/chemidplus/rn/827022-32-2,CAS Registry Number,827022-32-2
+2020-09-18T19:40:54Z,https://chem.nlm.nih.gov/chemidplus/rn/827022-32-2,FDA UNII,BKC4F3Q5XL
+2020-09-18T19:40:54Z,https://chem.nlm.nih.gov/chemidplus/rn/827022-32-2,System Generated Number,0827022322
+2020-09-18T19:40:57Z,https://chem.nlm.nih.gov/chemidplus/rn/6543-77-7,CAS Registry Number,6543-77-7
+2020-09-18T19:40:57Z,https://chem.nlm.nih.gov/chemidplus/rn/6543-77-7,FDA UNII,TR57F2W7Q6
+2020-09-18T19:40:57Z,https://chem.nlm.nih.gov/chemidplus/rn/6543-77-7,System Generated Number,0006543777
+2020-09-18T19:41:00Z,https://chem.nlm.nih.gov/chemidplus/rn/97666-60-9,CAS Registry Number,97666-60-9
+2020-09-18T19:41:00Z,https://chem.nlm.nih.gov/chemidplus/rn/97666-60-9,System Generated Number,0097666609
+2020-09-18T19:41:08Z,https://chem.nlm.nih.gov/chemidplus/rn/106-89-8,CAS Registry Number,106-89-8
+2020-09-18T19:41:08Z,https://chem.nlm.nih.gov/chemidplus/rn/106-89-8,FDA UNII,08OOR508C0
+2020-09-18T19:41:08Z,https://chem.nlm.nih.gov/chemidplus/rn/106-89-8,Other Registry Numbers,109351-74-8
+2020-09-18T19:41:08Z,https://chem.nlm.nih.gov/chemidplus/rn/106-89-8,Other Registry Numbers,13403-37-7
+2020-09-18T19:41:08Z,https://chem.nlm.nih.gov/chemidplus/rn/106-89-8,Other Registry Numbers,36250-81-4
+2020-09-18T19:41:08Z,https://chem.nlm.nih.gov/chemidplus/rn/106-89-8,Other Registry Numbers,9009-12-5
+2020-09-18T19:41:08Z,https://chem.nlm.nih.gov/chemidplus/rn/106-89-8,System Generated Number,0000106898
+2020-09-18T19:41:15Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-51-8,CAS Registry Number,15686-51-8
+2020-09-18T19:41:15Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-51-8,FDA UNII,95QN29S1ID
+2020-09-18T19:41:15Z,https://chem.nlm.nih.gov/chemidplus/rn/15686-51-8,System Generated Number,0015686518
+2020-09-18T19:41:23Z,https://chem.nlm.nih.gov/chemidplus/rn/1446700-26-0,CAS Registry Number,1446700-26-0
+2020-09-18T19:41:23Z,https://chem.nlm.nih.gov/chemidplus/rn/1446700-26-0,FDA UNII,CV4XAQ7MUV
+2020-09-18T19:41:23Z,https://chem.nlm.nih.gov/chemidplus/rn/1446700-26-0,System Generated Number,1446700260
+2020-09-18T19:41:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9008-11-1,CAS Registry Number,9008-11-1
+2020-09-18T19:41:30Z,https://chem.nlm.nih.gov/chemidplus/rn/9008-11-1,System Generated Number,0009008111
+2020-09-18T19:41:37Z,https://chem.nlm.nih.gov/chemidplus/rn/76359-32-5,CAS Registry Number,76359-32-5
+2020-09-18T19:41:37Z,https://chem.nlm.nih.gov/chemidplus/rn/76359-32-5,System Generated Number,0076359325
+2020-09-18T19:41:44Z,https://chem.nlm.nih.gov/chemidplus/rn/125-84-8,CAS Registry Number,125-84-8
+2020-09-18T19:41:44Z,https://chem.nlm.nih.gov/chemidplus/rn/125-84-8,FDA UNII,0O54ZQ14I9
+2020-09-18T19:41:44Z,https://chem.nlm.nih.gov/chemidplus/rn/125-84-8,System Generated Number,0000125848
+2020-09-18T19:41:51Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,CAS Registry Number,219685-50-4
+2020-09-18T19:41:51Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,FDA UNII,A3ULP0F556
+2020-09-18T19:41:51Z,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4,System Generated Number,0219685504
+2020-09-18T19:41:59Z,https://chem.nlm.nih.gov/chemidplus/rn/175865-64-2,CAS Registry Number,175865-64-2
+2020-09-18T19:41:59Z,https://chem.nlm.nih.gov/chemidplus/rn/175865-64-2,FDA UNII,L74941S4HN
+2020-09-18T19:41:59Z,https://chem.nlm.nih.gov/chemidplus/rn/175865-64-2,System Generated Number,0175865642
+2020-09-18T19:42:06Z,https://chem.nlm.nih.gov/chemidplus/rn/1698-60-8,CAS Registry Number,1698-60-8
+2020-09-18T19:42:06Z,https://chem.nlm.nih.gov/chemidplus/rn/1698-60-8,FDA UNII,26X5RK7X7W
+2020-09-18T19:42:06Z,https://chem.nlm.nih.gov/chemidplus/rn/1698-60-8,Other Registry Number,58858-18-7
+2020-09-18T19:42:06Z,https://chem.nlm.nih.gov/chemidplus/rn/1698-60-8,System Generated Number,0001698608
+2020-09-18T19:42:20Z,https://chem.nlm.nih.gov/chemidplus/rn/147245-92-9,CAS Registry Number,147245-92-9
+2020-09-18T19:42:20Z,https://chem.nlm.nih.gov/chemidplus/rn/147245-92-9,FDA UNII,5M691HL4BO
+2020-09-18T19:42:20Z,https://chem.nlm.nih.gov/chemidplus/rn/147245-92-9,Other Registry Number,943513-95-9
+2020-09-18T19:42:20Z,https://chem.nlm.nih.gov/chemidplus/rn/147245-92-9,System Generated Number,0147245929
+2020-09-18T19:42:27Z,https://chem.nlm.nih.gov/chemidplus/rn/6829-31-8,CAS Registry Number,6829-31-8
+2020-09-18T19:42:27Z,https://chem.nlm.nih.gov/chemidplus/rn/6829-31-8,System Generated Number,0006829318
+2020-09-18T19:42:34Z,https://chem.nlm.nih.gov/chemidplus/rn/63132-38-7,CAS Registry Number,63132-38-7
+2020-09-18T19:42:34Z,https://chem.nlm.nih.gov/chemidplus/rn/63132-38-7,FDA UNII,BKF20UO9HK
+2020-09-18T19:42:34Z,https://chem.nlm.nih.gov/chemidplus/rn/63132-38-7,System Generated Number,0063132387
+2020-09-18T19:42:41Z,https://chem.nlm.nih.gov/chemidplus/rn/72301-79-2,CAS Registry Number,72301-79-2
+2020-09-18T19:42:41Z,https://chem.nlm.nih.gov/chemidplus/rn/72301-79-2,FDA UNII,133013L556
+2020-09-18T19:42:41Z,https://chem.nlm.nih.gov/chemidplus/rn/72301-79-2,System Generated Number,0072301792
+2020-09-18T19:42:48Z,https://chem.nlm.nih.gov/chemidplus/rn/113402-31-6,CAS Registry Number,113402-31-6
+2020-09-18T19:42:48Z,https://chem.nlm.nih.gov/chemidplus/rn/113402-31-6,FDA UNII,95R62HNG30
+2020-09-18T19:42:48Z,https://chem.nlm.nih.gov/chemidplus/rn/113402-31-6,System Generated Number,0113402316
+2020-09-18T19:42:56Z,https://chem.nlm.nih.gov/chemidplus/rn/69388-79-0,CAS Registry Number,69388-79-0
+2020-09-18T19:42:56Z,https://chem.nlm.nih.gov/chemidplus/rn/69388-79-0,FDA UNII,2X0WTA96KX
+2020-09-18T19:42:56Z,https://chem.nlm.nih.gov/chemidplus/rn/69388-79-0,System Generated Number,0069388790
+2020-09-18T19:43:03Z,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3,CAS Registry Number,73-48-3
+2020-09-18T19:43:03Z,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3,FDA UNII,5Q52X6ICJI
+2020-09-18T19:43:03Z,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3,Other Registry Number,96782-79-5
+2020-09-18T19:43:03Z,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3,System Generated Number,0000073483
+2020-09-18T19:43:10Z,https://chem.nlm.nih.gov/chemidplus/rn/54143-57-6,CAS Registry Number,54143-57-6
+2020-09-18T19:43:10Z,https://chem.nlm.nih.gov/chemidplus/rn/54143-57-6,FDA UNII,W1792A2RVD
+2020-09-18T19:43:10Z,https://chem.nlm.nih.gov/chemidplus/rn/54143-57-6,Related Registry Number,364-62-5 (Parent)
+2020-09-18T19:43:10Z,https://chem.nlm.nih.gov/chemidplus/rn/54143-57-6,System Generated Number,0054143576
+2020-09-18T19:43:18Z,https://chem.nlm.nih.gov/chemidplus/rn/54-03-5,CAS Registry Number,54-03-5
+2020-09-18T19:43:18Z,https://chem.nlm.nih.gov/chemidplus/rn/54-03-5,FDA UNII,B6X4SYR93B
+2020-09-18T19:43:18Z,https://chem.nlm.nih.gov/chemidplus/rn/54-03-5,System Generated Number,0000054035
+2020-09-18T19:43:26Z,https://chem.nlm.nih.gov/chemidplus/rn/23593-75-1,CAS Registry Number,23593-75-1
+2020-09-18T19:43:26Z,https://chem.nlm.nih.gov/chemidplus/rn/23593-75-1,FDA UNII,G07GZ97H65
+2020-09-18T19:43:26Z,https://chem.nlm.nih.gov/chemidplus/rn/23593-75-1,Other Registry Number,117829-71-7
+2020-09-18T19:43:26Z,https://chem.nlm.nih.gov/chemidplus/rn/23593-75-1,System Generated Number,0023593751
+2020-09-18T19:43:29Z,https://chem.nlm.nih.gov/chemidplus/rn/549-40-6,CAS Registry Number,549-40-6
+2020-09-18T19:43:29Z,https://chem.nlm.nih.gov/chemidplus/rn/549-40-6,FDA UNII,JN9M0YN4VL
+2020-09-18T19:43:29Z,https://chem.nlm.nih.gov/chemidplus/rn/549-40-6,System Generated Number,0000549406
+2020-09-18T19:43:36Z,https://chem.nlm.nih.gov/chemidplus/rn/6452-71-7,CAS Registry Number,6452-71-7
+2020-09-18T19:43:36Z,https://chem.nlm.nih.gov/chemidplus/rn/6452-71-7,FDA UNII,519MXN9YZR
+2020-09-18T19:43:36Z,https://chem.nlm.nih.gov/chemidplus/rn/6452-71-7,Other Registry Numbers,22972-98-1
+2020-09-18T19:43:36Z,https://chem.nlm.nih.gov/chemidplus/rn/6452-71-7,Other Registry Numbers,71186-75-9
+2020-09-18T19:43:36Z,https://chem.nlm.nih.gov/chemidplus/rn/6452-71-7,Related Registry Number,6452-73-9 (hydrochloride)
+2020-09-18T19:43:36Z,https://chem.nlm.nih.gov/chemidplus/rn/6452-71-7,System Generated Number,0006452717
+2020-09-18T19:43:44Z,https://chem.nlm.nih.gov/chemidplus/rn/103-90-2,CAS Registry Number,103-90-2
+2020-09-18T19:43:44Z,https://chem.nlm.nih.gov/chemidplus/rn/103-90-2,FDA UNII,362O9ITL9D
+2020-09-18T19:43:44Z,https://chem.nlm.nih.gov/chemidplus/rn/103-90-2,Other Registry Numbers,1430221-00-3
+2020-09-18T19:43:44Z,https://chem.nlm.nih.gov/chemidplus/rn/103-90-2,Other Registry Numbers,719293-04-6
+2020-09-18T19:43:44Z,https://chem.nlm.nih.gov/chemidplus/rn/103-90-2,Other Registry Numbers,8055-08-1
+2020-09-18T19:43:44Z,https://chem.nlm.nih.gov/chemidplus/rn/103-90-2,System Generated Number,0000103902
+2020-09-18T19:43:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3,CAS Registry Number,1239908-20-3
+2020-09-18T19:43:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3,FDA UNII,46CWK97Z3K
+2020-09-18T19:43:52Z,https://chem.nlm.nih.gov/chemidplus/rn/1239908-20-3,System Generated Number,1239908203
+2020-09-18T19:44:00Z,https://chem.nlm.nih.gov/chemidplus/rn/75330-75-5,CAS Registry Number,75330-75-5
+2020-09-18T19:44:00Z,https://chem.nlm.nih.gov/chemidplus/rn/75330-75-5,FDA UNII,9LHU78OQFD
+2020-09-18T19:44:00Z,https://chem.nlm.nih.gov/chemidplus/rn/75330-75-5,Other Registry Numbers,71949-96-7
+2020-09-18T19:44:00Z,https://chem.nlm.nih.gov/chemidplus/rn/75330-75-5,Other Registry Numbers,74133-25-8
+2020-09-18T19:44:00Z,https://chem.nlm.nih.gov/chemidplus/rn/75330-75-5,Other Registry Numbers,81739-26-6
+2020-09-18T19:44:00Z,https://chem.nlm.nih.gov/chemidplus/rn/75330-75-5,System Generated Number,0075330755
+2020-09-18T19:44:07Z,https://chem.nlm.nih.gov/chemidplus/rn/26278-79-5,CAS Registry Number,26278-79-5
+2020-09-18T19:44:07Z,https://chem.nlm.nih.gov/chemidplus/rn/26278-79-5,FDA UNII,72I21UFH5P
+2020-09-18T19:44:07Z,https://chem.nlm.nih.gov/chemidplus/rn/26278-79-5,System Generated Number,0026278795
+2020-09-18T19:44:14Z,https://chem.nlm.nih.gov/chemidplus/rn/10596-23-3,CAS Registry Number,10596-23-3
+2020-09-18T19:44:14Z,https://chem.nlm.nih.gov/chemidplus/rn/10596-23-3,FDA UNII,0813BZ6866
+2020-09-18T19:44:14Z,https://chem.nlm.nih.gov/chemidplus/rn/10596-23-3,System Generated Number,0010596233
+2020-09-18T19:44:22Z,https://chem.nlm.nih.gov/chemidplus/rn/389625-61-0,CAS Registry Number,389625-61-0
+2020-09-18T19:44:22Z,https://chem.nlm.nih.gov/chemidplus/rn/389625-61-0,System Generated Number,0389625610
+2020-09-18T19:44:29Z,https://chem.nlm.nih.gov/chemidplus/rn/122-18-9,CAS Registry Number,122-18-9
+2020-09-18T19:44:29Z,https://chem.nlm.nih.gov/chemidplus/rn/122-18-9,FDA UNII,85474O1N9D
+2020-09-18T19:44:29Z,https://chem.nlm.nih.gov/chemidplus/rn/122-18-9,Other Registry Numbers,52628-07-6
+2020-09-18T19:44:29Z,https://chem.nlm.nih.gov/chemidplus/rn/122-18-9,Other Registry Numbers,60484-28-8
+2020-09-18T19:44:29Z,https://chem.nlm.nih.gov/chemidplus/rn/122-18-9,Other Registry Numbers,89004-36-4
+2020-09-18T19:44:29Z,https://chem.nlm.nih.gov/chemidplus/rn/122-18-9,Related Registry Number,10328-34-4 (Parent)
+2020-09-18T19:44:29Z,https://chem.nlm.nih.gov/chemidplus/rn/122-18-9,System Generated Number,0000122189
+2020-09-18T19:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/4618-18-2,CAS Registry Number,4618-18-2
+2020-09-18T19:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/4618-18-2,FDA UNII,9U7D5QH5AE
+2020-09-18T19:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/4618-18-2,Other Registry Numbers,29319-45-7
+2020-09-18T19:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/4618-18-2,Other Registry Numbers,33980-82-4
+2020-09-18T19:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/4618-18-2,Other Registry Numbers,40773-84-0
+2020-09-18T19:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/4618-18-2,Other Registry Numbers,576-08-9
+2020-09-18T19:44:36Z,https://chem.nlm.nih.gov/chemidplus/rn/4618-18-2,System Generated Number,0004618182
+2020-09-18T19:44:44Z,https://chem.nlm.nih.gov/chemidplus/rn/66996-52-9,CAS Registry Number,66996-52-9
+2020-09-18T19:44:44Z,https://chem.nlm.nih.gov/chemidplus/rn/66996-52-9,System Generated Number,0066996529
+2020-09-18T19:44:54Z,https://chem.nlm.nih.gov/chemidplus/rn/16893-05-3,CAS Registry Number,16893-05-3
+2020-09-18T19:44:54Z,https://chem.nlm.nih.gov/chemidplus/rn/16893-05-3,System Generated Number,0016893053
+2020-09-18T19:44:57Z,https://chem.nlm.nih.gov/chemidplus/rn/79391-09-6,CAS Registry Number,79391-09-6
+2020-09-18T19:44:57Z,https://chem.nlm.nih.gov/chemidplus/rn/79391-09-6,System Generated Number,0079391096
+2020-09-18T19:45:04Z,https://chem.nlm.nih.gov/chemidplus/rn/906805-06-9,CAS Registry Number,906805-06-9
+2020-09-18T19:45:04Z,https://chem.nlm.nih.gov/chemidplus/rn/906805-06-9,FDA UNII,2BT4C47RUI
+2020-09-18T19:45:04Z,https://chem.nlm.nih.gov/chemidplus/rn/906805-06-9,System Generated Number,0906805069
+2020-09-18T19:45:19Z,https://chem.nlm.nih.gov/chemidplus/rn/180288-69-1,CAS Registry Number,180288-69-1
+2020-09-18T19:45:19Z,https://chem.nlm.nih.gov/chemidplus/rn/180288-69-1,FDA UNII,P188ANX8CK
+2020-09-18T19:45:19Z,https://chem.nlm.nih.gov/chemidplus/rn/180288-69-1,System Generated Number,0180288691
+2020-09-18T19:45:27Z,https://chem.nlm.nih.gov/chemidplus/rn/127-85-5,CAS Registry Number,127-85-5
+2020-09-18T19:45:27Z,https://chem.nlm.nih.gov/chemidplus/rn/127-85-5,FDA UNII,UC2409302Q
+2020-09-18T19:45:27Z,https://chem.nlm.nih.gov/chemidplus/rn/127-85-5,System Generated Number,0000127855
+2020-09-18T19:45:29Z,https://chem.nlm.nih.gov/chemidplus/rn/3385-03-3,CAS Registry Number,3385-03-3
+2020-09-18T19:45:29Z,https://chem.nlm.nih.gov/chemidplus/rn/3385-03-3,FDA UNII,78M02AA8KF
+2020-09-18T19:45:29Z,https://chem.nlm.nih.gov/chemidplus/rn/3385-03-3,System Generated Number,0003385033
+2020-09-18T19:45:37Z,https://chem.nlm.nih.gov/chemidplus/rn/71-73-8,CAS Registry Number,71-73-8
+2020-09-18T19:45:37Z,https://chem.nlm.nih.gov/chemidplus/rn/71-73-8,FDA UNII,49Y44QZL70
+2020-09-18T19:45:37Z,https://chem.nlm.nih.gov/chemidplus/rn/71-73-8,Other Registry Numbers,51259-80-4
+2020-09-18T19:45:37Z,https://chem.nlm.nih.gov/chemidplus/rn/71-73-8,Other Registry Numbers,7438-31-5
+2020-09-18T19:45:37Z,https://chem.nlm.nih.gov/chemidplus/rn/71-73-8,System Generated Number,0000071738
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,CAS Registry Number,25155-30-0
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,FDA UNII,554127163Y
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,1036266-20-2
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,11114-21-9
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,12068-21-2
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,122390-78-7
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,12627-25-7
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,12676-70-9
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,128452-17-5
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,1323-13-3
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,138362-06-8
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,142986-60-5
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,147035-77-6
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,167163-39-5
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,170006-86-7
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,177645-67-9
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,178900-97-5
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,18618-53-6
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,189201-38-5
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,19327-14-1
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,254117-47-0
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,28675-02-7
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,295348-93-5
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,312629-70-2
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,352212-18-1
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,37334-89-7
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,39316-39-7
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,39386-98-6
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,39405-16-8
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,52624-37-0
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,56590-39-7
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,57762-50-2
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,58517-33-2
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,60328-33-8
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,63530-22-3
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,68445-25-0
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,71244-85-4
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,76483-01-7
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,82028-94-2
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,82785-43-1
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,83203-33-2
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,83652-87-3
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,83652-88-4
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,83652-89-5
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,863016-65-3
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,863727-58-6
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,88495-86-7
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,90452-02-1
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,906063-68-1
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,941291-66-3
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,94187-92-5
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Other Registry Numbers,950892-60-1
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,Related Registry Number,27176-87-0 (Parent)
+2020-09-18T19:45:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25155-30-0,System Generated Number,0025155300
+2020-09-18T19:45:59Z,https://chem.nlm.nih.gov/chemidplus/rn/100986-85-4,CAS Registry Number,100986-85-4
+2020-09-18T19:45:59Z,https://chem.nlm.nih.gov/chemidplus/rn/100986-85-4,FDA UNII,RIX4E89Y14
+2020-09-18T19:45:59Z,https://chem.nlm.nih.gov/chemidplus/rn/100986-85-4,System Generated Number,0100986854
+2020-09-18T19:46:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2753-45-9,CAS Registry Number,2753-45-9
+2020-09-18T19:46:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2753-45-9,FDA UNII,15VZ5AL4JN
+2020-09-18T19:46:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2753-45-9,Related Registry Number,3625-06-7 (Parent)
+2020-09-18T19:46:06Z,https://chem.nlm.nih.gov/chemidplus/rn/2753-45-9,System Generated Number,0002753459
+2020-09-18T19:46:13Z,https://chem.nlm.nih.gov/chemidplus/rn/149-64-4,CAS Registry Number,149-64-4
+2020-09-18T19:46:13Z,https://chem.nlm.nih.gov/chemidplus/rn/149-64-4,FDA UNII,0GH9JX37C8
+2020-09-18T19:46:13Z,https://chem.nlm.nih.gov/chemidplus/rn/149-64-4,System Generated Number,0000149644
+2020-09-18T19:46:21Z,https://chem.nlm.nih.gov/chemidplus/rn/536-01-6,CAS Registry Number,536-01-6
+2020-09-18T19:46:21Z,https://chem.nlm.nih.gov/chemidplus/rn/536-01-6,System Generated Number,0000536016
+2020-09-18T19:46:29Z,https://chem.nlm.nih.gov/chemidplus/rn/523-87-5,CAS Registry Number,523-87-5
+2020-09-18T19:46:29Z,https://chem.nlm.nih.gov/chemidplus/rn/523-87-5,FDA UNII,JB937PER5C
+2020-09-18T19:46:29Z,https://chem.nlm.nih.gov/chemidplus/rn/523-87-5,Other Registry Number,133294-22-1
+2020-09-18T19:46:29Z,https://chem.nlm.nih.gov/chemidplus/rn/523-87-5,System Generated Number,0000523875
+2020-09-18T19:46:40Z,https://chem.nlm.nih.gov/chemidplus/rn/57808-66-9,CAS Registry Number,57808-66-9
+2020-09-18T19:46:40Z,https://chem.nlm.nih.gov/chemidplus/rn/57808-66-9,FDA UNII,5587267Z69
+2020-09-18T19:46:40Z,https://chem.nlm.nih.gov/chemidplus/rn/57808-66-9,Related Registry Numbers,83898-65-1 (maleate (1:1))
+2020-09-18T19:46:40Z,https://chem.nlm.nih.gov/chemidplus/rn/57808-66-9,Related Registry Numbers,99497-03-7 (maleate)
+2020-09-18T19:46:40Z,https://chem.nlm.nih.gov/chemidplus/rn/57808-66-9,System Generated Number,0057808669
+2020-09-18T19:46:47Z,https://chem.nlm.nih.gov/chemidplus/rn/162652-95-1,CAS Registry Number,162652-95-1
+2020-09-18T19:46:47Z,https://chem.nlm.nih.gov/chemidplus/rn/162652-95-1,FDA UNII,5BF646324K
+2020-09-18T19:46:47Z,https://chem.nlm.nih.gov/chemidplus/rn/162652-95-1,System Generated Number,0162652951
+2020-09-18T19:46:54Z,https://chem.nlm.nih.gov/chemidplus/rn/23256-42-0,CAS Registry Number,23256-42-0
+2020-09-18T19:46:54Z,https://chem.nlm.nih.gov/chemidplus/rn/23256-42-0,FDA UNII,P3K8GP9FDQ
+2020-09-18T19:46:54Z,https://chem.nlm.nih.gov/chemidplus/rn/23256-42-0,System Generated Number,0023256420
+2020-09-18T19:46:57Z,https://chem.nlm.nih.gov/chemidplus/rn/830-89-7,CAS Registry Number,830-89-7
+2020-09-18T19:46:57Z,https://chem.nlm.nih.gov/chemidplus/rn/830-89-7,FDA UNII,475NGR2DC1
+2020-09-18T19:46:57Z,https://chem.nlm.nih.gov/chemidplus/rn/830-89-7,System Generated Number,0000830897
+2020-09-18T19:47:04Z,https://chem.nlm.nih.gov/chemidplus/rn/55-91-4,CAS Registry Number,55-91-4
+2020-09-18T19:47:04Z,https://chem.nlm.nih.gov/chemidplus/rn/55-91-4,FDA UNII,12UHW9R67N
+2020-09-18T19:47:04Z,https://chem.nlm.nih.gov/chemidplus/rn/55-91-4,Other Registry Number,37209-35-1
+2020-09-18T19:47:04Z,https://chem.nlm.nih.gov/chemidplus/rn/55-91-4,System Generated Number,0000055914
+2020-09-18T19:47:11Z,https://chem.nlm.nih.gov/chemidplus/rn/145785-63-3,CAS Registry Number,145785-63-3
+2020-09-18T19:47:11Z,https://chem.nlm.nih.gov/chemidplus/rn/145785-63-3,System Generated Number,0145785633
+2020-09-18T19:47:18Z,https://chem.nlm.nih.gov/chemidplus/rn/78287-24-8,CAS Registry Number,78287-24-8
+2020-09-18T19:47:18Z,https://chem.nlm.nih.gov/chemidplus/rn/78287-24-8,System Generated Number,0078287248
+2020-09-18T19:47:26Z,https://chem.nlm.nih.gov/chemidplus/rn/1660-95-3,CAS Registry Number,1660-95-3
+2020-09-18T19:47:26Z,https://chem.nlm.nih.gov/chemidplus/rn/1660-95-3,FDA UNII,K46Y5V9U61
+2020-09-18T19:47:26Z,https://chem.nlm.nih.gov/chemidplus/rn/1660-95-3,System Generated Number,0001660953
+2020-09-18T19:47:33Z,https://chem.nlm.nih.gov/chemidplus/rn/5714-90-9,CAS Registry Number,5714-90-9
+2020-09-18T19:47:33Z,https://chem.nlm.nih.gov/chemidplus/rn/5714-90-9,FDA UNII,W7DQT6KY5S
+2020-09-18T19:47:33Z,https://chem.nlm.nih.gov/chemidplus/rn/5714-90-9,System Generated Number,0005714909
+2020-09-18T19:47:40Z,https://chem.nlm.nih.gov/chemidplus/rn/2169232-81-7,CAS Registry Number,2169232-81-7
+2020-09-18T19:47:40Z,https://chem.nlm.nih.gov/chemidplus/rn/2169232-81-7,FDA UNII,90YIEHRFJ9
+2020-09-18T19:47:40Z,https://chem.nlm.nih.gov/chemidplus/rn/2169232-81-7,System Generated Number,2169232817
+2020-09-18T19:47:48Z,https://chem.nlm.nih.gov/chemidplus/rn/99614-01-4,CAS Registry Number,99614-01-4
+2020-09-18T19:47:48Z,https://chem.nlm.nih.gov/chemidplus/rn/99614-01-4,FDA UNII,2999F27MAD
+2020-09-18T19:47:48Z,https://chem.nlm.nih.gov/chemidplus/rn/99614-01-4,Other Registry Numbers,110204-46-1
+2020-09-18T19:47:48Z,https://chem.nlm.nih.gov/chemidplus/rn/99614-01-4,Other Registry Numbers,110707-92-1
+2020-09-18T19:47:48Z,https://chem.nlm.nih.gov/chemidplus/rn/99614-01-4,Related Registry Number,99614-02-5 (Parent)
+2020-09-18T19:47:48Z,https://chem.nlm.nih.gov/chemidplus/rn/99614-01-4,System Generated Number,0099614014
+2020-09-18T19:47:59Z,https://chem.nlm.nih.gov/chemidplus/rn/7007-76-3,CAS Registry Number,7007-76-3
+2020-09-18T19:47:59Z,https://chem.nlm.nih.gov/chemidplus/rn/7007-76-3,FDA UNII,X40L29981F
+2020-09-18T19:47:59Z,https://chem.nlm.nih.gov/chemidplus/rn/7007-76-3,System Generated Number,0007007763
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,CAS Registry Number,50-00-0
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,FDA UNII,1HG84L3525
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,Other Registry Numbers,1053659-79-2
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,Other Registry Numbers,112068-71-0
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,Other Registry Numbers,1156543-56-4
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,Other Registry Numbers,1158237-02-5
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,Other Registry Numbers,1227476-28-9
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,Other Registry Numbers,1357848-44-2
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,Other Registry Numbers,1416946-65-0
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,Other Registry Numbers,1609158-91-9
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,Other Registry Numbers,8005-38-7
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,Other Registry Numbers,8006-07-3
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,Other Registry Numbers,8013-13-6
+2020-09-18T19:48:06Z,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0,System Generated Number,0000050000
+2020-09-18T19:48:13Z,https://chem.nlm.nih.gov/chemidplus/rn/104227-87-4,CAS Registry Number,104227-87-4
+2020-09-18T19:48:13Z,https://chem.nlm.nih.gov/chemidplus/rn/104227-87-4,FDA UNII,QIC03ANI02
+2020-09-18T19:48:13Z,https://chem.nlm.nih.gov/chemidplus/rn/104227-87-4,System Generated Number,0104227874
+2020-09-18T19:48:20Z,https://chem.nlm.nih.gov/chemidplus/rn/783355-60-2,CAS Registry Number,783355-60-2
+2020-09-18T19:48:20Z,https://chem.nlm.nih.gov/chemidplus/rn/783355-60-2,FDA UNII,IYO470654U
+2020-09-18T19:48:20Z,https://chem.nlm.nih.gov/chemidplus/rn/783355-60-2,Other Registry Numbers,883970-69-2
+2020-09-18T19:48:20Z,https://chem.nlm.nih.gov/chemidplus/rn/783355-60-2,Other Registry Numbers,942630-54-8
+2020-09-18T19:48:20Z,https://chem.nlm.nih.gov/chemidplus/rn/783355-60-2,System Generated Number,0783355602
+2020-09-18T19:48:35Z,https://chem.nlm.nih.gov/chemidplus/rn/64382-04-3,CAS Registry Number,64382-04-3
+2020-09-18T19:48:35Z,https://chem.nlm.nih.gov/chemidplus/rn/64382-04-3,Other Registry Number,68652-41-5
+2020-09-18T19:48:35Z,https://chem.nlm.nih.gov/chemidplus/rn/64382-04-3,System Generated Number,0064382043
+2020-09-18T19:48:42Z,https://chem.nlm.nih.gov/chemidplus/rn/117305-33-6,CAS Registry Number,117305-33-6
+2020-09-18T19:48:42Z,https://chem.nlm.nih.gov/chemidplus/rn/117305-33-6,System Generated Number,0117305336
+2020-09-18T19:48:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1263283-43-7,CAS Registry Number,1263283-43-7
+2020-09-18T19:48:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1263283-43-7,FDA UNII,5346058Q7S
+2020-09-18T19:48:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1263283-43-7,System Generated Number,1263283437
+2020-09-18T19:48:57Z,https://chem.nlm.nih.gov/chemidplus/rn/618385-01-6,CAS Registry Number,618385-01-6
+2020-09-18T19:48:57Z,https://chem.nlm.nih.gov/chemidplus/rn/618385-01-6,FDA UNII,ZCE93644N2
+2020-09-18T19:48:57Z,https://chem.nlm.nih.gov/chemidplus/rn/618385-01-6,System Generated Number,0618385016
+2020-09-18T19:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/152-47-6,CAS Registry Number,152-47-6
+2020-09-18T19:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/152-47-6,FDA UNII,T6BL4ZC15G
+2020-09-18T19:49:04Z,https://chem.nlm.nih.gov/chemidplus/rn/152-47-6,System Generated Number,0000152476
+2020-09-18T19:49:11Z,https://chem.nlm.nih.gov/chemidplus/rn/1396257-94-5,CAS Registry Number,1396257-94-5
+2020-09-18T19:49:11Z,https://chem.nlm.nih.gov/chemidplus/rn/1396257-94-5,FDA UNII,M2JCB5A8EV
+2020-09-18T19:49:11Z,https://chem.nlm.nih.gov/chemidplus/rn/1396257-94-5,System Generated Number,1396257945
+2020-09-18T19:49:19Z,https://chem.nlm.nih.gov/chemidplus/rn/68252-19-7,CAS Registry Number,68252-19-7
+2020-09-18T19:49:19Z,https://chem.nlm.nih.gov/chemidplus/rn/68252-19-7,FDA UNII,VZ3B6ACV72
+2020-09-18T19:49:19Z,https://chem.nlm.nih.gov/chemidplus/rn/68252-19-7,System Generated Number,0068252197
+2020-09-18T19:49:27Z,https://chem.nlm.nih.gov/chemidplus/rn/492-13-7,CAS Registry Number,492-13-7
+2020-09-18T19:49:27Z,https://chem.nlm.nih.gov/chemidplus/rn/492-13-7,System Generated Number,0000492137
+2020-09-18T19:49:34Z,https://chem.nlm.nih.gov/chemidplus/rn/50-76-0,CAS Registry Number,50-76-0
+2020-09-18T19:49:34Z,https://chem.nlm.nih.gov/chemidplus/rn/50-76-0,FDA UNII,1CC1JFE158
+2020-09-18T19:49:34Z,https://chem.nlm.nih.gov/chemidplus/rn/50-76-0,System Generated Number,0000050760
+2020-09-18T19:49:42Z,https://chem.nlm.nih.gov/chemidplus/rn/733030-01-8,CAS Registry Number,733030-01-8
+2020-09-18T19:49:42Z,https://chem.nlm.nih.gov/chemidplus/rn/733030-01-8,System Generated Number,0733030018
+2020-09-18T19:49:57Z,https://chem.nlm.nih.gov/chemidplus/rn/59-26-7,CAS Registry Number,59-26-7
+2020-09-18T19:49:57Z,https://chem.nlm.nih.gov/chemidplus/rn/59-26-7,FDA UNII,368IVD6M32
+2020-09-18T19:49:57Z,https://chem.nlm.nih.gov/chemidplus/rn/59-26-7,System Generated Number,0000059267
+2020-09-18T19:50:05Z,https://chem.nlm.nih.gov/chemidplus/rn/157716-52-4,CAS Registry Number,157716-52-4
+2020-09-18T19:50:05Z,https://chem.nlm.nih.gov/chemidplus/rn/157716-52-4,FDA UNII,2GWV496552
+2020-09-18T19:50:05Z,https://chem.nlm.nih.gov/chemidplus/rn/157716-52-4,System Generated Number,0157716524
+2020-09-18T19:50:12Z,https://chem.nlm.nih.gov/chemidplus/rn/862111-32-8,CAS Registry Number,862111-32-8
+2020-09-18T19:50:12Z,https://chem.nlm.nih.gov/chemidplus/rn/862111-32-8,FDA UNII,15C2VL427D
+2020-09-18T19:50:12Z,https://chem.nlm.nih.gov/chemidplus/rn/862111-32-8,Other Registry Number,924289-53-2
+2020-09-18T19:50:12Z,https://chem.nlm.nih.gov/chemidplus/rn/862111-32-8,System Generated Number,0862111328
+2020-09-18T19:50:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94168-98-6,CAS Registry Number,94168-98-6
+2020-09-18T19:50:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94168-98-6,FDA UNII,1PUG6262HX
+2020-09-18T19:50:20Z,https://chem.nlm.nih.gov/chemidplus/rn/94168-98-6,System Generated Number,0094168986
+2020-09-18T19:50:27Z,https://chem.nlm.nih.gov/chemidplus/rn/57-91-0,CAS Registry Number,57-91-0
+2020-09-18T19:50:27Z,https://chem.nlm.nih.gov/chemidplus/rn/57-91-0,FDA UNII,3VQ38D63M7
+2020-09-18T19:50:27Z,https://chem.nlm.nih.gov/chemidplus/rn/57-91-0,System Generated Number,0000057910
+2020-09-18T19:50:35Z,https://chem.nlm.nih.gov/chemidplus/rn/41658-12-2,CAS Registry Number,41658-12-2
+2020-09-18T19:50:35Z,https://chem.nlm.nih.gov/chemidplus/rn/41658-12-2,System Generated Number,0041658122
+2020-09-18T19:50:42Z,https://chem.nlm.nih.gov/chemidplus/rn/15224-88-1,CAS Registry Number,15224-88-1
+2020-09-18T19:50:42Z,https://chem.nlm.nih.gov/chemidplus/rn/15224-88-1,System Generated Number,0015224881
+2020-09-18T19:50:49Z,https://chem.nlm.nih.gov/chemidplus/rn/573-58-0,CAS Registry Number,573-58-0
+2020-09-18T19:50:49Z,https://chem.nlm.nih.gov/chemidplus/rn/573-58-0,FDA UNII,3U05FHG59S
+2020-09-18T19:50:49Z,https://chem.nlm.nih.gov/chemidplus/rn/573-58-0,Other Registry Numbers,1000818-40-5
+2020-09-18T19:50:49Z,https://chem.nlm.nih.gov/chemidplus/rn/573-58-0,Other Registry Numbers,550-08-3
+2020-09-18T19:50:49Z,https://chem.nlm.nih.gov/chemidplus/rn/573-58-0,Other Registry Numbers,70248-72-5
+2020-09-18T19:50:49Z,https://chem.nlm.nih.gov/chemidplus/rn/573-58-0,Other Registry Numbers,87440-95-7
+2020-09-18T19:50:49Z,https://chem.nlm.nih.gov/chemidplus/rn/573-58-0,System Generated Number,0000573580
+2020-09-18T19:50:57Z,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3,CAS Registry Number,872514-65-3
+2020-09-18T19:50:57Z,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3,FDA UNII,51WEW898IJ
+2020-09-18T19:50:57Z,https://chem.nlm.nih.gov/chemidplus/rn/872514-65-3,System Generated Number,0872514653
+2020-09-18T19:51:04Z,https://chem.nlm.nih.gov/chemidplus/rn/211915-06-9,CAS Registry Number,211915-06-9
+2020-09-18T19:51:04Z,https://chem.nlm.nih.gov/chemidplus/rn/211915-06-9,FDA UNII,2E18WX195X
+2020-09-18T19:51:04Z,https://chem.nlm.nih.gov/chemidplus/rn/211915-06-9,System Generated Number,0211915069
+2020-09-18T19:51:12Z,https://chem.nlm.nih.gov/chemidplus/rn/154-42-7,CAS Registry Number,154-42-7
+2020-09-18T19:51:12Z,https://chem.nlm.nih.gov/chemidplus/rn/154-42-7,FDA UNII,WIX31ZPX66
+2020-09-18T19:51:12Z,https://chem.nlm.nih.gov/chemidplus/rn/154-42-7,Related Registry Numbers,5580-03-0 (hemihydrate)
+2020-09-18T19:51:12Z,https://chem.nlm.nih.gov/chemidplus/rn/154-42-7,Related Registry Numbers,76078-67-6 (mono-Na salt)
+2020-09-18T19:51:12Z,https://chem.nlm.nih.gov/chemidplus/rn/154-42-7,System Generated Number,0000154427
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,CAS Registry Number,3896-11-5
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,FDA UNII,7ZF18Q354W
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,103843-16-9
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,106085-65-8
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,136567-90-3
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,138464-60-5
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,1399293-71-0
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,144598-90-3
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,144856-53-1
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,145379-55-1
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,155375-84-1
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,172344-93-3
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,2098648-59-8
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,2117663-14-4
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,2135333-73-0
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,268218-33-3
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,474264-62-5
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,61489-93-8
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,796971-87-4
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,80479-99-8
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,Other Registry Numbers,85497-36-5
+2020-09-18T19:51:19Z,https://chem.nlm.nih.gov/chemidplus/rn/3896-11-5,System Generated Number,0003896115
+2020-09-18T19:51:26Z,https://chem.nlm.nih.gov/chemidplus/rn/39236-46-9,CAS Registry Number,39236-46-9
+2020-09-18T19:51:26Z,https://chem.nlm.nih.gov/chemidplus/rn/39236-46-9,FDA UNII,M629807ATL
+2020-09-18T19:51:26Z,https://chem.nlm.nih.gov/chemidplus/rn/39236-46-9,Other Registry Numbers,1698942-49-2
+2020-09-18T19:51:26Z,https://chem.nlm.nih.gov/chemidplus/rn/39236-46-9,Other Registry Numbers,82852-50-4
+2020-09-18T19:51:26Z,https://chem.nlm.nih.gov/chemidplus/rn/39236-46-9,Related Registry Number,71042-94-9 (mono-hydrochloride salt)
+2020-09-18T19:51:26Z,https://chem.nlm.nih.gov/chemidplus/rn/39236-46-9,System Generated Number,0039236469
+2020-09-18T19:51:34Z,https://chem.nlm.nih.gov/chemidplus/rn/317-34-0,CAS Registry Number,317-34-0
+2020-09-18T19:51:34Z,https://chem.nlm.nih.gov/chemidplus/rn/317-34-0,FDA UNII,27Y3KJK423
+2020-09-18T19:51:34Z,https://chem.nlm.nih.gov/chemidplus/rn/317-34-0,Other Registry Numbers,12767-26-9
+2020-09-18T19:51:34Z,https://chem.nlm.nih.gov/chemidplus/rn/317-34-0,Other Registry Numbers,442519-87-1
+2020-09-18T19:51:34Z,https://chem.nlm.nih.gov/chemidplus/rn/317-34-0,Other Registry Numbers,8013-40-9
+2020-09-18T19:51:34Z,https://chem.nlm.nih.gov/chemidplus/rn/317-34-0,Other Registry Numbers,80186-94-3
+2020-09-18T19:51:34Z,https://chem.nlm.nih.gov/chemidplus/rn/317-34-0,System Generated Number,0000317340
+2020-09-18T19:51:45Z,https://chem.nlm.nih.gov/chemidplus/rn/109-43-3,CAS Registry Number,109-43-3
+2020-09-18T19:51:45Z,https://chem.nlm.nih.gov/chemidplus/rn/109-43-3,FDA UNII,4W5IH7FLNY
+2020-09-18T19:51:45Z,https://chem.nlm.nih.gov/chemidplus/rn/109-43-3,Other Registry Numbers,39393-66-3
+2020-09-18T19:51:45Z,https://chem.nlm.nih.gov/chemidplus/rn/109-43-3,Other Registry Numbers,98781-27-2
+2020-09-18T19:51:45Z,https://chem.nlm.nih.gov/chemidplus/rn/109-43-3,System Generated Number,0000109433
