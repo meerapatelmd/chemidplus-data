@@ -8762,3 +8762,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:43:50Z,"BCG, live, Tice strain","BCG,live,Ticestrain",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/BCG,live,Ticestrain",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-19T23:43:56Z,sarilumab,sarilumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/sarilumab,TRUE,FALSE,TRUE, Sarilumab [USAN:INN],1189541-98-7,https://chem.nlm.nih.gov/chemidplus/rn/1189541-98-7
 2020-09-19T23:44:03Z,glatiramer,glatiramer,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/glatiramer,TRUE,FALSE,TRUE,Glatiramer,28704-27-0,https://chem.nlm.nih.gov/chemidplus/rn/28704-27-0
+2020-09-19T23:44:54Z,abatacept,abatacept,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/abatacept,TRUE,FALSE,TRUE, Abatacept [USAN:INN:BAN:JAN],332348-12-6,https://chem.nlm.nih.gov/chemidplus/rn/332348-12-6
+2020-09-19T23:45:07Z,nimustine hydrochloride,nimustinehydrochloride,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/nimustinehydrochloride,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-19T23:45:14Z,golimumab,golimumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/golimumab,TRUE,FALSE,TRUE, Golimumab [USAN:INN:BAN],476181-74-5,https://chem.nlm.nih.gov/chemidplus/rn/476181-74-5
+2020-09-19T23:45:04Z,ε-Ahx,ε-Ahx,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ε-Ahx,TRUE,TRUE,FALSE,NA,NA,NA
