@@ -8669,3 +8669,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:22:44Z,Zortress,Zortress,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zortress,TRUE,FALSE,TRUE, Everolimus [USAN:INN:BAN],159351-69-6,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6
 2020-09-19T23:23:36Z,Doxorubicine,Doxorubicine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Doxorubicine,TRUE,FALSE,TRUE, Doxorubicin [USAN:INN:BAN],23214-92-8,https://chem.nlm.nih.gov/chemidplus/rn/23214-92-8
 2020-09-19T23:24:00Z,Barasertib,Barasertib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Barasertib,TRUE,FALSE,TRUE, Barasertib [INN],722543-31-9,https://chem.nlm.nih.gov/chemidplus/rn/722543-31-9
+2020-09-19T23:24:39Z,Aldocumar,Aldocumar,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Aldocumar,TRUE,FALSE,TRUE, Warfarin sodium [USP],129-06-6,https://chem.nlm.nih.gov/chemidplus/rn/129-06-6
+2020-09-19T23:25:01Z,Bactropin,Bactropin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bactropin,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-19T23:25:13Z,Famciclovir,Famciclovir,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Famciclovir,TRUE,FALSE,TRUE, Famciclovir [USAN:INN:BAN],104227-87-4,https://chem.nlm.nih.gov/chemidplus/rn/104227-87-4
