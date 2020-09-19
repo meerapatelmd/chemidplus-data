@@ -8658,3 +8658,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:20:20Z,Pehacort,Pehacort,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Pehacort,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
 2020-09-19T23:20:26Z,Fondaparinux,Fondaparinux,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fondaparinux,TRUE,FALSE,TRUE, Fondaparinux,104993-28-4,https://chem.nlm.nih.gov/chemidplus/rn/104993-28-4
 2020-09-19T23:20:35Z,Depo-Medrol,Depo-Medrol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Depo-Medrol,TRUE,FALSE,TRUE, Methylprednisolone acetate [USP:JAN],53-36-1,https://chem.nlm.nih.gov/chemidplus/rn/53-36-1
+2020-09-19T23:20:44Z,Ipstyl,Ipstyl,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ipstyl,TRUE,FALSE,TRUE, Lanreotide [INN:BAN],108736-35-2,https://chem.nlm.nih.gov/chemidplus/rn/108736-35-2
+2020-09-19T23:21:06Z,Binosto,Binosto,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Binosto,TRUE,FALSE,TRUE, Alendronate sodium,129318-43-0,https://chem.nlm.nih.gov/chemidplus/rn/129318-43-0
