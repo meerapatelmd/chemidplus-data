@@ -8662,3 +8662,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:21:06Z,Binosto,Binosto,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Binosto,TRUE,FALSE,TRUE, Alendronate sodium,129318-43-0,https://chem.nlm.nih.gov/chemidplus/rn/129318-43-0
 2020-09-19T23:21:28Z,Humate-P,Humate-P,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Humate-P,TRUE,FALSE,TRUE, Beroctocog alfa [INN],9001-27-8,https://chem.nlm.nih.gov/chemidplus/rn/9001-27-8
 2020-09-19T23:21:40Z,Cetirizine,Cetirizine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cetirizine,TRUE,FALSE,TRUE, Cetirizine [INN:BAN],83881-51-0,https://chem.nlm.nih.gov/chemidplus/rn/83881-51-0
+2020-09-19T23:22:07Z,Decaderm,Decaderm,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Decaderm,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-19T23:22:14Z,Eculizumab,Eculizumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Eculizumab,TRUE,FALSE,TRUE, Eculizumab [USAN:INN:BAN],219685-50-4,https://chem.nlm.nih.gov/chemidplus/rn/219685-50-4
+2020-09-19T23:22:23Z,ACV,ACV,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ACV,TRUE,FALSE,TRUE, Acyclovir [USAN:USP],59277-89-3,https://chem.nlm.nih.gov/chemidplus/rn/59277-89-3
+2020-09-19T23:22:34Z,Calsed,Calsed,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Calsed,TRUE,FALSE,TRUE, Amrubicin hydrochloride [USAN],110311-30-3,https://chem.nlm.nih.gov/chemidplus/rn/110311-30-3
