@@ -8759,3 +8759,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:42:47Z,polyestradiol,polyestradiol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/polyestradiol,TRUE,FALSE,TRUE,Polyestradiol phosphate,28014-46-2,https://chem.nlm.nih.gov/chemidplus/rn/28014-46-2
 2020-09-19T23:42:47Z,polyestradiol,polyestradiol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/polyestradiol,TRUE,FALSE,TRUE,Polyestradiol phosphate,34828-67-6,https://chem.nlm.nih.gov/chemidplus/rn/34828-67-6
 2020-09-19T23:42:47Z,polyestradiol,polyestradiol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/polyestradiol,TRUE,FALSE,TRUE,Polyestradiol,73459-61-7,https://chem.nlm.nih.gov/chemidplus/rn/73459-61-7
+2020-09-19T23:43:50Z,"BCG, live, Tice strain","BCG,live,Ticestrain",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/BCG,live,Ticestrain",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-19T23:43:56Z,sarilumab,sarilumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/sarilumab,TRUE,FALSE,TRUE, Sarilumab [USAN:INN],1189541-98-7,https://chem.nlm.nih.gov/chemidplus/rn/1189541-98-7
+2020-09-19T23:44:03Z,glatiramer,glatiramer,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/glatiramer,TRUE,FALSE,TRUE,Glatiramer,28704-27-0,https://chem.nlm.nih.gov/chemidplus/rn/28704-27-0
