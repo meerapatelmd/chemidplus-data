@@ -8655,3 +8655,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:19:37Z,Matulane,Matulane,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Matulane,TRUE,FALSE,TRUE, Procarbazine hydrochloride [USAN:USP:JAN],366-70-1,https://chem.nlm.nih.gov/chemidplus/rn/366-70-1
 2020-09-19T23:19:49Z,Asmacortone,Asmacortone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Asmacortone,TRUE,FALSE,TRUE, Methylprednisolone sodium succinate [USP:JAN],2375-03-3,https://chem.nlm.nih.gov/chemidplus/rn/2375-03-3
 2020-09-19T23:19:58Z,Rubraca,Rubraca,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Rubraca,TRUE,FALSE,TRUE, Rucaparib [USAN:INN],283173-50-2,https://chem.nlm.nih.gov/chemidplus/rn/283173-50-2
+2020-09-19T23:20:20Z,Pehacort,Pehacort,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Pehacort,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-19T23:20:26Z,Fondaparinux,Fondaparinux,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fondaparinux,TRUE,FALSE,TRUE, Fondaparinux,104993-28-4,https://chem.nlm.nih.gov/chemidplus/rn/104993-28-4
+2020-09-19T23:20:35Z,Depo-Medrol,Depo-Medrol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Depo-Medrol,TRUE,FALSE,TRUE, Methylprednisolone acetate [USP:JAN],53-36-1,https://chem.nlm.nih.gov/chemidplus/rn/53-36-1
