@@ -8556,3 +8556,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T21:45:15Z,ε-Ahx,ε-Ahx,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ε-Ahx,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-19T21:45:35Z,ε-aminocaproic acid,ε-aminocaproicacid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ε-aminocaproicacid,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-19T21:47:33Z,"o,p′-DDD","o,p′-DDD",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/o,p′-DDD",TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-19T22:56:57Z,Leunase,Leunase,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Leunase,TRUE,FALSE,TRUE, Asparaginase [USAN],9015-68-3,https://chem.nlm.nih.gov/chemidplus/rn/9015-68-3
+2020-09-19T22:57:22Z,Encorafenib,Encorafenib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Encorafenib,TRUE,FALSE,TRUE, Encorafenib [USAN:INN],1269440-17-6,https://chem.nlm.nih.gov/chemidplus/rn/1269440-17-6
