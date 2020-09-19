@@ -5,7 +5,7 @@
 \alias{CONCEPT}
 \title{CONCEPT}
 \format{
-A data frame with 5195 rows and 10 variables:
+A data frame with 5581 rows and 10 variables:
 \describe{
 \item{\code{concept_id}}{double COLUMN_DESCRIPTION}
 \item{\code{concept_name}}{character COLUMN_DESCRIPTION}

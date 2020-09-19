@@ -5,7 +5,7 @@
 \alias{CONCEPT_ANCESTOR}
 \title{CONCEPT_ANCESTOR}
 \format{
-A data frame with 16753 rows and 4 variables:
+A data frame with 16943 rows and 4 variables:
 \describe{
 \item{\code{ancestor_concept_id}}{double COLUMN_DESCRIPTION}
 \item{\code{descendant_concept_id}}{double COLUMN_DESCRIPTION}

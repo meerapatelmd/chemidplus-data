@@ -11,7 +11,7 @@
 
 #' @title CONCEPT
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 5195 rows and 10 variables:
+#' @format A data frame with 5581 rows and 10 variables:
 #' \describe{
 #'   \item{\code{concept_id}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{concept_name}}{character COLUMN_DESCRIPTION}
@@ -29,7 +29,7 @@
 
 #' @title CONCEPT_ANCESTOR
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 16753 rows and 4 variables:
+#' @format A data frame with 16943 rows and 4 variables:
 #' \describe{
 #'   \item{\code{ancestor_concept_id}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{descendant_concept_id}}{double COLUMN_DESCRIPTION}
@@ -41,7 +41,7 @@
 
 #' @title CONCEPT_RELATIONSHIP
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 46 rows and 6 variables:
+#' @format A data frame with 47 rows and 6 variables:
 #' \describe{
 #'   \item{\code{concept_id_1}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{concept_id_2}}{double COLUMN_DESCRIPTION}
@@ -55,7 +55,7 @@
 
 #' @title CONCEPT_SYNONYM
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 153940 rows and 3 variables:
+#' @format A data frame with 164146 rows and 3 variables:
 #' \describe{
 #'   \item{\code{concept_id}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{concept_synonym_name}}{character COLUMN_DESCRIPTION}
@@ -90,7 +90,7 @@
 
 #' @title REGISTRY_NUMBER_LOG
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 8418 rows and 11 variables:
+#' @format A data frame with 8557 rows and 11 variables:
 #' \describe{
 #'   \item{\code{rnl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{raw_concept}}{character COLUMN_DESCRIPTION}

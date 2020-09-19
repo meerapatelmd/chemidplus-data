@@ -5,7 +5,7 @@
 \alias{CONCEPT_RELATIONSHIP}
 \title{CONCEPT_RELATIONSHIP}
 \format{
-A data frame with 46 rows and 6 variables:
+A data frame with 47 rows and 6 variables:
 \describe{
 \item{\code{concept_id_1}}{double COLUMN_DESCRIPTION}
 \item{\code{concept_id_2}}{double COLUMN_DESCRIPTION}
