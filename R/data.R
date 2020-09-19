@@ -88,39 +88,9 @@
 #' @details DETAILS
 "NAMES_AND_SYNONYMS"
 
-#' @title OLD_REGISTRY_NUMBER_LOG
-#' @description DATASET_DESCRIPTION
-#' @format A data frame with 8347 rows and 11 variables:
-#' \describe{
-#'   \item{\code{rnl_datetime}}{double COLUMN_DESCRIPTION}
-#'   \item{\code{raw_concept}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{processed_concept}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{type}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{url}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{response_received}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{no_record}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{response_recorded}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{compound_match}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{rn}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION} 
-#'}
-#' @details DETAILS
-"OLD_REGISTRY_NUMBER_LOG"
-
-#' @title OLD_RN_URL_VALIDITY
-#' @description DATASET_DESCRIPTION
-#' @format A data frame with 2328 rows and 3 variables:
-#' \describe{
-#'   \item{\code{rnuv_datetime}}{double COLUMN_DESCRIPTION}
-#'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{is_404}}{character COLUMN_DESCRIPTION} 
-#'}
-#' @details DETAILS
-"OLD_RN_URL_VALIDITY"
-
 #' @title REGISTRY_NUMBER_LOG
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 8233 rows and 11 variables:
+#' @format A data frame with 8256 rows and 11 variables:
 #' \describe{
 #'   \item{\code{rnl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{raw_concept}}{character COLUMN_DESCRIPTION}

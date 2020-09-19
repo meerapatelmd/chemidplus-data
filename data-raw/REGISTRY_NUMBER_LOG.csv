@@ -8232,3 +8232,26 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-18T18:14:53Z,Profung,Profung,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Profung,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-18T18:15:30Z,Purplz,Purplz,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Purplz,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-18T18:46:17Z,Zoltrijem,Zoltrijem,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Zoltrijem,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-19T06:37:47Z,Abacin,Abacin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Abacin,TRUE,FALSE,TRUE,Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-19T06:37:47Z,Abacin,Abacin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Abacin,TRUE,FALSE,TRUE,Cephabacins,94947-55-4,https://chem.nlm.nih.gov/chemidplus/rn/94947-55-4
+2020-09-19T06:37:47Z,Abacin,Abacin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Abacin,TRUE,FALSE,TRUE,Antibiotic tan-547C,97232-34-3,https://chem.nlm.nih.gov/chemidplus/rn/97232-34-3
+2020-09-19T06:37:47Z,Abacin,Abacin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Abacin,TRUE,FALSE,TRUE,Cephabacin M6,99313-73-2,https://chem.nlm.nih.gov/chemidplus/rn/99313-73-2
+2020-09-19T06:37:47Z,Abacin,Abacin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Abacin,TRUE,FALSE,TRUE,Cephabacin M4,99313-74-3,https://chem.nlm.nih.gov/chemidplus/rn/99313-74-3
+2020-09-19T06:38:08Z,Cytokine,Cytokine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cytokine,TRUE,FALSE,TRUE,Hepatocyte growth factor,67256-21-7,https://chem.nlm.nih.gov/chemidplus/rn/67256-21-7
+2020-09-19T06:38:08Z,Cytokine,Cytokine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cytokine,TRUE,FALSE,TRUE,Macrophage colony-stimulating factor,81627-83-0,https://chem.nlm.nih.gov/chemidplus/rn/81627-83-0
+2020-09-19T06:38:08Z,Cytokine,Cytokine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cytokine,TRUE,FALSE,TRUE,"Immunochemicals, cytokines",90320-58-4,https://chem.nlm.nih.gov/chemidplus/rn/90320-58-4
+2020-09-19T06:38:08Z,Cytokine,Cytokine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cytokine,TRUE,FALSE,TRUE,Interleukin-10,130068-27-8,https://chem.nlm.nih.gov/chemidplus/rn/130068-27-8
+2020-09-19T06:38:08Z,Cytokine,Cytokine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Cytokine,TRUE,FALSE,TRUE,gp130 Signal transducer,133483-10-0,https://chem.nlm.nih.gov/chemidplus/rn/133483-10-0
+2020-09-19T06:38:50Z,Trimethox,Trimethox,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Trimethox,TRUE,FALSE,TRUE,Hexobendine dihydrochloride,50-62-4,https://chem.nlm.nih.gov/chemidplus/rn/50-62-4
+2020-09-19T06:38:50Z,Trimethox,Trimethox,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Trimethox,TRUE,FALSE,TRUE,ST 7092,54-02-4,https://chem.nlm.nih.gov/chemidplus/rn/54-02-4
+2020-09-19T06:40:36Z,Furosemide,Furosemide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Furosemide,TRUE,FALSE,TRUE,Isofurosemide,4818-59-1,https://chem.nlm.nih.gov/chemidplus/rn/4818-59-1
+2020-09-19T06:40:36Z,Furosemide,Furosemide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Furosemide,TRUE,FALSE,TRUE,PF-1543,21525-08-6,https://chem.nlm.nih.gov/chemidplus/rn/21525-08-6
+2020-09-19T06:40:36Z,Furosemide,Furosemide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Furosemide,TRUE,FALSE,TRUE,Butoxymethylene furosemide,40532-27-2,https://chem.nlm.nih.gov/chemidplus/rn/40532-27-2
+2020-09-19T06:40:36Z,Furosemide,Furosemide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Furosemide,TRUE,FALSE,TRUE,Sodium furosemide,41733-55-5,https://chem.nlm.nih.gov/chemidplus/rn/41733-55-5
+2020-09-19T06:40:46Z,Gefitinib,Gefitinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Gefitinib,TRUE,FALSE,TRUE,Gefitinib hydrochloride,184475-55-6,https://chem.nlm.nih.gov/chemidplus/rn/184475-55-6
+2020-09-19T06:40:46Z,Gefitinib,Gefitinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Gefitinib,TRUE,FALSE,TRUE,M-295820,184475-71-6,https://chem.nlm.nih.gov/chemidplus/rn/184475-71-6
+2020-09-19T06:40:46Z,Gefitinib,Gefitinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Gefitinib,TRUE,FALSE,TRUE,o-Desmethyl gefitinib,847949-49-9,https://chem.nlm.nih.gov/chemidplus/rn/847949-49-9
+2020-09-19T06:40:46Z,Gefitinib,Gefitinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Gefitinib,TRUE,FALSE,TRUE,M-387783,847949-50-2,https://chem.nlm.nih.gov/chemidplus/rn/847949-50-2
+2020-09-19T06:41:26Z,Pravastatin,Pravastatin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Pravastatin,TRUE,FALSE,TRUE,3'alpha-Isopravastatin sodium,81093-43-8,https://chem.nlm.nih.gov/chemidplus/rn/81093-43-8
+2020-09-19T06:41:26Z,Pravastatin,Pravastatin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Pravastatin,TRUE,FALSE,TRUE,SQ 31906,81131-74-0,https://chem.nlm.nih.gov/chemidplus/rn/81131-74-0
+2020-09-19T06:41:26Z,Pravastatin,Pravastatin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Pravastatin,TRUE,FALSE,TRUE,6-epi-Pravastatin sodium,81176-41-2,https://chem.nlm.nih.gov/chemidplus/rn/81176-41-2
