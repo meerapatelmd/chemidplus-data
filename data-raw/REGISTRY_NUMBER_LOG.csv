@@ -8800,3 +8800,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:50:59Z,Triaziquone,Triaziquone,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Triaziquone,TRUE,FALSE,TRUE, Triaziquone [INN:BAN],68-76-8,https://chem.nlm.nih.gov/chemidplus/rn/68-76-8
 2020-09-19T23:51:10Z,alitretinoin,alitretinoin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/alitretinoin,TRUE,FALSE,TRUE, Alitretinoin [USAN:INN:BAN],5300-03-8,https://chem.nlm.nih.gov/chemidplus/rn/5300-03-8
 2020-09-19T23:51:21Z,alefacept,alefacept,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/alefacept,TRUE,FALSE,TRUE, Alefacept [USAN:INN:BAN],222535-22-0,https://chem.nlm.nih.gov/chemidplus/rn/222535-22-0
+2020-09-19T23:52:11Z,belimumab,belimumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/belimumab,TRUE,FALSE,TRUE, Belimumab [USAN:INN],356547-88-1,https://chem.nlm.nih.gov/chemidplus/rn/356547-88-1
