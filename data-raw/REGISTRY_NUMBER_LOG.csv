@@ -8660,3 +8660,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:20:35Z,Depo-Medrol,Depo-Medrol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Depo-Medrol,TRUE,FALSE,TRUE, Methylprednisolone acetate [USP:JAN],53-36-1,https://chem.nlm.nih.gov/chemidplus/rn/53-36-1
 2020-09-19T23:20:44Z,Ipstyl,Ipstyl,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ipstyl,TRUE,FALSE,TRUE, Lanreotide [INN:BAN],108736-35-2,https://chem.nlm.nih.gov/chemidplus/rn/108736-35-2
 2020-09-19T23:21:06Z,Binosto,Binosto,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Binosto,TRUE,FALSE,TRUE, Alendronate sodium,129318-43-0,https://chem.nlm.nih.gov/chemidplus/rn/129318-43-0
+2020-09-19T23:21:28Z,Humate-P,Humate-P,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Humate-P,TRUE,FALSE,TRUE, Beroctocog alfa [INN],9001-27-8,https://chem.nlm.nih.gov/chemidplus/rn/9001-27-8
+2020-09-19T23:21:40Z,Cetirizine,Cetirizine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cetirizine,TRUE,FALSE,TRUE, Cetirizine [INN:BAN],83881-51-0,https://chem.nlm.nih.gov/chemidplus/rn/83881-51-0
