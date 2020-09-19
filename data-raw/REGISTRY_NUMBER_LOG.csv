@@ -8339,6 +8339,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T21:00:02Z,Dactinomycin,Dactinomycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dactinomycin,TRUE,FALSE,TRUE, Dactinomycin [USAN:USP:INN:BAN],50-76-0,https://chem.nlm.nih.gov/chemidplus/rn/50-76-0
 2020-09-19T21:00:11Z,Sandostatine,Sandostatine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sandostatine,TRUE,FALSE,TRUE, Octreotide acetate [USAN:JAN],79517-01-4,https://chem.nlm.nih.gov/chemidplus/rn/79517-01-4
 2020-09-19T21:00:18Z,Sonidegib,Sonidegib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sonidegib,TRUE,FALSE,TRUE, Sonidegib [USAN:INN],956697-53-3,https://chem.nlm.nih.gov/chemidplus/rn/956697-53-3
+2020-09-19T23:50:45Z,interferon alfacon-1,interferonalfacon-1,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/interferonalfacon-1,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-19T21:00:58Z,Diethylstilbestrol,Diethylstilbestrol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Diethylstilbestrol,TRUE,FALSE,TRUE, Diethylstilbestrol [USP:INN:BAN],56-53-1,https://chem.nlm.nih.gov/chemidplus/rn/56-53-1
 2020-09-19T21:01:04Z,Lyovac,Lyovac,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lyovac,TRUE,FALSE,TRUE, Lyovac,51109-87-6,https://chem.nlm.nih.gov/chemidplus/rn/51109-87-6
 2020-09-19T21:01:10Z,MLN2238,MLN2238,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MLN2238,TRUE,FALSE,TRUE, Ixazomib [USAN:INN],1072833-77-2,https://chem.nlm.nih.gov/chemidplus/rn/1072833-77-2
@@ -8794,3 +8795,8 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:49:39Z,ethinyl estradiol,ethinylestradiol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ethinylestradiol,TRUE,FALSE,TRUE,"9,11-Dehydro ethynyl estradiol",1231-96-5,https://chem.nlm.nih.gov/chemidplus/rn/1231-96-5
 2020-09-19T23:49:39Z,ethinyl estradiol,ethinylestradiol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ethinylestradiol,TRUE,FALSE,TRUE,2-Methyl-ethinylestradiol,3240-39-9,https://chem.nlm.nih.gov/chemidplus/rn/3240-39-9
 2020-09-19T23:49:46Z,teriflunomide,teriflunomide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/teriflunomide,TRUE,FALSE,TRUE, Teriflunomide [USAN:INN],163451-81-8,https://chem.nlm.nih.gov/chemidplus/rn/163451-81-8
+2020-09-19T23:50:23Z,interferon beta-1b,interferonbeta-1b,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/interferonbeta-1b,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-19T23:50:33Z,miltefosine,miltefosine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/miltefosine,TRUE,FALSE,TRUE, Miltefosine [INN:BAN],58066-85-6,https://chem.nlm.nih.gov/chemidplus/rn/58066-85-6
+2020-09-19T23:50:59Z,Triaziquone,Triaziquone,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Triaziquone,TRUE,FALSE,TRUE, Triaziquone [INN:BAN],68-76-8,https://chem.nlm.nih.gov/chemidplus/rn/68-76-8
+2020-09-19T23:51:10Z,alitretinoin,alitretinoin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/alitretinoin,TRUE,FALSE,TRUE, Alitretinoin [USAN:INN:BAN],5300-03-8,https://chem.nlm.nih.gov/chemidplus/rn/5300-03-8
+2020-09-19T23:51:21Z,alefacept,alefacept,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/alefacept,TRUE,FALSE,TRUE, Alefacept [USAN:INN:BAN],222535-22-0,https://chem.nlm.nih.gov/chemidplus/rn/222535-22-0
