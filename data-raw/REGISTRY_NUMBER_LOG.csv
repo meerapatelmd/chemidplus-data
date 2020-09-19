@@ -8668,3 +8668,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:22:34Z,Calsed,Calsed,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Calsed,TRUE,FALSE,TRUE, Amrubicin hydrochloride [USAN],110311-30-3,https://chem.nlm.nih.gov/chemidplus/rn/110311-30-3
 2020-09-19T23:22:44Z,Zortress,Zortress,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zortress,TRUE,FALSE,TRUE, Everolimus [USAN:INN:BAN],159351-69-6,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6
 2020-09-19T23:23:36Z,Doxorubicine,Doxorubicine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Doxorubicine,TRUE,FALSE,TRUE, Doxorubicin [USAN:INN:BAN],23214-92-8,https://chem.nlm.nih.gov/chemidplus/rn/23214-92-8
+2020-09-19T23:24:00Z,Barasertib,Barasertib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Barasertib,TRUE,FALSE,TRUE, Barasertib [INN],722543-31-9,https://chem.nlm.nih.gov/chemidplus/rn/722543-31-9
