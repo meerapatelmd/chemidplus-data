@@ -1569,6 +1569,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-18T23:46:07Z,https://chem.nlm.nih.gov/chemidplus/rn/2131168-99-3,FALSE
 2020-09-18T23:46:34Z,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0,FALSE
 2020-09-18T23:46:47Z,https://chem.nlm.nih.gov/chemidplus/rn/16679-58-6,FALSE
+2020-09-18T23:47:15Z,https://chem.nlm.nih.gov/chemidplus/rn/499313-74-3,TRUE
 2020-09-18T23:47:38Z,https://chem.nlm.nih.gov/chemidplus/rn/63556-15-0,FALSE
 2020-09-18T23:47:58Z,https://chem.nlm.nih.gov/chemidplus/rn/110187-19-4,FALSE
 2020-09-18T23:48:05Z,https://chem.nlm.nih.gov/chemidplus/rn/53086-13-8,FALSE
@@ -1582,6 +1583,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-18T23:51:50Z,https://chem.nlm.nih.gov/chemidplus/rn/548-64-1,FALSE
 2020-09-18T23:51:57Z,https://chem.nlm.nih.gov/chemidplus/rn/80-08-0,FALSE
 2020-09-18T23:52:17Z,https://chem.nlm.nih.gov/chemidplus/rn/135467-16-2,FALSE
+2020-09-18T23:52:28Z,https://chem.nlm.nih.gov/chemidplus/rn/154321525-08-6,TRUE
 2020-09-18T23:52:49Z,https://chem.nlm.nih.gov/chemidplus/rn/16986-24-6,FALSE
 2020-09-18T23:53:09Z,https://chem.nlm.nih.gov/chemidplus/rn/10246-75-0,FALSE
 2020-09-18T23:53:42Z,https://chem.nlm.nih.gov/chemidplus/rn/852317-24-9,FALSE
@@ -1686,6 +1688,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T00:27:26Z,https://chem.nlm.nih.gov/chemidplus/rn/78708-43-7,FALSE
 2020-09-19T00:27:32Z,https://chem.nlm.nih.gov/chemidplus/rn/79-21-0,FALSE
 2020-09-19T00:28:06Z,https://chem.nlm.nih.gov/chemidplus/rn/1400-46-0,FALSE
+2020-09-19T00:28:24Z,https://chem.nlm.nih.gov/chemidplus/rn/194449170686-12-1,TRUE
 2020-09-19T00:28:54Z,https://chem.nlm.nih.gov/chemidplus/rn/580-74-5,FALSE
 2020-09-19T00:29:01Z,https://chem.nlm.nih.gov/chemidplus/rn/2627-69-2,FALSE
 2020-09-19T00:29:21Z,https://chem.nlm.nih.gov/chemidplus/rn/31251-03-3,FALSE
@@ -1694,6 +1697,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T00:30:01Z,https://chem.nlm.nih.gov/chemidplus/rn/55511-14-3,FALSE
 2020-09-19T00:30:08Z,https://chem.nlm.nih.gov/chemidplus/rn/116-06-3,FALSE
 2020-09-19T00:30:15Z,https://chem.nlm.nih.gov/chemidplus/rn/128-49-4,FALSE
+2020-09-19T00:30:26Z,https://chem.nlm.nih.gov/chemidplus/rn/164431-58-9,TRUE
 2020-09-19T00:30:42Z,https://chem.nlm.nih.gov/chemidplus/rn/206181-63-7,FALSE
 2020-09-19T00:30:56Z,https://chem.nlm.nih.gov/chemidplus/rn/90028-60-7,FALSE
 2020-09-19T00:31:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1310746-10-1,FALSE
@@ -1712,6 +1716,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T00:36:02Z,https://chem.nlm.nih.gov/chemidplus/rn/95382-33-5,FALSE
 2020-09-19T00:36:15Z,https://chem.nlm.nih.gov/chemidplus/rn/17925-90-5,FALSE
 2020-09-19T00:36:36Z,https://chem.nlm.nih.gov/chemidplus/rn/1223403-58-4,FALSE
+2020-09-19T00:37:01Z,https://chem.nlm.nih.gov/chemidplus/rn/219653-44-1,TRUE
 2020-09-19T00:37:17Z,https://chem.nlm.nih.gov/chemidplus/rn/12677-11-1,FALSE
 2020-09-19T00:37:30Z,https://chem.nlm.nih.gov/chemidplus/rn/225234-03-7,FALSE
 2020-09-19T00:37:37Z,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1,FALSE
@@ -1770,6 +1775,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T00:54:49Z,https://chem.nlm.nih.gov/chemidplus/rn/284461-73-0,FALSE
 2020-09-19T00:54:56Z,https://chem.nlm.nih.gov/chemidplus/rn/592-06-3,FALSE
 2020-09-19T00:55:03Z,https://chem.nlm.nih.gov/chemidplus/rn/1254053-43-4,FALSE
+2020-09-19T00:55:52Z,https://chem.nlm.nih.gov/chemidplus/rn/427564931620332-47-9,TRUE
 2020-09-19T00:56:01Z,https://chem.nlm.nih.gov/chemidplus/rn/62357-86-2,FALSE
 2020-09-19T00:56:08Z,https://chem.nlm.nih.gov/chemidplus/rn/1465-77-6,FALSE
 2020-09-19T00:56:22Z,https://chem.nlm.nih.gov/chemidplus/rn/105016-65-7,FALSE
@@ -1793,17 +1799,20 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T01:03:33Z,https://chem.nlm.nih.gov/chemidplus/rn/557795-19-4,FALSE
 2020-09-19T01:03:51Z,https://chem.nlm.nih.gov/chemidplus/rn/503612-47-3,FALSE
 2020-09-19T01:04:04Z,https://chem.nlm.nih.gov/chemidplus/rn/753498-25-8,FALSE
+2020-09-19T01:04:22Z,https://chem.nlm.nih.gov/chemidplus/rn/6081-77-6,TRUE
 2020-09-19T01:04:45Z,https://chem.nlm.nih.gov/chemidplus/rn/110882-08-1,FALSE
 2020-09-19T01:04:52Z,https://chem.nlm.nih.gov/chemidplus/rn/658052-09-6,FALSE
 2020-09-19T01:04:58Z,https://chem.nlm.nih.gov/chemidplus/rn/124930-59-2,FALSE
 2020-09-19T01:05:10Z,https://chem.nlm.nih.gov/chemidplus/rn/55268-75-2,FALSE
 2020-09-19T01:05:22Z,https://chem.nlm.nih.gov/chemidplus/rn/27318-86-1,FALSE
 2020-09-19T01:06:02Z,https://chem.nlm.nih.gov/chemidplus/rn/175865-60-8,FALSE
+2020-09-19T01:06:27Z,https://chem.nlm.nih.gov/chemidplus/rn/295820184475-71-6,TRUE
 2020-09-19T01:07:14Z,https://chem.nlm.nih.gov/chemidplus/rn/92456-70-7,FALSE
 2020-09-19T01:07:33Z,https://chem.nlm.nih.gov/chemidplus/rn/284490-13-7,FALSE
 2020-09-19T01:08:19Z,https://chem.nlm.nih.gov/chemidplus/rn/6489-97-0,FALSE
 2020-09-19T01:08:26Z,https://chem.nlm.nih.gov/chemidplus/rn/51481-61-9,FALSE
 2020-09-19T01:08:33Z,https://chem.nlm.nih.gov/chemidplus/rn/338992-12-4,FALSE
+2020-09-19T01:08:51Z,https://chem.nlm.nih.gov/chemidplus/rn/25174336-60-0,TRUE
 2020-09-19T01:09:34Z,https://chem.nlm.nih.gov/chemidplus/rn/54182-65-9,FALSE
 2020-09-19T01:10:12Z,https://chem.nlm.nih.gov/chemidplus/rn/452-35-7,FALSE
 2020-09-19T01:10:25Z,https://chem.nlm.nih.gov/chemidplus/rn/134088-74-7,FALSE
@@ -1866,6 +1875,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T01:30:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1926-94-9,FALSE
 2020-09-19T01:30:50Z,https://chem.nlm.nih.gov/chemidplus/rn/58662-84-3,FALSE
 2020-09-19T01:31:10Z,https://chem.nlm.nih.gov/chemidplus/rn/61-25-6,FALSE
+2020-09-19T01:32:07Z,https://chem.nlm.nih.gov/chemidplus/rn/78819126233-94-1,TRUE
 2020-09-19T01:32:49Z,https://chem.nlm.nih.gov/chemidplus/rn/656247-18-6,FALSE
 2020-09-19T01:32:55Z,https://chem.nlm.nih.gov/chemidplus/rn/501-68-8,FALSE
 2020-09-19T01:33:15Z,https://chem.nlm.nih.gov/chemidplus/rn/1191-85-1,FALSE
@@ -1886,9 +1896,11 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T01:38:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1182-87-2,FALSE
 2020-09-19T01:38:38Z,https://chem.nlm.nih.gov/chemidplus/rn/2600-31-9,FALSE
 2020-09-19T01:39:10Z,https://chem.nlm.nih.gov/chemidplus/rn/13018-48-9,FALSE
+2020-09-19T01:40:01Z,https://chem.nlm.nih.gov/chemidplus/rn/816143-80-9,TRUE
 2020-09-19T01:40:17Z,https://chem.nlm.nih.gov/chemidplus/rn/128794-94-5,FALSE
 2020-09-19T01:40:23Z,https://chem.nlm.nih.gov/chemidplus/rn/60-51-5,FALSE
 2020-09-19T01:40:36Z,https://chem.nlm.nih.gov/chemidplus/rn/72812-40-9,FALSE
+2020-09-19T01:40:59Z,https://chem.nlm.nih.gov/chemidplus/rn/52421179237-49-1,TRUE
 2020-09-19T01:41:08Z,https://chem.nlm.nih.gov/chemidplus/rn/894356-79-7,FALSE
 2020-09-19T01:41:58Z,https://chem.nlm.nih.gov/chemidplus/rn/118072-93-8,FALSE
 2020-09-19T01:42:04Z,https://chem.nlm.nih.gov/chemidplus/rn/1038915-64-8,FALSE
@@ -1934,6 +1946,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T01:54:54Z,https://chem.nlm.nih.gov/chemidplus/rn/140-64-7,FALSE
 2020-09-19T01:55:00Z,https://chem.nlm.nih.gov/chemidplus/rn/90106-68-6,FALSE
 2020-09-19T01:55:07Z,https://chem.nlm.nih.gov/chemidplus/rn/52205-73-9,FALSE
+2020-09-19T01:55:25Z,https://chem.nlm.nih.gov/chemidplus/rn/12872-52-8,TRUE
 2020-09-19T01:55:41Z,https://chem.nlm.nih.gov/chemidplus/rn/40093-94-5,FALSE
 2020-09-19T01:55:48Z,https://chem.nlm.nih.gov/chemidplus/rn/7019-69-4,FALSE
 2020-09-19T01:55:54Z,https://chem.nlm.nih.gov/chemidplus/rn/74899-71-1,FALSE
@@ -1970,8 +1983,10 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T02:08:06Z,https://chem.nlm.nih.gov/chemidplus/rn/1691249-45-2,FALSE
 2020-09-19T02:08:19Z,https://chem.nlm.nih.gov/chemidplus/rn/1859053-21-6,FALSE
 2020-09-19T02:08:51Z,https://chem.nlm.nih.gov/chemidplus/rn/188627-80-7,FALSE
+2020-09-19T02:09:02Z,https://chem.nlm.nih.gov/chemidplus/rn/10130068-27-8,TRUE
 2020-09-19T02:09:25Z,https://chem.nlm.nih.gov/chemidplus/rn/150322-43-3,FALSE
 2020-09-19T02:10:18Z,https://chem.nlm.nih.gov/chemidplus/rn/65277-42-1,FALSE
+2020-09-19T02:10:58Z,https://chem.nlm.nih.gov/chemidplus/rn/2102524-44-7,TRUE
 2020-09-19T02:11:13Z,https://chem.nlm.nih.gov/chemidplus/rn/58-38-8,FALSE
 2020-09-19T02:11:20Z,https://chem.nlm.nih.gov/chemidplus/rn/1715897-99-6,FALSE
 2020-09-19T02:11:40Z,https://chem.nlm.nih.gov/chemidplus/rn/122852-42-0,FALSE
@@ -2090,6 +2105,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T02:46:58Z,https://chem.nlm.nih.gov/chemidplus/rn/6217-54-5,FALSE
 2020-09-19T02:47:11Z,https://chem.nlm.nih.gov/chemidplus/rn/871701-87-0,FALSE
 2020-09-19T02:47:18Z,https://chem.nlm.nih.gov/chemidplus/rn/14899-36-6,FALSE
+2020-09-19T02:48:13Z,https://chem.nlm.nih.gov/chemidplus/rn/249798444197-71-1,TRUE
 2020-09-19T02:48:28Z,https://chem.nlm.nih.gov/chemidplus/rn/1217486-61-7,FALSE
 2020-09-19T02:49:08Z,https://chem.nlm.nih.gov/chemidplus/rn/65941-26-6,FALSE
 2020-09-19T02:49:21Z,https://chem.nlm.nih.gov/chemidplus/rn/469-21-6,FALSE
@@ -2106,6 +2122,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T02:52:57Z,https://chem.nlm.nih.gov/chemidplus/rn/8052-16-2,FALSE
 2020-09-19T02:53:10Z,https://chem.nlm.nih.gov/chemidplus/rn/82034-46-6,FALSE
 2020-09-19T02:53:17Z,https://chem.nlm.nih.gov/chemidplus/rn/8047-67-4,FALSE
+2020-09-19T02:53:29Z,https://chem.nlm.nih.gov/chemidplus/rn/709254-02-4,TRUE
 2020-09-19T02:53:51Z,https://chem.nlm.nih.gov/chemidplus/rn/3333-52-6,FALSE
 2020-09-19T02:53:57Z,https://chem.nlm.nih.gov/chemidplus/rn/13280-03-0,FALSE
 2020-09-19T02:54:11Z,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2,FALSE
@@ -2159,11 +2176,14 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T03:11:53Z,https://chem.nlm.nih.gov/chemidplus/rn/16401-80-2,FALSE
 2020-09-19T03:12:06Z,https://chem.nlm.nih.gov/chemidplus/rn/51-85-4,FALSE
 2020-09-19T03:12:39Z,https://chem.nlm.nih.gov/chemidplus/rn/119413-54-6,FALSE
+2020-09-19T03:13:23Z,https://chem.nlm.nih.gov/chemidplus/rn/002131595-08-9,TRUE
 2020-09-19T03:13:52Z,https://chem.nlm.nih.gov/chemidplus/rn/388082-77-7,FALSE
 2020-09-19T03:14:05Z,https://chem.nlm.nih.gov/chemidplus/rn/34014-16-9,FALSE
 2020-09-19T03:14:56Z,https://chem.nlm.nih.gov/chemidplus/rn/106-72-9,FALSE
+2020-09-19T03:15:15Z,https://chem.nlm.nih.gov/chemidplus/rn/11270235082-52-7,TRUE
 2020-09-19T03:15:24Z,https://chem.nlm.nih.gov/chemidplus/rn/1032900-25-6,FALSE
 2020-09-19T03:15:37Z,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4,FALSE
+2020-09-19T03:16:34Z,https://chem.nlm.nih.gov/chemidplus/rn/32475-46-9,TRUE
 2020-09-19T03:16:44Z,https://chem.nlm.nih.gov/chemidplus/rn/103577-45-3,FALSE
 2020-09-19T03:16:50Z,https://chem.nlm.nih.gov/chemidplus/rn/1709815-23-5,FALSE
 2020-09-19T03:17:10Z,https://chem.nlm.nih.gov/chemidplus/rn/137234-62-9,FALSE
@@ -2176,6 +2196,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T03:19:22Z,https://chem.nlm.nih.gov/chemidplus/rn/997-55-7,FALSE
 2020-09-19T03:19:53Z,https://chem.nlm.nih.gov/chemidplus/rn/843-23-2,FALSE
 2020-09-19T03:20:06Z,https://chem.nlm.nih.gov/chemidplus/rn/405114-49-0,FALSE
+2020-09-19T03:20:24Z,https://chem.nlm.nih.gov/chemidplus/rn/3190681131-74-0,TRUE
 2020-09-19T03:20:59Z,https://chem.nlm.nih.gov/chemidplus/rn/59-47-2,FALSE
 2020-09-19T03:21:32Z,https://chem.nlm.nih.gov/chemidplus/rn/71145-47-6,FALSE
 2020-09-19T03:21:46Z,https://chem.nlm.nih.gov/chemidplus/rn/853426-35-4,FALSE
@@ -2215,6 +2236,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T03:33:34Z,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3,FALSE
 2020-09-19T03:33:41Z,https://chem.nlm.nih.gov/chemidplus/rn/53-19-0,FALSE
 2020-09-19T03:33:54Z,https://chem.nlm.nih.gov/chemidplus/rn/630-93-3,FALSE
+2020-09-19T03:34:19Z,https://chem.nlm.nih.gov/chemidplus/rn/15116-85-8,TRUE
 2020-09-19T03:34:35Z,https://chem.nlm.nih.gov/chemidplus/rn/54-71-7,FALSE
 2020-09-19T03:34:48Z,https://chem.nlm.nih.gov/chemidplus/rn/371770-68-2,FALSE
 2020-09-19T03:34:55Z,https://chem.nlm.nih.gov/chemidplus/rn/56-86-0,FALSE
@@ -2231,6 +2253,7 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T03:37:53Z,https://chem.nlm.nih.gov/chemidplus/rn/123482-22-4,FALSE
 2020-09-19T03:38:00Z,https://chem.nlm.nih.gov/chemidplus/rn/64-75-5,FALSE
 2020-09-19T03:38:46Z,https://chem.nlm.nih.gov/chemidplus/rn/914088-09-8,FALSE
+2020-09-19T03:39:04Z,https://chem.nlm.nih.gov/chemidplus/rn/5117216-75-8,TRUE
 2020-09-19T03:39:20Z,https://chem.nlm.nih.gov/chemidplus/rn/220127-57-1,FALSE
 2020-09-19T03:39:26Z,https://chem.nlm.nih.gov/chemidplus/rn/90804-20-9,FALSE
 2020-09-19T03:39:33Z,https://chem.nlm.nih.gov/chemidplus/rn/78-92-2,FALSE
@@ -2303,3 +2326,4 @@ rnuv_datetime,rn_url,is_404
 2020-09-19T04:01:02Z,https://chem.nlm.nih.gov/chemidplus/rn/1882-26-4,FALSE
 2020-09-19T04:01:09Z,https://chem.nlm.nih.gov/chemidplus/rn/131926-95-9,FALSE
 2020-09-19T04:01:22Z,https://chem.nlm.nih.gov/chemidplus/rn/702-62-5,FALSE
+2020-09-19T05:45:13Z,https://chem.nlm.nih.gov/chemidplus/rn/startswith/249798444197-71-1,TRUE
