@@ -8647,3 +8647,8 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:18:18Z,DES,DES,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/DES,TRUE,FALSE,TRUE, Diethylstilbestrol [USP:INN:BAN],56-53-1,https://chem.nlm.nih.gov/chemidplus/rn/56-53-1
 2020-09-19T23:18:24Z,Aczone,Aczone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Aczone,TRUE,FALSE,TRUE, Dapsone [USAN:USP:INN:BAN],80-08-0,https://chem.nlm.nih.gov/chemidplus/rn/80-08-0
 2020-09-19T23:18:46Z,Synac,Synac,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Synac,TRUE,FALSE,TRUE," alpha-Tocopherol acetate, dl-",52225-20-4,https://chem.nlm.nih.gov/chemidplus/rn/52225-20-4
+2020-09-19T23:19:06Z,Cosmegen,Cosmegen,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cosmegen,TRUE,FALSE,TRUE, Dactinomycin [USAN:USP:INN:BAN],50-76-0,https://chem.nlm.nih.gov/chemidplus/rn/50-76-0
+2020-09-19T23:19:12Z,Aeroseb-DEX,Aeroseb-DEX,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Aeroseb-DEX,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-19T23:19:18Z,Cortisone,Cortisone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cortisone,TRUE,FALSE,TRUE, Cortisone [INN:BAN],53-06-5,https://chem.nlm.nih.gov/chemidplus/rn/53-06-5
+2020-09-19T23:19:24Z,Eusaprim,Eusaprim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Eusaprim,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-19T23:19:27Z,adalimumab,adalimumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/adalimumab,TRUE,FALSE,TRUE, Adalimumab [USAN:INN:BAN],331731-18-1,https://chem.nlm.nih.gov/chemidplus/rn/331731-18-1
