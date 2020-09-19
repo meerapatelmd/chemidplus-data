@@ -8255,3 +8255,12 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T06:41:26Z,Pravastatin,Pravastatin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Pravastatin,TRUE,FALSE,TRUE,3'alpha-Isopravastatin sodium,81093-43-8,https://chem.nlm.nih.gov/chemidplus/rn/81093-43-8
 2020-09-19T06:41:26Z,Pravastatin,Pravastatin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Pravastatin,TRUE,FALSE,TRUE,SQ 31906,81131-74-0,https://chem.nlm.nih.gov/chemidplus/rn/81131-74-0
 2020-09-19T06:41:26Z,Pravastatin,Pravastatin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Pravastatin,TRUE,FALSE,TRUE,6-epi-Pravastatin sodium,81176-41-2,https://chem.nlm.nih.gov/chemidplus/rn/81176-41-2
+2020-09-19T17:43:47Z,Epifil,Epifil,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Epifil,TRUE,FALSE,TRUE,Mepifiline,57383-74-1,https://chem.nlm.nih.gov/chemidplus/rn/57383-74-1
+2020-09-19T17:43:47Z,Epifil,Epifil,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Epifil,TRUE,FALSE,TRUE,Sepifilm 002,131595-08-9,https://chem.nlm.nih.gov/chemidplus/rn/131595-08-9
+2020-09-19T17:43:56Z,JNJ-42756493,JNJ-42756493,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/JNJ-42756493,TRUE,FALSE,TRUE,JNJ 42756493,1620332-47-9,https://chem.nlm.nih.gov/chemidplus/rn/1620332-47-9
+2020-09-19T17:48:13Z,PKC412,PKC412,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/PKC412,TRUE,FALSE,TRUE,CGP-52421,179237-49-1,https://chem.nlm.nih.gov/chemidplus/rn/179237-49-1
+2020-09-19T17:54:41Z,Aliot,Aliot,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aliot,TRUE,FALSE,TRUE,C.I. Pigment Green 8,16143-80-9,https://chem.nlm.nih.gov/chemidplus/rn/16143-80-9
+2020-09-19T17:54:41Z,Aliot,Aliot,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aliot,TRUE,FALSE,TRUE,Pigment Red 251,74336-60-0,https://chem.nlm.nih.gov/chemidplus/rn/74336-60-0
+2020-09-19T17:54:41Z,Aliot,Aliot,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Aliot,TRUE,FALSE,TRUE,Kaliotoxin,145199-73-1,https://chem.nlm.nih.gov/chemidplus/rn/145199-73-1
+2020-09-19T17:55:35Z,Nichospor,Nichospor,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Nichospor,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-19T18:02:36Z,R788,R788,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/R788,TRUE,FALSE,TRUE,R 78819,126233-94-1,https://chem.nlm.nih.gov/chemidplus/rn/126233-94-1
