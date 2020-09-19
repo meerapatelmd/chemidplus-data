@@ -8645,3 +8645,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T23:17:53Z,Doxorubicina,Doxorubicina,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Doxorubicina,TRUE,FALSE,TRUE, Doxorubicin [USAN:INN:BAN],23214-92-8,https://chem.nlm.nih.gov/chemidplus/rn/23214-92-8
 2020-09-19T23:18:06Z,Javlor,Javlor,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Javlor,TRUE,FALSE,TRUE, Vinflunine ditartrate [USAN],194468-36-5,https://chem.nlm.nih.gov/chemidplus/rn/194468-36-5
 2020-09-19T23:18:18Z,DES,DES,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/DES,TRUE,FALSE,TRUE, Diethylstilbestrol [USP:INN:BAN],56-53-1,https://chem.nlm.nih.gov/chemidplus/rn/56-53-1
+2020-09-19T23:18:24Z,Aczone,Aczone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Aczone,TRUE,FALSE,TRUE, Dapsone [USAN:USP:INN:BAN],80-08-0,https://chem.nlm.nih.gov/chemidplus/rn/80-08-0
+2020-09-19T23:18:46Z,Synac,Synac,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Synac,TRUE,FALSE,TRUE," alpha-Tocopherol acetate, dl-",52225-20-4,https://chem.nlm.nih.gov/chemidplus/rn/52225-20-4
