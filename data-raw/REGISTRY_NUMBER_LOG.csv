@@ -8851,3 +8851,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T00:38:00Z,FIX,FIX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FIX,TRUE,FALSE,TRUE,2-(1-Naphthyl)acetamide [BSI:ISO],86-86-2,https://chem.nlm.nih.gov/chemidplus/rn/86-86-2
 2020-09-20T00:38:00Z,FIX,FIX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FIX,TRUE,FALSE,TRUE,alpha-Naphthylacetic acid,86-87-3,https://chem.nlm.nih.gov/chemidplus/rn/86-87-3
 2020-09-20T00:38:00Z,FIX,FIX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FIX,TRUE,FALSE,TRUE,Pentachlorophenol [BSI:ISO],87-86-5,https://chem.nlm.nih.gov/chemidplus/rn/87-86-5
+2020-09-20T00:40:03Z,etoglucid,etoglucid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/etoglucid,TRUE,FALSE,TRUE, Etoglucid [INN:BAN],1954-28-5,https://chem.nlm.nih.gov/chemidplus/rn/1954-28-5
