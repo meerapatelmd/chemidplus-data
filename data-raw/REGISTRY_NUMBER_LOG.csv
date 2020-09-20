@@ -8920,3 +8920,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:41:35Z,Ftorafur,Ftorafur,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ftorafur,TRUE,FALSE,TRUE, Tegafur [USAN:INN:BAN:JAN],17902-23-7,https://chem.nlm.nih.gov/chemidplus/rn/17902-23-7
 2020-09-20T02:42:21Z,Berubigen,Berubigen,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Berubigen,TRUE,FALSE,TRUE, Cyanocobalamin [USP:INN:BAN:JAN],68-19-9,https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
 2020-09-20T02:42:34Z,GDC-0973,GDC-0973,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GDC-0973,TRUE,FALSE,TRUE, Cobimetinib [USAN:INN],934660-93-2,https://chem.nlm.nih.gov/chemidplus/rn/934660-93-2
+2020-09-20T02:43:30Z,Trimezol,Trimezol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Trimezol,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
