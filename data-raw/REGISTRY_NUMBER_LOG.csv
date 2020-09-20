@@ -8875,3 +8875,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T01:18:53Z,Ufur,Ufur,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ufur,TRUE,FALSE,TRUE, Tegafur mixture with with Uracil,74578-38-4,https://chem.nlm.nih.gov/chemidplus/rn/74578-38-4
 2020-09-20T01:19:54Z,Depakote,Depakote,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Depakote,TRUE,FALSE,TRUE, Divalproex sodium [USAN:USP],76584-70-8,https://chem.nlm.nih.gov/chemidplus/rn/76584-70-8
 2020-09-20T01:21:27Z,Prolia,Prolia,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Prolia,TRUE,FALSE,TRUE, Denosumab [USAN:INN:BAN],615258-40-7,https://chem.nlm.nih.gov/chemidplus/rn/615258-40-7
+2020-09-20T01:22:24Z,Catumaxomab,Catumaxomab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Catumaxomab,TRUE,FALSE,TRUE, Catumaxomab [USAN:INN],509077-98-9,https://chem.nlm.nih.gov/chemidplus/rn/509077-98-9
+2020-09-20T01:22:30Z,Erythropoietin,Erythropoietin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Erythropoietin,TRUE,FALSE,TRUE, Epoetin alfa [USAN:INN],11096-26-7,https://chem.nlm.nih.gov/chemidplus/rn/11096-26-7
