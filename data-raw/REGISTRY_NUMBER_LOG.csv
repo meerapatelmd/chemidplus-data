@@ -8896,3 +8896,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:24:27Z,Pletal,Pletal,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Pletal,TRUE,FALSE,TRUE, Cilostazol [USAN:USP:INN:BAN:JAN],73963-72-1,https://chem.nlm.nih.gov/chemidplus/rn/73963-72-1
 2020-09-20T02:24:33Z,Dermadex,Dermadex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dermadex,TRUE,FALSE,TRUE, Hexachlorophene [USP:INN:BAN],70-30-4,https://chem.nlm.nih.gov/chemidplus/rn/70-30-4
 2020-09-20T02:24:49Z,Phenothiazine,Phenothiazine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Phenothiazine,TRUE,FALSE,TRUE, Phenothiazine [INN:NF],92-84-2,https://chem.nlm.nih.gov/chemidplus/rn/92-84-2
+2020-09-20T02:25:30Z,Klonopin,Klonopin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Klonopin,TRUE,FALSE,TRUE, Clonazepam [USAN:USP:INN:BAN:JAN],1622-61-3,https://chem.nlm.nih.gov/chemidplus/rn/1622-61-3
