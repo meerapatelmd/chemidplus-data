@@ -8940,3 +8940,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:55:06Z,Stanback,Stanback,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Stanback,TRUE,FALSE,TRUE, Acetaminophen [USP:JAN],103-90-2,https://chem.nlm.nih.gov/chemidplus/rn/103-90-2
 2020-09-20T02:56:05Z,Pantoprazole,Pantoprazole,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Pantoprazole,TRUE,FALSE,TRUE, Pantoprazole [USAN:INN:BAN],102625-70-7,https://chem.nlm.nih.gov/chemidplus/rn/102625-70-7
 2020-09-20T02:56:12Z,AG-120,AG-120,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AG-120,TRUE,FALSE,TRUE, Ivosidenib [USAN:INN],1448347-49-6,https://chem.nlm.nih.gov/chemidplus/rn/1448347-49-6
+2020-09-20T02:56:55Z,Omnitarg,Omnitarg,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Omnitarg,TRUE,FALSE,TRUE, Pertuzumab [USAN:INN:BAN],380610-27-5,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5
