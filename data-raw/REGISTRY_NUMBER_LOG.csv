@@ -9031,3 +9031,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:46:46Z,Doxycycline,Doxycycline,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Doxycycline,TRUE,FALSE,TRUE,Doxycycline monohydrate,17086-28-1,https://chem.nlm.nih.gov/chemidplus/rn/17086-28-1
 2020-09-20T03:46:52Z,HuMax-CD20,HuMax-CD20,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/HuMax-CD20,TRUE,FALSE,TRUE, Ofatumumab [USAN:INN:BAN:JAN],679818-59-8,https://chem.nlm.nih.gov/chemidplus/rn/679818-59-8
 2020-09-20T03:48:11Z,Iron,Iron,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Iron,TRUE,FALSE,TRUE," Iron, elemental",7439-89-6,https://chem.nlm.nih.gov/chemidplus/rn/7439-89-6
+2020-09-20T03:49:51Z,Benralizumab,Benralizumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Benralizumab,TRUE,FALSE,TRUE, Benralizumab [USAN:INN],1044511-01-4,https://chem.nlm.nih.gov/chemidplus/rn/1044511-01-4
+2020-09-20T03:50:09Z,Anagrelide,Anagrelide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Anagrelide,TRUE,FALSE,TRUE, Anagrelide [INN:BAN],68475-42-3,https://chem.nlm.nih.gov/chemidplus/rn/68475-42-3
