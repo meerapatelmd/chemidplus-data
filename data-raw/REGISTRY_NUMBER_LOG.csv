@@ -8906,3 +8906,8 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:32:25Z,Econosone,Econosone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Econosone,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
 2020-09-20T02:32:43Z,elapegademase,elapegademase,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/elapegademase,TRUE,FALSE,TRUE, Elapegademase [USAN:INN],1709806-75-6,https://chem.nlm.nih.gov/chemidplus/rn/1709806-75-6
 2020-09-20T02:33:39Z,rilonacept,rilonacept,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/rilonacept,TRUE,FALSE,TRUE, Rilonacept [USAN:INN],501081-76-1,https://chem.nlm.nih.gov/chemidplus/rn/501081-76-1
+2020-09-20T02:35:01Z,Atarax,Atarax,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Atarax,TRUE,FALSE,TRUE, Hydroxyzine hydrochloride [USP:JAN],2192-20-3,https://chem.nlm.nih.gov/chemidplus/rn/2192-20-3
+2020-09-20T02:35:07Z,AMSA,AMSA,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AMSA,TRUE,FALSE,TRUE,Amsacrine [USAN:INN:BAN],51264-14-3,https://chem.nlm.nih.gov/chemidplus/rn/51264-14-3
+2020-09-20T02:35:07Z,AMSA,AMSA,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AMSA,TRUE,FALSE,TRUE,4'-(9-Acridinylamino)methanesulfonanilide,53478-38-9,https://chem.nlm.nih.gov/chemidplus/rn/53478-38-9
+2020-09-20T02:35:16Z,Xeloda,Xeloda,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Xeloda,TRUE,FALSE,TRUE, Capecitabine [USAN:USP:INN:BAN],154361-50-9,https://chem.nlm.nih.gov/chemidplus/rn/154361-50-9
+2020-09-20T02:35:25Z,Venofer,Venofer,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Venofer,TRUE,FALSE,TRUE, Succharated ferric oxide [USAN:JAN],8047-67-4,https://chem.nlm.nih.gov/chemidplus/rn/8047-67-4
