@@ -9067,3 +9067,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T04:05:12Z,Vincristine,Vincristine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Vincristine,TRUE,FALSE,TRUE, Vincristine [INN:BAN],57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
 2020-09-20T04:06:56Z,Bevacizumab,Bevacizumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bevacizumab,TRUE,FALSE,TRUE, Bevacizumab [USAN:INN],216974-75-3,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
 2020-09-20T04:07:06Z,mitomycin-C,mitomycin-C,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/mitomycin-C,TRUE,FALSE,TRUE, Mitomycin [USAN:USP:INN:BAN],50-07-7,https://chem.nlm.nih.gov/chemidplus/rn/50-07-7
+2020-09-20T04:08:07Z,rapamycin,rapamycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/rapamycin,TRUE,FALSE,TRUE, Sirolimus [USAN:INN:BAN],53123-88-9,https://chem.nlm.nih.gov/chemidplus/rn/53123-88-9
