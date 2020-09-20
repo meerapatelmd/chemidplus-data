@@ -8980,3 +8980,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:15:27Z,Tavist,Tavist,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tavist,TRUE,FALSE,TRUE, Clemastine fumarate [USAN:USP:BAN:JAN],14976-57-9,https://chem.nlm.nih.gov/chemidplus/rn/14976-57-9
 2020-09-20T03:17:09Z,Trisenox,Trisenox,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Trisenox,TRUE,FALSE,TRUE, Arsenic trioxide [USAN:JAN],1327-53-3,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
 2020-09-20T03:17:18Z,Mitotax,Mitotax,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mitotax,TRUE,FALSE,TRUE, Paclitaxel [USAN:USP:INN:BAN],33069-62-4,https://chem.nlm.nih.gov/chemidplus/rn/33069-62-4
+2020-09-20T03:18:04Z,Oxsoralen,Oxsoralen,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Oxsoralen,TRUE,FALSE,TRUE, Methoxsalen [USP:BAN:JAN],298-81-7,https://chem.nlm.nih.gov/chemidplus/rn/298-81-7
+2020-09-20T03:18:19Z,Zantac,Zantac,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zantac,TRUE,FALSE,TRUE, Ranitidine Hydrochloride [USP:JAN],66357-59-3,https://chem.nlm.nih.gov/chemidplus/rn/66357-59-3
+2020-09-20T03:18:26Z,Thiotepa,Thiotepa,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Thiotepa,TRUE,FALSE,TRUE, Thiotepa [USP:INN:BAN:JAN],52-24-4,https://chem.nlm.nih.gov/chemidplus/rn/52-24-4
