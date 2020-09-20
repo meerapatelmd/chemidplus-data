@@ -9003,3 +9003,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:28:23Z,Platinex,Platinex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Platinex,TRUE,FALSE,TRUE, Cisplatin [USAN:USP:INN:BAN:JAN],15663-27-1,https://chem.nlm.nih.gov/chemidplus/rn/15663-27-1
 2020-09-20T03:30:00Z,Xarelto,Xarelto,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Xarelto,TRUE,FALSE,TRUE, Rivaroxaban [USAN:INN:BAN:JAN],366789-02-8,https://chem.nlm.nih.gov/chemidplus/rn/366789-02-8
 2020-09-20T03:30:09Z,Sterapred,Sterapred,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sterapred,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-20T03:30:59Z,Arabitin,Arabitin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Arabitin,TRUE,FALSE,TRUE, Cytarabine [USAN:USP:INN:BAN:JAN],147-94-4,https://chem.nlm.nih.gov/chemidplus/rn/147-94-4
+2020-09-20T03:31:09Z,Toremifene,Toremifene,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Toremifene,TRUE,FALSE,TRUE, Toremifene [INN:BAN],89778-26-7,https://chem.nlm.nih.gov/chemidplus/rn/89778-26-7
