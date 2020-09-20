@@ -8868,3 +8868,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T01:16:17Z,Comox,Comox,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Comox,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
 2020-09-20T01:16:58Z,Baludon,Baludon,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Baludon,TRUE,FALSE,TRUE, Baludon,5667-98-1,https://chem.nlm.nih.gov/chemidplus/rn/5667-98-1
 2020-09-20T01:17:08Z,Tavegil,Tavegil,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tavegil,TRUE,FALSE,TRUE, Clemastine fumarate [USAN:USP:BAN:JAN],14976-57-9,https://chem.nlm.nih.gov/chemidplus/rn/14976-57-9
+2020-09-20T01:17:54Z,Senokot,Senokot,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Senokot,TRUE,FALSE,TRUE,Senna,8013-11-4,https://chem.nlm.nih.gov/chemidplus/rn/8013-11-4
+2020-09-20T01:17:54Z,Senokot,Senokot,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Senokot,TRUE,FALSE,TRUE,"Senna, Cassia fistula, ext.",84848-75-9,https://chem.nlm.nih.gov/chemidplus/rn/84848-75-9
+2020-09-20T01:17:54Z,Senokot,Senokot,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Senokot,TRUE,FALSE,TRUE,Senna extract,85085-71-8,https://chem.nlm.nih.gov/chemidplus/rn/85085-71-8
+2020-09-20T01:18:03Z,ethoglucid,ethoglucid,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ethoglucid,TRUE,FALSE,TRUE, Etoglucid [INN:BAN],1954-28-5,https://chem.nlm.nih.gov/chemidplus/rn/1954-28-5
