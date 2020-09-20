@@ -8947,3 +8947,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:58:11Z,Vincristina,Vincristina,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Vincristina,TRUE,FALSE,TRUE, Vincristine [INN:BAN],57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
 2020-09-20T02:58:18Z,sarilumab,sarilumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/sarilumab,TRUE,FALSE,TRUE, Sarilumab [USAN:INN],1189541-98-7,https://chem.nlm.nih.gov/chemidplus/rn/1189541-98-7
 2020-09-20T02:58:26Z,Phytonadione,Phytonadione,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Phytonadione,TRUE,FALSE,TRUE, Phytonadione [USP:JAN],84-80-0,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
+2020-09-20T02:59:10Z,Epilim,Epilim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Epilim,TRUE,FALSE,TRUE, Valproate sodium [USAN:USP],1069-66-5,https://chem.nlm.nih.gov/chemidplus/rn/1069-66-5
