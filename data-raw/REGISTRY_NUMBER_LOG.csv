@@ -9010,3 +9010,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:33:09Z,Volasertib,Volasertib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Volasertib,TRUE,FALSE,TRUE, Volasertib [USAN:INN],755038-65-4,https://chem.nlm.nih.gov/chemidplus/rn/755038-65-4
 2020-09-20T03:33:16Z,Bosulif,Bosulif,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bosulif,TRUE,FALSE,TRUE,Bosutinib monohydrate,918639-08-4,https://chem.nlm.nih.gov/chemidplus/rn/918639-08-4
 2020-09-20T03:34:53Z,Vidaza,Vidaza,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Vidaza,TRUE,FALSE,TRUE, Azacitidine [USAN:INN:BAN],320-67-2,https://chem.nlm.nih.gov/chemidplus/rn/320-67-2
+2020-09-20T03:36:40Z,RO5185426,RO5185426,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/RO5185426,TRUE,FALSE,TRUE, PLX4032,918505-61-0,https://chem.nlm.nih.gov/chemidplus/rn/918505-61-0
+2020-09-20T03:36:53Z,Tropisetron,Tropisetron,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tropisetron,TRUE,FALSE,TRUE, Tropisetron [INN:BAN],89565-68-4,https://chem.nlm.nih.gov/chemidplus/rn/89565-68-4
