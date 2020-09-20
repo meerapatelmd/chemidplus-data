@@ -5,7 +5,7 @@
 \alias{REGISTRY_NUMBER_LOG}
 \title{REGISTRY_NUMBER_LOG}
 \format{
-A data frame with 8822 rows and 11 variables:
+A data frame with 8823 rows and 11 variables:
 \describe{
 \item{\code{rnl_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{raw_concept}}{character COLUMN_DESCRIPTION}
