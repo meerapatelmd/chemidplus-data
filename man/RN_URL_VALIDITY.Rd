@@ -5,7 +5,7 @@
 \alias{RN_URL_VALIDITY}
 \title{RN_URL_VALIDITY}
 \format{
-A data frame with 2397 rows and 3 variables:
+A data frame with 2403 rows and 3 variables:
 \describe{
 \item{\code{rnuv_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
