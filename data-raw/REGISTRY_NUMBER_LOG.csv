@@ -9065,3 +9065,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T04:04:10Z,Alisertib,Alisertib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Alisertib,TRUE,FALSE,TRUE, Alisertib [USAN:INN],1028486-01-2,https://chem.nlm.nih.gov/chemidplus/rn/1028486-01-2
 2020-09-20T04:04:19Z,CC-90007,CC-90007,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CC-90007,TRUE,FALSE,TRUE, Enasidenib mesylate [USAN],1650550-25-6,https://chem.nlm.nih.gov/chemidplus/rn/1650550-25-6
 2020-09-20T04:05:12Z,Vincristine,Vincristine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Vincristine,TRUE,FALSE,TRUE, Vincristine [INN:BAN],57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-20T04:06:56Z,Bevacizumab,Bevacizumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bevacizumab,TRUE,FALSE,TRUE, Bevacizumab [USAN:INN],216974-75-3,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-20T04:07:06Z,mitomycin-C,mitomycin-C,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/mitomycin-C,TRUE,FALSE,TRUE, Mitomycin [USAN:USP:INN:BAN],50-07-7,https://chem.nlm.nih.gov/chemidplus/rn/50-07-7
