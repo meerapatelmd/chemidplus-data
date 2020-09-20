@@ -9056,3 +9056,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T04:00:08Z,Beleodaq,Beleodaq,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Beleodaq,TRUE,FALSE,TRUE,Belinostat [USAN:INN],866323-14-0,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0
 2020-09-20T04:00:13Z,Adronat,Adronat,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Adronat,TRUE,FALSE,TRUE, Alendronate sodium [USAN:USP],121268-17-5,https://chem.nlm.nih.gov/chemidplus/rn/121268-17-5
 2020-09-20T04:01:23Z,Aspro,Aspro,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Aspro,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-20T04:02:37Z,Vinflunine,Vinflunine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Vinflunine,TRUE,FALSE,TRUE, Vinflunine [INN:BAN],162652-95-1,https://chem.nlm.nih.gov/chemidplus/rn/162652-95-1
+2020-09-20T04:02:43Z,Goserelin,Goserelin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Goserelin,TRUE,FALSE,TRUE,Goserelin acetate,145781-92-6,https://chem.nlm.nih.gov/chemidplus/rn/145781-92-6
