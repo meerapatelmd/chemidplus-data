@@ -9068,3 +9068,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T04:06:56Z,Bevacizumab,Bevacizumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bevacizumab,TRUE,FALSE,TRUE, Bevacizumab [USAN:INN],216974-75-3,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
 2020-09-20T04:07:06Z,mitomycin-C,mitomycin-C,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/mitomycin-C,TRUE,FALSE,TRUE, Mitomycin [USAN:USP:INN:BAN],50-07-7,https://chem.nlm.nih.gov/chemidplus/rn/50-07-7
 2020-09-20T04:08:07Z,rapamycin,rapamycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/rapamycin,TRUE,FALSE,TRUE, Sirolimus [USAN:INN:BAN],53123-88-9,https://chem.nlm.nih.gov/chemidplus/rn/53123-88-9
+2020-09-20T04:08:57Z,Emcyt,Emcyt,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Emcyt,TRUE,FALSE,TRUE,Estramustine phosphate sodium monohydrate,1227300-83-5,https://chem.nlm.nih.gov/chemidplus/rn/1227300-83-5
+2020-09-20T04:09:09Z,Pegaspargase,Pegaspargase,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Pegaspargase,TRUE,FALSE,TRUE, Pegaspargase [USAN:INN],130167-69-0,https://chem.nlm.nih.gov/chemidplus/rn/130167-69-0
