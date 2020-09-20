@@ -8948,3 +8948,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:58:18Z,sarilumab,sarilumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/sarilumab,TRUE,FALSE,TRUE, Sarilumab [USAN:INN],1189541-98-7,https://chem.nlm.nih.gov/chemidplus/rn/1189541-98-7
 2020-09-20T02:58:26Z,Phytonadione,Phytonadione,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Phytonadione,TRUE,FALSE,TRUE, Phytonadione [USP:JAN],84-80-0,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
 2020-09-20T02:59:10Z,Epilim,Epilim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Epilim,TRUE,FALSE,TRUE, Valproate sodium [USAN:USP],1069-66-5,https://chem.nlm.nih.gov/chemidplus/rn/1069-66-5
+2020-09-20T03:00:03Z,mithramycin,mithramycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/mithramycin,TRUE,FALSE,TRUE, Plicamycin [USAN:USP:INN:BAN],18378-89-7,https://chem.nlm.nih.gov/chemidplus/rn/18378-89-7
+2020-09-20T03:00:16Z,Hemlibra,Hemlibra,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Hemlibra,TRUE,FALSE,TRUE, Emicizumab [USAN:INN],1610943-06-0,https://chem.nlm.nih.gov/chemidplus/rn/1610943-06-0
+2020-09-20T03:00:25Z,Megace,Megace,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Megace,TRUE,FALSE,TRUE, Megestrol acetate [USAN:USP],595-33-5,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5
