@@ -8853,3 +8853,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T00:38:00Z,FIX,FIX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FIX,TRUE,FALSE,TRUE,Pentachlorophenol [BSI:ISO],87-86-5,https://chem.nlm.nih.gov/chemidplus/rn/87-86-5
 2020-09-20T00:40:03Z,etoglucid,etoglucid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/etoglucid,TRUE,FALSE,TRUE, Etoglucid [INN:BAN],1954-28-5,https://chem.nlm.nih.gov/chemidplus/rn/1954-28-5
 2020-09-20T01:05:40Z,Xeroprim,Xeroprim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Xeroprim,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
+2020-09-20T01:07:35Z,Phenergan,Phenergan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Phenergan,TRUE,FALSE,TRUE, Promethazine hydrochloride [USP:JAN],58-33-3,https://chem.nlm.nih.gov/chemidplus/rn/58-33-3
+2020-09-20T01:07:42Z,Ossiten,Ossiten,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ossiten,TRUE,FALSE,TRUE, Clodronic acid disodium salt,22560-50-5,https://chem.nlm.nih.gov/chemidplus/rn/22560-50-5
+2020-09-20T01:07:48Z,Lemtrada,Lemtrada,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lemtrada,TRUE,FALSE,TRUE, Alemtuzumab [USAN:INN:BAN],216503-57-0,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0
