@@ -9040,3 +9040,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:52:01Z,Dectan,Dectan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dectan,TRUE,FALSE,TRUE, Dexamethasone acetate,1177-87-3,https://chem.nlm.nih.gov/chemidplus/rn/1177-87-3
 2020-09-20T03:52:11Z,Dolasetron,Dolasetron,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dolasetron,TRUE,FALSE,TRUE, Dolasetron [INN:BAN],115956-12-2,https://chem.nlm.nih.gov/chemidplus/rn/115956-12-2
 2020-09-20T03:52:17Z,MK-0869,MK-0869,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MK-0869,TRUE,FALSE,TRUE, Aprepitant [USAN:INN:JAN],170729-80-3,https://chem.nlm.nih.gov/chemidplus/rn/170729-80-3
+2020-09-20T03:53:35Z,Temsirolimus,Temsirolimus,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Temsirolimus,TRUE,FALSE,TRUE, Temsirolimus [USAN:INN:BAN:JAN],162635-04-3,https://chem.nlm.nih.gov/chemidplus/rn/162635-04-3
+2020-09-20T03:53:48Z,Decaspray,Decaspray,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Decaspray,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
