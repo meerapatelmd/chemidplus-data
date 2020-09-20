@@ -8899,3 +8899,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:25:30Z,Klonopin,Klonopin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Klonopin,TRUE,FALSE,TRUE, Clonazepam [USAN:USP:INN:BAN:JAN],1622-61-3,https://chem.nlm.nih.gov/chemidplus/rn/1622-61-3
 2020-09-20T02:26:41Z,Fluconazole,Fluconazole,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fluconazole,TRUE,FALSE,TRUE, Fluconazole [USAN:USP:INN:BAN:JAN],86386-73-4,https://chem.nlm.nih.gov/chemidplus/rn/86386-73-4
 2020-09-20T02:26:47Z,Uromitexan,Uromitexan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Uromitexan,TRUE,FALSE,TRUE, Mesna [USAN:USP:INN:BAN],19767-45-4,https://chem.nlm.nih.gov/chemidplus/rn/19767-45-4
+2020-09-20T02:27:32Z,Valganciclovir,Valganciclovir,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Valganciclovir,TRUE,FALSE,TRUE, Valganciclovir [INN:BAN],175865-60-8,https://chem.nlm.nih.gov/chemidplus/rn/175865-60-8
+2020-09-20T02:27:41Z,Erbitux,Erbitux,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Erbitux,TRUE,FALSE,TRUE, Cetuximab [USAN:INN],205923-56-4,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
