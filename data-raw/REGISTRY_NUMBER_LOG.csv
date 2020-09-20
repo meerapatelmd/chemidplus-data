@@ -8878,3 +8878,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T01:22:24Z,Catumaxomab,Catumaxomab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Catumaxomab,TRUE,FALSE,TRUE, Catumaxomab [USAN:INN],509077-98-9,https://chem.nlm.nih.gov/chemidplus/rn/509077-98-9
 2020-09-20T01:22:30Z,Erythropoietin,Erythropoietin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Erythropoietin,TRUE,FALSE,TRUE, Epoetin alfa [USAN:INN],11096-26-7,https://chem.nlm.nih.gov/chemidplus/rn/11096-26-7
 2020-09-20T01:24:23Z,Indomethacin,Indomethacin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Indomethacin,TRUE,FALSE,TRUE, Indomethacin [USAN:USP],53-86-1,https://chem.nlm.nih.gov/chemidplus/rn/53-86-1
+2020-09-20T01:26:02Z,CMC-544,CMC-544,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CMC-544,TRUE,FALSE,TRUE, Inotuzumab ozogamicin [USAN:INN],635715-01-4,https://chem.nlm.nih.gov/chemidplus/rn/635715-01-4
