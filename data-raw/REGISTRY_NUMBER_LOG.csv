@@ -8837,3 +8837,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T00:10:48Z,ocrelizumab,ocrelizumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ocrelizumab,TRUE,FALSE,TRUE, Ocrelizumab [USAN:INN:JAN],637334-45-3,https://chem.nlm.nih.gov/chemidplus/rn/637334-45-3
 2020-09-20T00:12:58Z,dimethyl fumarate,dimethylfumarate,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/dimethylfumarate,TRUE,FALSE,TRUE, Dimethyl fumarate [USAN],624-49-7,https://chem.nlm.nih.gov/chemidplus/rn/624-49-7
 2020-09-20T00:23:19Z,gestonorone caproate,gestonoronecaproate,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/gestonoronecaproate,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-20T00:25:23Z,mycophenolic acid,mycophenolicacid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/mycophenolicacid,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-20T00:25:29Z,daclizumab,daclizumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/daclizumab,TRUE,FALSE,TRUE, Daclizumab [USAN:INN:BAN],152923-56-3,https://chem.nlm.nih.gov/chemidplus/rn/152923-56-3
+2020-09-20T00:25:45Z,efalizumab,efalizumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/efalizumab,TRUE,FALSE,TRUE, Efalizumab [USAN:INN],214745-43-4,https://chem.nlm.nih.gov/chemidplus/rn/214745-43-4
