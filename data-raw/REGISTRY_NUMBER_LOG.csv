@@ -8952,3 +8952,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:00:16Z,Hemlibra,Hemlibra,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Hemlibra,TRUE,FALSE,TRUE, Emicizumab [USAN:INN],1610943-06-0,https://chem.nlm.nih.gov/chemidplus/rn/1610943-06-0
 2020-09-20T03:00:25Z,Megace,Megace,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Megace,TRUE,FALSE,TRUE, Megestrol acetate [USAN:USP],595-33-5,https://chem.nlm.nih.gov/chemidplus/rn/595-33-5
 2020-09-20T03:01:11Z,Mitoxana,Mitoxana,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mitoxana,TRUE,FALSE,TRUE, Ifosfamide [USAN:USP:INN:BAN:JAN],3778-73-2,https://chem.nlm.nih.gov/chemidplus/rn/3778-73-2
+2020-09-20T03:01:59Z,Sporanox,Sporanox,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sporanox,TRUE,FALSE,TRUE, Itraconazole [USAN:USP:INN:BAN:JAN],84625-61-6,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
