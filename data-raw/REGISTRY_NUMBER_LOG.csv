@@ -9055,3 +9055,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T04:00:08Z,Beleodaq,Beleodaq,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Beleodaq,TRUE,FALSE,TRUE,Belinostat (Non-Stereospecific),414864-00-9,https://chem.nlm.nih.gov/chemidplus/rn/414864-00-9
 2020-09-20T04:00:08Z,Beleodaq,Beleodaq,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Beleodaq,TRUE,FALSE,TRUE,Belinostat [USAN:INN],866323-14-0,https://chem.nlm.nih.gov/chemidplus/rn/866323-14-0
 2020-09-20T04:00:13Z,Adronat,Adronat,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Adronat,TRUE,FALSE,TRUE, Alendronate sodium [USAN:USP],121268-17-5,https://chem.nlm.nih.gov/chemidplus/rn/121268-17-5
+2020-09-20T04:01:23Z,Aspro,Aspro,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Aspro,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
