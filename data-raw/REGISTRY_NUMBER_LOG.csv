@@ -8903,3 +8903,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:27:41Z,Erbitux,Erbitux,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Erbitux,TRUE,FALSE,TRUE, Cetuximab [USAN:INN],205923-56-4,https://chem.nlm.nih.gov/chemidplus/rn/205923-56-4
 2020-09-20T02:28:20Z,Cangrelor,Cangrelor,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cangrelor,TRUE,FALSE,TRUE, Cangrelor [USAN:INN:BAN],163706-06-7,https://chem.nlm.nih.gov/chemidplus/rn/163706-06-7
 2020-09-20T02:30:09Z,Clarithromycin,Clarithromycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Clarithromycin,TRUE,FALSE,TRUE, Clarithromycin [USAN:USP:INN:BAN:JAN],81103-11-9,https://chem.nlm.nih.gov/chemidplus/rn/81103-11-9
+2020-09-20T02:32:25Z,Econosone,Econosone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Econosone,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-20T02:32:43Z,elapegademase,elapegademase,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/elapegademase,TRUE,FALSE,TRUE, Elapegademase [USAN:INN],1709806-75-6,https://chem.nlm.nih.gov/chemidplus/rn/1709806-75-6
