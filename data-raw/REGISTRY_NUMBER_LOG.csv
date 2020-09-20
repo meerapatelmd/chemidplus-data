@@ -8984,3 +8984,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:18:19Z,Zantac,Zantac,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zantac,TRUE,FALSE,TRUE, Ranitidine Hydrochloride [USP:JAN],66357-59-3,https://chem.nlm.nih.gov/chemidplus/rn/66357-59-3
 2020-09-20T03:18:26Z,Thiotepa,Thiotepa,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Thiotepa,TRUE,FALSE,TRUE, Thiotepa [USP:INN:BAN:JAN],52-24-4,https://chem.nlm.nih.gov/chemidplus/rn/52-24-4
 2020-09-20T03:21:01Z,Chlormethine,Chlormethine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Chlormethine,TRUE,FALSE,TRUE, Mechlorethamine,51-75-2,https://chem.nlm.nih.gov/chemidplus/rn/51-75-2
+2020-09-20T03:21:49Z,LGX818,LGX818,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/LGX818,TRUE,FALSE,TRUE, Encorafenib [USAN:INN],1269440-17-6,https://chem.nlm.nih.gov/chemidplus/rn/1269440-17-6
+2020-09-20T03:21:58Z,UNII-LIJ4CT1Z3Y,UNII-LIJ4CT1Z3Y,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/UNII-LIJ4CT1Z3Y,TRUE,FALSE,TRUE, Alectinib [USAN:INN],1256580-46-7,https://chem.nlm.nih.gov/chemidplus/rn/1256580-46-7
+2020-09-20T03:22:08Z,Rubomycin,Rubomycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Rubomycin,TRUE,FALSE,TRUE,Rubomycin,11016-72-1,https://chem.nlm.nih.gov/chemidplus/rn/11016-72-1
