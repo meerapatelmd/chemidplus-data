@@ -8859,3 +8859,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T01:09:22Z,Daunorubicine,Daunorubicine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Daunorubicine,TRUE,FALSE,TRUE, Daunorubicin [INN:BAN],20830-81-3,https://chem.nlm.nih.gov/chemidplus/rn/20830-81-3
 2020-09-20T01:09:28Z,PEP-02,PEP-02,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PEP-02,TRUE,FALSE,TRUE, Irinotecan sucrosofate [USAN],1361317-83-0,https://chem.nlm.nih.gov/chemidplus/rn/1361317-83-0
 2020-09-20T01:11:05Z,Onadron,Onadron,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Onadron,TRUE,FALSE,TRUE, Dexamethasone sodium phosphate [USP:BAN:JAN],2392-39-4,https://chem.nlm.nih.gov/chemidplus/rn/2392-39-4
+2020-09-20T01:12:00Z,Ketoconazole,Ketoconazole,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ketoconazole,TRUE,FALSE,TRUE, Ketoconazole [USAN:USP:INN:BAN:JAN],65277-42-1,https://chem.nlm.nih.gov/chemidplus/rn/65277-42-1
