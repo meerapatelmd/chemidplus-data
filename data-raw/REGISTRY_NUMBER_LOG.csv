@@ -8886,3 +8886,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T01:29:48Z,glatiramer,glatiramer,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/glatiramer,TRUE,FALSE,TRUE, Glatiramer,28704-27-0,https://chem.nlm.nih.gov/chemidplus/rn/28704-27-0
 2020-09-20T01:29:58Z,apremilast,apremilast,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/apremilast,TRUE,FALSE,TRUE, Apremilast [USAN:INN],608141-41-9,https://chem.nlm.nih.gov/chemidplus/rn/608141-41-9
 2020-09-20T01:31:47Z,Acetophen,Acetophen,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Acetophen,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-20T02:22:18Z,Motilium,Motilium,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Motilium,TRUE,FALSE,TRUE, Domperidone [USAN:INN:BAN:JAN],57808-66-9,https://chem.nlm.nih.gov/chemidplus/rn/57808-66-9
+2020-09-20T02:22:24Z,Radotinib,Radotinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Radotinib,TRUE,FALSE,TRUE, Radotinib [INN],926037-48-1,https://chem.nlm.nih.gov/chemidplus/rn/926037-48-1
+2020-09-20T02:22:39Z,Sendoxan,Sendoxan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sendoxan,TRUE,FALSE,TRUE, Cyclophosphamide [USP:INN],50-18-0,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
