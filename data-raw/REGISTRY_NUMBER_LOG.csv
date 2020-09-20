@@ -8963,3 +8963,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:07:39Z,Lastet,Lastet,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lastet,TRUE,FALSE,TRUE, Etoposide [USAN:USP:INN:BAN:JAN],33419-42-0,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
 2020-09-20T03:08:24Z,alefacept,alefacept,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/alefacept,TRUE,FALSE,TRUE, Alefacept [USAN:INN:BAN],222535-22-0,https://chem.nlm.nih.gov/chemidplus/rn/222535-22-0
 2020-09-20T03:08:38Z,Fluril,Fluril,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fluril,TRUE,FALSE,TRUE, Fluorouracil [USAN:USP:INN:BAN:JAN],51-21-8,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
+2020-09-20T03:09:19Z,Fasenra,Fasenra,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fasenra,TRUE,FALSE,TRUE, Benralizumab [USAN:INN],1044511-01-4,https://chem.nlm.nih.gov/chemidplus/rn/1044511-01-4
+2020-09-20T03:09:25Z,Crenolanib,Crenolanib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Crenolanib,TRUE,FALSE,TRUE, Crenolanib [USAN:INN],670220-88-9,https://chem.nlm.nih.gov/chemidplus/rn/670220-88-9
+2020-09-20T03:09:34Z,Prednisolone,Prednisolone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Prednisolone,TRUE,FALSE,TRUE, Prednisolone [INN:BAN:JAN],50-24-8,https://chem.nlm.nih.gov/chemidplus/rn/50-24-8
