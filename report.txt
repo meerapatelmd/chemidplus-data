@@ -1,1 +1,0 @@
-0 rows in chemiplus.phrase_log Table that do not join to a chemidplus.concept by input/concept_name and type/concept_class_id No diff found and zero rows appended to chemidplus.concept_synonym & chemidplus.concept_synonym No new chemidplus.classification_concepts found.
