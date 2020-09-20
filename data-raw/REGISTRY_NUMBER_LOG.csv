@@ -8961,3 +8961,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:05:48Z,Pharmorubicin,Pharmorubicin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Pharmorubicin,TRUE,FALSE,TRUE, Epirubicin hydrochloride [USAN:USP:JAN],56390-09-1,https://chem.nlm.nih.gov/chemidplus/rn/56390-09-1
 2020-09-20T03:07:23Z,Larotrectinib,Larotrectinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Larotrectinib,TRUE,FALSE,TRUE, Larotrectinib [USAN:INN],1223403-58-4,https://chem.nlm.nih.gov/chemidplus/rn/1223403-58-4
 2020-09-20T03:07:39Z,Lastet,Lastet,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lastet,TRUE,FALSE,TRUE, Etoposide [USAN:USP:INN:BAN:JAN],33419-42-0,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-20T03:08:24Z,alefacept,alefacept,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/alefacept,TRUE,FALSE,TRUE, Alefacept [USAN:INN:BAN],222535-22-0,https://chem.nlm.nih.gov/chemidplus/rn/222535-22-0
+2020-09-20T03:08:38Z,Fluril,Fluril,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fluril,TRUE,FALSE,TRUE, Fluorouracil [USAN:USP:INN:BAN:JAN],51-21-8,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
