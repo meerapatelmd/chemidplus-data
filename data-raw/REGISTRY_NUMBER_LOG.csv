@@ -9046,3 +9046,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:55:04Z,Ticlid,Ticlid,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ticlid,TRUE,FALSE,TRUE, Ticlopidine hydrochloride [USAN:USP:JAN],53885-35-1,https://chem.nlm.nih.gov/chemidplus/rn/53885-35-1
 2020-09-20T03:55:11Z,Depocyte,Depocyte,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Depocyte,TRUE,FALSE,TRUE, Cytarabine [USAN:USP:INN:BAN:JAN],147-94-4,https://chem.nlm.nih.gov/chemidplus/rn/147-94-4
 2020-09-20T03:55:24Z,Sultrex,Sultrex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sultrex,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
+2020-09-20T03:56:43Z,Bexarotene,Bexarotene,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bexarotene,TRUE,FALSE,TRUE, Bexarotene [USAN:INN:BAN],153559-49-0,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
+2020-09-20T03:56:59Z,Orimeten,Orimeten,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Orimeten,TRUE,FALSE,TRUE, Aminoglutethimide [USP:INN:BAN],125-84-8,https://chem.nlm.nih.gov/chemidplus/rn/125-84-8
+2020-09-20T03:57:05Z,Trimosulfa,Trimosulfa,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Trimosulfa,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
