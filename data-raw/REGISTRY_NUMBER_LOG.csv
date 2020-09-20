@@ -8846,3 +8846,8 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T00:31:59Z,temoporfin,temoporfin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/temoporfin,TRUE,FALSE,TRUE, Temoporfin [USAN:INN:BAN],122341-38-2,https://chem.nlm.nih.gov/chemidplus/rn/122341-38-2
 2020-09-20T00:34:16Z,Mifamurtide,Mifamurtide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Mifamurtide,TRUE,FALSE,TRUE,Mifamurtide sodium,90825-43-7,https://chem.nlm.nih.gov/chemidplus/rn/90825-43-7
 2020-09-20T00:36:32Z,ethoglucid,ethoglucid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ethoglucid,TRUE,FALSE,TRUE, Etoglucid [INN:BAN],1954-28-5,https://chem.nlm.nih.gov/chemidplus/rn/1954-28-5
+2020-09-20T00:38:00Z,FIX,FIX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FIX,TRUE,FALSE,TRUE,Ethyl chloride [USP],75-00-3,https://chem.nlm.nih.gov/chemidplus/rn/75-00-3
+2020-09-20T00:38:00Z,FIX,FIX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FIX,TRUE,FALSE,TRUE,C.I. Pigment Blue 60,81-77-6,https://chem.nlm.nih.gov/chemidplus/rn/81-77-6
+2020-09-20T00:38:00Z,FIX,FIX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FIX,TRUE,FALSE,TRUE,2-(1-Naphthyl)acetamide [BSI:ISO],86-86-2,https://chem.nlm.nih.gov/chemidplus/rn/86-86-2
+2020-09-20T00:38:00Z,FIX,FIX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FIX,TRUE,FALSE,TRUE,alpha-Naphthylacetic acid,86-87-3,https://chem.nlm.nih.gov/chemidplus/rn/86-87-3
+2020-09-20T00:38:00Z,FIX,FIX,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/FIX,TRUE,FALSE,TRUE,Pentachlorophenol [BSI:ISO],87-86-5,https://chem.nlm.nih.gov/chemidplus/rn/87-86-5
