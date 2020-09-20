@@ -8921,3 +8921,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:42:21Z,Berubigen,Berubigen,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Berubigen,TRUE,FALSE,TRUE, Cyanocobalamin [USP:INN:BAN:JAN],68-19-9,https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
 2020-09-20T02:42:34Z,GDC-0973,GDC-0973,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GDC-0973,TRUE,FALSE,TRUE, Cobimetinib [USAN:INN],934660-93-2,https://chem.nlm.nih.gov/chemidplus/rn/934660-93-2
 2020-09-20T02:43:30Z,Trimezol,Trimezol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Trimezol,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
+2020-09-20T02:44:10Z,Acisal,Acisal,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Acisal,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-20T02:44:25Z,Megestrol,Megestrol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Megestrol,TRUE,FALSE,TRUE, Megestrol [INN:BAN],3562-63-8,https://chem.nlm.nih.gov/chemidplus/rn/3562-63-8
