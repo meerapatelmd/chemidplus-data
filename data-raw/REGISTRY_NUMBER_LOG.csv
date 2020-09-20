@@ -9001,3 +9001,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:28:05Z,Kemoprim,Kemoprim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Kemoprim,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
 2020-09-20T03:28:14Z,Trisural,Trisural,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Trisural,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
 2020-09-20T03:28:23Z,Platinex,Platinex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Platinex,TRUE,FALSE,TRUE, Cisplatin [USAN:USP:INN:BAN:JAN],15663-27-1,https://chem.nlm.nih.gov/chemidplus/rn/15663-27-1
+2020-09-20T03:30:00Z,Xarelto,Xarelto,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Xarelto,TRUE,FALSE,TRUE, Rivaroxaban [USAN:INN:BAN:JAN],366789-02-8,https://chem.nlm.nih.gov/chemidplus/rn/366789-02-8
+2020-09-20T03:30:09Z,Sterapred,Sterapred,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sterapred,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
