@@ -8897,3 +8897,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:24:33Z,Dermadex,Dermadex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dermadex,TRUE,FALSE,TRUE, Hexachlorophene [USP:INN:BAN],70-30-4,https://chem.nlm.nih.gov/chemidplus/rn/70-30-4
 2020-09-20T02:24:49Z,Phenothiazine,Phenothiazine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Phenothiazine,TRUE,FALSE,TRUE, Phenothiazine [INN:NF],92-84-2,https://chem.nlm.nih.gov/chemidplus/rn/92-84-2
 2020-09-20T02:25:30Z,Klonopin,Klonopin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Klonopin,TRUE,FALSE,TRUE, Clonazepam [USAN:USP:INN:BAN:JAN],1622-61-3,https://chem.nlm.nih.gov/chemidplus/rn/1622-61-3
+2020-09-20T02:26:41Z,Fluconazole,Fluconazole,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fluconazole,TRUE,FALSE,TRUE, Fluconazole [USAN:USP:INN:BAN:JAN],86386-73-4,https://chem.nlm.nih.gov/chemidplus/rn/86386-73-4
+2020-09-20T02:26:47Z,Uromitexan,Uromitexan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Uromitexan,TRUE,FALSE,TRUE, Mesna [USAN:USP:INN:BAN],19767-45-4,https://chem.nlm.nih.gov/chemidplus/rn/19767-45-4
