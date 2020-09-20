@@ -9033,3 +9033,10 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:48:11Z,Iron,Iron,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Iron,TRUE,FALSE,TRUE," Iron, elemental",7439-89-6,https://chem.nlm.nih.gov/chemidplus/rn/7439-89-6
 2020-09-20T03:49:51Z,Benralizumab,Benralizumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Benralizumab,TRUE,FALSE,TRUE, Benralizumab [USAN:INN],1044511-01-4,https://chem.nlm.nih.gov/chemidplus/rn/1044511-01-4
 2020-09-20T03:50:09Z,Anagrelide,Anagrelide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Anagrelide,TRUE,FALSE,TRUE, Anagrelide [INN:BAN],68475-42-3,https://chem.nlm.nih.gov/chemidplus/rn/68475-42-3
+2020-09-20T03:51:26Z,Premaspin,Premaspin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Premaspin,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-20T03:51:36Z,Gleostine,Gleostine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Gleostine,TRUE,FALSE,TRUE, Lomustine [USAN:INN:BAN],13010-47-4,https://chem.nlm.nih.gov/chemidplus/rn/13010-47-4
+2020-09-20T03:51:43Z,6-thioguanine,6-thioguanine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/6-thioguanine,TRUE,FALSE,TRUE, Thioguanine [USAN:USP],154-42-7,https://chem.nlm.nih.gov/chemidplus/rn/154-42-7
+2020-09-20T03:51:55Z,Talazoparib,Talazoparib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Talazoparib,TRUE,FALSE,TRUE, Talazoparib [USAN:INN],1207456-01-6,https://chem.nlm.nih.gov/chemidplus/rn/1207456-01-6
+2020-09-20T03:52:01Z,Dectan,Dectan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dectan,TRUE,FALSE,TRUE, Dexamethasone acetate,1177-87-3,https://chem.nlm.nih.gov/chemidplus/rn/1177-87-3
+2020-09-20T03:52:11Z,Dolasetron,Dolasetron,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dolasetron,TRUE,FALSE,TRUE, Dolasetron [INN:BAN],115956-12-2,https://chem.nlm.nih.gov/chemidplus/rn/115956-12-2
+2020-09-20T03:52:17Z,MK-0869,MK-0869,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MK-0869,TRUE,FALSE,TRUE, Aprepitant [USAN:INN:JAN],170729-80-3,https://chem.nlm.nih.gov/chemidplus/rn/170729-80-3
