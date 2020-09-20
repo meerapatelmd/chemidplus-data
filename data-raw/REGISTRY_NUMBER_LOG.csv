@@ -9009,3 +9009,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:32:10Z,Apalutamide,Apalutamide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Apalutamide,TRUE,FALSE,TRUE, Apalutamide [INN],956104-40-8,https://chem.nlm.nih.gov/chemidplus/rn/956104-40-8
 2020-09-20T03:33:09Z,Volasertib,Volasertib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Volasertib,TRUE,FALSE,TRUE, Volasertib [USAN:INN],755038-65-4,https://chem.nlm.nih.gov/chemidplus/rn/755038-65-4
 2020-09-20T03:33:16Z,Bosulif,Bosulif,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bosulif,TRUE,FALSE,TRUE,Bosutinib monohydrate,918639-08-4,https://chem.nlm.nih.gov/chemidplus/rn/918639-08-4
+2020-09-20T03:34:53Z,Vidaza,Vidaza,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Vidaza,TRUE,FALSE,TRUE, Azacitidine [USAN:INN:BAN],320-67-2,https://chem.nlm.nih.gov/chemidplus/rn/320-67-2
