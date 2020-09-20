@@ -8918,3 +8918,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:40:34Z,Metaxon,Metaxon,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Metaxon,TRUE,FALSE,TRUE, MCPA [BSI:ISO],94-74-6,https://chem.nlm.nih.gov/chemidplus/rn/94-74-6
 2020-09-20T02:41:22Z,Fluorouracil,Fluorouracil,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fluorouracil,TRUE,FALSE,TRUE, Fluorouracil [USAN:USP:INN:BAN:JAN],51-21-8,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
 2020-09-20T02:41:35Z,Ftorafur,Ftorafur,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ftorafur,TRUE,FALSE,TRUE, Tegafur [USAN:INN:BAN:JAN],17902-23-7,https://chem.nlm.nih.gov/chemidplus/rn/17902-23-7
+2020-09-20T02:42:21Z,Berubigen,Berubigen,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Berubigen,TRUE,FALSE,TRUE, Cyanocobalamin [USP:INN:BAN:JAN],68-19-9,https://chem.nlm.nih.gov/chemidplus/rn/68-19-9
+2020-09-20T02:42:34Z,GDC-0973,GDC-0973,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GDC-0973,TRUE,FALSE,TRUE, Cobimetinib [USAN:INN],934660-93-2,https://chem.nlm.nih.gov/chemidplus/rn/934660-93-2
