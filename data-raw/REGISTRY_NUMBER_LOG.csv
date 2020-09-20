@@ -8911,3 +8911,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:35:07Z,AMSA,AMSA,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AMSA,TRUE,FALSE,TRUE,4'-(9-Acridinylamino)methanesulfonanilide,53478-38-9,https://chem.nlm.nih.gov/chemidplus/rn/53478-38-9
 2020-09-20T02:35:16Z,Xeloda,Xeloda,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Xeloda,TRUE,FALSE,TRUE, Capecitabine [USAN:USP:INN:BAN],154361-50-9,https://chem.nlm.nih.gov/chemidplus/rn/154361-50-9
 2020-09-20T02:35:25Z,Venofer,Venofer,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Venofer,TRUE,FALSE,TRUE, Succharated ferric oxide [USAN:JAN],8047-67-4,https://chem.nlm.nih.gov/chemidplus/rn/8047-67-4
+2020-09-20T02:36:20Z,Levofloxacin,Levofloxacin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Levofloxacin,TRUE,FALSE,TRUE,Levofloxacin hydrate,138199-71-0,https://chem.nlm.nih.gov/chemidplus/rn/138199-71-0
