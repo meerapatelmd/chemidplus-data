@@ -8889,3 +8889,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:22:18Z,Motilium,Motilium,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Motilium,TRUE,FALSE,TRUE, Domperidone [USAN:INN:BAN:JAN],57808-66-9,https://chem.nlm.nih.gov/chemidplus/rn/57808-66-9
 2020-09-20T02:22:24Z,Radotinib,Radotinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Radotinib,TRUE,FALSE,TRUE, Radotinib [INN],926037-48-1,https://chem.nlm.nih.gov/chemidplus/rn/926037-48-1
 2020-09-20T02:22:39Z,Sendoxan,Sendoxan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sendoxan,TRUE,FALSE,TRUE, Cyclophosphamide [USP:INN],50-18-0,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-20T02:23:22Z,Mediamethasone,Mediamethasone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mediamethasone,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-20T02:23:28Z,Brilinta,Brilinta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Brilinta,TRUE,FALSE,TRUE, Ticagrelor [USAN:INN:BAN],274693-27-5,https://chem.nlm.nih.gov/chemidplus/rn/274693-27-5
+2020-09-20T02:23:37Z,CP-690550,CP-690550,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CP-690550,TRUE,FALSE,TRUE, Tofacitinib [USAN:INN],477600-75-2,https://chem.nlm.nih.gov/chemidplus/rn/477600-75-2
