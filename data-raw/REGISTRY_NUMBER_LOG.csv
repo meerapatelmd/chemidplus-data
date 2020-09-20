@@ -9027,3 +9027,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:45:25Z,MeCCNU,MeCCNU,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MeCCNU,TRUE,FALSE,TRUE, Semustine [USAN:INN],13909-09-6,https://chem.nlm.nih.gov/chemidplus/rn/13909-09-6
 2020-09-20T03:45:35Z,Atropine,Atropine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Atropine,TRUE,FALSE,TRUE, Atropine [USP:BAN],51-55-8,https://chem.nlm.nih.gov/chemidplus/rn/51-55-8
 2020-09-20T03:45:41Z,Velban,Velban,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Velban,TRUE,FALSE,TRUE, Vinblastine sulfate [USAN:USP:JAN],143-67-9,https://chem.nlm.nih.gov/chemidplus/rn/143-67-9
+2020-09-20T03:46:36Z,Strontium-89,Strontium-89,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Strontium-89,TRUE,FALSE,TRUE, Strontium Sr-89,14158-27-1,https://chem.nlm.nih.gov/chemidplus/rn/14158-27-1
+2020-09-20T03:46:46Z,Doxycycline,Doxycycline,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Doxycycline,TRUE,FALSE,TRUE,Doxycycline monohydrate,17086-28-1,https://chem.nlm.nih.gov/chemidplus/rn/17086-28-1
+2020-09-20T03:46:52Z,HuMax-CD20,HuMax-CD20,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/HuMax-CD20,TRUE,FALSE,TRUE, Ofatumumab [USAN:INN:BAN:JAN],679818-59-8,https://chem.nlm.nih.gov/chemidplus/rn/679818-59-8
