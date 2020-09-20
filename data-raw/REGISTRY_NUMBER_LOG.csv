@@ -8834,3 +8834,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T00:07:32Z,fosfestrol,fosfestrol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/fosfestrol,TRUE,FALSE,TRUE,Fosfestrol tetrasodium salt,4719-75-9,https://chem.nlm.nih.gov/chemidplus/rn/4719-75-9
 2020-09-20T00:07:32Z,fosfestrol,fosfestrol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/fosfestrol,TRUE,FALSE,TRUE,Fosfestrol disodium salt,5965-09-3,https://chem.nlm.nih.gov/chemidplus/rn/5965-09-3
 2020-09-20T00:09:05Z,risankizumab,risankizumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/risankizumab,TRUE,FALSE,TRUE, Risankizumab [USAN:INN],1612838-76-2,https://chem.nlm.nih.gov/chemidplus/rn/1612838-76-2
+2020-09-20T00:10:48Z,ocrelizumab,ocrelizumab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ocrelizumab,TRUE,FALSE,TRUE, Ocrelizumab [USAN:INN:JAN],637334-45-3,https://chem.nlm.nih.gov/chemidplus/rn/637334-45-3
