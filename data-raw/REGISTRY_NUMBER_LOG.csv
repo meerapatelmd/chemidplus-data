@@ -8972,3 +8972,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:12:15Z,Bevacizumab-awwb,Bevacizumab-awwb,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bevacizumab-awwb,TRUE,FALSE,TRUE, Bevacizumab [USAN:INN],216974-75-3,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
 2020-09-20T03:12:27Z,Sulfonamide,Sulfonamide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sulfonamide,TRUE,FALSE,TRUE, Sulfanilamide [INN:DCF:NF],63-74-1,https://chem.nlm.nih.gov/chemidplus/rn/63-74-1
 2020-09-20T03:12:33Z,Ranimustine,Ranimustine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ranimustine,TRUE,FALSE,TRUE, Ranimustine [INN:JAN],58994-96-0,https://chem.nlm.nih.gov/chemidplus/rn/58994-96-0
+2020-09-20T03:13:15Z,Busulfan,Busulfan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Busulfan,TRUE,FALSE,TRUE, Busulfan [USP:INN:BAN:JAN],55-98-1,https://chem.nlm.nih.gov/chemidplus/rn/55-98-1
+2020-09-20T03:13:21Z,stilbestrol,stilbestrol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/stilbestrol,TRUE,FALSE,TRUE,Stilbestrol,30498-85-2,https://chem.nlm.nih.gov/chemidplus/rn/30498-85-2
+2020-09-20T03:13:28Z,Emthexat,Emthexat,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Emthexat,TRUE,FALSE,TRUE, Methotrexate [USAN:USP:INN:BAN:JAN],59-05-2,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
