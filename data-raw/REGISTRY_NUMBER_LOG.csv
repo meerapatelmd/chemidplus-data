@@ -8873,3 +8873,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T01:17:54Z,Senokot,Senokot,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Senokot,TRUE,FALSE,TRUE,Senna extract,85085-71-8,https://chem.nlm.nih.gov/chemidplus/rn/85085-71-8
 2020-09-20T01:18:03Z,ethoglucid,ethoglucid,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ethoglucid,TRUE,FALSE,TRUE, Etoglucid [INN:BAN],1954-28-5,https://chem.nlm.nih.gov/chemidplus/rn/1954-28-5
 2020-09-20T01:18:53Z,Ufur,Ufur,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ufur,TRUE,FALSE,TRUE, Tegafur mixture with with Uracil,74578-38-4,https://chem.nlm.nih.gov/chemidplus/rn/74578-38-4
+2020-09-20T01:19:54Z,Depakote,Depakote,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Depakote,TRUE,FALSE,TRUE, Divalproex sodium [USAN:USP],76584-70-8,https://chem.nlm.nih.gov/chemidplus/rn/76584-70-8
