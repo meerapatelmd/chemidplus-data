@@ -8977,3 +8977,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:13:28Z,Emthexat,Emthexat,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Emthexat,TRUE,FALSE,TRUE, Methotrexate [USAN:USP:INN:BAN:JAN],59-05-2,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
 2020-09-20T03:14:21Z,MOR00208,MOR00208,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MOR00208,TRUE,FALSE,TRUE, Tafasitamab [USAN],1422527-84-1,https://chem.nlm.nih.gov/chemidplus/rn/1422527-84-1
 2020-09-20T03:14:33Z,Lucrin,Lucrin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lucrin,TRUE,FALSE,TRUE, Leuprolide acetate [USAN:USP],74381-53-6,https://chem.nlm.nih.gov/chemidplus/rn/74381-53-6
+2020-09-20T03:15:27Z,Tavist,Tavist,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tavist,TRUE,FALSE,TRUE, Clemastine fumarate [USAN:USP:BAN:JAN],14976-57-9,https://chem.nlm.nih.gov/chemidplus/rn/14976-57-9
