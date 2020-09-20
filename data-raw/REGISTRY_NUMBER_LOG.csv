@@ -8938,3 +8938,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:54:11Z,Claphene,Claphene,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Claphene,TRUE,FALSE,TRUE, Cyclophosphamide [USP:INN],50-18-0,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
 2020-09-20T02:54:56Z,nab-paclitaxel,nab-paclitaxel,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/nab-paclitaxel,TRUE,FALSE,TRUE, Paclitaxel [USAN:USP:INN:BAN],33069-62-4,https://chem.nlm.nih.gov/chemidplus/rn/33069-62-4
 2020-09-20T02:55:06Z,Stanback,Stanback,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Stanback,TRUE,FALSE,TRUE, Acetaminophen [USP:JAN],103-90-2,https://chem.nlm.nih.gov/chemidplus/rn/103-90-2
+2020-09-20T02:56:05Z,Pantoprazole,Pantoprazole,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Pantoprazole,TRUE,FALSE,TRUE, Pantoprazole [USAN:INN:BAN],102625-70-7,https://chem.nlm.nih.gov/chemidplus/rn/102625-70-7
+2020-09-20T02:56:12Z,AG-120,AG-120,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AG-120,TRUE,FALSE,TRUE, Ivosidenib [USAN:INN],1448347-49-6,https://chem.nlm.nih.gov/chemidplus/rn/1448347-49-6
