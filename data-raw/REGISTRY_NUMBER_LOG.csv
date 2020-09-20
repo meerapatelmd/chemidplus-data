@@ -8892,3 +8892,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:23:22Z,Mediamethasone,Mediamethasone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mediamethasone,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
 2020-09-20T02:23:28Z,Brilinta,Brilinta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Brilinta,TRUE,FALSE,TRUE, Ticagrelor [USAN:INN:BAN],274693-27-5,https://chem.nlm.nih.gov/chemidplus/rn/274693-27-5
 2020-09-20T02:23:37Z,CP-690550,CP-690550,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CP-690550,TRUE,FALSE,TRUE, Tofacitinib [USAN:INN],477600-75-2,https://chem.nlm.nih.gov/chemidplus/rn/477600-75-2
+2020-09-20T02:24:20Z,Sone,Sone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sone,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-20T02:24:27Z,Pletal,Pletal,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Pletal,TRUE,FALSE,TRUE, Cilostazol [USAN:USP:INN:BAN:JAN],73963-72-1,https://chem.nlm.nih.gov/chemidplus/rn/73963-72-1
+2020-09-20T02:24:33Z,Dermadex,Dermadex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dermadex,TRUE,FALSE,TRUE, Hexachlorophene [USP:INN:BAN],70-30-4,https://chem.nlm.nih.gov/chemidplus/rn/70-30-4
+2020-09-20T02:24:49Z,Phenothiazine,Phenothiazine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Phenothiazine,TRUE,FALSE,TRUE, Phenothiazine [INN:NF],92-84-2,https://chem.nlm.nih.gov/chemidplus/rn/92-84-2
