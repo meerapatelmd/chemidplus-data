@@ -8978,3 +8978,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:14:21Z,MOR00208,MOR00208,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MOR00208,TRUE,FALSE,TRUE, Tafasitamab [USAN],1422527-84-1,https://chem.nlm.nih.gov/chemidplus/rn/1422527-84-1
 2020-09-20T03:14:33Z,Lucrin,Lucrin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lucrin,TRUE,FALSE,TRUE, Leuprolide acetate [USAN:USP],74381-53-6,https://chem.nlm.nih.gov/chemidplus/rn/74381-53-6
 2020-09-20T03:15:27Z,Tavist,Tavist,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tavist,TRUE,FALSE,TRUE, Clemastine fumarate [USAN:USP:BAN:JAN],14976-57-9,https://chem.nlm.nih.gov/chemidplus/rn/14976-57-9
+2020-09-20T03:17:09Z,Trisenox,Trisenox,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Trisenox,TRUE,FALSE,TRUE, Arsenic trioxide [USAN:JAN],1327-53-3,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
+2020-09-20T03:17:18Z,Mitotax,Mitotax,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mitotax,TRUE,FALSE,TRUE, Paclitaxel [USAN:USP:INN:BAN],33069-62-4,https://chem.nlm.nih.gov/chemidplus/rn/33069-62-4
