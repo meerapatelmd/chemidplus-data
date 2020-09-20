@@ -8914,3 +8914,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T02:36:20Z,Levofloxacin,Levofloxacin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Levofloxacin,TRUE,FALSE,TRUE,Levofloxacin hydrate,138199-71-0,https://chem.nlm.nih.gov/chemidplus/rn/138199-71-0
 2020-09-20T02:37:15Z,Chidamide,Chidamide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Chidamide,TRUE,FALSE,TRUE, Tucidinostat [USAN],1616493-44-7,https://chem.nlm.nih.gov/chemidplus/rn/1616493-44-7
 2020-09-20T02:39:38Z,PEG-L-asparaginase,PEG-L-asparaginase,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PEG-L-asparaginase,TRUE,FALSE,TRUE, Pegaspargase [USAN:INN],130167-69-0,https://chem.nlm.nih.gov/chemidplus/rn/130167-69-0
+2020-09-20T02:40:19Z,Wilate,Wilate,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Wilate,TRUE,FALSE,TRUE, Beroctocog alfa [INN],9001-27-8,https://chem.nlm.nih.gov/chemidplus/rn/9001-27-8
+2020-09-20T02:40:34Z,Metaxon,Metaxon,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Metaxon,TRUE,FALSE,TRUE, MCPA [BSI:ISO],94-74-6,https://chem.nlm.nih.gov/chemidplus/rn/94-74-6
