@@ -8966,3 +8966,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:09:19Z,Fasenra,Fasenra,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fasenra,TRUE,FALSE,TRUE, Benralizumab [USAN:INN],1044511-01-4,https://chem.nlm.nih.gov/chemidplus/rn/1044511-01-4
 2020-09-20T03:09:25Z,Crenolanib,Crenolanib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Crenolanib,TRUE,FALSE,TRUE, Crenolanib [USAN:INN],670220-88-9,https://chem.nlm.nih.gov/chemidplus/rn/670220-88-9
 2020-09-20T03:09:34Z,Prednisolone,Prednisolone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Prednisolone,TRUE,FALSE,TRUE, Prednisolone [INN:BAN:JAN],50-24-8,https://chem.nlm.nih.gov/chemidplus/rn/50-24-8
+2020-09-20T03:11:15Z,Xanor,Xanor,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Xanor,TRUE,FALSE,TRUE, Alprazolam [USAN:USP:INN:BAN:JAN],28981-97-7,https://chem.nlm.nih.gov/chemidplus/rn/28981-97-7
