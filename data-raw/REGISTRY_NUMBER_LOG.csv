@@ -8955,3 +8955,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:01:59Z,Sporanox,Sporanox,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sporanox,TRUE,FALSE,TRUE, Itraconazole [USAN:USP:INN:BAN:JAN],84625-61-6,https://chem.nlm.nih.gov/chemidplus/rn/84625-61-6
 2020-09-20T03:02:49Z,BKM120,BKM120,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BKM120,TRUE,FALSE,TRUE, Buparlisib [USAN:INN],944396-07-0,https://chem.nlm.nih.gov/chemidplus/rn/944396-07-0
 2020-09-20T03:03:01Z,BBR 2778,BBR2778,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BBR2778,TRUE,FALSE,TRUE, BBR 2778,144510-97-4,https://chem.nlm.nih.gov/chemidplus/rn/144510-97-4
+2020-09-20T03:04:33Z,Neoral,Neoral,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Neoral,TRUE,FALSE,TRUE, Cyclosporine [USAN:USP],59865-13-3,https://chem.nlm.nih.gov/chemidplus/rn/59865-13-3
+2020-09-20T03:04:45Z,Chemitrim,Chemitrim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Chemitrim,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
