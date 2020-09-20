@@ -8990,3 +8990,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:23:03Z,Fluoroplex,Fluoroplex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fluoroplex,TRUE,FALSE,TRUE, Fluorouracil [USAN:USP:INN:BAN:JAN],51-21-8,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
 2020-09-20T03:23:51Z,Doxorubicin,Doxorubicin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Doxorubicin,TRUE,FALSE,TRUE, Doxorubicin [USAN:INN:BAN],23214-92-8,https://chem.nlm.nih.gov/chemidplus/rn/23214-92-8
 2020-09-20T03:23:57Z,CAL-101,CAL-101,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CAL-101,TRUE,FALSE,TRUE,CAL 101,1146702-54-6,https://chem.nlm.nih.gov/chemidplus/rn/1146702-54-6
+2020-09-20T03:24:43Z,Ipilimumab,Ipilimumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ipilimumab,TRUE,FALSE,TRUE, Ipilimumab [USAN:INN],477202-00-9,https://chem.nlm.nih.gov/chemidplus/rn/477202-00-9
