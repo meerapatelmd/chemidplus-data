@@ -9030,3 +9030,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:46:36Z,Strontium-89,Strontium-89,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Strontium-89,TRUE,FALSE,TRUE, Strontium Sr-89,14158-27-1,https://chem.nlm.nih.gov/chemidplus/rn/14158-27-1
 2020-09-20T03:46:46Z,Doxycycline,Doxycycline,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Doxycycline,TRUE,FALSE,TRUE,Doxycycline monohydrate,17086-28-1,https://chem.nlm.nih.gov/chemidplus/rn/17086-28-1
 2020-09-20T03:46:52Z,HuMax-CD20,HuMax-CD20,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/HuMax-CD20,TRUE,FALSE,TRUE, Ofatumumab [USAN:INN:BAN:JAN],679818-59-8,https://chem.nlm.nih.gov/chemidplus/rn/679818-59-8
+2020-09-20T03:48:11Z,Iron,Iron,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Iron,TRUE,FALSE,TRUE," Iron, elemental",7439-89-6,https://chem.nlm.nih.gov/chemidplus/rn/7439-89-6
