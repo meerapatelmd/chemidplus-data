@@ -9019,3 +9019,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:41:52Z,LGD1069,LGD1069,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/LGD1069,TRUE,FALSE,TRUE, Bexarotene [USAN:INN:BAN],153559-49-0,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
 2020-09-20T03:42:00Z,interferon-beta,interferon-beta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/interferon-beta,TRUE,FALSE,TRUE,Interferon-beta,77238-31-4,https://chem.nlm.nih.gov/chemidplus/rn/77238-31-4
 2020-09-20T03:42:00Z,interferon-beta,interferon-beta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/interferon-beta,TRUE,FALSE,TRUE,Interferon beta (canis),178360-51-5,https://chem.nlm.nih.gov/chemidplus/rn/178360-51-5
+2020-09-20T03:43:25Z,Filanesib,Filanesib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Filanesib,TRUE,FALSE,TRUE, Filanesib [USAN:INN],885060-09-3,https://chem.nlm.nih.gov/chemidplus/rn/885060-09-3
+2020-09-20T03:43:37Z,Interferons,Interferons,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Interferons,TRUE,FALSE,TRUE, Interferon [INN:BAN],9008-11-1,https://chem.nlm.nih.gov/chemidplus/rn/9008-11-1
