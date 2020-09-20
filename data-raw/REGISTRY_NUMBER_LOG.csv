@@ -8864,3 +8864,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T01:12:56Z,Metex,Metex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Metex,TRUE,FALSE,TRUE, Methotrexate [USAN:USP:INN:BAN:JAN],59-05-2,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
 2020-09-20T01:13:08Z,Selinexor,Selinexor,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Selinexor,TRUE,FALSE,TRUE, Selinexor [USAN:INN],1393477-72-9,https://chem.nlm.nih.gov/chemidplus/rn/1393477-72-9
 2020-09-20T01:13:49Z,Rimazole,Rimazole,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Rimazole,TRUE,FALSE,TRUE, Clotrimazole [USAN:USP:INN:BAN:JAN],23593-75-1,https://chem.nlm.nih.gov/chemidplus/rn/23593-75-1
+2020-09-20T01:14:40Z,Antifolan,Antifolan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Antifolan,TRUE,FALSE,TRUE, Methotrexate [USAN:USP:INN:BAN:JAN],59-05-2,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
