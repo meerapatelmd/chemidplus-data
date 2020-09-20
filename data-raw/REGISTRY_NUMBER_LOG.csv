@@ -9021,3 +9021,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:42:00Z,interferon-beta,interferon-beta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/interferon-beta,TRUE,FALSE,TRUE,Interferon beta (canis),178360-51-5,https://chem.nlm.nih.gov/chemidplus/rn/178360-51-5
 2020-09-20T03:43:25Z,Filanesib,Filanesib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Filanesib,TRUE,FALSE,TRUE, Filanesib [USAN:INN],885060-09-3,https://chem.nlm.nih.gov/chemidplus/rn/885060-09-3
 2020-09-20T03:43:37Z,Interferons,Interferons,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Interferons,TRUE,FALSE,TRUE, Interferon [INN:BAN],9008-11-1,https://chem.nlm.nih.gov/chemidplus/rn/9008-11-1
+2020-09-20T03:44:21Z,Lysodren,Lysodren,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lysodren,TRUE,FALSE,TRUE, Mitotane [USAN:USP:INN:BAN:JAN],53-19-0,https://chem.nlm.nih.gov/chemidplus/rn/53-19-0
+2020-09-20T03:44:36Z,Durvalumab,Durvalumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Durvalumab,TRUE,FALSE,TRUE, Durvalumab [USAN:INN],1428935-60-7,https://chem.nlm.nih.gov/chemidplus/rn/1428935-60-7
+2020-09-20T03:44:42Z,Rescuvolin,Rescuvolin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Rescuvolin,TRUE,FALSE,TRUE, Leucovorin calcium [USP],1492-18-8,https://chem.nlm.nih.gov/chemidplus/rn/1492-18-8
