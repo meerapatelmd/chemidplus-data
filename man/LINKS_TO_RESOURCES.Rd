@@ -7,7 +7,7 @@
 \format{
 A data frame with 59609 rows and 4 variables:
 \describe{
-\item{\code{scrape_datetime}}{double COLUMN_DESCRIPTION}
+\item{\code{ltr_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{resource_agency}}{character COLUMN_DESCRIPTION}
 \item{\code{resource_link}}{character COLUMN_DESCRIPTION}
 \item{\code{rn_url}}{character COLUMN_DESCRIPTION}

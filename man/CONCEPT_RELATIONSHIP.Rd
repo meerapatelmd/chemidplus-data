@@ -7,11 +7,11 @@
 \format{
 A data frame with 47 rows and 6 variables:
 \describe{
-\item{\code{concept_id_1}}{double COLUMN_DESCRIPTION}
-\item{\code{concept_id_2}}{double COLUMN_DESCRIPTION}
+\item{\code{concept_id_1}}{character COLUMN_DESCRIPTION}
+\item{\code{concept_id_2}}{character COLUMN_DESCRIPTION}
 \item{\code{relationship_id}}{character COLUMN_DESCRIPTION}
-\item{\code{valid_start_date}}{double COLUMN_DESCRIPTION}
-\item{\code{valid_end_date}}{double COLUMN_DESCRIPTION}
+\item{\code{valid_start_date}}{character COLUMN_DESCRIPTION}
+\item{\code{valid_end_date}}{character COLUMN_DESCRIPTION}
 \item{\code{invalid_reason}}{character COLUMN_DESCRIPTION}
 }
 }
