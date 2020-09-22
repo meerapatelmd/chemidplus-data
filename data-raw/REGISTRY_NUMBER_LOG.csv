@@ -9114,3 +9114,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:21:20Z,Platidiam,Platidiam,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Platidiam,TRUE,FALSE,TRUE, Cisplatin [USAN:USP:INN:BAN:JAN],15663-27-1,https://chem.nlm.nih.gov/chemidplus/rn/15663-27-1
 2020-09-22T02:21:26Z,Danocrine,Danocrine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Danocrine,TRUE,FALSE,TRUE, Danazol [USAN:USP:INN:BAN:JAN],17230-88-5,https://chem.nlm.nih.gov/chemidplus/rn/17230-88-5
 2020-09-22T02:21:38Z,OGX-011,OGX-011,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/OGX-011,TRUE,FALSE,TRUE, Custirsen sodium [USAN],685922-56-9,https://chem.nlm.nih.gov/chemidplus/rn/685922-56-9
+2020-09-22T02:24:58Z,Padexol,Padexol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Padexol,TRUE,FALSE,TRUE, Paclitaxel [USAN:USP:INN:BAN],33069-62-4,https://chem.nlm.nih.gov/chemidplus/rn/33069-62-4
