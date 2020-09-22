@@ -8480,6 +8480,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-19T21:28:34Z,Nitrumon,Nitrumon,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nitrumon,TRUE,FALSE,TRUE, Carmustine [USAN:USP:INN:BAN],154-93-8,https://chem.nlm.nih.gov/chemidplus/rn/154-93-8
 2020-09-19T21:28:49Z,Zactima,Zactima,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zactima,TRUE,FALSE,TRUE, Vandetanib [USAN:INN:BAN:JAN],443913-73-3,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
 2020-09-19T21:29:05Z,Daunorubicin,Daunorubicin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Daunorubicin,TRUE,FALSE,TRUE, Daunorubicin [INN:BAN],20830-81-3,https://chem.nlm.nih.gov/chemidplus/rn/20830-81-3
+2020-09-20T07:39:43Z,Diphenhydramine 15 MG/ML,Diphenhydramine15MG/ML,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Diphenhydramine15MG/ML,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-19T21:29:16Z,Veliparib,Veliparib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Veliparib,TRUE,FALSE,TRUE, Veliparib [USAN:INN],912444-00-9,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9
 2020-09-19T21:29:47Z,HKI-272,HKI-272,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/HKI-272,TRUE,FALSE,TRUE, Neratinib [USAN:INN],698387-09-6,https://chem.nlm.nih.gov/chemidplus/rn/698387-09-6
 2020-09-19T21:29:53Z,Vincristinum,Vincristinum,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Vincristinum,TRUE,FALSE,TRUE, Vincristine [INN:BAN],57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
@@ -9073,3 +9074,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T05:19:04Z,"o,p′-DDD","o,p′-DDD",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/o,p′-DDD",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-20T05:29:30Z,ε-Ahx,ε-Ahx,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ε-Ahx,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-20T05:33:17Z,ε-aminocaproic acid,ε-aminocaproicacid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ε-aminocaproicacid,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-20T07:39:17Z,Nitroglycerin 2.5 MG Extended Release Oral Tablet [Nitro Delalande] Box of 50,Nitroglycerin2.5MGExtendedReleaseOralTablet[NitroDelalande]Boxof50,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Nitroglycerin2.5MGExtendedReleaseOralTablet[NitroDelalande]Boxof50,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-20T07:39:23Z,Lidocaine 40 MG/ML Topical Solution [LTA] by Hospira,Lidocaine40MG/MLTopicalSolution[LTA]byHospira,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Lidocaine40MG/MLTopicalSolution[LTA]byHospira,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-20T07:39:30Z,Tiapride 0.1 MG/MG,Tiapride0.1MG/MG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Tiapride0.1MG/MG,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-20T07:39:36Z,pantoprazole 40 MG Oral Tablet [Pantoprazol Tad] Box of 56,pantoprazole40MGOralTablet[PantoprazolTad]Boxof56,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/pantoprazole40MGOralTablet[PantoprazolTad]Boxof56,TRUE,TRUE,FALSE,NA,NA,NA
