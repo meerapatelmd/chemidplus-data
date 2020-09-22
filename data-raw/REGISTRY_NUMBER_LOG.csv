@@ -9097,3 +9097,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:09:24Z,Erivedge,Erivedge,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Erivedge,TRUE,FALSE,TRUE, Vismodegib [USAN:INN],879085-55-9,https://chem.nlm.nih.gov/chemidplus/rn/879085-55-9
 2020-09-22T02:11:08Z,Mesna,Mesna,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mesna,TRUE,FALSE,TRUE, Mesna [USAN:USP:INN:BAN],19767-45-4,https://chem.nlm.nih.gov/chemidplus/rn/19767-45-4
 2020-09-22T02:11:15Z,Cabazitaxel,Cabazitaxel,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cabazitaxel,TRUE,FALSE,TRUE, Cabazitaxel [USAN:INN],183133-96-2,https://chem.nlm.nih.gov/chemidplus/rn/183133-96-2
+2020-09-22T02:12:09Z,cyclosporin,cyclosporin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/cyclosporin,TRUE,FALSE,TRUE,Cyclosporine,59865-13-3,https://chem.nlm.nih.gov/chemidplus/rn/59865-13-3
+2020-09-22T02:12:09Z,cyclosporin,cyclosporin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/cyclosporin,TRUE,FALSE,TRUE,Cyclosporine,79217-60-0,https://chem.nlm.nih.gov/chemidplus/rn/79217-60-0
