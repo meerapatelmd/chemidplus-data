@@ -90,7 +90,7 @@
 
 #' @title REGISTRY_NUMBER_LOG
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 2 rows and 11 variables:
+#' @format A data frame with 9075 rows and 11 variables:
 #' \describe{
 #'   \item{\code{rnl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{raw_concept}}{character COLUMN_DESCRIPTION}
@@ -118,3 +118,14 @@
 #'}
 #' @details DETAILS
 "REGISTRY_NUMBERS"
+
+#' @title RN_URL_VALIDITY
+#' @description DATASET_DESCRIPTION
+#' @format A data frame with 2471 rows and 3 variables:
+#' \describe{
+#'   \item{\code{rnuv_datetime}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{is_404}}{character COLUMN_DESCRIPTION} 
+#'}
+#' @details DETAILS
+"RN_URL_VALIDITY"
