@@ -9073,4 +9073,3 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T13:19:04Z,"o,p′-DDD","o,p′-DDD",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/o,p′-DDD",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-20T13:29:30Z,ε-Ahx,ε-Ahx,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ε-Ahx,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-20T13:33:17Z,ε-aminocaproic acid,ε-aminocaproicacid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ε-aminocaproicacid,TRUE,TRUE,FALSE,NA,NA,NA
-2020-09-22T02:43:46Z,Protonix,Protonix,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Protonix,TRUE,FALSE,TRUE, Pantoprazole Sodium [USAN],138786-67-1,https://chem.nlm.nih.gov/chemidplus/rn/138786-67-1
