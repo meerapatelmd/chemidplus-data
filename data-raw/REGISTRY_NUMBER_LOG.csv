@@ -9095,3 +9095,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:08:31Z,Caplacizumab,Caplacizumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Caplacizumab,TRUE,FALSE,TRUE, Caplacizumab [USAN:INN],915810-67-2,https://chem.nlm.nih.gov/chemidplus/rn/915810-67-2
 2020-09-22T02:08:37Z,IDEC-C2B8,IDEC-C2B8,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/IDEC-C2B8,TRUE,FALSE,TRUE, Rituximab [USAN:INN:BAN],174722-31-7,https://chem.nlm.nih.gov/chemidplus/rn/174722-31-7
 2020-09-22T02:09:24Z,Erivedge,Erivedge,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Erivedge,TRUE,FALSE,TRUE, Vismodegib [USAN:INN],879085-55-9,https://chem.nlm.nih.gov/chemidplus/rn/879085-55-9
+2020-09-22T02:11:08Z,Mesna,Mesna,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mesna,TRUE,FALSE,TRUE, Mesna [USAN:USP:INN:BAN],19767-45-4,https://chem.nlm.nih.gov/chemidplus/rn/19767-45-4
+2020-09-22T02:11:15Z,Cabazitaxel,Cabazitaxel,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cabazitaxel,TRUE,FALSE,TRUE, Cabazitaxel [USAN:INN],183133-96-2,https://chem.nlm.nih.gov/chemidplus/rn/183133-96-2
