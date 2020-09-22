@@ -1,2 +1,3 @@
 rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,response_recorded,compound_match,rn,rn_url
 2020-09-22T02:41:45Z,Dibestrol,Dibestrol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dibestrol,TRUE,FALSE,TRUE, Diethylstilbestrol [USP:INN:BAN],56-53-1,https://chem.nlm.nih.gov/chemidplus/rn/56-53-1
+2020-09-22T02:42:50Z,Dalteparin,Dalteparin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dalteparin,TRUE,FALSE,TRUE, Heparin,9005-49-6,https://chem.nlm.nih.gov/chemidplus/rn/9005-49-6
