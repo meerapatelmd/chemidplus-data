@@ -9126,3 +9126,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:29:43Z,Phenytoin,Phenytoin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Phenytoin,TRUE,FALSE,TRUE, Phenytoin [USAN:USP:INN:BAN:JAN],57-41-0,https://chem.nlm.nih.gov/chemidplus/rn/57-41-0
 2020-09-22T02:30:33Z,ACE-536,ACE-536,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ACE-536,TRUE,FALSE,TRUE, Luspatercept [USAN:INN],1373715-00-4,https://chem.nlm.nih.gov/chemidplus/rn/1373715-00-4
 2020-09-22T02:30:48Z,Loverine,Loverine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Loverine,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-22T02:31:37Z,Tazemetostat,Tazemetostat,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tazemetostat,TRUE,FALSE,TRUE, Tazemetostat [USAN:INN],1403254-99-8,https://chem.nlm.nih.gov/chemidplus/rn/1403254-99-8
+2020-09-22T02:31:44Z,Raloxifene,Raloxifene,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Raloxifene,TRUE,FALSE,TRUE, Raloxifene [INN:BAN],84449-90-1,https://chem.nlm.nih.gov/chemidplus/rn/84449-90-1
