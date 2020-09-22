@@ -9140,3 +9140,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:39:50Z,Bencole,Bencole,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bencole,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
 2020-09-22T02:39:59Z,Totect,Totect,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Totect,TRUE,FALSE,TRUE,Dexrazoxane hydrochloride,149003-01-0,https://chem.nlm.nih.gov/chemidplus/rn/149003-01-0
 2020-09-22T02:39:59Z,Totect,Totect,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Totect,TRUE,FALSE,TRUE,Dexrazoxane hydrochloride,1263283-43-7,https://chem.nlm.nih.gov/chemidplus/rn/1263283-43-7
+2020-09-22T02:40:52Z,Lucanix,Lucanix,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lucanix,TRUE,FALSE,TRUE, Belagenpumatucel L,1151760-94-9,https://chem.nlm.nih.gov/chemidplus/rn/1151760-94-9
+2020-09-22T02:40:58Z,Lorlatinib,Lorlatinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lorlatinib,TRUE,FALSE,TRUE, Lorlatinib [USAN:INN],1454846-35-5,https://chem.nlm.nih.gov/chemidplus/rn/1454846-35-5
