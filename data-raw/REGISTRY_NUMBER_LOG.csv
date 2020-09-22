@@ -9105,3 +9105,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:14:14Z,Compro,Compro,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Compro,TRUE,FALSE,TRUE, Prochlorperazine [USP:INN:BAN:JAN],58-38-8,https://chem.nlm.nih.gov/chemidplus/rn/58-38-8
 2020-09-22T02:15:49Z,IMC-11F8,IMC-11F8,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/IMC-11F8,TRUE,FALSE,TRUE, Necitumumab [USAN:INN],906805-06-9,https://chem.nlm.nih.gov/chemidplus/rn/906805-06-9
 2020-09-22T02:15:55Z,Meladinine,Meladinine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Meladinine,TRUE,FALSE,TRUE, Methoxsalen [USP:BAN:JAN],298-81-7,https://chem.nlm.nih.gov/chemidplus/rn/298-81-7
+2020-09-22T02:17:35Z,Prolix,Prolix,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Prolix,TRUE,FALSE,TRUE, Apazone [USAN],13539-59-8,https://chem.nlm.nih.gov/chemidplus/rn/13539-59-8
