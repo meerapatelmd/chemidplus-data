@@ -9089,3 +9089,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:04:31Z,TSPA,TSPA,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/TSPA,TRUE,FALSE,TRUE, Thiotepa [USP:INN:BAN:JAN],52-24-4,https://chem.nlm.nih.gov/chemidplus/rn/52-24-4
 2020-09-22T02:04:46Z,Fluorouracilo,Fluorouracilo,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fluorouracilo,TRUE,FALSE,TRUE, Fluorouracil [USAN:USP:INN:BAN:JAN],51-21-8,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
 2020-09-22T02:04:57Z,Decortisyl,Decortisyl,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Decortisyl,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-22T02:05:50Z,Scopolamine,Scopolamine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Scopolamine,TRUE,FALSE,TRUE, Scopolamine,51-34-3,https://chem.nlm.nih.gov/chemidplus/rn/51-34-3
