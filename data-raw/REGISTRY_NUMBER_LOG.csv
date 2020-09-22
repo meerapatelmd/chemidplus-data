@@ -9132,3 +9132,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:32:40Z,Teniposide,Teniposide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Teniposide,TRUE,FALSE,TRUE, Teniposide [USAN:INN:BAN],29767-20-2,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
 2020-09-22T02:32:55Z,Berlocid,Berlocid,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Berlocid,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
 2020-09-22T02:33:02Z,Keflex,Keflex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Keflex,TRUE,FALSE,TRUE,Cephalexin hydrate,23325-78-2,https://chem.nlm.nih.gov/chemidplus/rn/23325-78-2
+2020-09-22T02:35:23Z,Nolatrexed,Nolatrexed,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nolatrexed,TRUE,FALSE,TRUE, Nolatrexed [INN],147149-76-6,https://chem.nlm.nih.gov/chemidplus/rn/147149-76-6
