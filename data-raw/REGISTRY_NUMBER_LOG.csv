@@ -9083,3 +9083,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T01:59:55Z,Zarnestra,Zarnestra,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zarnestra,TRUE,FALSE,TRUE, Tipifarnib [USAN:INN],192185-72-1,https://chem.nlm.nih.gov/chemidplus/rn/192185-72-1
 2020-09-22T02:00:48Z,Venclexta,Venclexta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Venclexta,TRUE,FALSE,TRUE, Venetoclax [USAN:INN],1257044-40-8,https://chem.nlm.nih.gov/chemidplus/rn/1257044-40-8
 2020-09-22T02:01:01Z,Erdafitinib,Erdafitinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Erdafitinib,TRUE,FALSE,TRUE, Erdafitinib [USAN:INN],1346242-81-6,https://chem.nlm.nih.gov/chemidplus/rn/1346242-81-6
+2020-09-22T02:01:53Z,Zelitrex,Zelitrex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zelitrex,TRUE,FALSE,TRUE, Valacyclovir hydrochloride [USAN:USP],124832-27-5,https://chem.nlm.nih.gov/chemidplus/rn/124832-27-5
