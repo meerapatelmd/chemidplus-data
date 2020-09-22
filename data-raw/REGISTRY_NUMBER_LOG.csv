@@ -9079,3 +9079,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T07:39:30Z,Tiapride 0.1 MG/MG,Tiapride0.1MG/MG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Tiapride0.1MG/MG,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-20T07:39:36Z,pantoprazole 40 MG Oral Tablet [Pantoprazol Tad] Box of 56,pantoprazole40MGOralTablet[PantoprazolTad]Boxof56,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/pantoprazole40MGOralTablet[PantoprazolTad]Boxof56,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-22T01:58:20Z,Citomid,Citomid,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Citomid,TRUE,FALSE,TRUE, Vincristine [INN:BAN],57-22-7,https://chem.nlm.nih.gov/chemidplus/rn/57-22-7
+2020-09-22T01:59:14Z,Metastron,Metastron,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Metastron,TRUE,FALSE,TRUE, Strontium chloride Sr 89 [USAN:USP],38270-90-5,https://chem.nlm.nih.gov/chemidplus/rn/38270-90-5
