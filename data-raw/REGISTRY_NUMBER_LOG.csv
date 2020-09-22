@@ -9120,3 +9120,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:26:06Z,Trimesulf,Trimesulf,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Trimesulf,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
 2020-09-22T02:26:50Z,254-S,254-S,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/254-S,TRUE,FALSE,TRUE, Nedaplatin [INN],95734-82-0,https://chem.nlm.nih.gov/chemidplus/rn/95734-82-0
 2020-09-22T02:26:59Z,daunomycin,daunomycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/daunomycin,TRUE,FALSE,TRUE, Daunorubicin [INN:BAN],20830-81-3,https://chem.nlm.nih.gov/chemidplus/rn/20830-81-3
+2020-09-22T02:27:44Z,Isotretinoin,Isotretinoin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Isotretinoin,TRUE,FALSE,TRUE, Isotretinoin [USAN:USP:INN:BAN],4759-48-2,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
+2020-09-22T02:27:53Z,Cotribene,Cotribene,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cotribene,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-22T02:28:05Z,Carzonal,Carzonal,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Carzonal,TRUE,FALSE,TRUE, Fluorouracil [USAN:USP:INN:BAN:JAN],51-21-8,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
