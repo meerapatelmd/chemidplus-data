@@ -9118,3 +9118,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:25:44Z,Arendal,Arendal,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Arendal,TRUE,FALSE,TRUE, Alendronic acid [INN:BAN],66376-36-1,https://chem.nlm.nih.gov/chemidplus/rn/66376-36-1
 2020-09-22T02:25:50Z,Aspen,Aspen,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Aspen,TRUE,FALSE,TRUE," Poplar, Populus tremula, ext.",90083-04-8,https://chem.nlm.nih.gov/chemidplus/rn/90083-04-8
 2020-09-22T02:26:06Z,Trimesulf,Trimesulf,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Trimesulf,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-22T02:26:50Z,254-S,254-S,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/254-S,TRUE,FALSE,TRUE, Nedaplatin [INN],95734-82-0,https://chem.nlm.nih.gov/chemidplus/rn/95734-82-0
+2020-09-22T02:26:59Z,daunomycin,daunomycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/daunomycin,TRUE,FALSE,TRUE, Daunorubicin [INN:BAN],20830-81-3,https://chem.nlm.nih.gov/chemidplus/rn/20830-81-3
