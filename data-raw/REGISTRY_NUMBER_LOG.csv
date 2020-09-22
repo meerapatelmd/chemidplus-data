@@ -9108,3 +9108,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:17:35Z,Prolix,Prolix,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Prolix,TRUE,FALSE,TRUE, Apazone [USAN],13539-59-8,https://chem.nlm.nih.gov/chemidplus/rn/13539-59-8
 2020-09-22T02:18:30Z,PCC,PCC,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PCC,TRUE,FALSE,TRUE, 1-Piperidinocyclohexanecarbonitrile,3867-15-0,https://chem.nlm.nih.gov/chemidplus/rn/3867-15-0
 2020-09-22T02:18:42Z,adalimumab,adalimumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/adalimumab,TRUE,FALSE,TRUE, Adalimumab [USAN:INN:BAN],331731-18-1,https://chem.nlm.nih.gov/chemidplus/rn/331731-18-1
+2020-09-22T02:19:25Z,Suprax,Suprax,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Suprax,TRUE,FALSE,TRUE, Cefixime [USAN:USP:INN:BAN:JAN],79350-37-1,https://chem.nlm.nih.gov/chemidplus/rn/79350-37-1
