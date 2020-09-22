@@ -9099,3 +9099,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:11:15Z,Cabazitaxel,Cabazitaxel,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cabazitaxel,TRUE,FALSE,TRUE, Cabazitaxel [USAN:INN],183133-96-2,https://chem.nlm.nih.gov/chemidplus/rn/183133-96-2
 2020-09-22T02:12:09Z,cyclosporin,cyclosporin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/cyclosporin,TRUE,FALSE,TRUE,Cyclosporine,59865-13-3,https://chem.nlm.nih.gov/chemidplus/rn/59865-13-3
 2020-09-22T02:12:09Z,cyclosporin,cyclosporin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/cyclosporin,TRUE,FALSE,TRUE,Cyclosporine,79217-60-0,https://chem.nlm.nih.gov/chemidplus/rn/79217-60-0
+2020-09-22T02:13:05Z,E5501,E5501,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/E5501,TRUE,FALSE,TRUE, Avatrombopag [USAN:INN],570406-98-3,https://chem.nlm.nih.gov/chemidplus/rn/570406-98-3
