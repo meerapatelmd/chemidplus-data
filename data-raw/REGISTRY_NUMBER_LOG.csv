@@ -9135,3 +9135,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-22T02:35:23Z,Nolatrexed,Nolatrexed,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nolatrexed,TRUE,FALSE,TRUE, Nolatrexed [INN],147149-76-6,https://chem.nlm.nih.gov/chemidplus/rn/147149-76-6
 2020-09-22T02:36:08Z,LEE011,LEE011,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/LEE011,TRUE,FALSE,TRUE, Ribociclib [USAN:INN],1211441-98-3,https://chem.nlm.nih.gov/chemidplus/rn/1211441-98-3
 2020-09-22T02:36:24Z,Ultandren,Ultandren,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ultandren,TRUE,FALSE,TRUE, Fluoxymesterone [USP:INN:BAN:JAN],76-43-7,https://chem.nlm.nih.gov/chemidplus/rn/76-43-7
+2020-09-22T02:37:58Z,tildrakizumab,tildrakizumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/tildrakizumab,TRUE,FALSE,TRUE, Tildrakizumab [USAN:INN],1326244-10-3,https://chem.nlm.nih.gov/chemidplus/rn/1326244-10-3
+2020-09-22T02:38:07Z,Denosumab,Denosumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Denosumab,TRUE,FALSE,TRUE, Denosumab [USAN:INN:BAN],615258-40-7,https://chem.nlm.nih.gov/chemidplus/rn/615258-40-7
