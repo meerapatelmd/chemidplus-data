@@ -6121,12 +6121,9 @@ concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concep
 920031789,Treatment of Transplant Rejections,Drug,ChemiDPlus,NA,C,NA,2020-09-20,2099-12-31,NA
 920031790,Treatment of Ulcerative Colitis,Drug,ChemiDPlus,NA,C,NA,2020-09-20,2099-12-31,NA
 920031791,Treatment of Ulcerative Colitis and Crohn's Disease,Drug,ChemiDPlus,NA,C,NA,2020-09-20,2099-12-31,NA
-<<<<<<< HEAD
 35803249,Perifosine,Drug,ChemiDPlus,equals,"NA",157716-52-4,2020-09-23 -04,2099-12-31 -05,"NA"
 35803024,Dronabinol,Drug,ChemiDPlus,equals,"NA",1972-08-3,2020-09-23 -04,2099-12-31 -05,"NA"
 35803078,Fluoxymesterone,Drug,ChemiDPlus,equals,"NA",76-43-7,2020-09-23 -04,2099-12-31 -05,"NA"
 35803379,Varlilumab,Drug,ChemiDPlus,equals,"NA",1393344-72-3,2020-09-23 -04,2099-12-31 -05,"NA"
 35100186,Tibone,Drug,ChemiDPlus,equals,"NA",104-06-3,2020-09-23 -04,2099-12-31 -05,"NA"
 19011067,temoporfin,Drug,ChemiDPlus,equals,"NA",122341-38-2,2020-09-23 -04,2099-12-31 -05,"NA"
-=======
->>>>>>> e58f374f5b533b91f3c603baf79f432689372197
