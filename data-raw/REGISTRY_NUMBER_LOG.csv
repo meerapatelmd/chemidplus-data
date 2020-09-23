@@ -9087,3 +9087,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:31:50Z,Zejula,Zejula,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zejula,TRUE,FALSE,TRUE,Niraparib tosylate monohydrate,1613220-15-7,https://chem.nlm.nih.gov/chemidplus/rn/1613220-15-7
 2020-09-23T07:32:06Z,MCNU,MCNU,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MCNU,TRUE,FALSE,TRUE, Ranimustine [INN:JAN],58994-96-0,https://chem.nlm.nih.gov/chemidplus/rn/58994-96-0
 2020-09-23T07:32:59Z,Lagatrim,Lagatrim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lagatrim,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
+2020-09-23T07:33:47Z,Leuprolide,Leuprolide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Leuprolide,TRUE,FALSE,TRUE, Leuprorelin [INN:BAN],53714-56-0,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
