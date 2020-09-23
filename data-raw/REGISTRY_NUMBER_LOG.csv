@@ -9138,3 +9138,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:58:44Z,Blenoxane,Blenoxane,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Blenoxane,TRUE,FALSE,TRUE, Bleomycin sulfate [USAN:USP:JAN],9041-93-4,https://chem.nlm.nih.gov/chemidplus/rn/9041-93-4
 2020-09-23T07:58:55Z,Obinutuzumab,Obinutuzumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Obinutuzumab,TRUE,FALSE,TRUE, Obinutuzumab [USAN:INN],949142-50-1,https://chem.nlm.nih.gov/chemidplus/rn/949142-50-1
 2020-09-23T07:59:22Z,Bavituximab,Bavituximab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bavituximab,TRUE,FALSE,TRUE, Bavituximab [USAN:INN],648904-28-3,https://chem.nlm.nih.gov/chemidplus/rn/648904-28-3
+2020-09-23T07:59:44Z,Zyloprim,Zyloprim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zyloprim,TRUE,FALSE,TRUE, Allopurinol [USAN:USP:INN:BAN:JAN],315-30-0,https://chem.nlm.nih.gov/chemidplus/rn/315-30-0
