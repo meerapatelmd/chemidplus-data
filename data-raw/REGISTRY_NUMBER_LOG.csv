@@ -9140,3 +9140,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:59:22Z,Bavituximab,Bavituximab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bavituximab,TRUE,FALSE,TRUE, Bavituximab [USAN:INN],648904-28-3,https://chem.nlm.nih.gov/chemidplus/rn/648904-28-3
 2020-09-23T07:59:44Z,Zyloprim,Zyloprim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zyloprim,TRUE,FALSE,TRUE, Allopurinol [USAN:USP:INN:BAN:JAN],315-30-0,https://chem.nlm.nih.gov/chemidplus/rn/315-30-0
 2020-09-23T08:00:47Z,Rubidomycin,Rubidomycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Rubidomycin,TRUE,FALSE,TRUE, Daunorubicin [INN:BAN],20830-81-3,https://chem.nlm.nih.gov/chemidplus/rn/20830-81-3
+2020-09-23T08:01:14Z,Retinoid,Retinoid,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Retinoid,TRUE,FALSE,TRUE, Etretinate [USAN:INN:BAN:JAN],54350-48-0,https://chem.nlm.nih.gov/chemidplus/rn/54350-48-0
+2020-09-23T08:01:31Z,Halotestin,Halotestin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Halotestin,TRUE,FALSE,TRUE, Fluoxymesterone [USP:INN:BAN:JAN],76-43-7,https://chem.nlm.nih.gov/chemidplus/rn/76-43-7
+2020-09-23T08:01:42Z,Nelarabine,Nelarabine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nelarabine,TRUE,FALSE,TRUE, Nelarabine [USAN:INN:BAN],121032-29-9,https://chem.nlm.nih.gov/chemidplus/rn/121032-29-9
