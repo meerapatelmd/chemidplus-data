@@ -9089,3 +9089,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:32:59Z,Lagatrim,Lagatrim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lagatrim,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
 2020-09-23T07:33:47Z,Leuprolide,Leuprolide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Leuprolide,TRUE,FALSE,TRUE, Leuprorelin [INN:BAN],53714-56-0,https://chem.nlm.nih.gov/chemidplus/rn/53714-56-0
 2020-09-23T07:34:38Z,Femara,Femara,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Femara,TRUE,FALSE,TRUE, Letrozole [USAN:USP:INN:BAN],112809-51-5,https://chem.nlm.nih.gov/chemidplus/rn/112809-51-5
+2020-09-23T07:35:12Z,Anandron,Anandron,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Anandron,TRUE,FALSE,TRUE, Nilutamide [USAN:INN:BAN],63612-50-0,https://chem.nlm.nih.gov/chemidplus/rn/63612-50-0
+2020-09-23T07:35:31Z,belatacept,belatacept,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/belatacept,TRUE,FALSE,TRUE, Belatacept [USAN:INN],706808-37-9,https://chem.nlm.nih.gov/chemidplus/rn/706808-37-9
