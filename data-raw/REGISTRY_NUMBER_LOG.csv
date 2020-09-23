@@ -9164,3 +9164,9 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T17:04:29Z,Aminopterin,Aminopterin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Aminopterin,TRUE,FALSE,TRUE, Aminopterin,54-62-6,https://chem.nlm.nih.gov/chemidplus/rn/54-62-6
 2020-09-23T17:04:46Z,siponimod,siponimod,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/siponimod,TRUE,FALSE,TRUE, Siponimod [USAN:INN],1230487-00-9,https://chem.nlm.nih.gov/chemidplus/rn/1230487-00-9
 2020-09-23T17:04:56Z,Etoposide,Etoposide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Etoposide,TRUE,FALSE,TRUE, Etoposide [USAN:USP:INN:BAN:JAN],33419-42-0,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-23T17:07:47Z,PR-171,PR-171,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PR-171,TRUE,FALSE,TRUE, Carfilzomib [USAN:INN],868540-17-4,https://chem.nlm.nih.gov/chemidplus/rn/868540-17-4
+2020-09-23T17:08:41Z,Lutathera,Lutathera,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lutathera,TRUE,FALSE,TRUE, Dotatate lutenium Lu-177,437608-50-9,https://chem.nlm.nih.gov/chemidplus/rn/437608-50-9
+2020-09-23T17:08:58Z,NEOD001,NEOD001,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/NEOD001,TRUE,FALSE,TRUE, Birtamimab [USAN],1608108-91-3,https://chem.nlm.nih.gov/chemidplus/rn/1608108-91-3
+2020-09-23T17:09:19Z,MabThera,MabThera,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MabThera,TRUE,FALSE,TRUE, Rituximab [USAN:INN:BAN],174722-31-7,https://chem.nlm.nih.gov/chemidplus/rn/174722-31-7
+2020-09-23T17:09:58Z,CCNU,CCNU,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CCNU,TRUE,FALSE,TRUE, Lomustine [USAN:INN:BAN],13010-47-4,https://chem.nlm.nih.gov/chemidplus/rn/13010-47-4
+2020-09-23T17:10:31Z,Teniposide,Teniposide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Teniposide,TRUE,FALSE,TRUE, Teniposide [USAN:INN:BAN],29767-20-2,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
