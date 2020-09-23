@@ -9251,3 +9251,13 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T18:01:14Z,Faridak,Faridak,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Faridak,TRUE,FALSE,TRUE, Panobinostat [USAN:INN],404950-80-7,https://chem.nlm.nih.gov/chemidplus/rn/404950-80-7
 2020-09-23T18:01:36Z,IVIG,IVIG,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/IVIG,TRUE,FALSE,TRUE,Immunoglobulin G,308067-58-5,https://chem.nlm.nih.gov/chemidplus/rn/308067-58-5
 2020-09-23T18:01:36Z,IVIG,IVIG,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/IVIG,TRUE,FALSE,TRUE,Rhophylac,500307-87-9,https://chem.nlm.nih.gov/chemidplus/rn/500307-87-9
+2020-09-23T18:02:53Z,Deltacortril,Deltacortril,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Deltacortril,TRUE,FALSE,TRUE, Prednisolone [INN:BAN:JAN],50-24-8,https://chem.nlm.nih.gov/chemidplus/rn/50-24-8
+2020-09-23T18:03:31Z,Clodron,Clodron,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Clodron,TRUE,FALSE,TRUE, Clodronic acid disodium salt,22560-50-5,https://chem.nlm.nih.gov/chemidplus/rn/22560-50-5
+2020-09-23T18:03:52Z,SKI-606,SKI-606,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SKI-606,TRUE,FALSE,TRUE, Bosutinib [USAN:INN],380843-75-4,https://chem.nlm.nih.gov/chemidplus/rn/380843-75-4
+2020-09-23T18:04:09Z,PF-02341066,PF-02341066,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PF-02341066,TRUE,FALSE,TRUE, Crizotinib [USAN:INN],877399-52-5,https://chem.nlm.nih.gov/chemidplus/rn/877399-52-5
+2020-09-23T18:05:08Z,Ledertrexate,Ledertrexate,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ledertrexate,TRUE,FALSE,TRUE,Methotrexate disodium salt,7413-34-5,https://chem.nlm.nih.gov/chemidplus/rn/7413-34-5
+2020-09-23T18:05:19Z,Pembrolizumab,Pembrolizumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Pembrolizumab,TRUE,FALSE,TRUE, Pembrolizumab [USAN:INN],1374853-91-4,https://chem.nlm.nih.gov/chemidplus/rn/1374853-91-4
+2020-09-23T18:06:29Z,pipobroman,pipobroman,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/pipobroman,TRUE,FALSE,TRUE, Pipobroman [USAN:USP:INN],54-91-1,https://chem.nlm.nih.gov/chemidplus/rn/54-91-1
+2020-09-23T18:06:56Z,Rhodine,Rhodine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Rhodine,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-23T18:07:18Z,Cilostazol,Cilostazol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cilostazol,TRUE,FALSE,TRUE, Cilostazol [USAN:USP:INN:BAN:JAN],73963-72-1,https://chem.nlm.nih.gov/chemidplus/rn/73963-72-1
+2020-09-23T18:07:45Z,5 FU,5FU,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/5FU,TRUE,FALSE,TRUE, Fluorouracil [USAN:USP:INN:BAN:JAN],51-21-8,https://chem.nlm.nih.gov/chemidplus/rn/51-21-8
