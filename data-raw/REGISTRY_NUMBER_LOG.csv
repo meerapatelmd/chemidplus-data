@@ -9073,3 +9073,9 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T13:19:04Z,"o,p′-DDD","o,p′-DDD",contains,"https://chem.nlm.nih.gov/chemidplus/name/contains/o,p′-DDD",TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-20T13:29:30Z,ε-Ahx,ε-Ahx,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ε-Ahx,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-20T13:33:17Z,ε-aminocaproic acid,ε-aminocaproicacid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ε-aminocaproicacid,TRUE,TRUE,FALSE,NA,NA,NA
+2020-09-23T07:17:47Z,Perifosine,Perifosine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Perifosine,TRUE,FALSE,TRUE, Perifosine [INN],157716-52-4,https://chem.nlm.nih.gov/chemidplus/rn/157716-52-4
+2020-09-23T07:17:54Z,Dronabinol,Dronabinol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dronabinol,TRUE,FALSE,TRUE, Dronabinol [USAN:USP:INN],1972-08-3,https://chem.nlm.nih.gov/chemidplus/rn/1972-08-3
+2020-09-23T07:18:03Z,Fluoxymesterone,Fluoxymesterone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fluoxymesterone,TRUE,FALSE,TRUE, Fluoxymesterone [USP:INN:BAN:JAN],76-43-7,https://chem.nlm.nih.gov/chemidplus/rn/76-43-7
+2020-09-23T07:29:41Z,Varlilumab,Varlilumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Varlilumab,TRUE,FALSE,TRUE, Varlilumab [USAN:INN],1393344-72-3,https://chem.nlm.nih.gov/chemidplus/rn/1393344-72-3
+2020-09-23T07:29:51Z,Tibone,Tibone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tibone,TRUE,FALSE,TRUE, Thioacetazone [INN:BAN],104-06-3,https://chem.nlm.nih.gov/chemidplus/rn/104-06-3
+2020-09-23T07:30:00Z,temoporfin,temoporfin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/temoporfin,TRUE,FALSE,TRUE, Temoporfin [USAN:INN:BAN],122341-38-2,https://chem.nlm.nih.gov/chemidplus/rn/122341-38-2
