@@ -9083,3 +9083,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:30:47Z,Acalabrutinib,Acalabrutinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Acalabrutinib,TRUE,FALSE,TRUE, Acalabrutinib [USAN:INN],1420477-60-6,https://chem.nlm.nih.gov/chemidplus/rn/1420477-60-6
 2020-09-23T07:30:51Z,Demerol,Demerol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Demerol,TRUE,FALSE,TRUE,Meperidine,57-42-1,https://chem.nlm.nih.gov/chemidplus/rn/57-42-1
 2020-09-23T07:30:57Z,Warfilone,Warfilone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Warfilone,TRUE,FALSE,TRUE, Warfarin sodium [USP],129-06-6,https://chem.nlm.nih.gov/chemidplus/rn/129-06-6
+2020-09-23T07:31:50Z,Zejula,Zejula,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zejula,TRUE,FALSE,TRUE,Niraparib tosylate,1038915-73-9,https://chem.nlm.nih.gov/chemidplus/rn/1038915-73-9
+2020-09-23T07:31:50Z,Zejula,Zejula,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zejula,TRUE,FALSE,TRUE,Niraparib tosylate monohydrate,1613220-15-7,https://chem.nlm.nih.gov/chemidplus/rn/1613220-15-7
+2020-09-23T07:32:06Z,MCNU,MCNU,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MCNU,TRUE,FALSE,TRUE, Ranimustine [INN:JAN],58994-96-0,https://chem.nlm.nih.gov/chemidplus/rn/58994-96-0
