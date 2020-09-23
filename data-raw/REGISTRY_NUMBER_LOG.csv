@@ -9154,3 +9154,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T08:05:39Z,Anset,Anset,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anset,TRUE,FALSE,TRUE,C.I. Disperse Blue 3,2475-46-9,https://chem.nlm.nih.gov/chemidplus/rn/2475-46-9
 2020-09-23T08:05:39Z,Anset,Anset,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anset,TRUE,FALSE,TRUE,2-Methoxyethyl dimethylolcarbamate,10143-22-3,https://chem.nlm.nih.gov/chemidplus/rn/10143-22-3
 2020-09-23T08:05:39Z,Anset,Anset,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anset,TRUE,FALSE,TRUE,C.I. Disperse Red 60,17418-58-5,https://chem.nlm.nih.gov/chemidplus/rn/17418-58-5
+2020-09-23T08:17:07Z,histamine,histamine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/histamine,TRUE,FALSE,TRUE,Histamine hydrochloride,55-36-7,https://chem.nlm.nih.gov/chemidplus/rn/55-36-7
