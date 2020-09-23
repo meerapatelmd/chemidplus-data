@@ -9116,3 +9116,8 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:46:54Z,Quixidar,Quixidar,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Quixidar,TRUE,FALSE,TRUE, Fondaparinux sodium [USAN:INN:BAN],114870-03-0,https://chem.nlm.nih.gov/chemidplus/rn/114870-03-0
 2020-09-23T07:47:11Z,Texate,Texate,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Texate,TRUE,FALSE,TRUE, Methotrexate [USAN:USP:INN:BAN:JAN],59-05-2,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
 2020-09-23T07:47:49Z,ALXN1210,ALXN1210,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ALXN1210,TRUE,FALSE,TRUE, Ravulizumab [USAN],1803171-55-2,https://chem.nlm.nih.gov/chemidplus/rn/1803171-55-2
+2020-09-23T07:48:08Z,SL-401,SL-401,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SL-401,TRUE,FALSE,TRUE, Tagraxofusp [USAN:INN],2055491-00-2,https://chem.nlm.nih.gov/chemidplus/rn/2055491-00-2
+2020-09-23T07:48:19Z,Decorten,Decorten,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Decorten,TRUE,FALSE,TRUE, Desoxycorticosterone acetate [USP],56-47-3,https://chem.nlm.nih.gov/chemidplus/rn/56-47-3
+2020-09-23T07:48:29Z,Ifex,Ifex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ifex,TRUE,FALSE,TRUE, Ifosfamide [USAN:USP:INN:BAN:JAN],3778-73-2,https://chem.nlm.nih.gov/chemidplus/rn/3778-73-2
+2020-09-23T07:49:01Z,Aphtasolon,Aphtasolon,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Aphtasolon,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-23T07:49:11Z,Duvelisib,Duvelisib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Duvelisib,TRUE,FALSE,TRUE, Duvelisib [USAN:INN],1201438-56-3,https://chem.nlm.nih.gov/chemidplus/rn/1201438-56-3
