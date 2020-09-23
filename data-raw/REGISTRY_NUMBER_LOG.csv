@@ -9127,3 +9127,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:51:14Z,alitretinoin,alitretinoin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/alitretinoin,TRUE,FALSE,TRUE, Alitretinoin [USAN:INN:BAN],5300-03-8,https://chem.nlm.nih.gov/chemidplus/rn/5300-03-8
 2020-09-23T07:51:47Z,Bufferin,Bufferin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bufferin,TRUE,FALSE,TRUE,Aspirin mixture with aluminum glycinate and magnesium carbonate,53664-49-6,https://chem.nlm.nih.gov/chemidplus/rn/53664-49-6
 2020-09-23T07:52:03Z,Caxeta,Caxeta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Caxeta,TRUE,FALSE,TRUE, Capecitabine [USAN:USP:INN:BAN],154361-50-9,https://chem.nlm.nih.gov/chemidplus/rn/154361-50-9
+2020-09-23T07:53:13Z,Perjeta,Perjeta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Perjeta,TRUE,FALSE,TRUE, Pertuzumab [USAN:INN:BAN],380610-27-5,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5
+2020-09-23T07:53:50Z,Bacticel,Bacticel,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bacticel,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
