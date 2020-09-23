@@ -9149,3 +9149,8 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T08:04:13Z,Compro,Compro,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Compro,TRUE,FALSE,TRUE, Prochlorperazine [USP:INN:BAN:JAN],58-38-8,https://chem.nlm.nih.gov/chemidplus/rn/58-38-8
 2020-09-23T08:04:51Z,Sipuleucel-T,Sipuleucel-T,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sipuleucel-T,TRUE,FALSE,TRUE, Sipuleucel-T [USAN],917381-47-6,https://chem.nlm.nih.gov/chemidplus/rn/917381-47-6
 2020-09-23T08:05:02Z,Opdivo,Opdivo,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Opdivo,TRUE,FALSE,TRUE, Nivolumab [USAN:INN],946414-94-4,https://chem.nlm.nih.gov/chemidplus/rn/946414-94-4
+2020-09-23T08:05:39Z,Anset,Anset,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anset,TRUE,FALSE,TRUE,Alizurol purple,81-48-1,https://chem.nlm.nih.gov/chemidplus/rn/81-48-1
+2020-09-23T08:05:39Z,Anset,Anset,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anset,TRUE,FALSE,TRUE,"9,10-Anthracenedione, 1,4-diamino-",128-95-0,https://chem.nlm.nih.gov/chemidplus/rn/128-95-0
+2020-09-23T08:05:39Z,Anset,Anset,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anset,TRUE,FALSE,TRUE,C.I. Disperse Blue 3,2475-46-9,https://chem.nlm.nih.gov/chemidplus/rn/2475-46-9
+2020-09-23T08:05:39Z,Anset,Anset,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anset,TRUE,FALSE,TRUE,2-Methoxyethyl dimethylolcarbamate,10143-22-3,https://chem.nlm.nih.gov/chemidplus/rn/10143-22-3
+2020-09-23T08:05:39Z,Anset,Anset,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Anset,TRUE,FALSE,TRUE,C.I. Disperse Red 60,17418-58-5,https://chem.nlm.nih.gov/chemidplus/rn/17418-58-5
