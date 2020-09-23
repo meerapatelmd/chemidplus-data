@@ -9132,3 +9132,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:55:05Z,Mithracin,Mithracin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mithracin,TRUE,FALSE,TRUE, Plicamycin [USAN:USP:INN:BAN],18378-89-7,https://chem.nlm.nih.gov/chemidplus/rn/18378-89-7
 2020-09-23T07:55:12Z,baricitinib,baricitinib,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/baricitinib,TRUE,FALSE,TRUE,Baricitinib phosphate,1187595-84-1,https://chem.nlm.nih.gov/chemidplus/rn/1187595-84-1
 2020-09-23T07:56:35Z,Ceritinib,Ceritinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ceritinib,TRUE,FALSE,TRUE, Ceritinib [USAN:INN],1032900-25-6,https://chem.nlm.nih.gov/chemidplus/rn/1032900-25-6
+2020-09-23T07:57:24Z,Caplenal,Caplenal,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Caplenal,TRUE,FALSE,TRUE, Allopurinol [USAN:USP:INN:BAN:JAN],315-30-0,https://chem.nlm.nih.gov/chemidplus/rn/315-30-0
