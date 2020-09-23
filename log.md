@@ -11110,3 +11110,9 @@ Timestamp	Activity Type	Function	File	Details
 2020-09-23 03:37:00	read	simply_read_csv	/Users/meerapatel/GitHub/chemidplusData//data-raw//REGISTRY_NUMBER_LOG.csv	
 2020-09-23 03:37:00	read	simply_read_csv	/Users/meerapatel/GitHub/chemidplusData//data-raw//REGISTRY_NUMBERS.csv	
 2020-09-23 03:37:00	read	simply_read_csv	/Users/meerapatel/GitHub/chemidplusData//data-raw//RN_URL_VALIDITY.csv	
+2020-09-23 03:38:03	write	simply_write_csv	/Users/meerapatel/GitHub/chemidplusData//data-raw//CLASSIFICATION.csv	
+2020-09-23 03:38:03	write	simply_write_csv	/Users/meerapatel/GitHub/chemidplusData//data-raw//CONCEPT.csv	
+2020-09-23 03:38:03	write	simply_write_csv	/Users/meerapatel/GitHub/chemidplusData//data-raw//CONCEPT_ANCESTOR.csv	
+2020-09-23 03:38:03	write	simply_write_csv	/Users/meerapatel/GitHub/chemidplusData//data-raw//CONCEPT_RELATIONSHIP.csv	
+2020-09-23 03:38:03	write	simply_write_csv	/Users/meerapatel/GitHub/chemidplusData//data-raw//CONCEPT_SYNONYM.csv	
+2020-09-23 03:38:03	write	simply_write_csv	/Users/meerapatel/GitHub/chemidplusData//data-raw//LINKS_TO_RESOURCES.csv	
