@@ -9143,3 +9143,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T08:01:14Z,Retinoid,Retinoid,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Retinoid,TRUE,FALSE,TRUE, Etretinate [USAN:INN:BAN:JAN],54350-48-0,https://chem.nlm.nih.gov/chemidplus/rn/54350-48-0
 2020-09-23T08:01:31Z,Halotestin,Halotestin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Halotestin,TRUE,FALSE,TRUE, Fluoxymesterone [USP:INN:BAN:JAN],76-43-7,https://chem.nlm.nih.gov/chemidplus/rn/76-43-7
 2020-09-23T08:01:42Z,Nelarabine,Nelarabine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nelarabine,TRUE,FALSE,TRUE, Nelarabine [USAN:INN:BAN],121032-29-9,https://chem.nlm.nih.gov/chemidplus/rn/121032-29-9
+2020-09-23T08:02:29Z,Zytiga,Zytiga,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zytiga,TRUE,FALSE,TRUE, Abiraterone acetate [USAN],154229-18-2,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
