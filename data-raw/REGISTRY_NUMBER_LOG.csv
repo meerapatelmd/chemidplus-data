@@ -9097,3 +9097,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:36:30Z,Pronison,Pronison,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Pronison,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
 2020-09-23T07:36:37Z,Imexim,Imexim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Imexim,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
 2020-09-23T07:36:49Z,Adriacin,Adriacin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Adriacin,TRUE,FALSE,TRUE, Doxorubicin hydrochloride [USP:JAN],25316-40-9,https://chem.nlm.nih.gov/chemidplus/rn/25316-40-9
+2020-09-23T07:37:39Z,Lucanix,Lucanix,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lucanix,TRUE,FALSE,TRUE, Belagenpumatucel L,1151760-94-9,https://chem.nlm.nih.gov/chemidplus/rn/1151760-94-9
+2020-09-23T07:37:46Z,Conmana,Conmana,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Conmana,TRUE,FALSE,TRUE, Icotinib,610798-31-7,https://chem.nlm.nih.gov/chemidplus/rn/610798-31-7
+2020-09-23T07:37:52Z,hydroxydaunorubicin,hydroxydaunorubicin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/hydroxydaunorubicin,TRUE,FALSE,TRUE, Hydroxydaunorubicin,64842-75-7,https://chem.nlm.nih.gov/chemidplus/rn/64842-75-7
