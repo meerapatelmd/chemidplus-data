@@ -9144,3 +9144,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T08:01:31Z,Halotestin,Halotestin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Halotestin,TRUE,FALSE,TRUE, Fluoxymesterone [USP:INN:BAN:JAN],76-43-7,https://chem.nlm.nih.gov/chemidplus/rn/76-43-7
 2020-09-23T08:01:42Z,Nelarabine,Nelarabine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nelarabine,TRUE,FALSE,TRUE, Nelarabine [USAN:INN:BAN],121032-29-9,https://chem.nlm.nih.gov/chemidplus/rn/121032-29-9
 2020-09-23T08:02:29Z,Zytiga,Zytiga,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zytiga,TRUE,FALSE,TRUE, Abiraterone acetate [USAN],154229-18-2,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-23T08:03:29Z,Aspirine,Aspirine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Aspirine,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-23T08:03:46Z,Valstar,Valstar,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Valstar,TRUE,FALSE,TRUE, Valrubicin [USAN:USP:INN],56124-62-0,https://chem.nlm.nih.gov/chemidplus/rn/56124-62-0
