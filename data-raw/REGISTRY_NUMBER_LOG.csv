@@ -9079,3 +9079,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T07:29:41Z,Varlilumab,Varlilumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Varlilumab,TRUE,FALSE,TRUE, Varlilumab [USAN:INN],1393344-72-3,https://chem.nlm.nih.gov/chemidplus/rn/1393344-72-3
 2020-09-23T07:29:51Z,Tibone,Tibone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tibone,TRUE,FALSE,TRUE, Thioacetazone [INN:BAN],104-06-3,https://chem.nlm.nih.gov/chemidplus/rn/104-06-3
 2020-09-23T07:30:00Z,temoporfin,temoporfin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/temoporfin,TRUE,FALSE,TRUE, Temoporfin [USAN:INN:BAN],122341-38-2,https://chem.nlm.nih.gov/chemidplus/rn/122341-38-2
+2020-09-23T07:30:44Z,Rhonal,Rhonal,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Rhonal,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-23T07:30:47Z,Acalabrutinib,Acalabrutinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Acalabrutinib,TRUE,FALSE,TRUE, Acalabrutinib [USAN:INN],1420477-60-6,https://chem.nlm.nih.gov/chemidplus/rn/1420477-60-6
+2020-09-23T07:30:51Z,Demerol,Demerol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Demerol,TRUE,FALSE,TRUE,Meperidine,57-42-1,https://chem.nlm.nih.gov/chemidplus/rn/57-42-1
+2020-09-23T07:30:57Z,Warfilone,Warfilone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Warfilone,TRUE,FALSE,TRUE, Warfarin sodium [USP],129-06-6,https://chem.nlm.nih.gov/chemidplus/rn/129-06-6

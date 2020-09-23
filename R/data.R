@@ -55,7 +55,7 @@
 
 #' @title CONCEPT_SYNONYM
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 181664 rows and 3 variables:
+#' @format A data frame with 181898 rows and 3 variables:
 #' \describe{
 #'   \item{\code{concept_id}}{character COLUMN_DESCRIPTION}
 #'   \item{\code{concept_synonym_name}}{character COLUMN_DESCRIPTION}
@@ -90,7 +90,7 @@
 
 #' @title REGISTRY_NUMBER_LOG
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 9080 rows and 11 variables:
+#' @format A data frame with 9084 rows and 11 variables:
 #' \describe{
 #'   \item{\code{rnl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{raw_concept}}{character COLUMN_DESCRIPTION}
