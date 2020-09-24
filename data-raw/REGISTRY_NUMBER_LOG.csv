@@ -9646,3 +9646,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T05:36:47Z,cobalamin,cobalamin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/cobalamin,TRUE,FALSE,TRUE,Cobalamin,13408-78-1,https://chem.nlm.nih.gov/chemidplus/rn/13408-78-1
 2020-09-24T05:37:58Z,AZD2281,AZD2281,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AZD2281,TRUE,FALSE,TRUE, Olaparib [USAN:INN],763113-22-0,https://chem.nlm.nih.gov/chemidplus/rn/763113-22-0
 2020-09-24T05:39:25Z,Jantoven,Jantoven,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Jantoven,TRUE,FALSE,TRUE, Warfarin sodium [USP],129-06-6,https://chem.nlm.nih.gov/chemidplus/rn/129-06-6
+2020-09-24T05:39:52Z,Regorafenib,Regorafenib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Regorafenib,TRUE,FALSE,TRUE, Regorafenib [USAN:INN],755037-03-7,https://chem.nlm.nih.gov/chemidplus/rn/755037-03-7
+2020-09-24T05:40:08Z,HMM,HMM,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/HMM,TRUE,FALSE,TRUE, Altretamine [USAN:USP:INN:BAN],645-05-6,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
+2020-09-24T05:40:24Z,Fedratinib,Fedratinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fedratinib,TRUE,FALSE,TRUE, Fedratinib [USAN:INN],936091-26-8,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
