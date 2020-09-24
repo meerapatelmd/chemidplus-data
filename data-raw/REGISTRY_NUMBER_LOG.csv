@@ -9621,3 +9621,14 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T05:16:04Z,Bondenza,Bondenza,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bondenza,TRUE,FALSE,TRUE, Ibandronic acid [INN:BAN],114084-78-5,https://chem.nlm.nih.gov/chemidplus/rn/114084-78-5
 2020-09-24T05:16:20Z,AZD-2281,AZD-2281,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AZD-2281,TRUE,FALSE,TRUE, Olaparib [USAN:INN],763113-22-0,https://chem.nlm.nih.gov/chemidplus/rn/763113-22-0
 2020-09-24T05:16:37Z,MOR202,MOR202,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MOR202,TRUE,FALSE,TRUE, Felzartamab,2197112-39-1,https://chem.nlm.nih.gov/chemidplus/rn/2197112-39-1
+2020-09-24T05:18:26Z,Trebananib,Trebananib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Trebananib,TRUE,FALSE,TRUE, Trebananib [USAN:INN],894356-79-7,https://chem.nlm.nih.gov/chemidplus/rn/894356-79-7
+2020-09-24T05:19:41Z,Tigatuzumab,Tigatuzumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tigatuzumab,TRUE,FALSE,TRUE, Tigatuzumab [INN],918127-53-4,https://chem.nlm.nih.gov/chemidplus/rn/918127-53-4
+2020-09-24T05:20:03Z,Clexane,Clexane,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Clexane,TRUE,FALSE,TRUE,Heparin,9005-49-6,https://chem.nlm.nih.gov/chemidplus/rn/9005-49-6
+2020-09-24T05:20:35Z,Abiplatin,Abiplatin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Abiplatin,TRUE,FALSE,TRUE, Cisplatin [USAN:USP:INN:BAN:JAN],15663-27-1,https://chem.nlm.nih.gov/chemidplus/rn/15663-27-1
+2020-09-24T05:20:46Z,Tromalyt,Tromalyt,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tromalyt,TRUE,FALSE,TRUE, Benzyl isothiocyanate,622-78-6,https://chem.nlm.nih.gov/chemidplus/rn/622-78-6
+2020-09-24T05:21:08Z,Calquence,Calquence,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Calquence,TRUE,FALSE,TRUE, Acalabrutinib [USAN:INN],1420477-60-6,https://chem.nlm.nih.gov/chemidplus/rn/1420477-60-6
+2020-09-24T05:21:19Z,Acesal,Acesal,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Acesal,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-24T05:21:35Z,IPI-145,IPI-145,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/IPI-145,TRUE,FALSE,TRUE, Duvelisib [USAN:INN],1201438-56-3,https://chem.nlm.nih.gov/chemidplus/rn/1201438-56-3
+2020-09-24T05:22:29Z,Genoxal,Genoxal,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Genoxal,TRUE,FALSE,TRUE, Cyclophosphamide [USP:INN],50-18-0,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-24T05:23:39Z,Denosumab,Denosumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Denosumab,TRUE,FALSE,TRUE, Denosumab [USAN:INN:BAN],615258-40-7,https://chem.nlm.nih.gov/chemidplus/rn/615258-40-7
+2020-09-24T05:24:01Z,Flebogamma,Flebogamma,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Flebogamma,TRUE,FALSE,TRUE, Immunoglobulin G,308067-58-5,https://chem.nlm.nih.gov/chemidplus/rn/308067-58-5
