@@ -9411,3 +9411,11 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T03:04:23Z,guselkumab,guselkumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/guselkumab,TRUE,FALSE,TRUE, Guselkumab [USAN:INN],1350289-85-8,https://chem.nlm.nih.gov/chemidplus/rn/1350289-85-8
 2020-09-24T03:05:12Z,Toposar,Toposar,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Toposar,TRUE,FALSE,TRUE, Etoposide [USAN:USP:INN:BAN:JAN],33419-42-0,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
 2020-09-24T03:05:49Z,Nitrol,Nitrol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nitrol,TRUE,FALSE,TRUE,1-Nitronaphthalene,86-57-7,https://chem.nlm.nih.gov/chemidplus/rn/86-57-7
+2020-09-24T03:07:49Z,Dexpak,Dexpak,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dexpak,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-24T03:08:10Z,Globentyl,Globentyl,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Globentyl,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-24T03:08:53Z,CB7630,CB7630,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CB7630,TRUE,FALSE,TRUE, Abiraterone acetate [USAN],154229-18-2,https://chem.nlm.nih.gov/chemidplus/rn/154229-18-2
+2020-09-24T03:09:20Z,BAY 43-9006,BAY43-9006,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BAY43-9006,TRUE,FALSE,TRUE, Sorafenib [USAN:INN:BAN],284461-73-0,https://chem.nlm.nih.gov/chemidplus/rn/284461-73-0
+2020-09-24T03:10:19Z,KU-0059436,KU-0059436,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/KU-0059436,TRUE,FALSE,TRUE, Olaparib [USAN:INN],763113-22-0,https://chem.nlm.nih.gov/chemidplus/rn/763113-22-0
+2020-09-24T03:10:30Z,PF-06463922,PF-06463922,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PF-06463922,TRUE,FALSE,TRUE, Lorlatinib [USAN:INN],1454846-35-5,https://chem.nlm.nih.gov/chemidplus/rn/1454846-35-5
+2020-09-24T03:10:41Z,Triptorelin,Triptorelin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Triptorelin,TRUE,FALSE,TRUE, Triptorelin [USAN:INN:BAN],57773-63-4,https://chem.nlm.nih.gov/chemidplus/rn/57773-63-4
+2020-09-24T03:10:52Z,Orgaran,Orgaran,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Orgaran,TRUE,FALSE,TRUE,Danaparoid,308068-55-5,https://chem.nlm.nih.gov/chemidplus/rn/308068-55-5
