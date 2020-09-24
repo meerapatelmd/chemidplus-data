@@ -9777,3 +9777,9 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T07:51:13Z,Drylin,Drylin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Drylin,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
 2020-09-24T07:51:45Z,Palbociclib,Palbociclib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Palbociclib,TRUE,FALSE,TRUE, Palbociclib [USAN:INN],571190-30-2,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
 2020-09-24T07:52:12Z,CI-880,CI-880,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CI-880,TRUE,FALSE,TRUE, Amsacrine [USAN:INN:BAN],51264-14-3,https://chem.nlm.nih.gov/chemidplus/rn/51264-14-3
+2020-09-24T07:54:28Z,L-868275,L-868275,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/L-868275,TRUE,FALSE,TRUE, Alvocidib [USAN:INN],146426-40-6,https://chem.nlm.nih.gov/chemidplus/rn/146426-40-6
+2020-09-24T07:54:39Z,Everolimus,Everolimus,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Everolimus,TRUE,FALSE,TRUE, Everolimus [USAN:INN:BAN],159351-69-6,https://chem.nlm.nih.gov/chemidplus/rn/159351-69-6
+2020-09-24T07:55:01Z,Cortancyl,Cortancyl,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cortancyl,TRUE,FALSE,TRUE, Prednisone 21-acetate,125-10-0,https://chem.nlm.nih.gov/chemidplus/rn/125-10-0
+2020-09-24T07:55:33Z,Lescot,Lescot,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lescot,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
+2020-09-24T07:57:05Z,CC-4047,CC-4047,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CC-4047,TRUE,FALSE,TRUE, Pomalidomide [USAN:INN],19171-19-8,https://chem.nlm.nih.gov/chemidplus/rn/19171-19-8
+2020-09-24T07:57:43Z,Rectodelt,Rectodelt,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Rectodelt,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
