@@ -9710,3 +9710,8 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T06:50:24Z,Angiomax,Angiomax,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Angiomax,TRUE,FALSE,TRUE, Bivalirudin [USAN:INN:BAN],128270-60-0,https://chem.nlm.nih.gov/chemidplus/rn/128270-60-0
 2020-09-24T06:51:50Z,Zudan,Zudan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zudan,TRUE,FALSE,TRUE,Ondansetron hydrochloride,99614-01-4,https://chem.nlm.nih.gov/chemidplus/rn/99614-01-4
 2020-09-24T06:52:11Z,Zontivity,Zontivity,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zontivity,TRUE,FALSE,TRUE, Vorapaxar [USAN:INN],618385-01-6,https://chem.nlm.nih.gov/chemidplus/rn/618385-01-6
+2020-09-24T06:56:05Z,Xeljanz,Xeljanz,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Xeljanz,TRUE,FALSE,TRUE, Tofacitinib citrate [USAN],540737-29-9,https://chem.nlm.nih.gov/chemidplus/rn/540737-29-9
+2020-09-24T06:56:21Z,Procrin,Procrin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Procrin,TRUE,FALSE,TRUE, Leuprolide acetate [USAN:USP],74381-53-6,https://chem.nlm.nih.gov/chemidplus/rn/74381-53-6
+2020-09-24T06:56:43Z,Odomzo,Odomzo,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Odomzo,TRUE,FALSE,TRUE, Sonidegib [USAN:INN],956697-53-3,https://chem.nlm.nih.gov/chemidplus/rn/956697-53-3
+2020-09-24T06:57:27Z,Zyrtec,Zyrtec,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zyrtec,TRUE,FALSE,TRUE, Cetirizine hydrochloride [USAN:USP],83881-52-1,https://chem.nlm.nih.gov/chemidplus/rn/83881-52-1
+2020-09-24T06:59:13Z,Cixutumumab,Cixutumumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cixutumumab,TRUE,FALSE,TRUE, Cixutumumab [USAN:INN],947687-12-9,https://chem.nlm.nih.gov/chemidplus/rn/947687-12-9
