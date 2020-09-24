@@ -9522,3 +9522,11 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T04:07:52Z,Zofran,Zofran,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zofran,TRUE,FALSE,TRUE,Ondansetron hydrochloride,103639-04-9,https://chem.nlm.nih.gov/chemidplus/rn/103639-04-9
 2020-09-24T04:07:52Z,Zofran,Zofran,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zofran,TRUE,FALSE,TRUE,Ondansetron hydrochloride,99614-01-4,https://chem.nlm.nih.gov/chemidplus/rn/99614-01-4
 2020-09-24T04:08:35Z,Enasidenib,Enasidenib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Enasidenib,TRUE,FALSE,TRUE, Enasidenib [USAN:INN],1446502-11-9,https://chem.nlm.nih.gov/chemidplus/rn/1446502-11-9
+2020-09-24T04:10:20Z,polyestradiol,polyestradiol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/polyestradiol,TRUE,FALSE,TRUE, Polyestradiol,73459-61-7,https://chem.nlm.nih.gov/chemidplus/rn/73459-61-7
+2020-09-24T04:11:48Z,Neoplatin,Neoplatin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Neoplatin,TRUE,FALSE,TRUE, Cisplatin [USAN:USP:INN:BAN:JAN],15663-27-1,https://chem.nlm.nih.gov/chemidplus/rn/15663-27-1
+2020-09-24T04:12:38Z,Koate-HP,Koate-HP,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Koate-HP,TRUE,FALSE,TRUE, Beroctocog alfa [INN],9001-27-8,https://chem.nlm.nih.gov/chemidplus/rn/9001-27-8
+2020-09-24T04:12:55Z,Inlyta,Inlyta,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Inlyta,TRUE,FALSE,TRUE, Axitinib [USAN:INN:JAN],319460-85-0,https://chem.nlm.nih.gov/chemidplus/rn/319460-85-0
+2020-09-24T04:13:17Z,Bencole,Bencole,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Bencole,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
+2020-09-24T04:14:27Z,Sulprim,Sulprim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Sulprim,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-24T04:15:00Z,Panadol,Panadol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Panadol,TRUE,FALSE,TRUE, Acetaminophen [USP:JAN],103-90-2,https://chem.nlm.nih.gov/chemidplus/rn/103-90-2
+2020-09-24T04:15:11Z,Mesnex,Mesnex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mesnex,TRUE,FALSE,TRUE, Mesna [USAN:USP:INN:BAN],19767-45-4,https://chem.nlm.nih.gov/chemidplus/rn/19767-45-4
