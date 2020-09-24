@@ -9330,3 +9330,12 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T02:13:29Z,Lentaron,Lentaron,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lentaron,TRUE,FALSE,TRUE, Formestane [INN:BAN],566-48-3,https://chem.nlm.nih.gov/chemidplus/rn/566-48-3
 2020-09-24T02:14:22Z,Arsenox,Arsenox,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Arsenox,TRUE,FALSE,TRUE, Arsenic trioxide [USAN:JAN],1327-53-3,https://chem.nlm.nih.gov/chemidplus/rn/1327-53-3
 2020-09-24T02:14:39Z,GW786034B,GW786034B,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/GW786034B,TRUE,FALSE,TRUE, Pazopanib hydrochloride [USAN:JAN],635702-64-6,https://chem.nlm.nih.gov/chemidplus/rn/635702-64-6
+2020-09-24T02:17:42Z,VM-26,VM-26,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/VM-26,TRUE,FALSE,TRUE, Teniposide [USAN:INN:BAN],29767-20-2,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-24T02:18:19Z,SGN-CD33A,SGN-CD33A,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SGN-CD33A,TRUE,FALSE,TRUE, Vadastuximab talirine [USAN:INN],1436390-64-5,https://chem.nlm.nih.gov/chemidplus/rn/1436390-64-5
+2020-09-24T02:18:37Z,TMX,TMX,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/TMX,TRUE,FALSE,TRUE, Tamoxifen citrate [USAN:USP:JAN],54965-24-1,https://chem.nlm.nih.gov/chemidplus/rn/54965-24-1
+2020-09-24T02:18:53Z,Disprin,Disprin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Disprin,TRUE,FALSE,TRUE, Aspirin calcium,69-46-5,https://chem.nlm.nih.gov/chemidplus/rn/69-46-5
+2020-09-24T02:19:21Z,Folotyn,Folotyn,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Folotyn,TRUE,FALSE,TRUE, Pralatrexate [USAN:INN],146464-95-1,https://chem.nlm.nih.gov/chemidplus/rn/146464-95-1
+2020-09-24T02:20:14Z,Faslodex,Faslodex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Faslodex,TRUE,FALSE,TRUE, Fulvestrant [USAN:USP:INN:BAN],129453-61-8,https://chem.nlm.nih.gov/chemidplus/rn/129453-61-8
+2020-09-24T02:20:58Z,Anzemet,Anzemet,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Anzemet,TRUE,FALSE,TRUE, Dolasetron mesylate [USAN:USP],115956-13-3,https://chem.nlm.nih.gov/chemidplus/rn/115956-13-3
+2020-09-24T02:21:58Z,Vorinostat,Vorinostat,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Vorinostat,TRUE,FALSE,TRUE, Vorinostat [USAN:INN],149647-78-9,https://chem.nlm.nih.gov/chemidplus/rn/149647-78-9
+2020-09-24T02:22:14Z,Nilevar,Nilevar,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nilevar,TRUE,FALSE,TRUE, Norethandrolone [INN:BAN:NF],52-78-8,https://chem.nlm.nih.gov/chemidplus/rn/52-78-8
