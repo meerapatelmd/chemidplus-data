@@ -9763,3 +9763,10 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T07:37:35Z,Olaratumab,Olaratumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Olaratumab,TRUE,FALSE,TRUE, Olaratumab [USAN:INN],1024603-93-7,https://chem.nlm.nih.gov/chemidplus/rn/1024603-93-7
 2020-09-24T07:38:24Z,Iclusig,Iclusig,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Iclusig,TRUE,FALSE,TRUE, Ponatinib hydrochloride [USAN],1114544-31-8,https://chem.nlm.nih.gov/chemidplus/rn/1114544-31-8
 2020-09-24T07:40:28Z,Telotristat,Telotristat,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Telotristat,TRUE,FALSE,TRUE, Telotristat [USAN:INN],1033805-28-5,https://chem.nlm.nih.gov/chemidplus/rn/1033805-28-5
+2020-09-24T07:42:07Z,Kcentra,Kcentra,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Kcentra,TRUE,FALSE,TRUE,Prothrombin,9001-26-7,https://chem.nlm.nih.gov/chemidplus/rn/9001-26-7
+2020-09-24T07:42:07Z,Kcentra,Kcentra,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Kcentra,TRUE,FALSE,TRUE,Prothrombin Complex Concentrate,1715897-99-6,https://chem.nlm.nih.gov/chemidplus/rn/1715897-99-6
+2020-09-24T07:42:34Z,MEDI4736,MEDI4736,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/MEDI4736,TRUE,FALSE,TRUE, Durvalumab [USAN:INN],1428935-60-7,https://chem.nlm.nih.gov/chemidplus/rn/1428935-60-7
+2020-09-24T07:43:48Z,Campath-1H,Campath-1H,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Campath-1H,TRUE,FALSE,TRUE, Alemtuzumab [USAN:INN:BAN],216503-57-0,https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0
+2020-09-24T07:44:36Z,Interferon,Interferon,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Interferon,TRUE,FALSE,TRUE, Interferon [INN:BAN],9008-11-1,https://chem.nlm.nih.gov/chemidplus/rn/9008-11-1
+2020-09-24T07:44:48Z,histamine,histamine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/histamine,TRUE,FALSE,TRUE, Histamine [USAN],51-45-6,https://chem.nlm.nih.gov/chemidplus/rn/51-45-6
+2020-09-24T07:45:25Z,Endoxan,Endoxan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Endoxan,TRUE,FALSE,TRUE, Cyclophosphamide [USP:INN],50-18-0,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
