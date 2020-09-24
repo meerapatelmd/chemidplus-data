@@ -9770,3 +9770,10 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T07:44:36Z,Interferon,Interferon,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Interferon,TRUE,FALSE,TRUE, Interferon [INN:BAN],9008-11-1,https://chem.nlm.nih.gov/chemidplus/rn/9008-11-1
 2020-09-24T07:44:48Z,histamine,histamine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/histamine,TRUE,FALSE,TRUE, Histamine [USAN],51-45-6,https://chem.nlm.nih.gov/chemidplus/rn/51-45-6
 2020-09-24T07:45:25Z,Endoxan,Endoxan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Endoxan,TRUE,FALSE,TRUE, Cyclophosphamide [USP:INN],50-18-0,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
+2020-09-24T07:48:14Z,Solprin,Solprin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Solprin,TRUE,FALSE,TRUE, Aspirin calcium,69-46-5,https://chem.nlm.nih.gov/chemidplus/rn/69-46-5
+2020-09-24T07:49:13Z,Vfend,Vfend,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Vfend,TRUE,FALSE,TRUE, Voriconazole [USAN:INN:BAN],137234-62-9,https://chem.nlm.nih.gov/chemidplus/rn/137234-62-9
+2020-09-24T07:49:30Z,Methotrexate,Methotrexate,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Methotrexate,TRUE,FALSE,TRUE, Methotrexate [USAN:USP:INN:BAN:JAN],59-05-2,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-24T07:49:47Z,Feraheme,Feraheme,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Feraheme,TRUE,FALSE,TRUE, Ferumoxytol [USAN],722492-56-0,https://chem.nlm.nih.gov/chemidplus/rn/722492-56-0
+2020-09-24T07:51:13Z,Drylin,Drylin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Drylin,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-24T07:51:45Z,Palbociclib,Palbociclib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Palbociclib,TRUE,FALSE,TRUE, Palbociclib [USAN:INN],571190-30-2,https://chem.nlm.nih.gov/chemidplus/rn/571190-30-2
+2020-09-24T07:52:12Z,CI-880,CI-880,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CI-880,TRUE,FALSE,TRUE, Amsacrine [USAN:INN:BAN],51264-14-3,https://chem.nlm.nih.gov/chemidplus/rn/51264-14-3
