@@ -9704,3 +9704,9 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T06:46:21Z,Alphanate,Alphanate,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Alphanate,TRUE,FALSE,TRUE, Beroctocog alfa [INN],9001-27-8,https://chem.nlm.nih.gov/chemidplus/rn/9001-27-8
 2020-09-24T06:47:01Z,Empirin,Empirin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Empirin,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
 2020-09-24T06:47:28Z,Corsone,Corsone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Corsone,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-24T06:48:52Z,vedolizumab,vedolizumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/vedolizumab,TRUE,FALSE,TRUE, Vedolizumab [USAN:INN],943609-66-3,https://chem.nlm.nih.gov/chemidplus/rn/943609-66-3
+2020-09-24T06:49:25Z,Taxol,Taxol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Taxol,TRUE,FALSE,TRUE, Paclitaxel [USAN:USP:INN:BAN],33069-62-4,https://chem.nlm.nih.gov/chemidplus/rn/33069-62-4
+2020-09-24T06:49:36Z,Tabloid,Tabloid,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tabloid,TRUE,FALSE,TRUE, Thioguanine [USAN:USP],154-42-7,https://chem.nlm.nih.gov/chemidplus/rn/154-42-7
+2020-09-24T06:50:24Z,Angiomax,Angiomax,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Angiomax,TRUE,FALSE,TRUE, Bivalirudin [USAN:INN:BAN],128270-60-0,https://chem.nlm.nih.gov/chemidplus/rn/128270-60-0
+2020-09-24T06:51:50Z,Zudan,Zudan,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zudan,TRUE,FALSE,TRUE,Ondansetron hydrochloride,99614-01-4,https://chem.nlm.nih.gov/chemidplus/rn/99614-01-4
+2020-09-24T06:52:11Z,Zontivity,Zontivity,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zontivity,TRUE,FALSE,TRUE, Vorapaxar [USAN:INN],618385-01-6,https://chem.nlm.nih.gov/chemidplus/rn/618385-01-6
