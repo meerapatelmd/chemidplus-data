@@ -9783,3 +9783,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T07:55:33Z,Lescot,Lescot,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lescot,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
 2020-09-24T07:57:05Z,CC-4047,CC-4047,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CC-4047,TRUE,FALSE,TRUE, Pomalidomide [USAN:INN],19171-19-8,https://chem.nlm.nih.gov/chemidplus/rn/19171-19-8
 2020-09-24T07:57:43Z,Rectodelt,Rectodelt,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Rectodelt,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-24T08:01:01Z,Zophren,Zophren,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zophren,TRUE,FALSE,TRUE,Ondansetron hydrochloride,99614-01-4,https://chem.nlm.nih.gov/chemidplus/rn/99614-01-4
+2020-09-24T08:36:14Z,Tofacitinib,Tofacitinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tofacitinib,TRUE,FALSE,TRUE, Tofacitinib [USAN:INN],477600-75-2,https://chem.nlm.nih.gov/chemidplus/rn/477600-75-2
+2020-09-24T08:36:35Z,Citarabina,Citarabina,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Citarabina,TRUE,FALSE,TRUE, Cytarabine [USAN:USP:INN:BAN:JAN],147-94-4,https://chem.nlm.nih.gov/chemidplus/rn/147-94-4
+2020-09-24T09:55:33Z,Epivir,Epivir,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Epivir,TRUE,FALSE,TRUE, Lamivudine [USAN:USP:INN:BAN],134678-17-4,https://chem.nlm.nih.gov/chemidplus/rn/134678-17-4
