@@ -9641,3 +9641,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T05:29:21Z,Octagam,Octagam,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Octagam,TRUE,FALSE,TRUE, Immunoglobulin G,308067-58-5,https://chem.nlm.nih.gov/chemidplus/rn/308067-58-5
 2020-09-24T05:29:32Z,ARN-509,ARN-509,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ARN-509,TRUE,FALSE,TRUE, Apalutamide [INN],956104-40-8,https://chem.nlm.nih.gov/chemidplus/rn/956104-40-8
 2020-09-24T05:29:54Z,Tagraxofusp,Tagraxofusp,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tagraxofusp,TRUE,FALSE,TRUE, Tagraxofusp [USAN:INN],2055491-00-2,https://chem.nlm.nih.gov/chemidplus/rn/2055491-00-2
+2020-09-24T05:32:51Z,Glucarpidase,Glucarpidase,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Glucarpidase,TRUE,FALSE,TRUE, Glucarpidase [INN],9074-87-7,https://chem.nlm.nih.gov/chemidplus/rn/9074-87-7
