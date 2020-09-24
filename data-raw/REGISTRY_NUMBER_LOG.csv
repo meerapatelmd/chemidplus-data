@@ -9696,3 +9696,11 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T06:43:10Z,KW-2307,KW-2307,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/KW-2307,TRUE,FALSE,TRUE, Vinorelbine tartrate [USAN:USP],125317-39-7,https://chem.nlm.nih.gov/chemidplus/rn/125317-39-7
 2020-09-24T06:43:43Z,Lactulose,Lactulose,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lactulose,TRUE,FALSE,TRUE, Lactulose [USAN:USP:INN:BAN:JAN],4618-18-2,https://chem.nlm.nih.gov/chemidplus/rn/4618-18-2
 2020-09-24T06:44:15Z,Centrim,Centrim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Centrim,TRUE,FALSE,TRUE,Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-24T06:44:31Z,Letoval,Letoval,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Letoval,TRUE,FALSE,TRUE, Letrozole [USAN:USP:INN:BAN],112809-51-5,https://chem.nlm.nih.gov/chemidplus/rn/112809-51-5
+2020-09-24T06:44:58Z,Mexate,Mexate,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mexate,TRUE,FALSE,TRUE,Methotrexate disodium salt,7413-34-5,https://chem.nlm.nih.gov/chemidplus/rn/7413-34-5
+2020-09-24T06:45:09Z,Salix,Salix,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Salix,TRUE,FALSE,TRUE,Extract of willow,84082-82-6,https://chem.nlm.nih.gov/chemidplus/rn/84082-82-6
+2020-09-24T06:45:26Z,granisetronum,granisetronum,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/granisetronum,TRUE,FALSE,TRUE, Granisetron [USAN:INN:BAN:JAN],109889-09-0,https://chem.nlm.nih.gov/chemidplus/rn/109889-09-0
+2020-09-24T06:45:37Z,Leuplin,Leuplin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Leuplin,TRUE,FALSE,TRUE, Leuprolide acetate [USAN:USP],74381-53-6,https://chem.nlm.nih.gov/chemidplus/rn/74381-53-6
+2020-09-24T06:46:21Z,Alphanate,Alphanate,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Alphanate,TRUE,FALSE,TRUE, Beroctocog alfa [INN],9001-27-8,https://chem.nlm.nih.gov/chemidplus/rn/9001-27-8
+2020-09-24T06:47:01Z,Empirin,Empirin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Empirin,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-24T06:47:28Z,Corsone,Corsone,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Corsone,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
