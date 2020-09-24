@@ -9651,3 +9651,6 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T05:40:24Z,Fedratinib,Fedratinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fedratinib,TRUE,FALSE,TRUE, Fedratinib [USAN:INN],936091-26-8,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
 2020-09-24T05:40:52Z,aclacinomycin,aclacinomycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/aclacinomycin,TRUE,FALSE,TRUE, Aclacinomycin,66676-88-8,https://chem.nlm.nih.gov/chemidplus/rn/66676-88-8
 2020-09-24T05:41:46Z,carmustin,carmustin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/carmustin,TRUE,FALSE,TRUE, Carmustine [USAN:USP:INN:BAN],154-93-8,https://chem.nlm.nih.gov/chemidplus/rn/154-93-8
+2020-09-24T06:00:29Z,Pertuzumab,Pertuzumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Pertuzumab,TRUE,FALSE,TRUE, Pertuzumab [USAN:INN:BAN],380610-27-5,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5
+2020-09-24T06:01:08Z,pidotimod,pidotimod,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/pidotimod,TRUE,FALSE,TRUE,Pidotimod,121808-62-6,https://chem.nlm.nih.gov/chemidplus/rn/121808-62-6
+2020-09-24T06:01:08Z,pidotimod,pidotimod,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/pidotimod,TRUE,FALSE,TRUE,Pidotimod,117241-40-4,https://chem.nlm.nih.gov/chemidplus/rn/117241-40-4
