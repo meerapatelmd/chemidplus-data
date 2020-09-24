@@ -9715,3 +9715,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T06:56:43Z,Odomzo,Odomzo,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Odomzo,TRUE,FALSE,TRUE, Sonidegib [USAN:INN],956697-53-3,https://chem.nlm.nih.gov/chemidplus/rn/956697-53-3
 2020-09-24T06:57:27Z,Zyrtec,Zyrtec,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zyrtec,TRUE,FALSE,TRUE, Cetirizine hydrochloride [USAN:USP],83881-52-1,https://chem.nlm.nih.gov/chemidplus/rn/83881-52-1
 2020-09-24T06:59:13Z,Cixutumumab,Cixutumumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cixutumumab,TRUE,FALSE,TRUE, Cixutumumab [USAN:INN],947687-12-9,https://chem.nlm.nih.gov/chemidplus/rn/947687-12-9
+2020-09-24T07:01:16Z,Gengraf,Gengraf,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Gengraf,TRUE,FALSE,TRUE, Cyclosporine [USAN:USP],59865-13-3,https://chem.nlm.nih.gov/chemidplus/rn/59865-13-3
+2020-09-24T07:01:43Z,Fasturtec,Fasturtec,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fasturtec,TRUE,FALSE,TRUE, Rasburicase [USAN:INN:BAN:JAN],134774-45-1,https://chem.nlm.nih.gov/chemidplus/rn/134774-45-1
+2020-09-24T07:02:10Z,Mitozytrex,Mitozytrex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mitozytrex,TRUE,FALSE,TRUE, Mitomycin [USAN:USP:INN:BAN],50-07-7,https://chem.nlm.nih.gov/chemidplus/rn/50-07-7
+2020-09-24T07:02:32Z,Aciphex,Aciphex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Aciphex,TRUE,FALSE,TRUE, Rabeprazole sodium [USAN],117976-90-6,https://chem.nlm.nih.gov/chemidplus/rn/117976-90-6
