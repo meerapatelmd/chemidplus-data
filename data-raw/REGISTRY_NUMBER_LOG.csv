@@ -9404,3 +9404,10 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T02:59:12Z,Vandetanib,Vandetanib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Vandetanib,TRUE,FALSE,TRUE, Vandetanib [USAN:INN:BAN:JAN],443913-73-3,https://chem.nlm.nih.gov/chemidplus/rn/443913-73-3
 2020-09-24T03:00:00Z,XRP6258,XRP6258,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/XRP6258,TRUE,FALSE,TRUE, Cabazitaxel [USAN:INN],183133-96-2,https://chem.nlm.nih.gov/chemidplus/rn/183133-96-2
 2020-09-24T03:00:11Z,Lumexon,Lumexon,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lumexon,TRUE,FALSE,TRUE, Methotrexate [USAN:USP:INN:BAN:JAN],59-05-2,https://chem.nlm.nih.gov/chemidplus/rn/59-05-2
+2020-09-24T03:01:41Z,Tamid,Tamid,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tamid,TRUE,FALSE,TRUE, Phthalylsulfacetamide [BAN:NF],131-69-1,https://chem.nlm.nih.gov/chemidplus/rn/131-69-1
+2020-09-24T03:01:58Z,CS055,CS055,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CS055,TRUE,FALSE,TRUE, Tucidinostat [USAN],1616493-44-7,https://chem.nlm.nih.gov/chemidplus/rn/1616493-44-7
+2020-09-24T03:02:46Z,Tarceva,Tarceva,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tarceva,TRUE,FALSE,TRUE, Erlotinib hydrochloride [USAN:INN],183319-69-9,https://chem.nlm.nih.gov/chemidplus/rn/183319-69-9
+2020-09-24T03:03:40Z,Asciminib,Asciminib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Asciminib,TRUE,FALSE,TRUE, Asciminib [USAN],1492952-76-7,https://chem.nlm.nih.gov/chemidplus/rn/1492952-76-7
+2020-09-24T03:04:23Z,guselkumab,guselkumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/guselkumab,TRUE,FALSE,TRUE, Guselkumab [USAN:INN],1350289-85-8,https://chem.nlm.nih.gov/chemidplus/rn/1350289-85-8
+2020-09-24T03:05:12Z,Toposar,Toposar,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Toposar,TRUE,FALSE,TRUE, Etoposide [USAN:USP:INN:BAN:JAN],33419-42-0,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
+2020-09-24T03:05:49Z,Nitrol,Nitrol,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nitrol,TRUE,FALSE,TRUE,1-Nitronaphthalene,86-57-7,https://chem.nlm.nih.gov/chemidplus/rn/86-57-7
