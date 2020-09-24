@@ -9670,3 +9670,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T06:14:02Z,Protrin,Protrin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Protrin,TRUE,FALSE,TRUE, Trimethoprim [USAN:USP:INN:BAN:JAN],738-70-5,https://chem.nlm.nih.gov/chemidplus/rn/738-70-5
 2020-09-24T06:14:29Z,Valcyclovir,Valcyclovir,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Valcyclovir,TRUE,FALSE,TRUE, Valaciclovir [INN:BAN],124832-26-4,https://chem.nlm.nih.gov/chemidplus/rn/124832-26-4
 2020-09-24T06:15:29Z,Colace,Colace,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Colace,TRUE,FALSE,TRUE, Docusate sodium [USAN:USP:INN:BAN],577-11-7,https://chem.nlm.nih.gov/chemidplus/rn/577-11-7
+2020-09-24T06:18:37Z,rhuMab-VEGF,rhuMab-VEGF,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/rhuMab-VEGF,TRUE,FALSE,TRUE, Bevacizumab [USAN:INN],216974-75-3,https://chem.nlm.nih.gov/chemidplus/rn/216974-75-3
+2020-09-24T06:19:30Z,Nipent,Nipent,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nipent,TRUE,FALSE,TRUE, Pentostatin [USAN:INN:BAN:JAN],53910-25-1,https://chem.nlm.nih.gov/chemidplus/rn/53910-25-1
+2020-09-24T06:19:57Z,Cemirit,Cemirit,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cemirit,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-24T06:22:35Z,Abraxane,Abraxane,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Abraxane,TRUE,FALSE,TRUE, Paclitaxel [USAN:USP:INN:BAN],33069-62-4,https://chem.nlm.nih.gov/chemidplus/rn/33069-62-4
