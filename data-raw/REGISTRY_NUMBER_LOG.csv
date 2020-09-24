@@ -9309,3 +9309,9 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-23T18:32:11Z,Neosar,Neosar,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Neosar,TRUE,FALSE,TRUE,Neosar,22068-88-8,https://chem.nlm.nih.gov/chemidplus/rn/22068-88-8
 2020-09-23T18:32:33Z,Eldesine,Eldesine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Eldesine,TRUE,FALSE,TRUE, Vindesine sulfate [USAN:JAN],59917-39-4,https://chem.nlm.nih.gov/chemidplus/rn/59917-39-4
 2020-09-23T18:32:49Z,Zelitrex,Zelitrex,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zelitrex,TRUE,FALSE,TRUE, Valacyclovir hydrochloride [USAN:USP],124832-27-5,https://chem.nlm.nih.gov/chemidplus/rn/124832-27-5
+2020-09-23T18:35:12Z,AG-221,AG-221,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/AG-221,TRUE,FALSE,TRUE,AG 221,1802003-09-3,https://chem.nlm.nih.gov/chemidplus/rn/1802003-09-3
+2020-09-23T18:35:28Z,Axitinib,Axitinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Axitinib,TRUE,FALSE,TRUE, Axitinib [USAN:INN:JAN],319460-85-0,https://chem.nlm.nih.gov/chemidplus/rn/319460-85-0
+2020-09-23T23:13:15Z,Cephalotaxine,Cephalotaxine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cephalotaxine,TRUE,FALSE,TRUE, Cephalotaxine,24316-19-6,https://chem.nlm.nih.gov/chemidplus/rn/24316-19-6
+2020-09-24T02:01:21Z,Siklos,Siklos,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Siklos,TRUE,FALSE,TRUE, Hydroxyurea [USAN:USP],127-07-1,https://chem.nlm.nih.gov/chemidplus/rn/127-07-1
+2020-09-24T02:01:37Z,Nimustine,Nimustine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nimustine,TRUE,FALSE,TRUE, Nimustine [INN],42471-28-3,https://chem.nlm.nih.gov/chemidplus/rn/42471-28-3
+2020-09-24T02:02:15Z,Prednison,Prednison,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Prednison,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
