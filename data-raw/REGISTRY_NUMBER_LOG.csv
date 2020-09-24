@@ -9632,3 +9632,12 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T05:22:29Z,Genoxal,Genoxal,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Genoxal,TRUE,FALSE,TRUE, Cyclophosphamide [USP:INN],50-18-0,https://chem.nlm.nih.gov/chemidplus/rn/50-18-0
 2020-09-24T05:23:39Z,Denosumab,Denosumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Denosumab,TRUE,FALSE,TRUE, Denosumab [USAN:INN:BAN],615258-40-7,https://chem.nlm.nih.gov/chemidplus/rn/615258-40-7
 2020-09-24T05:24:01Z,Flebogamma,Flebogamma,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Flebogamma,TRUE,FALSE,TRUE, Immunoglobulin G,308067-58-5,https://chem.nlm.nih.gov/chemidplus/rn/308067-58-5
+2020-09-24T05:25:22Z,Cytosar,Cytosar,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cytosar,TRUE,FALSE,TRUE, Cytarabine [USAN:USP:INN:BAN:JAN],147-94-4,https://chem.nlm.nih.gov/chemidplus/rn/147-94-4
+2020-09-24T05:26:23Z,PLX4032,PLX4032,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PLX4032,TRUE,FALSE,TRUE,PLX4032,918505-61-0,https://chem.nlm.nih.gov/chemidplus/rn/918505-61-0
+2020-09-24T05:27:22Z,Tinzaparin,Tinzaparin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tinzaparin,TRUE,FALSE,TRUE, Heparin,9005-49-6,https://chem.nlm.nih.gov/chemidplus/rn/9005-49-6
+2020-09-24T05:27:39Z,Primazole,Primazole,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Primazole,TRUE,FALSE,TRUE, Sulfamethoxazole mixture with trimethoprim,8064-90-2,https://chem.nlm.nih.gov/chemidplus/rn/8064-90-2
+2020-09-24T05:28:21Z,secukinumab,secukinumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/secukinumab,TRUE,FALSE,TRUE, Secukinumab [USAN:INN],1229022-83-6,https://chem.nlm.nih.gov/chemidplus/rn/1229022-83-6
+2020-09-24T05:28:43Z,PDL-063,PDL-063,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/PDL-063,TRUE,FALSE,TRUE, Elotuzumab [USAN:INN],915296-00-3,https://chem.nlm.nih.gov/chemidplus/rn/915296-00-3
+2020-09-24T05:29:21Z,Octagam,Octagam,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Octagam,TRUE,FALSE,TRUE, Immunoglobulin G,308067-58-5,https://chem.nlm.nih.gov/chemidplus/rn/308067-58-5
+2020-09-24T05:29:32Z,ARN-509,ARN-509,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ARN-509,TRUE,FALSE,TRUE, Apalutamide [INN],956104-40-8,https://chem.nlm.nih.gov/chemidplus/rn/956104-40-8
+2020-09-24T05:29:54Z,Tagraxofusp,Tagraxofusp,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Tagraxofusp,TRUE,FALSE,TRUE, Tagraxofusp [USAN:INN],2055491-00-2,https://chem.nlm.nih.gov/chemidplus/rn/2055491-00-2
