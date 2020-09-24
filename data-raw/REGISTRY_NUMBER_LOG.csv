@@ -9725,3 +9725,5 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T07:08:19Z,Emapalumab,Emapalumab,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Emapalumab,TRUE,FALSE,TRUE, Emapalumab [USAN:INN],1709815-23-5,https://chem.nlm.nih.gov/chemidplus/rn/1709815-23-5
 2020-09-24T07:09:07Z,VN/124-1,VN/124-1,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/VN/124-1,TRUE,FALSE,TRUE, Galeterone [USAN:INN],851983-85-2,https://chem.nlm.nih.gov/chemidplus/rn/851983-85-2
 2020-09-24T07:10:33Z,ARRY-438162,ARRY-438162,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ARRY-438162,TRUE,FALSE,TRUE,ARRY 162,120168-50-5,https://chem.nlm.nih.gov/chemidplus/rn/120168-50-5
+2020-09-24T07:14:16Z,SU011248,SU011248,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/SU011248,TRUE,FALSE,TRUE, Sunitinib malate [USAN],341031-54-7,https://chem.nlm.nih.gov/chemidplus/rn/341031-54-7
+2020-09-24T07:14:43Z,daunomycin,daunomycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/daunomycin,TRUE,FALSE,TRUE, Daunorubicin [INN:BAN],20830-81-3,https://chem.nlm.nih.gov/chemidplus/rn/20830-81-3
