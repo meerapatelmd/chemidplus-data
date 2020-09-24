@@ -9681,3 +9681,9 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T06:28:00Z,BLU-285,BLU-285,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/BLU-285,TRUE,FALSE,TRUE, Avapritinib [INN],1703793-34-3,https://chem.nlm.nih.gov/chemidplus/rn/1703793-34-3
 2020-09-24T06:28:23Z,Cismaplat,Cismaplat,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cismaplat,TRUE,FALSE,TRUE, Cisplatin [USAN:USP:INN:BAN:JAN],15663-27-1,https://chem.nlm.nih.gov/chemidplus/rn/15663-27-1
 2020-09-24T06:29:29Z,Lestaurtinib,Lestaurtinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Lestaurtinib,TRUE,FALSE,TRUE, Lestaurtinib [USAN:INN],111358-88-4,https://chem.nlm.nih.gov/chemidplus/rn/111358-88-4
+2020-09-24T06:31:06Z,Brek,Brek,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Brek,TRUE,FALSE,TRUE, Loperamide hydrochloride [USAN:USP:JAN],34552-83-5,https://chem.nlm.nih.gov/chemidplus/rn/34552-83-5
+2020-09-24T06:31:17Z,Nizon,Nizon,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Nizon,TRUE,FALSE,TRUE, Prednisone [USP:INN:BAN],53-03-2,https://chem.nlm.nih.gov/chemidplus/rn/53-03-2
+2020-09-24T06:31:28Z,Cetzine,Cetzine,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Cetzine,TRUE,FALSE,TRUE, Cetirizine hydrochloride [USAN:USP],83881-52-1,https://chem.nlm.nih.gov/chemidplus/rn/83881-52-1
+2020-09-24T06:32:45Z,CO-338,CO-338,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/CO-338,TRUE,FALSE,TRUE, Rucaparib camsylate,1859053-21-6,https://chem.nlm.nih.gov/chemidplus/rn/1859053-21-6
+2020-09-24T06:33:23Z,Dexason,Dexason,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Dexason,TRUE,FALSE,TRUE, Dexamethasone [USP:INN:BAN:JAN],50-02-2,https://chem.nlm.nih.gov/chemidplus/rn/50-02-2
+2020-09-24T06:35:37Z,Zorprin,Zorprin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zorprin,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
