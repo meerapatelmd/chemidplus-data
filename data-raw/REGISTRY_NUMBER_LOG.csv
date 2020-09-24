@@ -9649,3 +9649,4 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-24T05:39:52Z,Regorafenib,Regorafenib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Regorafenib,TRUE,FALSE,TRUE, Regorafenib [USAN:INN],755037-03-7,https://chem.nlm.nih.gov/chemidplus/rn/755037-03-7
 2020-09-24T05:40:08Z,HMM,HMM,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/HMM,TRUE,FALSE,TRUE, Altretamine [USAN:USP:INN:BAN],645-05-6,https://chem.nlm.nih.gov/chemidplus/rn/645-05-6
 2020-09-24T05:40:24Z,Fedratinib,Fedratinib,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Fedratinib,TRUE,FALSE,TRUE, Fedratinib [USAN:INN],936091-26-8,https://chem.nlm.nih.gov/chemidplus/rn/936091-26-8
+2020-09-24T05:40:52Z,aclacinomycin,aclacinomycin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/aclacinomycin,TRUE,FALSE,TRUE, Aclacinomycin,66676-88-8,https://chem.nlm.nih.gov/chemidplus/rn/66676-88-8
