@@ -5,7 +5,7 @@
 \alias{REGISTRY_NUMBERS}
 \title{REGISTRY_NUMBERS}
 \format{
-A data frame with 9587 rows and 4 variables:
+A data frame with 9663 rows and 4 variables:
 \describe{
 \item{\code{rn_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{rn_url}}{character COLUMN_DESCRIPTION}

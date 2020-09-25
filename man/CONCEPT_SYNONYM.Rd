@@ -5,7 +5,7 @@
 \alias{CONCEPT_SYNONYM}
 \title{CONCEPT_SYNONYM}
 \format{
-A data frame with 206989 rows and 3 variables:
+A data frame with 153366 rows and 3 variables:
 \describe{
 \item{\code{concept_id}}{character COLUMN_DESCRIPTION}
 \item{\code{concept_synonym_name}}{character COLUMN_DESCRIPTION}
