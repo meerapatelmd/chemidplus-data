@@ -7,9 +7,9 @@
 \format{
 A data frame with 153366 rows and 3 variables:
 \describe{
-\item{\code{concept_id}}{character COLUMN_DESCRIPTION}
+\item{\code{concept_id}}{integer COLUMN_DESCRIPTION}
 \item{\code{concept_synonym_name}}{character COLUMN_DESCRIPTION}
-\item{\code{language_concept_id}}{character COLUMN_DESCRIPTION}
+\item{\code{language_concept_id}}{integer COLUMN_DESCRIPTION}
 }
 }
 \usage{

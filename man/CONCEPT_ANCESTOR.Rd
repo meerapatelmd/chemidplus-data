@@ -7,10 +7,10 @@
 \format{
 A data frame with 14840 rows and 4 variables:
 \describe{
-\item{\code{ancestor_concept_id}}{character COLUMN_DESCRIPTION}
-\item{\code{descendant_concept_id}}{character COLUMN_DESCRIPTION}
-\item{\code{min_levels_of_separation}}{character COLUMN_DESCRIPTION}
-\item{\code{max_levels_of_separation}}{character COLUMN_DESCRIPTION}
+\item{\code{ancestor_concept_id}}{integer COLUMN_DESCRIPTION}
+\item{\code{descendant_concept_id}}{integer COLUMN_DESCRIPTION}
+\item{\code{min_levels_of_separation}}{integer COLUMN_DESCRIPTION}
+\item{\code{max_levels_of_separation}}{integer COLUMN_DESCRIPTION}
 }
 }
 \usage{
