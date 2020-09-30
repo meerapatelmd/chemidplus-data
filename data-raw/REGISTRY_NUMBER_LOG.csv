@@ -157,6 +157,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-20T03:13:14Z,ASA,ASA,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ASA,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
 2020-09-17T01:05:33Z,ASG-22CE,ASG-22CE,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ASG-22CE,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-17T01:05:39Z,ASP2215,ASP2215,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ASP2215,TRUE,FALSE,TRUE, Gilteritinib [USAN:INN],1254053-43-4,https://chem.nlm.nih.gov/chemidplus/rn/1254053-43-4
+2020-09-30T02:03:06Z,ASP2215,ASP2215,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ASP2215,TRUE,FALSE,TRUE, Gilteritinib [USAN:INN],1254053-43-4,https://chem.nlm.nih.gov/chemidplus/rn/1254053-43-4
 2020-09-17T01:05:45Z,ASP2689,ASP2689,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ASP2689,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-17T01:05:51Z,ASP3550,ASP3550,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/ASP3550,TRUE,FALSE,TRUE, Degarelix acetate,934016-19-0,https://chem.nlm.nih.gov/chemidplus/rn/934016-19-0
 2020-09-20T03:32:14Z,ASP3550,ASP3550,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/ASP3550,TRUE,FALSE,TRUE, Degarelix acetate,934016-19-0,https://chem.nlm.nih.gov/chemidplus/rn/934016-19-0
@@ -3016,6 +3017,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-16T06:17:01Z,Ecoprin,Ecoprin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ecoprin,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-16T05:47:03Z,Ecosprin,Ecosprin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ecosprin,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-16T05:17:54Z,Ecotrin,Ecotrin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ecotrin,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-30T02:08:05Z,Ecotrin,Ecotrin,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Ecotrin,TRUE,FALSE,TRUE, Aspirin [USP:BAN:JAN],50-78-2,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
 2020-09-16T04:01:48Z,Ecotrin 650,Ecotrin650,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ecotrin650,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-16T08:55:58Z,Ecotrin Maximum Strenght,EcotrinMaximumStrenght,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/EcotrinMaximumStrenght,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-19T23:06:26Z,Ectaprim,Ectaprim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Ectaprim,TRUE,TRUE,FALSE,NA,NA,NA
@@ -3422,6 +3424,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-18T01:01:42Z,Excelin,Excelin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Excelin,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-16T01:15:11Z,Exembol,Exembol,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Exembol,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-16T04:31:17Z,Exemestane,Exemestane,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Exemestane,TRUE,FALSE,TRUE,Exemestane,107868-30-4,https://chem.nlm.nih.gov/chemidplus/rn/107868-30-4
+2020-09-30T02:05:34Z,Exemestane,Exemestane,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Exemestane,TRUE,FALSE,TRUE, Exemestane [USAN:INN:BAN],107868-30-4,https://chem.nlm.nih.gov/chemidplus/rn/107868-30-4
 2020-09-18T03:10:56Z,Exitop,Exitop,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Exitop,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-16T01:39:34Z,Exjade,Exjade,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Exjade,TRUE,FALSE,TRUE, Deferasirox [USAN:INN:JAN],201530-41-8,https://chem.nlm.nih.gov/chemidplus/rn/201530-41-8
 2020-09-23T23:56:59Z,Exjade,Exjade,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Exjade,TRUE,FALSE,TRUE, Deferasirox [USAN:INN:JAN],201530-41-8,https://chem.nlm.nih.gov/chemidplus/rn/201530-41-8
@@ -5648,6 +5651,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-15T23:45:15Z,Muphoran,Muphoran,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Muphoran,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-18T01:09:29Z,Muscarinic receptor antagonist,Muscarinicreceptorantagonist,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Muscarinicreceptorantagonist,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-16T03:52:33Z,Mustargen,Mustargen,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Mustargen,TRUE,FALSE,TRUE,Mechlorethamine hydrochloride,55-86-7,https://chem.nlm.nih.gov/chemidplus/rn/55-86-7
+2020-09-30T02:06:50Z,Mustargen,Mustargen,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Mustargen,TRUE,FALSE,TRUE, Mechlorethamine hydrochloride [USP],55-86-7,https://chem.nlm.nih.gov/chemidplus/rn/55-86-7
 2020-09-16T01:25:56Z,Mustine,Mustine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Mustine,TRUE,FALSE,TRUE,Carmustine,154-93-8,https://chem.nlm.nih.gov/chemidplus/rn/154-93-8
 2020-09-16T01:25:56Z,Mustine,Mustine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Mustine,TRUE,FALSE,TRUE,Mechlorethamine hydrochloride,55-86-7,https://chem.nlm.nih.gov/chemidplus/rn/55-86-7
 2020-09-16T01:25:56Z,Mustine,Mustine,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Mustine,TRUE,FALSE,TRUE,Trichlormethine,555-77-1,https://chem.nlm.nih.gov/chemidplus/rn/555-77-1
@@ -9010,6 +9014,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-16T04:22:39Z,Zyloprim,Zyloprim,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Zyloprim,TRUE,FALSE,TRUE, Allopurinol [USAN:USP:INN:BAN:JAN],315-30-0,https://chem.nlm.nih.gov/chemidplus/rn/315-30-0
 2020-09-23T03:59:44Z,Zyloprim,Zyloprim,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zyloprim,TRUE,FALSE,TRUE, Allopurinol [USAN:USP:INN:BAN:JAN],315-30-0,https://chem.nlm.nih.gov/chemidplus/rn/315-30-0
 2020-09-16T05:10:43Z,Zyloric,Zyloric,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Zyloric,TRUE,FALSE,TRUE, Allopurinol [USAN:USP:INN:BAN:JAN],315-30-0,https://chem.nlm.nih.gov/chemidplus/rn/315-30-0
+2020-09-30T02:01:09Z,Zyloric,Zyloric,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/Zyloric,TRUE,FALSE,TRUE, Allopurinol [USAN:USP:INN:BAN:JAN],315-30-0,https://chem.nlm.nih.gov/chemidplus/rn/315-30-0
 2020-09-15T23:02:50Z,Zyofolin,Zyofolin,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Zyofolin,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-16T05:56:26Z,Zyoway,Zyoway,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Zyoway,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-16T05:38:31Z,Zyprexa,Zyprexa,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/Zyprexa,TRUE,FALSE,TRUE,Olanzapine,132539-06-1,https://chem.nlm.nih.gov/chemidplus/rn/132539-06-1
@@ -9388,6 +9393,7 @@ rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,
 2020-09-18T01:10:09Z,imidazole carboxamide,imidazolecarboxamide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/imidazolecarboxamide,TRUE,FALSE,TRUE,Aminoimidazolecarboxamide hydrochloride,72-40-2,https://chem.nlm.nih.gov/chemidplus/rn/72-40-2
 2020-09-18T01:10:09Z,imidazole carboxamide,imidazolecarboxamide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/imidazolecarboxamide,TRUE,FALSE,TRUE,Orazamide,2574-78-9,https://chem.nlm.nih.gov/chemidplus/rn/2574-78-9
 2020-09-18T01:10:09Z,imidazole carboxamide,imidazolecarboxamide,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/imidazolecarboxamide,TRUE,FALSE,TRUE,Orazamide [INN],2574-78-9,https://chem.nlm.nih.gov/chemidplus/rn/2574-78-9
+2020-09-30T02:00:37Z,imidazole carboxamide,imidazolecarboxamide,equals,https://chem.nlm.nih.gov/chemidplus/name/equals/imidazolecarboxamide,TRUE,FALSE,TRUE, Imidazolecarboxamide,80658-49-7,https://chem.nlm.nih.gov/chemidplus/rn/80658-49-7
 2020-09-18T03:23:55Z,immucillin H,immucillinH,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/immucillinH,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-20T03:40:53Z,infliximab,infliximab,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/infliximab,TRUE,FALSE,TRUE, Infliximab [USAN:INN:BAN],170277-31-3,https://chem.nlm.nih.gov/chemidplus/rn/170277-31-3
 2020-09-20T00:17:15Z,interferon alfa-n1,interferonalfa-n1,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/interferonalfa-n1,TRUE,TRUE,FALSE,NA,NA,NA
