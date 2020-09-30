@@ -11,7 +11,7 @@
 
 #' @title CONCEPT
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 8441 rows and 10 variables:
+#' @format A data frame with 9118 rows and 10 variables:
 #' \describe{
 #'   \item{\code{concept_id}}{integer COLUMN_DESCRIPTION}
 #'   \item{\code{concept_name}}{character COLUMN_DESCRIPTION}
