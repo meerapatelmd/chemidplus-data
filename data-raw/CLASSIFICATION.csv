@@ -120,16 +120,6 @@ c_datetime,concept_classification,rn_url
 2020-09-16T18:04:33Z,Adrenergic Agonists,https://chem.nlm.nih.gov/chemidplus/rn/54-49-9
 2020-09-16T19:01:33Z,Adrenergic Agonists,https://chem.nlm.nih.gov/chemidplus/rn/59-42-7
 2020-09-19T04:47:02Z,Adrenergic Agonists,https://chem.nlm.nih.gov/chemidplus/rn/59803-98-4
-2020-09-16T02:35:26Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8
-2020-09-16T19:49:35Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/29122-68-7
-2020-09-19T06:39:59Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/51-50-3
-2020-09-16T19:47:21Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/56-54-2
-2020-09-16T19:32:23Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/63659-18-7
-2020-09-16T18:25:17Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/6452-71-7
-2020-09-18T22:50:36Z,Adrenergic Uptake Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/300-62-9
-2020-09-19T04:13:23Z,Adrenergic Uptake Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/50-47-5
-2020-09-16T19:35:08Z,Adrenergic Uptake Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/50-55-5
-2020-09-19T00:18:21Z,Adrenergic Uptake Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/739-71-9
 2020-09-16T18:04:33Z,Adrenergic alpha-1 Receptor Agonists,https://chem.nlm.nih.gov/chemidplus/rn/54-49-9
 2020-09-16T19:01:33Z,Adrenergic alpha-1 Receptor Agonists,https://chem.nlm.nih.gov/chemidplus/rn/59-42-7
 2020-09-19T04:47:02Z,Adrenergic alpha-2 Receptor Agonists,https://chem.nlm.nih.gov/chemidplus/rn/59803-98-4
@@ -140,6 +130,12 @@ c_datetime,concept_classification,rn_url
 2020-09-19T04:47:02Z,Adrenergic alpha-Agonists,https://chem.nlm.nih.gov/chemidplus/rn/59803-98-4
 2020-09-19T06:39:59Z,Adrenergic alpha-Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/51-50-3
 2020-09-16T19:47:21Z,Adrenergic alpha-Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/56-54-2
+2020-09-16T02:35:26Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/15148-80-8
+2020-09-16T19:49:35Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/29122-68-7
+2020-09-19T06:39:59Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/51-50-3
+2020-09-16T19:47:21Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/56-54-2
+2020-09-16T19:32:23Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/63659-18-7
+2020-09-16T18:25:17Z,Adrenergic Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/6452-71-7
 2020-09-16T19:49:35Z,Adrenergic beta-1 Receptor Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/29122-68-7
 2020-09-16T19:32:23Z,Adrenergic beta-1 Receptor Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/63659-18-7
 2020-09-16T19:36:13Z,Adrenergic beta-2 Receptor Agonists,https://chem.nlm.nih.gov/chemidplus/rn/18559-94-9
@@ -150,6 +146,10 @@ c_datetime,concept_classification,rn_url
 2020-09-16T19:49:35Z,Adrenergic beta-Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/29122-68-7
 2020-09-16T19:32:23Z,Adrenergic beta-Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/63659-18-7
 2020-09-16T18:25:17Z,Adrenergic beta-Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/6452-71-7
+2020-09-18T22:50:36Z,Adrenergic Uptake Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/300-62-9
+2020-09-19T04:13:23Z,Adrenergic Uptake Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/50-47-5
+2020-09-16T19:35:08Z,Adrenergic Uptake Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/50-55-5
+2020-09-19T00:18:21Z,Adrenergic Uptake Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/739-71-9
 2020-09-16T02:37:04Z,Adrenocortical Steroid (Salt-Regulating),https://chem.nlm.nih.gov/chemidplus/rn/56-47-3
 2020-09-16T18:16:28Z,Adrenocortical Suppressant,https://chem.nlm.nih.gov/chemidplus/rn/125-84-8
 2020-09-16T19:55:27Z,Adsorbant,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7
@@ -1321,9 +1321,10 @@ c_datetime,concept_classification,rn_url
 2020-09-16T18:22:45Z,Antineoplastic (Microtubule Inhibitor),https://chem.nlm.nih.gov/chemidplus/rn/174722-31-7
 2020-09-16T19:18:08Z,Antineoplastic (Monoclonal Antibody),https://chem.nlm.nih.gov/chemidplus/rn/206181-63-7
 2020-09-16T02:28:33Z,Antineoplastic (Monoclonal Antibody),https://chem.nlm.nih.gov/chemidplus/rn/216503-57-0
-2020-09-16T02:29:45Z,Antineoplastic (Src Kinase Inhibitor),https://chem.nlm.nih.gov/chemidplus/rn/380843-75-4
 2020-09-16T18:06:46Z,Antineoplastic (mTOR Inhibitor),https://chem.nlm.nih.gov/chemidplus/rn/162635-04-3
+2020-09-16T02:29:45Z,Antineoplastic (Src Kinase Inhibitor),https://chem.nlm.nih.gov/chemidplus/rn/380843-75-4
 2020-09-16T18:26:22Z,"Antineoplastic Agent, a Potent and Selective Inhibitor of VEGFR-1,-2 and -3 Tyrosine Kinases, Blocking Angiogenesis",https://chem.nlm.nih.gov/chemidplus/rn/635702-64-6
+2020-09-19T05:42:05Z,Antineoplastic agents,https://chem.nlm.nih.gov/chemidplus/rn/1038915-64-8
 2020-09-16T18:28:55Z,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/100286-90-6
 2020-09-16T19:11:51Z,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
 2020-09-16T18:21:47Z,Antineoplastic Agents,https://chem.nlm.nih.gov/chemidplus/rn/1020748-57-5
@@ -1692,7 +1693,6 @@ c_datetime,concept_classification,rn_url
 2020-09-16T02:37:58Z,"Antineoplastic Agents, Phytogenic",https://chem.nlm.nih.gov/chemidplus/rn/865-21-4
 2020-09-16T19:18:14Z,"Antineoplastic Agents, Phytogenic",https://chem.nlm.nih.gov/chemidplus/rn/97682-44-5
 2020-09-16T19:09:12Z,Antineoplastic Enhancing Agent,https://chem.nlm.nih.gov/chemidplus/rn/912444-00-9
-2020-09-19T05:42:05Z,Antineoplastic agents,https://chem.nlm.nih.gov/chemidplus/rn/1038915-64-8
 2020-09-17T02:19:37Z,Antineoplastic for the Treatment of Solid Tumors,https://chem.nlm.nih.gov/chemidplus/rn/196488-72-9
 2020-09-19T06:49:42Z,Antineoplastic used in the Treatment of AIDS-Related Kaposi's Sarcoma and in the Treatment of Acute Promyelocytic Leukemia,https://chem.nlm.nih.gov/chemidplus/rn/5300-03-8
 2020-09-16T02:32:44Z,Antineoplastic used in the Treatment of Cutaneous T-Cell Lymphoma,https://chem.nlm.nih.gov/chemidplus/rn/153559-49-0
@@ -2082,6 +2082,7 @@ c_datetime,concept_classification,rn_url
 2020-09-19T04:54:08Z,Avicide,https://chem.nlm.nih.gov/chemidplus/rn/56-72-4
 2020-09-16T02:39:50Z,Avicide,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
 2020-09-16T19:55:35Z,Barrier for the Prevention of Allergic Contact Dermatitis,https://chem.nlm.nih.gov/chemidplus/rn/1340-69-8
+2020-09-16T18:16:33Z,beta-Lactamase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/68373-14-8
 2020-09-19T04:51:45Z,Biological Response Modifier,https://chem.nlm.nih.gov/chemidplus/rn/110942-02-4
 2020-09-16T18:08:38Z,Biological Response Modifier,https://chem.nlm.nih.gov/chemidplus/rn/16595-80-5
 2020-09-16T02:41:59Z,Biological Response Modifier,https://chem.nlm.nih.gov/chemidplus/rn/173146-27-5
@@ -2613,12 +2614,6 @@ c_datetime,concept_classification,rn_url
 2020-09-16T18:20:03Z,DEA Schedule IV,https://chem.nlm.nih.gov/chemidplus/rn/604-75-1
 2020-09-16T18:53:35Z,DEA Schedule IV,https://chem.nlm.nih.gov/chemidplus/rn/846-49-1
 2020-09-16T18:53:41Z,DEA Schedule IV,https://chem.nlm.nih.gov/chemidplus/rn/848-75-9
-2020-09-16T18:25:05Z,DNA Topoisomerase II Inhibitor,https://chem.nlm.nih.gov/chemidplus/rn/51264-14-3
-2020-09-16T18:47:21Z,DNA Topoisomerase II Inhibitor,https://chem.nlm.nih.gov/chemidplus/rn/65271-80-9
-2020-09-16T02:35:14Z,DNA Topoisomerase II Inhibitor,https://chem.nlm.nih.gov/chemidplus/rn/70476-82-3
-2020-09-16T18:24:36Z,DNA Topoisomerase II Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/117091-64-2
-2020-09-16T02:27:46Z,DNA Topoisomerase II Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
-2020-09-16T02:31:53Z,DNA Topoisomerase II Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
 2020-09-16T18:32:04Z,Decongestant,https://chem.nlm.nih.gov/chemidplus/rn/345-78-8
 2020-09-16T02:37:27Z,Decongestant,https://chem.nlm.nih.gov/chemidplus/rn/7460-12-0
 2020-09-16T19:38:39Z,"Deep Vein Thrombosis After Surgery, Venous Thromboembolic Events, Stroke Prevention in Atrial Fibrillation",https://chem.nlm.nih.gov/chemidplus/rn/211914-51-1
@@ -2695,6 +2690,12 @@ c_datetime,concept_classification,rn_url
 2020-09-16T02:32:12Z,Diuretics,https://chem.nlm.nih.gov/chemidplus/rn/73-48-3
 2020-09-16T18:38:34Z,"Diuretics, Osmotic",https://chem.nlm.nih.gov/chemidplus/rn/69-65-8
 2020-09-16T02:35:07Z,"Diuretics, Potassium Sparing",https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
+2020-09-16T18:25:05Z,DNA Topoisomerase II Inhibitor,https://chem.nlm.nih.gov/chemidplus/rn/51264-14-3
+2020-09-16T18:47:21Z,DNA Topoisomerase II Inhibitor,https://chem.nlm.nih.gov/chemidplus/rn/65271-80-9
+2020-09-16T02:35:14Z,DNA Topoisomerase II Inhibitor,https://chem.nlm.nih.gov/chemidplus/rn/70476-82-3
+2020-09-16T18:24:36Z,DNA Topoisomerase II Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/117091-64-2
+2020-09-16T02:27:46Z,DNA Topoisomerase II Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/29767-20-2
+2020-09-16T02:31:53Z,DNA Topoisomerase II Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/33419-42-0
 2020-09-19T07:24:29Z,Dopamine Agents,https://chem.nlm.nih.gov/chemidplus/rn/106266-06-2
 2020-09-16T18:36:27Z,Dopamine Agents,https://chem.nlm.nih.gov/chemidplus/rn/1977-10-2
 2020-09-18T22:50:36Z,Dopamine Agents,https://chem.nlm.nih.gov/chemidplus/rn/300-62-9
@@ -3516,8 +3517,8 @@ c_datetime,concept_classification,rn_url
 2020-09-19T00:10:29Z,Experimental Pesticide,https://chem.nlm.nih.gov/chemidplus/rn/70-34-8
 2020-09-19T00:38:45Z,Experimental Pesticide,https://chem.nlm.nih.gov/chemidplus/rn/96-24-2
 2020-09-16T19:30:37Z,Explosive Agents,https://chem.nlm.nih.gov/chemidplus/rn/55-63-0
-2020-09-19T07:55:30Z,"Exposure Routes: Inhalation, Skin Absorption, Ingestion, Skin and/or Eye Contact",https://chem.nlm.nih.gov/chemidplus/rn/53-96-3
 2020-09-18T23:13:35Z,Exposure by All Routes Should be Carefully Controlled to Levels as Low as Possible; Suspected Human Carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/1309-64-4
+2020-09-19T07:55:30Z,"Exposure Routes: Inhalation, Skin Absorption, Ingestion, Skin and/or Eye Contact",https://chem.nlm.nih.gov/chemidplus/rn/53-96-3
 2020-09-20T05:25:55Z,Factor Xa Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/104993-28-4
 2020-09-16T18:57:19Z,Factor Xa Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/211915-06-9
 2020-09-16T18:44:25Z,Factor Xa Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/330942-05-7
@@ -3767,7 +3768,6 @@ c_datetime,concept_classification,rn_url
 2020-09-16T18:38:40Z,Growth Substances,https://chem.nlm.nih.gov/chemidplus/rn/87-89-8
 2020-09-16T18:29:49Z,Growth Substances,https://chem.nlm.nih.gov/chemidplus/rn/894356-79-7
 2020-09-16T18:33:25Z,Growth Substances,https://chem.nlm.nih.gov/chemidplus/rn/999-81-5
-2020-09-16T02:27:52Z,HER-2-Targeting Antibody,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5
 2020-09-16T19:40:54Z,Hallucinogens,https://chem.nlm.nih.gov/chemidplus/rn/1972-08-3
 2020-09-19T05:52:49Z,Hallucinogens,https://chem.nlm.nih.gov/chemidplus/rn/50-37-3
 2020-09-18T23:33:50Z,Hematinic,https://chem.nlm.nih.gov/chemidplus/rn/7782-63-0
@@ -3844,6 +3844,7 @@ c_datetime,concept_classification,rn_url
 2020-09-16T02:40:25Z,Hemostatics,https://chem.nlm.nih.gov/chemidplus/rn/84-80-0
 2020-09-18T23:33:30Z,Hemostatics,https://chem.nlm.nih.gov/chemidplus/rn/9001-26-7
 2020-09-19T00:00:24Z,Hemostatics,https://chem.nlm.nih.gov/chemidplus/rn/9039-61-6
+2020-09-16T02:27:52Z,HER-2-Targeting Antibody,https://chem.nlm.nih.gov/chemidplus/rn/380610-27-5
 2020-09-16T19:15:52Z,Herbicide,https://chem.nlm.nih.gov/chemidplus/rn/123-33-1
 2020-09-17T01:51:23Z,Herbicide,https://chem.nlm.nih.gov/chemidplus/rn/124-65-2
 2020-09-19T05:37:13Z,Herbicide,https://chem.nlm.nih.gov/chemidplus/rn/133-90-4
@@ -4647,12 +4648,12 @@ c_datetime,concept_classification,rn_url
 2020-09-16T19:01:45Z,Indicators and Reagents,https://chem.nlm.nih.gov/chemidplus/rn/77-09-8
 2020-09-18T23:19:57Z,Indicators and Reagents,https://chem.nlm.nih.gov/chemidplus/rn/90-33-5
 2020-09-19T00:50:22Z,Induction of Abortion,https://chem.nlm.nih.gov/chemidplus/rn/84371-65-3
+2020-09-16T18:25:46Z,Inhibitor (alpha Reductase),https://chem.nlm.nih.gov/chemidplus/rn/98319-26-7
+2020-09-16T18:16:45Z,Inhibitor (beta-Lactamase),https://chem.nlm.nih.gov/chemidplus/rn/69388-84-7
 2020-09-16T18:17:55Z,Inhibitor (HMG-CoA Reductase),https://chem.nlm.nih.gov/chemidplus/rn/75330-75-5
 2020-09-16T19:28:05Z,Inhibitor (Platelet),https://chem.nlm.nih.gov/chemidplus/rn/120202-66-6
 2020-09-16T19:38:57Z,Inhibitor (Platelet),https://chem.nlm.nih.gov/chemidplus/rn/53885-35-1
 2020-09-16T18:12:26Z,Inhibitor (Platelet),https://chem.nlm.nih.gov/chemidplus/rn/73963-72-1
-2020-09-16T18:25:46Z,Inhibitor (alpha Reductase),https://chem.nlm.nih.gov/chemidplus/rn/98319-26-7
-2020-09-16T18:16:45Z,Inhibitor (beta-Lactamase),https://chem.nlm.nih.gov/chemidplus/rn/69388-84-7
 2020-09-16T19:52:02Z,Inhibitor of Aberrant Angiogenesis-Vascular Leak and Inflammation,https://chem.nlm.nih.gov/chemidplus/rn/862111-32-8
 2020-09-16T18:39:04Z,Inhibits Platelet Aggregation (Platelet ADPP 2Y12 Antagonist),https://chem.nlm.nih.gov/chemidplus/rn/389574-19-0
 2020-09-16T18:27:33Z,"Insect Attractant, Repellent and Chemosterilant",https://chem.nlm.nih.gov/chemidplus/rn/137-26-8
@@ -4749,9 +4750,6 @@ c_datetime,concept_classification,rn_url
 2020-09-16T18:50:45Z,Known to be a Carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/59865-13-3
 2020-09-20T05:35:55Z,Known to be a Carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/75-21-8
 2020-09-16T18:08:20Z,Known to be a Human Carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/10540-29-1
-2020-09-16T02:37:43Z,LHRH Agonist,https://chem.nlm.nih.gov/chemidplus/rn/65807-02-5
-2020-09-16T18:50:10Z,LHRH Agonist,https://chem.nlm.nih.gov/chemidplus/rn/74381-53-6
-2020-09-16T18:20:14Z,LHRH Agonist,https://chem.nlm.nih.gov/chemidplus/rn/76712-82-8
 2020-09-18T23:44:36Z,Laxative,https://chem.nlm.nih.gov/chemidplus/rn/4618-18-2
 2020-09-16T02:35:07Z,Laxative,https://chem.nlm.nih.gov/chemidplus/rn/52-01-7
 2020-09-16T19:01:45Z,Laxative,https://chem.nlm.nih.gov/chemidplus/rn/77-09-8
@@ -4760,6 +4758,9 @@ c_datetime,concept_classification,rn_url
 2020-09-16T19:33:22Z,Leprostatic Agents,https://chem.nlm.nih.gov/chemidplus/rn/77-46-3
 2020-09-16T18:32:15Z,Leprostatic Agents,https://chem.nlm.nih.gov/chemidplus/rn/80-08-0
 2020-09-16T18:26:58Z,Leukotriene Antagonists,https://chem.nlm.nih.gov/chemidplus/rn/158966-92-8
+2020-09-16T02:37:43Z,LHRH Agonist,https://chem.nlm.nih.gov/chemidplus/rn/65807-02-5
+2020-09-16T18:50:10Z,LHRH Agonist,https://chem.nlm.nih.gov/chemidplus/rn/74381-53-6
+2020-09-16T18:20:14Z,LHRH Agonist,https://chem.nlm.nih.gov/chemidplus/rn/76712-82-8
 2020-09-16T19:32:58Z,Lipid Regulating Agents,https://chem.nlm.nih.gov/chemidplus/rn/1882-26-4
 2020-09-19T00:58:30Z,Lipid Regulating Agents,https://chem.nlm.nih.gov/chemidplus/rn/25812-30-0
 2020-09-16T02:41:05Z,Lipid Regulating Agents,https://chem.nlm.nih.gov/chemidplus/rn/59-67-6
@@ -5869,11 +5870,11 @@ c_datetime,concept_classification,rn_url
 2020-09-16T18:05:02Z,Pharmaceutic Aid (Surfactant),https://chem.nlm.nih.gov/chemidplus/rn/577-11-7
 2020-09-16T19:42:51Z,Pharmaceutic Aid (Surfactant),https://chem.nlm.nih.gov/chemidplus/rn/61791-12-6
 2020-09-16T19:55:21Z,Pharmaceutic Aid (Suspending Agent),https://chem.nlm.nih.gov/chemidplus/rn/1302-78-9
+2020-09-16T02:37:22Z,Pharmaceutic Aid (Tablet and Capsule Diluent),https://chem.nlm.nih.gov/chemidplus/rn/154-41-6
+2020-09-16T18:32:04Z,Pharmaceutic Aid (Tablet and Capsule Diluent),https://chem.nlm.nih.gov/chemidplus/rn/345-78-8
 2020-09-16T18:18:12Z,Pharmaceutic Aid (Tablet Excipient),https://chem.nlm.nih.gov/chemidplus/rn/1344-95-2
 2020-09-16T19:31:54Z,Pharmaceutic Aid (Tablet Excipient),https://chem.nlm.nih.gov/chemidplus/rn/50-70-4
 2020-09-16T19:24:41Z,Pharmaceutic Aid (Tablet Excipient),https://chem.nlm.nih.gov/chemidplus/rn/57-50-1
-2020-09-16T02:37:22Z,Pharmaceutic Aid (Tablet and Capsule Diluent),https://chem.nlm.nih.gov/chemidplus/rn/154-41-6
-2020-09-16T18:32:04Z,Pharmaceutic Aid (Tablet and Capsule Diluent),https://chem.nlm.nih.gov/chemidplus/rn/345-78-8
 2020-09-16T18:09:48Z,Pharmaceutic Aids,https://chem.nlm.nih.gov/chemidplus/rn/57-15-8
 2020-09-16T02:29:56Z,Pharmaceutic Aids,https://chem.nlm.nih.gov/chemidplus/rn/77-86-1
 2020-09-16T18:57:25Z,Pharmaceutic Necessity for Iodipamide Meglumine (Injection),https://chem.nlm.nih.gov/chemidplus/rn/606-17-7
@@ -5937,9 +5938,9 @@ c_datetime,concept_classification,rn_url
 2020-09-16T19:39:38Z,Prevention and Treatment of Pneumonia,https://chem.nlm.nih.gov/chemidplus/rn/140-64-7
 2020-09-20T05:22:42Z,Prevention of Allograft Rejection in Recipients of Solid Organ Transplants,https://chem.nlm.nih.gov/chemidplus/rn/706808-37-9
 2020-09-16T18:44:25Z,Prevention of Deep Vein Thrombosis and Pulmonary Embolism After Surgery,https://chem.nlm.nih.gov/chemidplus/rn/330942-05-7
+2020-09-20T05:22:42Z,Prevention of graft-vs.-host disease following bone marrow transplantation,https://chem.nlm.nih.gov/chemidplus/rn/706808-37-9
 2020-09-16T18:56:45Z,Prevention of Nausea and Vomiting,https://chem.nlm.nih.gov/chemidplus/rn/552292-08-7
 2020-09-16T19:20:23Z,Prevention of Thromboembolic Events in Patients with Acute Coronary Syndrome,https://chem.nlm.nih.gov/chemidplus/rn/274693-27-5
-2020-09-20T05:22:42Z,Prevention of graft-vs.-host disease following bone marrow transplantation,https://chem.nlm.nih.gov/chemidplus/rn/706808-37-9
 2020-09-16T02:36:52Z,Progestin,https://chem.nlm.nih.gov/chemidplus/rn/302-22-7
 2020-09-16T02:36:40Z,Progestin,https://chem.nlm.nih.gov/chemidplus/rn/51-98-9
 2020-09-16T18:37:30Z,Progestin,https://chem.nlm.nih.gov/chemidplus/rn/68-23-5
@@ -7032,132 +7033,6 @@ c_datetime,concept_classification,rn_url
 2020-09-16T18:16:45Z,Synergist (Penicillin/Cephalosporin),https://chem.nlm.nih.gov/chemidplus/rn/69388-84-7
 2020-09-16T18:16:45Z,Synergist (Penicillincephalosporin),https://chem.nlm.nih.gov/chemidplus/rn/69388-84-7
 2020-09-16T18:58:06Z,Synovitis Agent (Veterinary),https://chem.nlm.nih.gov/chemidplus/rn/9067-32-7
-2020-09-18T23:53:42Z,TSCA Flag 5E (Subject to the TSCA Section 5(e) Order),https://chem.nlm.nih.gov/chemidplus/rn/52495-71-3
-2020-09-19T04:56:15Z,TSCA Flag FRI (a Polymer Containing no Free-Radical Indicator in its Inventory Name but is Made with One Regardless of the Amount Used),https://chem.nlm.nih.gov/chemidplus/rn/102783-93-7
-2020-09-25T03:00:19Z,TSCA Flag PMN (a Commenced PMN (Premanufacture Notice) Substance),https://chem.nlm.nih.gov/chemidplus/rn/15060-55-6
-2020-09-18T23:53:42Z,TSCA Flag PMN (a Commenced PMN (Premanufacture Notice) Substance),https://chem.nlm.nih.gov/chemidplus/rn/52495-71-3
-2020-09-19T07:39:40Z,TSCA Flag PMN (a Commenced PMN (Premanufacture Notice) Substance),https://chem.nlm.nih.gov/chemidplus/rn/9001-89-2
-2020-09-16T18:54:18Z,TSCA Flag R (Subject to the TSCA Section 6 Risk Management Rule),https://chem.nlm.nih.gov/chemidplus/rn/79-01-6
-2020-09-19T01:13:55Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/110-49-6
-2020-09-19T05:15:56Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/126-72-7
-2020-09-16T18:07:04Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/50-07-7
-2020-09-16T18:12:20Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/50-29-3
-2020-09-16T19:35:08Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/50-55-5
-2020-09-19T06:19:29Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/51-79-6
-2020-09-18T23:53:42Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/52495-71-3
-2020-09-16T18:40:38Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/56-53-1
-2020-09-16T19:30:20Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/573-58-0
-2020-09-16T18:45:53Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/62-44-2
-2020-09-19T05:11:07Z,TSCA Flag SP (Substance is Identified in a Proposed Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/26471-62-5
-2020-09-16T18:15:17Z,TSCA Flag SP (Substance is Identified in a Proposed Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/70-30-4
-2020-09-16T19:15:52Z,TSCA Flag T (Subject to the Final TSCA Section 4 Test Rule),https://chem.nlm.nih.gov/chemidplus/rn/123-33-1
-2020-09-16T19:30:43Z,TSCA Flag T (Subject to the Final TSCA Section 4 Test Rule),https://chem.nlm.nih.gov/chemidplus/rn/78-11-5
-2020-09-19T05:53:55Z,TSCA Flag T (Subject to the Final TSCA Section 4 Test Rule),https://chem.nlm.nih.gov/chemidplus/rn/98-09-9
-2020-09-19T07:50:12Z,TSCA Flag TP (Subject to the Proposed TSCA Section 4 Test Rule),https://chem.nlm.nih.gov/chemidplus/rn/67-72-1
-2020-09-19T04:56:15Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/102783-93-7
-2020-09-16T19:42:51Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/61791-12-6
-2020-09-19T07:39:40Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/9001-89-2
-2020-09-19T03:35:09Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/9005-25-8
-2020-09-19T01:07:59Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/9016-87-9
-2020-09-16T02:26:58Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
-2020-09-16T19:52:20Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/9048-46-8
-2020-09-19T04:56:15Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/102783-93-7
-2020-09-16T19:55:21Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/1302-78-9
-2020-09-16T19:55:27Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7
-2020-09-18T23:28:53Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/61789-18-2
-2020-09-16T19:42:51Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/61791-12-6
-2020-09-18T22:57:36Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/68002-60-8
-2020-09-18T23:23:14Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9
-2020-09-16T19:48:49Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/68956-68-3
-2020-09-19T05:50:53Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/8016-03-3
-2020-09-16T19:52:20Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/9048-46-8
-2020-09-18T23:31:27Z,TWA (0.01 ppm); skin; Suspected human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4
-2020-09-16T02:39:50Z,"TWA (0.05 mg/m, vapor and aerosol, inhalable fraction); skin; BEI",https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
-2020-09-16T19:30:37Z,TWA (0.05 ppm); skin,https://chem.nlm.nih.gov/chemidplus/rn/55-63-0
-2020-09-19T06:32:53Z,"TWA (0.1 mg/m3, vapor and aerosol, inhalable fraction); Skin; Sensitizer; Not classifiable as a human carcinogen; BEI",https://chem.nlm.nih.gov/chemidplus/rn/62-73-7
-2020-09-16T18:10:06Z,TWA (0.1 ppm); Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/76-06-2
-2020-09-19T00:48:42Z,TWA (0.2 ppm);,https://chem.nlm.nih.gov/chemidplus/rn/120-12-7
-2020-09-16T19:33:58Z,TWA (0.25 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/309-00-2
-2020-09-19T06:53:51Z,TWA (0.5 ppm); skin,https://chem.nlm.nih.gov/chemidplus/rn/3333-52-6
-2020-09-18T23:41:08Z,TWA (0.5 ppm); skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/106-89-8
-2020-09-20T05:35:55Z,TWA (1 ppm); Suspected human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/75-21-8
-2020-09-19T07:50:12Z,TWA (1 ppm); skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/67-72-1
-2020-09-16T19:57:48Z,TWA (1 ppm); skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/79-34-5
-2020-09-19T07:39:34Z,TWA (100 ppm),https://chem.nlm.nih.gov/chemidplus/rn/78-92-2
-2020-09-18T23:29:30Z,TWA (100 ppm); skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/75-00-3
-2020-09-16T19:55:27Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7
-2020-09-16T18:18:12Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/1344-95-2
-2020-09-18T23:37:37Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/56-81-5
-2020-09-16T19:24:41Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/57-50-1
-2020-09-19T07:39:54Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/7782-42-5
-2020-09-19T03:35:09Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/9005-25-8
-2020-09-16T19:04:00Z,TWA (200 ppm); STEL (250 ppm); skin; BEI,https://chem.nlm.nih.gov/chemidplus/rn/67-56-1
-2020-09-16T18:24:00Z,"TWA (5 mg/m3, inhable fraction); Confirmed animal carcinogen with unknown relevance to humans; Sensitizer",https://chem.nlm.nih.gov/chemidplus/rn/133-06-2
-2020-09-16T18:54:18Z,TWA (50 ppm); STEL (100 ppm); Not suspected as a human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/79-01-6
-2020-09-18T23:38:09Z,TWA 0.0003 mg/m3 (respirable fraction); Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0
-2020-09-19T06:23:22Z,TWA 0.01 mg/m3 inhalable fraction vapor and aerosol; skin; Not classifiable as a human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/333-41-5
-2020-09-19T05:33:55Z,TWA 0.05 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/107-49-3
-2020-09-19T01:19:27Z,TWA 0.05 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/62-74-8
-2020-09-19T05:33:55Z,TWA 0.05 mg/m3; skin; BEI,https://chem.nlm.nih.gov/chemidplus/rn/107-49-3
-2020-09-16T18:47:09Z,TWA 0.1 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/81-81-2
-2020-09-19T04:39:12Z,TWA 0.1 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/83-26-1
-2020-09-16T18:43:39Z,TWA 0.1 mg/m3 (respirable quartz),https://chem.nlm.nih.gov/chemidplus/rn/1317-95-9
-2020-09-16T19:15:09Z,TWA 0.1 mg/m3; Not classifiable as a human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/1563-66-2
-2020-09-16T02:39:50Z,TWA 0.1 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
-2020-09-16T18:10:06Z,TWA 0.1 ppm (0.7 mg/m3),https://chem.nlm.nih.gov/chemidplus/rn/76-06-2
-2020-09-16T19:00:15Z,TWA 0.2 mg/m3; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/61-82-5
-2020-09-16T19:11:40Z,TWA 0.2 mg/m3; skin; Not classifiable as a human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/55-38-9
-2020-09-16T19:33:58Z,TWA 0.25 mg/m3; skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/309-00-2
-2020-09-18T23:35:11Z,TWA 0.5 mg/m3; Confirmed animal carcinogen with unknown relevance to humans; BEI,https://chem.nlm.nih.gov/chemidplus/rn/114-26-1
-2020-09-16T18:10:12Z,TWA 0.5 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/82-68-8
-2020-09-16T19:24:53Z,TWA 0.5 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/58-89-9
-2020-09-19T03:56:03Z,TWA 0.5 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/87-86-5
-2020-09-16T19:24:53Z,TWA 0.5 mg/m3; skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/58-89-9
-2020-09-19T03:56:03Z,TWA 0.5 mg/m3; skin; Confirmed animal carcinogen with unknown relevance to humans; BEI,https://chem.nlm.nih.gov/chemidplus/rn/87-86-5
-2020-09-19T06:53:51Z,TWA 0.5 ppm (3 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/3333-52-6
-2020-09-16T18:12:20Z,TWA 1 mg/m3; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/50-29-3
-2020-09-16T18:27:33Z,TWA 1 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8
-2020-09-16T18:12:20Z,TWA 1 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/50-29-3
-2020-09-19T06:32:53Z,TWA 1 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/62-73-7
-2020-09-19T07:50:12Z,TWA 1 ppm (10 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/67-72-1
-2020-09-16T19:35:03Z,TWA 10 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/1309-37-1
-2020-09-18T23:37:37Z,TWA 10 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5
-2020-09-16T19:48:49Z,TWA 10 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/68956-68-3
-2020-09-16T18:32:10Z,TWA 10 mg/m3 (for particulate matter containing no asbestos and <1% crystalline silica),https://chem.nlm.nih.gov/chemidplus/rn/471-34-1
-2020-09-16T18:18:12Z,TWA 10 mg/m3; (Inhalable particulate matter containing no asbestos and < 1% crystalline silica); Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/1344-95-2
-2020-09-19T06:41:32Z,TWA 10 mg/m3; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/314-40-9
-2020-09-16T19:24:41Z,TWA 10 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/57-50-1
-2020-09-19T03:35:09Z,TWA 10 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/9005-25-8
-2020-09-18T23:00:10Z,TWA 10 mg/m3; skin; Not classifiable as a human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5
-2020-09-16T18:54:18Z,"TWA 100 mg/m3; Ceiling 200 mg/m3, peak 300 mg/m3 in 5 min in any",https://chem.nlm.nih.gov/chemidplus/rn/79-01-6
-2020-09-18T23:29:30Z,TWA 1000 ppm (2600 mg/m3),https://chem.nlm.nih.gov/chemidplus/rn/75-00-3
-2020-09-16T19:57:54Z,TWA 15 mg/m3 total dust and respirable fraction; 5 mg/m3 fume,https://chem.nlm.nih.gov/chemidplus/rn/1314-13-2
-2020-09-16T19:48:49Z,TWA 15 mg/m3 total dust; 5 mg/m3 respiable fraction,https://chem.nlm.nih.gov/chemidplus/rn/68956-68-3
-2020-09-18T23:00:10Z,TWA 15 mg/m3 total dust; skin,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5
-2020-09-19T07:39:34Z,TWA 150 ppm (450 mg/m3),https://chem.nlm.nih.gov/chemidplus/rn/78-92-2
-2020-09-16T19:57:54Z,TWA 2 mg/m3 respirable fraction; STEL 10 mg/m3 respirable fraction,https://chem.nlm.nih.gov/chemidplus/rn/1314-13-2
-2020-09-19T07:39:54Z,"TWA 2 mg/m3, respirable fraction",https://chem.nlm.nih.gov/chemidplus/rn/7782-42-5
-2020-09-16T19:55:27Z,TWA 2 mg/m3; (Inhalable particulate matter containing no asbestos and < 1% crystalline silica); Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7
-2020-09-16T02:38:40Z,TWA 2 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
-2020-09-16T19:04:00Z,TWA 200 ppm (260 mg/m3),https://chem.nlm.nih.gov/chemidplus/rn/67-56-1
-2020-09-19T01:13:55Z,TWA 25 ppm (120 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/110-49-6
-2020-09-19T00:06:20Z,TWA 25 ppm (140 mg/m3),https://chem.nlm.nih.gov/chemidplus/rn/78-59-1
-2020-09-19T06:55:47Z,TWA 5 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/117-81-7
-2020-09-16T18:27:33Z,TWA 5 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8
-2020-09-16T18:05:48Z,TWA 5 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
-2020-09-16T18:15:23Z,TWA 5 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/94-36-0
-2020-09-16T19:35:03Z,TWA 5 mg/m3 (dust and fume as Fe); Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/1309-37-1
-2020-09-19T06:55:47Z,TWA 5 mg/m3; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/117-81-7
-2020-09-16T18:15:23Z,TWA 5 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/94-36-0
-2020-09-20T11:15:32Z,TWA 5 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/92-84-2
-2020-09-19T07:40:54Z,TWA 5 ppm (16 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/107-07-3
-2020-09-18T23:41:08Z,TWA 5 ppm (19 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/106-89-8
-2020-09-16T19:57:48Z,TWA 5 ppm (35 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/79-34-5
-2020-09-19T01:13:55Z,TWA 5 ppm; skin; BEI,https://chem.nlm.nih.gov/chemidplus/rn/110-49-6
-2020-09-19T07:55:30Z,TWA see 1910.1014,https://chem.nlm.nih.gov/chemidplus/rn/53-96-3
-2020-09-19T07:33:01Z,TWA see 1910.1015,https://chem.nlm.nih.gov/chemidplus/rn/60-11-7
-2020-09-20T05:35:55Z,TWA see 1910.1047,https://chem.nlm.nih.gov/chemidplus/rn/75-21-8
-2020-09-16T19:30:55Z,TWA see 1910.1048,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0
 2020-09-16T18:18:18Z,Teratogens,https://chem.nlm.nih.gov/chemidplus/rn/2353-33-5
 2020-09-16T02:30:10Z,Teratogens,https://chem.nlm.nih.gov/chemidplus/rn/4759-48-2
 2020-09-16T18:15:46Z,Teratogens,https://chem.nlm.nih.gov/chemidplus/rn/50-35-1
@@ -7302,7 +7177,6 @@ c_datetime,concept_classification,rn_url
 2020-09-16T19:09:29Z,Treatment of B-Cell Lymphoma,https://chem.nlm.nih.gov/chemidplus/rn/914295-16-2
 2020-09-16T19:42:57Z,Treatment of Benign Prostatic Hyperplasia (5alpha-Reductase Type 1 and 2 Inhibitor),https://chem.nlm.nih.gov/chemidplus/rn/164656-23-9
 2020-09-16T19:27:01Z,Treatment of Breast Cancer (Antiestrogen),https://chem.nlm.nih.gov/chemidplus/rn/129453-61-8
-2020-09-19T00:39:34Z,Treatment of CD19-Positive Hematologic Malignancies,https://chem.nlm.nih.gov/chemidplus/rn/1422527-84-1
 2020-09-16T19:11:51Z,Treatment of Cancer,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
 2020-09-16T18:21:47Z,Treatment of Cancer,https://chem.nlm.nih.gov/chemidplus/rn/1020748-57-5
 2020-09-16T19:17:55Z,Treatment of Cancer,https://chem.nlm.nih.gov/chemidplus/rn/1072833-77-2
@@ -7344,6 +7218,7 @@ c_datetime,concept_classification,rn_url
 2020-09-16T19:01:21Z,Treatment of Cancer and Infectious Diseases,https://chem.nlm.nih.gov/chemidplus/rn/1036730-42-3
 2020-09-16T18:33:13Z,"Treatment of Cancer, Autoimmune Disorders",https://chem.nlm.nih.gov/chemidplus/rn/1174014-05-1
 2020-09-16T19:59:58Z,Treatment of Castelman's Disease,https://chem.nlm.nih.gov/chemidplus/rn/375823-41-9
+2020-09-19T00:39:34Z,Treatment of CD19-Positive Hematologic Malignancies,https://chem.nlm.nih.gov/chemidplus/rn/1422527-84-1
 2020-09-16T18:47:44Z,Treatment of Cerebral Adrenoleukodystrophy,https://chem.nlm.nih.gov/chemidplus/rn/1905397-73-0
 2020-09-20T05:23:03Z,"Treatment of Chronic Inflammatory Conditions Including Psoriasis, Arthritis, Asthma and Cutaneous Lupus Erythematosus (CLE)",https://chem.nlm.nih.gov/chemidplus/rn/608141-41-9
 2020-09-16T19:35:32Z,Treatment of Chronic Lymphocytic Leukemia,https://chem.nlm.nih.gov/chemidplus/rn/679818-59-8
@@ -7415,21 +7290,60 @@ c_datetime,concept_classification,rn_url
 2020-09-16T19:09:29Z,"Treatment of Rheumatoid Arthritis, Immune Thrombocytopenic Purpura, and B-Cell Lymphoma",https://chem.nlm.nih.gov/chemidplus/rn/914295-16-2
 2020-09-16T18:13:12Z,Treatment of Secondary Acute Myeloid Leukemia (sAML),https://chem.nlm.nih.gov/chemidplus/rn/69408-81-7
 2020-09-16T19:08:31Z,Treatment of Sickle-Cell Disease,https://chem.nlm.nih.gov/chemidplus/rn/1690318-25-2
+2020-09-25T02:32:05Z,Treatment of Solid and Hematological Tumors,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7
 2020-09-16T18:37:19Z,Treatment of Solid Tumors,https://chem.nlm.nih.gov/chemidplus/rn/1024603-93-7
 2020-09-16T18:42:34Z,Treatment of Solid Tumors,https://chem.nlm.nih.gov/chemidplus/rn/1380723-44-3
 2020-09-19T03:45:54Z,Treatment of Solid Tumors,https://chem.nlm.nih.gov/chemidplus/rn/947687-12-9
 2020-09-16T18:17:08Z,Treatment of Solid Tumors and Hematological Malignancies,https://chem.nlm.nih.gov/chemidplus/rn/1373431-65-2
-2020-09-25T02:32:05Z,Treatment of Solid and Hematological Tumors,https://chem.nlm.nih.gov/chemidplus/rn/75747-14-7
 2020-09-16T19:59:58Z,Treatment of Systemic Juvenile Idiopathic Arthritis,https://chem.nlm.nih.gov/chemidplus/rn/375823-41-9
 2020-09-16T19:59:58Z,Treatment of Systemic Lupus Erythematosus,https://chem.nlm.nih.gov/chemidplus/rn/375823-41-9
 2020-09-16T18:20:26Z,Treatment of Systemic Lupus Erythematosus (SLE),https://chem.nlm.nih.gov/chemidplus/rn/948570-30-7
+2020-09-20T05:32:15Z,Treatment of Transplant Rejections,https://chem.nlm.nih.gov/chemidplus/rn/214745-43-4
 2020-09-16T18:30:59Z,Treatment of TRK Positive Tumors,https://chem.nlm.nih.gov/chemidplus/rn/1223403-58-4
 2020-09-16T18:31:05Z,Treatment of TRK Positive Tumors,https://chem.nlm.nih.gov/chemidplus/rn/1223405-08-0
-2020-09-20T05:32:15Z,Treatment of Transplant Rejections,https://chem.nlm.nih.gov/chemidplus/rn/214745-43-4
 2020-09-20T05:21:26Z,Treatment of Ulcerative Colitis,https://chem.nlm.nih.gov/chemidplus/rn/943609-66-3
 2020-09-20T05:21:26Z,Treatment of Ulcerative Colitis and Crohn's Disease,https://chem.nlm.nih.gov/chemidplus/rn/943609-66-3
 2020-09-16T19:51:38Z,Treatment of Veno-Occlusive Disease,https://chem.nlm.nih.gov/chemidplus/rn/83712-60-1
 2020-09-18T23:22:53Z,Trypanocidal Agents,https://chem.nlm.nih.gov/chemidplus/rn/100-33-4
+2020-09-18T23:53:42Z,TSCA Flag 5E (Subject to the TSCA Section 5(e) Order),https://chem.nlm.nih.gov/chemidplus/rn/52495-71-3
+2020-09-19T04:56:15Z,TSCA Flag FRI (a Polymer Containing no Free-Radical Indicator in its Inventory Name but is Made with One Regardless of the Amount Used),https://chem.nlm.nih.gov/chemidplus/rn/102783-93-7
+2020-09-25T03:00:19Z,TSCA Flag PMN (a Commenced PMN (Premanufacture Notice) Substance),https://chem.nlm.nih.gov/chemidplus/rn/15060-55-6
+2020-09-18T23:53:42Z,TSCA Flag PMN (a Commenced PMN (Premanufacture Notice) Substance),https://chem.nlm.nih.gov/chemidplus/rn/52495-71-3
+2020-09-19T07:39:40Z,TSCA Flag PMN (a Commenced PMN (Premanufacture Notice) Substance),https://chem.nlm.nih.gov/chemidplus/rn/9001-89-2
+2020-09-16T18:54:18Z,TSCA Flag R (Subject to the TSCA Section 6 Risk Management Rule),https://chem.nlm.nih.gov/chemidplus/rn/79-01-6
+2020-09-19T01:13:55Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/110-49-6
+2020-09-19T05:15:56Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/126-72-7
+2020-09-16T18:07:04Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/50-07-7
+2020-09-16T18:12:20Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/50-29-3
+2020-09-16T19:35:08Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/50-55-5
+2020-09-19T06:19:29Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/51-79-6
+2020-09-18T23:53:42Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/52495-71-3
+2020-09-16T18:40:38Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/56-53-1
+2020-09-16T19:30:20Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/573-58-0
+2020-09-16T18:45:53Z,TSCA Flag S (Substance is Identified in a Final Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/62-44-2
+2020-09-19T05:11:07Z,TSCA Flag SP (Substance is Identified in a Proposed Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/26471-62-5
+2020-09-16T18:15:17Z,TSCA Flag SP (Substance is Identified in a Proposed Significant New Use Rule),https://chem.nlm.nih.gov/chemidplus/rn/70-30-4
+2020-09-16T19:15:52Z,TSCA Flag T (Subject to the Final TSCA Section 4 Test Rule),https://chem.nlm.nih.gov/chemidplus/rn/123-33-1
+2020-09-16T19:30:43Z,TSCA Flag T (Subject to the Final TSCA Section 4 Test Rule),https://chem.nlm.nih.gov/chemidplus/rn/78-11-5
+2020-09-19T05:53:55Z,TSCA Flag T (Subject to the Final TSCA Section 4 Test Rule),https://chem.nlm.nih.gov/chemidplus/rn/98-09-9
+2020-09-19T07:50:12Z,TSCA Flag TP (Subject to the Proposed TSCA Section 4 Test Rule),https://chem.nlm.nih.gov/chemidplus/rn/67-72-1
+2020-09-19T04:56:15Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/102783-93-7
+2020-09-16T19:42:51Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/61791-12-6
+2020-09-19T07:39:40Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/9001-89-2
+2020-09-19T03:35:09Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/9005-25-8
+2020-09-19T01:07:59Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/9016-87-9
+2020-09-16T02:26:58Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/9041-08-1
+2020-09-16T19:52:20Z,TSCA Flag XU (Exempt from Reporting under Chemical Data Reporting Rule),https://chem.nlm.nih.gov/chemidplus/rn/9048-46-8
+2020-09-19T04:56:15Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/102783-93-7
+2020-09-16T19:55:21Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/1302-78-9
+2020-09-16T19:55:27Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7
+2020-09-18T23:28:53Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/61789-18-2
+2020-09-16T19:42:51Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/61791-12-6
+2020-09-18T22:57:36Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/68002-60-8
+2020-09-18T23:23:14Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/68603-42-9
+2020-09-16T19:48:49Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/68956-68-3
+2020-09-19T05:50:53Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/8016-03-3
+2020-09-16T19:52:20Z,TSCA UVCB,https://chem.nlm.nih.gov/chemidplus/rn/9048-46-8
 2020-09-16T19:11:51Z,Tubulin Modulators,https://chem.nlm.nih.gov/chemidplus/rn/1018448-65-1
 2020-09-16T19:03:42Z,Tubulin Modulators,https://chem.nlm.nih.gov/chemidplus/rn/114977-28-5
 2020-09-16T19:03:48Z,Tubulin Modulators,https://chem.nlm.nih.gov/chemidplus/rn/148408-66-6
@@ -7671,6 +7585,93 @@ c_datetime,concept_classification,rn_url
 2020-09-19T00:38:45Z,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/96-24-2
 2020-09-16T02:38:40Z,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
 2020-09-16T18:33:25Z,Tumor Data,https://chem.nlm.nih.gov/chemidplus/rn/999-81-5
+2020-09-18T23:31:27Z,TWA (0.01 ppm); skin; Suspected human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/101-14-4
+2020-09-16T02:39:50Z,"TWA (0.05 mg/m, vapor and aerosol, inhalable fraction); skin; BEI",https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-16T19:30:37Z,TWA (0.05 ppm); skin,https://chem.nlm.nih.gov/chemidplus/rn/55-63-0
+2020-09-19T06:32:53Z,"TWA (0.1 mg/m3, vapor and aerosol, inhalable fraction); Skin; Sensitizer; Not classifiable as a human carcinogen; BEI",https://chem.nlm.nih.gov/chemidplus/rn/62-73-7
+2020-09-16T18:10:06Z,TWA (0.1 ppm); Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/76-06-2
+2020-09-19T00:48:42Z,TWA (0.2 ppm);,https://chem.nlm.nih.gov/chemidplus/rn/120-12-7
+2020-09-16T19:33:58Z,TWA (0.25 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/309-00-2
+2020-09-19T06:53:51Z,TWA (0.5 ppm); skin,https://chem.nlm.nih.gov/chemidplus/rn/3333-52-6
+2020-09-18T23:41:08Z,TWA (0.5 ppm); skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/106-89-8
+2020-09-19T07:50:12Z,TWA (1 ppm); skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/67-72-1
+2020-09-16T19:57:48Z,TWA (1 ppm); skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/79-34-5
+2020-09-20T05:35:55Z,TWA (1 ppm); Suspected human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/75-21-8
+2020-09-19T07:39:34Z,TWA (100 ppm),https://chem.nlm.nih.gov/chemidplus/rn/78-92-2
+2020-09-18T23:29:30Z,TWA (100 ppm); skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/75-00-3
+2020-09-16T19:55:27Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7
+2020-09-16T18:18:12Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/1344-95-2
+2020-09-18T23:37:37Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/56-81-5
+2020-09-16T19:24:41Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/57-50-1
+2020-09-19T07:39:54Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/7782-42-5
+2020-09-19T03:35:09Z,TWA (15 mg/m3 total dust; 5 mg/m3 respirable fraction),https://chem.nlm.nih.gov/chemidplus/rn/9005-25-8
+2020-09-16T19:04:00Z,TWA (200 ppm); STEL (250 ppm); skin; BEI,https://chem.nlm.nih.gov/chemidplus/rn/67-56-1
+2020-09-16T18:24:00Z,"TWA (5 mg/m3, inhable fraction); Confirmed animal carcinogen with unknown relevance to humans; Sensitizer",https://chem.nlm.nih.gov/chemidplus/rn/133-06-2
+2020-09-16T18:54:18Z,TWA (50 ppm); STEL (100 ppm); Not suspected as a human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/79-01-6
+2020-09-18T23:38:09Z,TWA 0.0003 mg/m3 (respirable fraction); Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/1303-00-0
+2020-09-19T06:23:22Z,TWA 0.01 mg/m3 inhalable fraction vapor and aerosol; skin; Not classifiable as a human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/333-41-5
+2020-09-19T05:33:55Z,TWA 0.05 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/107-49-3
+2020-09-19T01:19:27Z,TWA 0.05 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/62-74-8
+2020-09-19T05:33:55Z,TWA 0.05 mg/m3; skin; BEI,https://chem.nlm.nih.gov/chemidplus/rn/107-49-3
+2020-09-16T18:47:09Z,TWA 0.1 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/81-81-2
+2020-09-19T04:39:12Z,TWA 0.1 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/83-26-1
+2020-09-16T18:43:39Z,TWA 0.1 mg/m3 (respirable quartz),https://chem.nlm.nih.gov/chemidplus/rn/1317-95-9
+2020-09-16T19:15:09Z,TWA 0.1 mg/m3; Not classifiable as a human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/1563-66-2
+2020-09-16T02:39:50Z,TWA 0.1 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/8065-48-3
+2020-09-16T18:10:06Z,TWA 0.1 ppm (0.7 mg/m3),https://chem.nlm.nih.gov/chemidplus/rn/76-06-2
+2020-09-16T19:00:15Z,TWA 0.2 mg/m3; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/61-82-5
+2020-09-16T19:11:40Z,TWA 0.2 mg/m3; skin; Not classifiable as a human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/55-38-9
+2020-09-16T19:33:58Z,TWA 0.25 mg/m3; skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/309-00-2
+2020-09-18T23:35:11Z,TWA 0.5 mg/m3; Confirmed animal carcinogen with unknown relevance to humans; BEI,https://chem.nlm.nih.gov/chemidplus/rn/114-26-1
+2020-09-16T18:10:12Z,TWA 0.5 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/82-68-8
+2020-09-16T19:24:53Z,TWA 0.5 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/58-89-9
+2020-09-19T03:56:03Z,TWA 0.5 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/87-86-5
+2020-09-16T19:24:53Z,TWA 0.5 mg/m3; skin; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/58-89-9
+2020-09-19T03:56:03Z,TWA 0.5 mg/m3; skin; Confirmed animal carcinogen with unknown relevance to humans; BEI,https://chem.nlm.nih.gov/chemidplus/rn/87-86-5
+2020-09-19T06:53:51Z,TWA 0.5 ppm (3 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/3333-52-6
+2020-09-16T18:12:20Z,TWA 1 mg/m3; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/50-29-3
+2020-09-16T18:27:33Z,TWA 1 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8
+2020-09-16T18:12:20Z,TWA 1 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/50-29-3
+2020-09-19T06:32:53Z,TWA 1 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/62-73-7
+2020-09-19T07:50:12Z,TWA 1 ppm (10 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/67-72-1
+2020-09-16T19:35:03Z,TWA 10 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/1309-37-1
+2020-09-18T23:37:37Z,TWA 10 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/56-81-5
+2020-09-16T19:48:49Z,TWA 10 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/68956-68-3
+2020-09-16T18:32:10Z,TWA 10 mg/m3 (for particulate matter containing no asbestos and <1% crystalline silica),https://chem.nlm.nih.gov/chemidplus/rn/471-34-1
+2020-09-16T18:18:12Z,TWA 10 mg/m3; (Inhalable particulate matter containing no asbestos and < 1% crystalline silica); Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/1344-95-2
+2020-09-19T06:41:32Z,TWA 10 mg/m3; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/314-40-9
+2020-09-16T19:24:41Z,TWA 10 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/57-50-1
+2020-09-19T03:35:09Z,TWA 10 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/9005-25-8
+2020-09-18T23:00:10Z,TWA 10 mg/m3; skin; Not classifiable as a human carcinogen; BEI,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5
+2020-09-16T18:54:18Z,"TWA 100 mg/m3; Ceiling 200 mg/m3, peak 300 mg/m3 in 5 min in any",https://chem.nlm.nih.gov/chemidplus/rn/79-01-6
+2020-09-18T23:29:30Z,TWA 1000 ppm (2600 mg/m3),https://chem.nlm.nih.gov/chemidplus/rn/75-00-3
+2020-09-16T19:57:54Z,TWA 15 mg/m3 total dust and respirable fraction; 5 mg/m3 fume,https://chem.nlm.nih.gov/chemidplus/rn/1314-13-2
+2020-09-16T19:48:49Z,TWA 15 mg/m3 total dust; 5 mg/m3 respiable fraction,https://chem.nlm.nih.gov/chemidplus/rn/68956-68-3
+2020-09-18T23:00:10Z,TWA 15 mg/m3 total dust; skin,https://chem.nlm.nih.gov/chemidplus/rn/121-75-5
+2020-09-19T07:39:34Z,TWA 150 ppm (450 mg/m3),https://chem.nlm.nih.gov/chemidplus/rn/78-92-2
+2020-09-16T19:57:54Z,TWA 2 mg/m3 respirable fraction; STEL 10 mg/m3 respirable fraction,https://chem.nlm.nih.gov/chemidplus/rn/1314-13-2
+2020-09-19T07:39:54Z,"TWA 2 mg/m3, respirable fraction",https://chem.nlm.nih.gov/chemidplus/rn/7782-42-5
+2020-09-16T19:55:27Z,TWA 2 mg/m3; (Inhalable particulate matter containing no asbestos and < 1% crystalline silica); Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/1332-58-7
+2020-09-16T02:38:40Z,TWA 2 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/97-77-8
+2020-09-16T19:04:00Z,TWA 200 ppm (260 mg/m3),https://chem.nlm.nih.gov/chemidplus/rn/67-56-1
+2020-09-19T01:13:55Z,TWA 25 ppm (120 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/110-49-6
+2020-09-19T00:06:20Z,TWA 25 ppm (140 mg/m3),https://chem.nlm.nih.gov/chemidplus/rn/78-59-1
+2020-09-19T06:55:47Z,TWA 5 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/117-81-7
+2020-09-16T18:27:33Z,TWA 5 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/137-26-8
+2020-09-16T18:05:48Z,TWA 5 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/50-78-2
+2020-09-16T18:15:23Z,TWA 5 mg/m3,https://chem.nlm.nih.gov/chemidplus/rn/94-36-0
+2020-09-16T19:35:03Z,TWA 5 mg/m3 (dust and fume as Fe); Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/1309-37-1
+2020-09-19T06:55:47Z,TWA 5 mg/m3; Confirmed animal carcinogen with unknown relevance to humans,https://chem.nlm.nih.gov/chemidplus/rn/117-81-7
+2020-09-16T18:15:23Z,TWA 5 mg/m3; Not classifiable as a human carcinogen,https://chem.nlm.nih.gov/chemidplus/rn/94-36-0
+2020-09-20T11:15:32Z,TWA 5 mg/m3; skin,https://chem.nlm.nih.gov/chemidplus/rn/92-84-2
+2020-09-19T07:40:54Z,TWA 5 ppm (16 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/107-07-3
+2020-09-18T23:41:08Z,TWA 5 ppm (19 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/106-89-8
+2020-09-16T19:57:48Z,TWA 5 ppm (35 mg/m3); skin,https://chem.nlm.nih.gov/chemidplus/rn/79-34-5
+2020-09-19T01:13:55Z,TWA 5 ppm; skin; BEI,https://chem.nlm.nih.gov/chemidplus/rn/110-49-6
+2020-09-19T07:55:30Z,TWA see 1910.1014,https://chem.nlm.nih.gov/chemidplus/rn/53-96-3
+2020-09-19T07:33:01Z,TWA see 1910.1015,https://chem.nlm.nih.gov/chemidplus/rn/60-11-7
+2020-09-20T05:35:55Z,TWA see 1910.1047,https://chem.nlm.nih.gov/chemidplus/rn/75-21-8
+2020-09-16T19:30:55Z,TWA see 1910.1048,https://chem.nlm.nih.gov/chemidplus/rn/50-00-0
 2020-09-16T19:44:25Z,Tyrosine Kinase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/231277-92-2
 2020-09-16T18:23:55Z,Ultraviolet Screen,https://chem.nlm.nih.gov/chemidplus/rn/131-57-7
 2020-09-16T18:15:28Z,Ultraviolet Screen,https://chem.nlm.nih.gov/chemidplus/rn/150-13-0
@@ -7754,4 +7755,3 @@ c_datetime,concept_classification,rn_url
 2020-09-16T19:47:21Z,Voltage-Gated Sodium Channel Blockers,https://chem.nlm.nih.gov/chemidplus/rn/56-54-2
 2020-09-16T18:46:57Z,Voltage-Gated Sodium Channel Blockers,https://chem.nlm.nih.gov/chemidplus/rn/57-41-0
 2020-09-16T18:12:44Z,Xanthine Oxidase Inhibitor,https://chem.nlm.nih.gov/chemidplus/rn/315-30-0
-2020-09-16T18:16:33Z,beta-Lactamase Inhibitors,https://chem.nlm.nih.gov/chemidplus/rn/68373-14-8
