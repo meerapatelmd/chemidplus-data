@@ -5,16 +5,16 @@
 \alias{REGISTRY_NUMBER_LOG}
 \title{REGISTRY_NUMBER_LOG}
 \format{
-A data frame with 25072 rows and 11 variables:
+A data frame with 17594 rows and 11 variables:
 \describe{
 \item{\code{rnl_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{raw_concept}}{character COLUMN_DESCRIPTION}
 \item{\code{processed_concept}}{character COLUMN_DESCRIPTION}
 \item{\code{type}}{character COLUMN_DESCRIPTION}
 \item{\code{url}}{character COLUMN_DESCRIPTION}
-\item{\code{response_received}}{character COLUMN_DESCRIPTION}
-\item{\code{no_record}}{character COLUMN_DESCRIPTION}
-\item{\code{response_recorded}}{character COLUMN_DESCRIPTION}
+\item{\code{response_received}}{logical COLUMN_DESCRIPTION}
+\item{\code{no_record}}{logical COLUMN_DESCRIPTION}
+\item{\code{response_recorded}}{logical COLUMN_DESCRIPTION}
 \item{\code{compound_match}}{character COLUMN_DESCRIPTION}
 \item{\code{rn}}{character COLUMN_DESCRIPTION}
 \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
