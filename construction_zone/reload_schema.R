@@ -1,4 +1,14 @@
-DROP TABLE IF EXISTS chemidplus.classification;
+# Rename current schema
+conn <- chariot::connectAthena()
+pg13::send(conn = conn,
+           sql_statement = "ALTER SCHEMA chemidplus RENAME TO chemidplus_20201012;")
+pg13::createSchema(conn = conn,
+                   schema = "chemidplus")
+chariot::dcAthena(conn = conn)
+
+rm(list = ls())
+
+chariot::sendAthena(sql_statement = "DROP TABLE IF EXISTS chemidplus.classification;
 CREATE TABLE chemidplus.classification (
     c_datetime timestamp without time zone,
     concept_classification character varying(255),
@@ -50,3 +60,14 @@ CREATE TABLE chemidplus.rn_url_validity (
     rn_url character varying(255),
     is_404 character varying(255)
 );
+")
+
+library(chemidplusData)
+conn <- chariot::connectAthena()
+tableNames <- c('CLASSIFICATION', 'LINKS_TO_RESOURCES', 'NAMES_AND_SYNONYMS', 'REGISTRY_NUMBER_LOG', 'REGISTRY_NUMBERS', 'RN_URL_VALIDITY')
+
+tableNames %>%
+        purrr::map(function(x) pg13::appendTable(conn = conn,
+                                                 schema = "chemidplus",
+                                                 tableName = x,
+                                                 get(x)))
