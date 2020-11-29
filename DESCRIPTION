@@ -1,13 +1,9 @@
 Package: chemidplusData
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Title: Data Library  
+Version: 0.0.0
+Authors@R: person("Meera", "Patel, MD", email = "patelmeeray@gmail.com", role = c("aut", "cre"),
+                          comment = c(ORCID = "0000-0002-3401-3948")) 
+Description: Data scraped from the NIH's ChemiDPlus Database.  
 License: Apache License 2.0
 Encoding: UTF-8
 LazyData: true
@@ -15,3 +11,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Depends: 
     R (>= 2.10)
+URL: https://meerapatelmd.github.io/chemidplusData/, https://github.com/meerapatelmd/chemidplusData/
+BugReports: https://github.com/meerapatelmd/chemidplusData/issues/
