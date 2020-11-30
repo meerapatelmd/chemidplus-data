@@ -1,4 +1,4 @@
-rnl_datetime,raw_concept,processed_concept,type,url,response_received,no_record,response_recorded,compound_match,rn,rn_url
+rnl_datetime,raw_search_term,processed_search_term,search_type,url,response_received,no_record,response_recorded,compound_match,rn,rn_url
 2020-10-10T19:11:51Z,- PAM 100MCG+QS21 100MCG,-PAM100MCG+QS21100MCG,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/-PAM100MCG+QS21100MCG,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-20T09:29:30Z,-Ahx,-Ahx,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/-Ahx,TRUE,TRUE,FALSE,NA,NA,NA
 2020-09-20T09:33:17Z,-aminocaproic acid,-aminocaproicacid,contains,https://chem.nlm.nih.gov/chemidplus/name/contains/-aminocaproicacid,TRUE,TRUE,FALSE,NA,NA,NA

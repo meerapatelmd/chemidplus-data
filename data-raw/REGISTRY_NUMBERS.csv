@@ -1,4 +1,4 @@
-rn_datetime,rn_url,concept_registry_number_type,concept_registry_number
+rn_datetime,rn_url,registry_number_type,registry_number
 2020-10-13T19:20:04Z,https://chem.nlm.nih.gov/chemidplus/rn/0000051149,CAS Registry Number,51-14-9
 2020-10-13T19:20:04Z,https://chem.nlm.nih.gov/chemidplus/rn/0000051149,FDA UNII,RKX68JE7G6
 2020-10-13T19:20:04Z,https://chem.nlm.nih.gov/chemidplus/rn/0000051149,System Generated Number,0000051149
@@ -13627,12 +13627,12 @@ rn_datetime,rn_url,concept_registry_number_type,concept_registry_number
 2020-10-12T10:40:36Z,https://chem.nlm.nih.gov/chemidplus/rn/D004164000,NA,Registry Number
 2020-10-12T10:46:17Z,https://chem.nlm.nih.gov/chemidplus/rn/D014150000,NA,D014150000
 2020-10-12T10:46:17Z,https://chem.nlm.nih.gov/chemidplus/rn/D014150000,NA,Registry Number
-2020-10-13T20:17:31Z,https://chem.nlm.nih.gov/chemidplus/rn/D018943000,"NA",D018943000
-2020-10-13T20:17:31Z,https://chem.nlm.nih.gov/chemidplus/rn/D018943000,"NA",Registry Number
-2020-10-13T18:01:41Z,https://chem.nlm.nih.gov/chemidplus/rn/E550000000,"NA",E550000000
-2020-10-13T18:01:41Z,https://chem.nlm.nih.gov/chemidplus/rn/E550000000,"NA",Registry Number
-2020-10-13T18:01:48Z,https://chem.nlm.nih.gov/chemidplus/rn/E560000000,"NA",E560000000
-2020-10-13T18:01:48Z,https://chem.nlm.nih.gov/chemidplus/rn/E560000000,"NA",Registry Number
+2020-10-13T20:17:31Z,https://chem.nlm.nih.gov/chemidplus/rn/D018943000,NA,D018943000
+2020-10-13T20:17:31Z,https://chem.nlm.nih.gov/chemidplus/rn/D018943000,NA,Registry Number
+2020-10-13T18:01:41Z,https://chem.nlm.nih.gov/chemidplus/rn/E550000000,NA,E550000000
+2020-10-13T18:01:41Z,https://chem.nlm.nih.gov/chemidplus/rn/E550000000,NA,Registry Number
+2020-10-13T18:01:48Z,https://chem.nlm.nih.gov/chemidplus/rn/E560000000,NA,E560000000
+2020-10-13T18:01:48Z,https://chem.nlm.nih.gov/chemidplus/rn/E560000000,NA,Registry Number
 2020-10-13T18:00:53Z,https://chem.nlm.nih.gov/chemidplus/rn/EE40229080,ID Number,EE40229080
 2020-10-13T18:00:53Z,https://chem.nlm.nih.gov/chemidplus/rn/EE40229080,System Generated Number,EE40229080
 2020-10-13T18:01:00Z,https://chem.nlm.nih.gov/chemidplus/rn/EE40348030,ID Number,EE40348030
@@ -13641,18 +13641,18 @@ rn_datetime,rn_url,concept_registry_number_type,concept_registry_number
 2020-10-12T10:37:51Z,https://chem.nlm.nih.gov/chemidplus/rn/EE40662010,System Generated Number,EE40662010
 2020-10-12T10:35:35Z,https://chem.nlm.nih.gov/chemidplus/rn/EE40671000,ID Number,EE40671000
 2020-10-12T10:35:35Z,https://chem.nlm.nih.gov/chemidplus/rn/EE40671000,System Generated Number,EE40671000
-2020-10-13T18:01:07Z,https://chem.nlm.nih.gov/chemidplus/rn/H090110000,"NA",H090110000
-2020-10-13T18:01:07Z,https://chem.nlm.nih.gov/chemidplus/rn/H090110000,"NA",Registry Number
-2020-10-12T19:28:27Z,https://chem.nlm.nih.gov/chemidplus/rn/L898000000,"NA",L898000000
-2020-10-12T19:28:27Z,https://chem.nlm.nih.gov/chemidplus/rn/L898000000,"NA",Registry Number
+2020-10-13T18:01:07Z,https://chem.nlm.nih.gov/chemidplus/rn/H090110000,NA,H090110000
+2020-10-13T18:01:07Z,https://chem.nlm.nih.gov/chemidplus/rn/H090110000,NA,Registry Number
+2020-10-12T19:28:27Z,https://chem.nlm.nih.gov/chemidplus/rn/L898000000,NA,L898000000
+2020-10-12T19:28:27Z,https://chem.nlm.nih.gov/chemidplus/rn/L898000000,NA,Registry Number
 2020-10-12T19:29:39Z,https://chem.nlm.nih.gov/chemidplus/rn/NM97440000,ID Number,NIOSH/NM9744000
 2020-10-12T19:29:39Z,https://chem.nlm.nih.gov/chemidplus/rn/NM97440000,System Generated Number,NM97440000
 2020-10-12T19:28:53Z,https://chem.nlm.nih.gov/chemidplus/rn/NM97446660,ID Number,NIOSH/NM9744666
 2020-10-12T19:28:53Z,https://chem.nlm.nih.gov/chemidplus/rn/NM97446660,System Generated Number,NM97446660
 2020-10-12T19:29:06Z,https://chem.nlm.nih.gov/chemidplus/rn/NM97449160,ID Number,NIOSH/NM9744916
 2020-10-12T19:29:06Z,https://chem.nlm.nih.gov/chemidplus/rn/NM97449160,System Generated Number,NM97449160
-2020-10-13T20:18:05Z,https://chem.nlm.nih.gov/chemidplus/rn/P360200000,"NA",P360200000
-2020-10-13T20:18:05Z,https://chem.nlm.nih.gov/chemidplus/rn/P360200000,"NA",Registry Number
+2020-10-13T20:18:05Z,https://chem.nlm.nih.gov/chemidplus/rn/P360200000,NA,P360200000
+2020-10-13T20:18:05Z,https://chem.nlm.nih.gov/chemidplus/rn/P360200000,NA,Registry Number
 2020-10-12T10:37:31Z,https://chem.nlm.nih.gov/chemidplus/rn/P510010000,NA,P510010000
 2020-10-12T10:37:31Z,https://chem.nlm.nih.gov/chemidplus/rn/P510010000,NA,Registry Number
 2020-10-12T10:38:53Z,https://chem.nlm.nih.gov/chemidplus/rn/QP77450000,ID Number,NIOSH/QP7745000
