@@ -3,7 +3,7 @@
 #' @format A data frame with 8842 rows and 3 variables:
 #' \describe{
 #'   \item{\code{c_datetime}}{double COLUMN_DESCRIPTION}
-#'   \item{\code{concept_classification}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{substance_classification}}{character COLUMN_DESCRIPTION}
 #'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION} 
 #'}
 #' @details DETAILS
@@ -58,8 +58,8 @@
 #' \describe{
 #'   \item{\code{rn_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{substance_registry_number_type}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{substance_registry_number}}{character COLUMN_DESCRIPTION} 
+#'   \item{\code{registry_number_type}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{registry_number}}{character COLUMN_DESCRIPTION} 
 #'}
 #' @details DETAILS
 "REGISTRY_NUMBERS" 

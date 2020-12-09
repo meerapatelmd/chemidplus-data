@@ -9,8 +9,8 @@ A data frame with 13760 rows and 4 variables:
 \describe{
 \item{\code{rn_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
-\item{\code{substance_registry_number_type}}{character COLUMN_DESCRIPTION}
-\item{\code{substance_registry_number}}{character COLUMN_DESCRIPTION}
+\item{\code{registry_number_type}}{character COLUMN_DESCRIPTION}
+\item{\code{registry_number}}{character COLUMN_DESCRIPTION}
 }
 }
 \usage{

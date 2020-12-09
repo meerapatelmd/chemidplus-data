@@ -1,4 +1,4 @@
-rn_datetime,rn_url,substance_registry_number_type,substance_registry_number
+rn_datetime,rn_url,registry_number_type,registry_number
 2020-09-19T03:22:54Z,https://chem.nlm.nih.gov/chemidplus/rn/100-33-4,CAS Registry Number,100-33-4
 2020-09-19T03:22:54Z,https://chem.nlm.nih.gov/chemidplus/rn/100-33-4,FDA UNII,673LC5J4LQ
 2020-09-19T03:22:54Z,https://chem.nlm.nih.gov/chemidplus/rn/100-33-4,System Generated Number,0000100334
