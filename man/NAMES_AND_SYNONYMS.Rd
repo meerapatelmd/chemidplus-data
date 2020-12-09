@@ -5,12 +5,12 @@
 \alias{NAMES_AND_SYNONYMS}
 \title{NAMES_AND_SYNONYMS}
 \format{
-A data frame with 73933 rows and 4 variables:
+A data frame with 74373 rows and 4 variables:
 \describe{
 \item{\code{nas_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
-\item{\code{concept_synonym_type}}{character COLUMN_DESCRIPTION}
-\item{\code{concept_synonym_name}}{character COLUMN_DESCRIPTION}
+\item{\code{substance_synonym_type}}{character COLUMN_DESCRIPTION}
+\item{\code{substance_synonym}}{character COLUMN_DESCRIPTION}
 }
 }
 \usage{

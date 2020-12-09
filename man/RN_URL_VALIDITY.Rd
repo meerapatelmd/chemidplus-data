@@ -9,7 +9,7 @@ A data frame with 3676 rows and 3 variables:
 \describe{
 \item{\code{rnuv_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{rn_url}}{character COLUMN_DESCRIPTION}
-\item{\code{is_404}}{character COLUMN_DESCRIPTION}
+\item{\code{is_404}}{logical COLUMN_DESCRIPTION}
 }
 }
 \usage{
